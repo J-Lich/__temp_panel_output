@@ -2,7 +2,7 @@ import requests
 import re
 import sys
 import json
-import pandas as pd  # Import pandas
+import pandas as pd
 import os
 
 # --- Configuration ---
@@ -15,25 +15,17 @@ login_params = {
     "redir": "EFormRecord.aspx?EFormType=Forward%20Procurement%20Plan"
 }
 login_headers = {
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
     "Accept-Language": "en-AU,en;q=0.9",
     "Cache-Control": "no-cache",
     "Connection": "keep-alive",
-    "Pragma": "no-cache",
-    "Referer": "https://www.buying4.sa.gov.au/",
-    "Sec-Fetch-Dest": "document",
-    "Sec-Fetch-Mode": "navigate",
-    "Sec-Fetch-Site": "cross-site",
-    "Sec-Fetch-User": "?1",
-    "Upgrade-Insecure-Requests": "1",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
 }
 
 # 2. GET CSRF TOKEN URL
 get_csrf_url = "https://pars.procurement.sa.gov.au/records/Forward%20Procurement%20Plan/new?EFormType=Forward%20Procurement%20Plan"
 
-# 3. POST DATA URL
-#post_url = "https://pars.procurement.sa.gov.au/site-api/records/session/1127d512-8a00-42c7-8b8d-f42b64e0669a/command"
+# 3. POST HEADERS (URL will be built dynamically)
 post_headers = {
     "Accept": "application/json",
     "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
@@ -42,89 +34,55 @@ post_headers = {
     "Sec-Fetch-Dest": "empty",
     "Sec-Fetch-Mode": "cors",
     "Sec-Fetch-Site": "same-origin",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
-}
-post_data = {
-    "entityType": "control",
-    "id": "Control1",
-    "name": "TabularReportControl.GetData",
-    "arguments": '{"filters":[null,null,null,null,null,null,"",null,null,null,null,null,null],"start":0,"count":500,"sort":[]}',
-    "readonly": "false"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
 }
 
-
-# --- UPDATED: Function to convert JSON to CSV ---
+# --- FUNCTION: JSON TO CSV ---
 def convert_json_to_csv(json_file_path, csv_file_path):
-    """
-    Reads the specific JSON file structure and converts it to a CSV.
-    """
     try:
         print(f"\n--- 5. Converting {json_file_path} to CSV ---")
-        
         with open(json_file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-
-        # 1. Extract column headers from the 'columns' list
-        headers = [col['heading'] for col in data['result']['columns']]
         
-        # 2. Get the list of row data
+        # Check if rows exist
+        if not data.get('result', {}).get('data', {}).get('rows'):
+            print("Warning: JSON contains no rows. CSV will be empty.")
+            return
+
+        headers = [col['heading'] for col in data['result']['columns']]
         data_rows = data['result']['data']['rows']
         
         processed_rows = []
-        # 3. Loop through each row
         for row in data_rows:
             row_values = []
-            # 4. Loop through each cell in the 'values' list
             for cell in row['values']:
-                # Get the 'display' value. If it's not present, get 'value'.
-                # This handles human-readable dates vs. raw values.
                 value = cell.get('display', cell.get('value'))
                 row_values.append(value)
-            
-            # Add other row-level data if you want, e.g., 'id' or 'href'
-            # row_values.append(row.get('id'))
-            # row_values.append(row.get('href'))
-            
             processed_rows.append(row_values)
 
-        # 5. Create the DataFrame with the extracted headers
-        # Note: If you add 'id' or 'href' above, add them to the 'headers' list too.
         df = pd.DataFrame(processed_rows, columns=headers)
-        
-        # 6. Save to CSV
         df.to_csv(csv_file_path, index=False, encoding='utf-8-sig')
         print(f"Successfully saved data to {csv_file_path}")
 
-    except KeyError as e:
-        print(f"Error during CSV conversion: JSON structure was not as expected. Missing key: {e}")
     except Exception as e:
         print(f"Error during CSV conversion: {e}")
-        print("The JSON file was saved, but CSV conversion failed.")
 
+# --- MAIN EXECUTION ---
 
-# --- Main Script Execution ---
-
-# Define output filenames
 JSON_OUTPUT_FILE = "vendor_panel.json"
 CSV_OUTPUT_FILE = "vendor_panel.csv"
 
-# Use a session to automatically persist cookies through all 3 steps
 with requests.Session() as s:
     try:
         # === PART 1: AUTOLOGIN ===
         print("--- 1. Performing guest autologin ---")
-        response_login = s.get(
-            login_url, 
-            params=login_params, 
-            headers=login_headers, 
-            allow_redirects=True
-        )
+        response_login = s.get(login_url, params=login_params, headers=login_headers, allow_redirects=True)
         response_login.raise_for_status()
         
         if "nimblex_auth_pars" not in s.cookies:
             print("ERROR: Login failed. 'nimblex_auth_pars' cookie not found.")
             sys.exit(1)
-        print("Login successful. Auth cookie 'nimblex_auth_pars' was set.")
+        print("Login successful.")
 
         # === PART 2: EXTRACT CSRF AND SESSION ID ===
         print("\n--- 2. Extracting CSRF & Session ID ---")
@@ -160,28 +118,73 @@ with requests.Session() as s:
         session_id = session_match.group(1)
         print(f"Found Session ID: {session_id}")
 
-        # === PART 3: MAKE POST REQUEST ===
-        print("\n--- 3. Making POST request (with auth cookies + CSRF) ---")
-        post_headers["X-XSRF-TOKEN"] = csrf_token
-        response_post = s.post(post_url, headers=post_headers, data=post_data)
-        response_post.raise_for_status()
-        print(f"POST Status: {response_post.status_code} (Success)")
-
-        # === PART 4: SAVE JSON RESULTS ===
-        with open(JSON_OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            json.dump(response_post.json(), f, indent=4)
-        print(f"\n--- 4. Successfully saved JSON response to {JSON_OUTPUT_FILE} ---")
+        # === PART 3: MAKE POST REQUESTS (LOOPING) ===
+        print("\n--- 3. Fetching Data (Looping) ---")
         
-        # === PART 5: CONVERT TO CSV ===
-        convert_json_to_csv(JSON_OUTPUT_FILE, CSV_OUTPUT_FILE)
+        # Construct the Dynamic URL
+        post_url = f"https://pars.procurement.sa.gov.au/site-api/records/session/{session_id}/command"
+        post_headers["X-XSRF-TOKEN"] = csrf_token
+        
+        all_rows = []
+        start_index = 0
+        batch_size = 500
+        
+        while True:
+            print(f"Requesting rows starting at {start_index}...")
+            
+            # NOTE: "start": start_index (Dynamic) and "sort": [] (Empty to default to newest if available, or try sorting)
+            args_payload = {
+                "filters": [None, None, None, None, None, None, "", None, None, None, None, None, None],
+                "start": start_index,
+                "count": batch_size,
+                "sort": [] 
+            }
+            
+            payload = {
+                "entityType": "control",
+                "id": "Control1",
+                "name": "TabularReportControl.GetData",
+                "arguments": json.dumps(args_payload), # IMPORTANT: Dump to JSON string
+                "readonly": "false"
+            }
+
+            response_post = s.post(post_url, headers=post_headers, data=payload)
+            response_post.raise_for_status()
+            
+            data_json = response_post.json()
+            rows = data_json.get('result', {}).get('data', {}).get('rows', [])
+            
+            if not rows:
+                print("No rows returned. Loop finished.")
+                break
+                
+            all_rows.extend(rows)
+            print(f"  Got {len(rows)} rows. Total: {len(all_rows)}")
+            
+            if len(rows) < batch_size:
+                print("  Batch smaller than limit. End of data reached.")
+                break
+                
+            start_index += batch_size
+
+        # === PART 4: SAVE JSON ===
+        # Reconstruct the structure for the converter
+        if 'result' in data_json:
+            data_json['result']['data']['rows'] = all_rows
+            
+            with open(JSON_OUTPUT_FILE, 'w', encoding='utf-8') as f:
+                json.dump(data_json, f, indent=4)
+            print(f"\n--- 4. Saved {len(all_rows)} records to {JSON_OUTPUT_FILE} ---")
+            
+            # === PART 5: CONVERT ===
+            convert_json_to_csv(JSON_OUTPUT_FILE, CSV_OUTPUT_FILE)
+        else:
+            print("Error: Final JSON structure missing 'result' key.")
 
     except requests.exceptions.HTTPError as e:
         print(f"\n--- HTTP Error ---")
-        print(f"Status Code: {e.response.status_code} {e.response.reason}")
-        print("Server Response", e.response.text)
-    except requests.exceptions.RequestException as e:
-        print(f"\n--- A network error occurred ---")
-        print(e)
+        print(f"Status: {e.response.status_code}")
+        print(f"Response: {e.response.text}") # Print the server error message
     except Exception as e:
-        print(f"\n--- An unexpected error occurred ---")
+        print(f"\n--- Error ---")
         print(e)
