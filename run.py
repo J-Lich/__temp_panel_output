@@ -33,7 +33,7 @@ login_headers = {
 get_csrf_url = "https://pars.procurement.sa.gov.au/records/Forward%20Procurement%20Plan/new?EFormType=Forward%20Procurement%20Plan"
 
 # 3. POST DATA URL
-post_url = "https://pars.procurement.sa.gov.au/site-api/records/session/1127d512-8a00-42c7-8b8d-f42b64e0669a/command"
+#post_url = "https://pars.procurement.sa.gov.au/site-api/records/session/1127d512-8a00-42c7-8b8d-f42b64e0669a/command"
 post_headers = {
     "Accept": "application/json",
     "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
@@ -126,17 +126,39 @@ with requests.Session() as s:
             sys.exit(1)
         print("Login successful. Auth cookie 'nimblex_auth_pars' was set.")
 
-        # === PART 2: EXTRACT CSRF TOKEN ===
-        print("\n--- 2. Extracting CSRF token from login redirect page ---")
+        # === PART 2: EXTRACT CSRF AND SESSION ID ===
+        print("\n--- 2. Extracting CSRF & Session ID ---")
         html_content = response_login.text
-        pattern = r'csrf:\s*"([^"]+)"'
-        match = re.search(pattern, html_content)
+        
+        # A. Extract CSRF
+        csrf_pattern = r'csrf:\s*"([^"]+)"'
+        csrf_match = re.search(csrf_pattern, html_content)
+        if not csrf_match:
+            print("ERROR: Could not find CSRF token.")
+            sys.exit(1)
+        csrf_token = csrf_match.group(1)
+        print(f"Found CSRF Token: {csrf_token[:10]}...")
 
-        if not match:
-            print("\nERROR: Could not find CSRF token in HTML response. Aborting.")
-            sys.exit(1) 
-        csrf_token = match.group(1)
-        print(f"Successfully extracted CSRF Token.")
+        # B. Extract Session ID (New Logic)
+        # Looking for pattern: site-api/records/session/{UUID}
+        # or sometimes it is in a variable like: sessionId: "..."
+        session_pattern = r'site-api/records/session/([a-f0-9\-]{36})' 
+        session_match = re.search(session_pattern, html_content)
+        
+        if not session_match:
+            # Fallback Pattern: sometimes it's just in a JS object
+            print("Standard session URL not found, trying fallback pattern...")
+            session_match = re.search(r'session/([a-f0-9\-]{36})', html_content)
+
+        if not session_match:
+            print("ERROR: Could not find Session ID in HTML. Saving HTML for debug...")
+            with open("debug_login_page.html", "w", encoding="utf-8") as f:
+                f.write(html_content)
+            print("Saved 'debug_login_page.html'. Please check it for the Session ID.")
+            sys.exit(1)
+
+        session_id = session_match.group(1)
+        print(f"Found Session ID: {session_id}")
 
         # === PART 3: MAKE POST REQUEST ===
         print("\n--- 3. Making POST request (with auth cookies + CSRF) ---")
