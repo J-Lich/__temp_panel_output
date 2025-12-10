@@ -156,6 +156,7 @@ with requests.Session() as s:
     except requests.exceptions.HTTPError as e:
         print(f"\n--- HTTP Error ---")
         print(f"Status Code: {e.response.status_code} {e.response.reason}")
+        print("Server Response", e.response.text)
     except requests.exceptions.RequestException as e:
         print(f"\n--- A network error occurred ---")
         print(e)
