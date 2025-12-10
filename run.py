@@ -142,3 +142,64 @@ with requests.Session() as s:
         all_rows = []
         start_index = 0
         batch_size = 500
+        
+        while True:
+            print(f"Requesting rows starting at {start_index}...")
+            
+            # Payload construction
+            args_payload = {
+                "filters": [None, None, None, None, None, None, "", None, None, None, None, None, None],
+                "start": start_index,
+                "count": batch_size,
+                "sort": [] 
+            }
+            
+            payload = {
+                "entityType": "control",
+                "id": "Control1",
+                "name": "TabularReportControl.GetData",
+                "arguments": json.dumps(args_payload),
+                "readonly": "false"
+            }
+
+            response_post = s.post(post_url, headers=post_headers, data=payload)
+            response_post.raise_for_status()
+            
+            data_json = response_post.json()
+            rows = data_json.get('result', {}).get('data', {}).get('rows', [])
+            
+            if not rows:
+                print("No rows returned. Loop finished.")
+                break
+                
+            all_rows.extend(rows)
+            print(f"  Got {len(rows)} rows. Total: {len(all_rows)}")
+            
+            if len(rows) < batch_size:
+                print("  Batch smaller than limit. End of data reached.")
+                break
+                
+            start_index += batch_size
+
+        # === PART 4: SAVE JSON ===
+        if 'result' in data_json:
+            # Reconstruct the structure for the converter using the last received JSON structure
+            # but replacing the rows with our accumulated list
+            data_json['result']['data']['rows'] = all_rows
+            
+            with open(JSON_OUTPUT_FILE, 'w', encoding='utf-8') as f:
+                json.dump(data_json, f, indent=4)
+            print(f"\n--- 4. Saved {len(all_rows)} records to {JSON_OUTPUT_FILE} ---")
+            
+            # === PART 5: CONVERT ===
+            convert_json_to_csv(JSON_OUTPUT_FILE, CSV_OUTPUT_FILE)
+        else:
+            print("Error: Final JSON structure missing 'result' key.")
+
+    except requests.exceptions.HTTPError as e:
+        print(f"\n--- HTTP Error ---")
+        print(f"Status: {e.response.status_code}")
+        print(f"Response: {e.response.text}") 
+    except Exception as e:
+        print(f"\n--- Error ---")
+        print(e)
