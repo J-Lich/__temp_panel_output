@@ -48,7 +48,7 @@ post_data = {
     "entityType": "control",
     "id": "Control1",
     "name": "TabularReportControl.GetData",
-    "arguments": '{"filters":[null,null,null,null,null,null,"",null,null,null,null,null,null],"start":500,"count":500,"sort":[]}',
+    "arguments": '{"filters":[null,null,null,null,null,null,"",null,null,null,null,null,null],"start":0,"count":500,"sort":[]}',
     "readonly": "false"
 }
 
