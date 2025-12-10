@@ -97,25 +97,39 @@ with requests.Session() as s:
         csrf_token = csrf_match.group(1)
         print(f"Found CSRF Token: {csrf_token[:10]}...")
 
-        # B. Extract Session ID (New Logic)
-        # Looking for pattern: site-api/records/session/{UUID}
-        # or sometimes it is in a variable like: sessionId: "..."
-        session_pattern = r'site-api/records/session/([a-f0-9\-]{36})' 
-        session_match = re.search(session_pattern, html_content)
+        # B. Extract Session ID (Updated with Multiple Patterns)
+        session_id = None
         
-        if not session_match:
-            # Fallback Pattern: sometimes it's just in a JS object
-            print("Standard session URL not found, trying fallback pattern...")
-            session_match = re.search(r'session/([a-f0-9\-]{36})', html_content)
+        # List of regex patterns to try (UUID is 36 chars: 8-4-4-4-12)
+        # 1. Look for API URL inside JS
+        # 2. Look for "sessionId": "..." (JSON style)
+        # 3. Look for sessionId: "..." (JS object style)
+        # 4. Look for generic variable assignment
+        patterns = [
+            r'site-api/records/session/([a-f0-9\-]{36})',
+            r'"sessionId"\s*:\s*"([a-f0-9\-]{36})"',
+            r'sessionId\s*:\s*"([a-f0-9\-]{36})"',
+            r'session/([a-f0-9\-]{36})',
+            r'recordId\s*=\s*["\']([a-f0-9\-]{36})["\']'
+        ]
 
-        if not session_match:
-            print("ERROR: Could not find Session ID in HTML. Saving HTML for debug...")
+        print("Scanning HTML for Session ID using multiple patterns...")
+        
+        for pattern in patterns:
+            match = re.search(pattern, html_content, re.IGNORECASE)
+            if match:
+                session_id = match.group(1)
+                print(f"  Matched Pattern: {pattern}")
+                break
+        
+        if not session_id:
+            print("ERROR: Could not find Session ID in HTML using any known pattern.")
+            print("Saving HTML for manual inspection...")
             with open("debug_login_page.html", "w", encoding="utf-8") as f:
                 f.write(html_content)
-            print("Saved 'debug_login_page.html'. Please check it for the Session ID.")
+            print("Please open 'debug_login_page.html' and search for a UUID (e.g., xxxxxxxx-xxxx-xxxx...).")
             sys.exit(1)
 
-        session_id = session_match.group(1)
         print(f"Found Session ID: {session_id}")
 
         # === PART 3: MAKE POST REQUESTS (LOOPING) ===
@@ -128,63 +142,3 @@ with requests.Session() as s:
         all_rows = []
         start_index = 0
         batch_size = 500
-        
-        while True:
-            print(f"Requesting rows starting at {start_index}...")
-            
-            # NOTE: "start": start_index (Dynamic) and "sort": [] (Empty to default to newest if available, or try sorting)
-            args_payload = {
-                "filters": [None, None, None, None, None, None, "", None, None, None, None, None, None],
-                "start": start_index,
-                "count": batch_size,
-                "sort": [] 
-            }
-            
-            payload = {
-                "entityType": "control",
-                "id": "Control1",
-                "name": "TabularReportControl.GetData",
-                "arguments": json.dumps(args_payload), # IMPORTANT: Dump to JSON string
-                "readonly": "false"
-            }
-
-            response_post = s.post(post_url, headers=post_headers, data=payload)
-            response_post.raise_for_status()
-            
-            data_json = response_post.json()
-            rows = data_json.get('result', {}).get('data', {}).get('rows', [])
-            
-            if not rows:
-                print("No rows returned. Loop finished.")
-                break
-                
-            all_rows.extend(rows)
-            print(f"  Got {len(rows)} rows. Total: {len(all_rows)}")
-            
-            if len(rows) < batch_size:
-                print("  Batch smaller than limit. End of data reached.")
-                break
-                
-            start_index += batch_size
-
-        # === PART 4: SAVE JSON ===
-        # Reconstruct the structure for the converter
-        if 'result' in data_json:
-            data_json['result']['data']['rows'] = all_rows
-            
-            with open(JSON_OUTPUT_FILE, 'w', encoding='utf-8') as f:
-                json.dump(data_json, f, indent=4)
-            print(f"\n--- 4. Saved {len(all_rows)} records to {JSON_OUTPUT_FILE} ---")
-            
-            # === PART 5: CONVERT ===
-            convert_json_to_csv(JSON_OUTPUT_FILE, CSV_OUTPUT_FILE)
-        else:
-            print("Error: Final JSON structure missing 'result' key.")
-
-    except requests.exceptions.HTTPError as e:
-        print(f"\n--- HTTP Error ---")
-        print(f"Status: {e.response.status_code}")
-        print(f"Response: {e.response.text}") # Print the server error message
-    except Exception as e:
-        print(f"\n--- Error ---")
-        print(e)
