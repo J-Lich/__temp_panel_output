@@ -67,9 +67,103 @@
                 "filter": true
             }
         ],
-        "totalRows": 2662,
+        "totalRows": 2658,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR26068"
+                        },
+                        {
+                            "display": "11-Dec-2025",
+                            "value": "2025-12-11T03:35:03.611Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Public Lands"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Construction of new staircase at Pondalowie Bay"
+                        },
+                        {
+                            "value": "Environmental"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "18-Dec-25",
+                            "value": "2025-12-17T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26068?fromControl=Control1",
+                    "id": 26068
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26066"
+                        },
+                        {
+                            "display": "11-Dec-2025",
+                            "value": "2025-12-11T01:18:25.465Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Operations - ICT Services"
+                        },
+                        {
+                            "value": "jamie.loprete@tafesa.edu.au"
+                        },
+                        {
+                            "value": "Development of Finance Systems"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "20-Mar-26",
+                            "value": "2026-03-19T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26066?fromControl=Control1",
+                    "id": 26066
+                },
                 {
                     "values": [
                         {
@@ -765,8 +859,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "17-Dec-25",
-                            "value": "2025-12-16T13:30:00Z"
+                            "display": "08-Jan-26",
+                            "value": "2026-01-07T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -9610,147 +9704,6 @@
                     ],
                     "href": "records/Activity%20Planning/25639?fromControl=Control1",
                     "id": 25639
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25635"
-                        },
-                        {
-                            "display": "29-Oct-2025",
-                            "value": "2025-10-29T00:31:37.305Z"
-                        },
-                        {
-                            "value": "Adelaide Venue Management Corporation"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "tenders@avmc.com.au"
-                        },
-                        {
-                            "value": "Flight Dishwasher Relocation Project - Plumbing"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "26-Sep-25",
-                            "value": "2025-09-25T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25635?fromControl=Control1",
-                    "id": 25635
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25634"
-                        },
-                        {
-                            "display": "29-Oct-2025",
-                            "value": "2025-10-29T00:28:56.474Z"
-                        },
-                        {
-                            "value": "Adelaide Venue Management Corporation"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "tenders@avmc.com.au"
-                        },
-                        {
-                            "value": "Flight Dishwasher Relocation Project - Electrical "
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "26-Sep-25",
-                            "value": "2025-09-25T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25634?fromControl=Control1",
-                    "id": 25634
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25633"
-                        },
-                        {
-                            "display": "29-Oct-2025",
-                            "value": "2025-10-29T00:13:34.467Z"
-                        },
-                        {
-                            "value": "Adelaide Venue Management Corporation"
-                        },
-                        {
-                            "value": "Building"
-                        },
-                        {
-                            "value": "tenders@avmc.com.au"
-                        },
-                        {
-                            "value": "Flight Dishwasher Relocation Project - Building"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "26-Sep-25",
-                            "value": "2025-09-25T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25633?fromControl=Control1",
-                    "id": 25633
                 },
                 {
                     "values": [
@@ -19095,8 +19048,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "25-Nov-25",
-                            "value": "2025-11-24T13:30:00Z"
+                            "display": "15-Jan-26",
+                            "value": "2026-01-14T13:30:00Z"
                         },
                         {
                             "value": "Released to Market"
@@ -23569,6 +23522,53 @@
                     ],
                     "href": "records/Activity%20Planning/24922?fromControl=Control1",
                     "id": 24922
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR24921"
+                        },
+                        {
+                            "display": "12-Aug-2025",
+                            "value": "2025-08-12T07:27:42.627Z"
+                        },
+                        {
+                            "value": "Primary Industries and Regions"
+                        },
+                        {
+                            "value": "SARDI"
+                        },
+                        {
+                            "value": "pirsa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Bulk Grain Delivery Trailer"
+                        },
+                        {
+                            "value": "Fleet and vehicles"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "31-Oct-25",
+                            "value": "2025-10-30T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/24921?fromControl=Control1",
+                    "id": 24921
                 }
             ],
             "aggregates": []
