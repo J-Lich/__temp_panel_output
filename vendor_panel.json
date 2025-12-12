@@ -67,9 +67,150 @@
                 "filter": true
             }
         ],
-        "totalRows": 2658,
+        "totalRows": 2645,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR26077"
+                        },
+                        {
+                            "display": "12-Dec-2025",
+                            "value": "2025-12-12T03:15:16.62Z"
+                        },
+                        {
+                            "value": "Limestone Coast Landscape Board"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "le-anne.thomson@sa.gov.au"
+                        },
+                        {
+                            "value": "Addressing rabbit impacts during dry times"
+                        },
+                        {
+                            "value": "Environmental"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "15-Dec-25",
+                            "value": "2025-12-14T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26077?fromControl=Control1",
+                    "id": 26077
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26074"
+                        },
+                        {
+                            "display": "12-Dec-2025",
+                            "value": "2025-12-12T00:22:21.521Z"
+                        },
+                        {
+                            "value": "Primary Industries and Regions"
+                        },
+                        {
+                            "value": "Biosecurity"
+                        },
+                        {
+                            "value": "pirsa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Algal Bloom Water Sampling"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "16-Jan-26",
+                            "value": "2026-01-15T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26074?fromControl=Control1",
+                    "id": 26074
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26069"
+                        },
+                        {
+                            "display": "11-Dec-2025",
+                            "value": "2025-12-11T04:59:41.863Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "Water and River Murray"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Telemetry Uplift Program - Supply and Installation of Telemetry Infrastructure, Systems and Services on Licensed Meters in the River Murray Prescribed Watercourse"
+                        },
+                        {
+                            "value": "Environmental"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "26-Jan-26",
+                            "value": "2026-01-25T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26069?fromControl=Control1",
+                    "id": 26069
+                },
                 {
                     "values": [
                         {
@@ -966,6 +1107,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR26021"
+                        },
+                        {
+                            "display": "09-Dec-2025",
+                            "value": "2025-12-08T23:53:42.651Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Public Lands"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Installation of pavers at the Flinders Chase National Park Visitors Centre"
+                        },
+                        {
+                            "value": "Tourism and Entertainment"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "19-Jan-26",
+                            "value": "2026-01-18T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26021?fromControl=Control1",
+                    "id": 26021
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR26019"
                         },
                         {
@@ -1714,6 +1902,53 @@
                     ],
                     "href": "records/Activity%20Planning/25979?fromControl=Control1",
                     "id": 25979
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR25978"
+                        },
+                        {
+                            "display": "04-Dec-2025",
+                            "value": "2025-12-04T02:05:14.272Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Transport Strategy and Planning"
+                        },
+                        {
+                            "value": "DIT.sstenders@sa.gov.au"
+                        },
+                        {
+                            "value": "SE Freeway Bushcare Contract 2026-2029 (25C311) "
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "31-Mar-26",
+                            "value": "2026-03-30T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/25978?fromControl=Control1",
+                    "id": 25978
                 },
                 {
                     "values": [
@@ -8079,7 +8314,7 @@
                             "value": "dsd.procurement@sa.gov.au"
                         },
                         {
-                            "value": "Feasibility Studies"
+                            "value": "Feasibility Study - forward place holder 0"
                         },
                         {
                             "value": ""
@@ -8126,7 +8361,7 @@
                             "value": "dsd.procurement@sa.gov.au"
                         },
                         {
-                            "value": "Feasibility Study"
+                            "value": "Feasibility Study - forward place holder 1"
                         },
                         {
                             "value": ""
@@ -8173,7 +8408,7 @@
                             "value": "dsd.procurement@sa.gov.au"
                         },
                         {
-                            "value": "Feasibility Study"
+                            "value": "Feasibility Study - forward place holder 2"
                         },
                         {
                             "value": ""
@@ -8220,7 +8455,7 @@
                             "value": "dsd.procurement@sa.gov.au"
                         },
                         {
-                            "value": "Feasibility Study"
+                            "value": "Feasibility Study - forward place holder 3"
                         },
                         {
                             "value": ""
@@ -12528,53 +12763,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR25503"
-                        },
-                        {
-                            "display": "16-Oct-2025",
-                            "value": "2025-10-16T02:45:15.75Z"
-                        },
-                        {
-                            "value": "State Development"
-                        },
-                        {
-                            "value": "Trade and International"
-                        },
-                        {
-                            "value": "dsd.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "World Health Expo Dubai 2026"
-                        },
-                        {
-                            "value": "Communications and Marketing"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "16-Jan-26",
-                            "value": "2026-01-15T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25503?fromControl=Control1",
-                    "id": 25503
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR25502"
                         },
                         {
@@ -14263,53 +14451,6 @@
                     ],
                     "href": "records/Activity%20Planning/25413?fromControl=Control1",
                     "id": 25413
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25408"
-                        },
-                        {
-                            "display": "30-Sep-2025",
-                            "value": "2025-09-30T03:40:37.164Z"
-                        },
-                        {
-                            "value": "Environment and Water"
-                        },
-                        {
-                            "value": "Water and River Murray"
-                        },
-                        {
-                            "value": "DEW.Procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Habitat restoration and Structure repair work"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "01-Feb-26",
-                            "value": "2026-01-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25408?fromControl=Control1",
-                    "id": 25408
                 },
                 {
                     "values": [
@@ -23428,147 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/24927?fromControl=Control1",
                     "id": 24927
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR24923"
-                        },
-                        {
-                            "display": "12-Aug-2025",
-                            "value": "2025-08-12T12:05:17.891Z"
-                        },
-                        {
-                            "value": "Energy and Mining"
-                        },
-                        {
-                            "value": "Strategic Policy and Delivery"
-                        },
-                        {
-                            "value": "DISProcurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Management Strategy Leigh Creek Coalfied 2026 2031"
-                        },
-                        {
-                            "value": "Energy and Fuels"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "30-Nov-25",
-                            "value": "2025-11-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/24923?fromControl=Control1",
-                    "id": 24923
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR24922"
-                        },
-                        {
-                            "display": "12-Aug-2025",
-                            "value": "2025-08-12T11:44:00.319Z"
-                        },
-                        {
-                            "value": "Energy and Mining"
-                        },
-                        {
-                            "value": "Regulation and Compliance"
-                        },
-                        {
-                            "value": "DISProcurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Site Operator Leigh Creek Coalfield"
-                        },
-                        {
-                            "value": "Energy and Fuels"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "30-Nov-25",
-                            "value": "2025-11-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/24922?fromControl=Control1",
-                    "id": 24922
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR24921"
-                        },
-                        {
-                            "display": "12-Aug-2025",
-                            "value": "2025-08-12T07:27:42.627Z"
-                        },
-                        {
-                            "value": "Primary Industries and Regions"
-                        },
-                        {
-                            "value": "SARDI"
-                        },
-                        {
-                            "value": "pirsa.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Bulk Grain Delivery Trailer"
-                        },
-                        {
-                            "value": "Fleet and vehicles"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "31-Oct-25",
-                            "value": "2025-10-30T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/24921?fromControl=Control1",
-                    "id": 24921
                 }
             ],
             "aggregates": []
