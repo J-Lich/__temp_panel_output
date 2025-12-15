@@ -67,9 +67,150 @@
                 "filter": true
             }
         ],
-        "totalRows": 2645,
+        "totalRows": 2641,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR26088"
+                        },
+                        {
+                            "display": "15-Dec-2025",
+                            "value": "2025-12-15T05:23:41.276Z"
+                        },
+                        {
+                            "value": "Office for Recreation, Sport and Racing"
+                        },
+                        {
+                            "value": "South Australian Sports Institute"
+                        },
+                        {
+                            "value": "madeleine.macmillan@sa.gov.au"
+                        },
+                        {
+                            "value": "SASI Discovering Greatness Officer"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "16-Mar-26",
+                            "value": "2026-03-15T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26088?fromControl=Control1",
+                    "id": 26088
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26086"
+                        },
+                        {
+                            "display": "15-Dec-2025",
+                            "value": "2025-12-15T05:07:39.753Z"
+                        },
+                        {
+                            "value": "Office for Recreation, Sport and Racing"
+                        },
+                        {
+                            "value": "South Australian Sports Institute"
+                        },
+                        {
+                            "value": "madeleine.macmillan@sa.gov.au"
+                        },
+                        {
+                            "value": "SASI Talent Search Testing Initiatives"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "16-Mar-26",
+                            "value": "2026-03-15T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26086?fromControl=Control1",
+                    "id": 26086
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26085"
+                        },
+                        {
+                            "display": "15-Dec-2025",
+                            "value": "2025-12-15T04:55:56.271Z"
+                        },
+                        {
+                            "value": "Office for Recreation, Sport and Racing"
+                        },
+                        {
+                            "value": "South Australian Sports Institute"
+                        },
+                        {
+                            "value": "madeleine.macmillan@sa.gov.au"
+                        },
+                        {
+                            "value": "Grant Management System"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "08-Jun-26",
+                            "value": "2026-06-07T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26085?fromControl=Control1",
+                    "id": 26085
+                },
                 {
                     "values": [
                         {
@@ -398,6 +539,53 @@
                     ],
                     "href": "records/Activity%20Planning/26056?fromControl=Control1",
                     "id": 26056
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26055"
+                        },
+                        {
+                            "display": "10-Dec-2025",
+                            "value": "2025-12-10T06:04:01.442Z"
+                        },
+                        {
+                            "value": "Central Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "Statewide Clinical Support Services (SCSS) - SA Pathology"
+                        },
+                        {
+                            "value": "leigh.cahill@sa.gov.au"
+                        },
+                        {
+                            "value": "Blood Bank Analytical Fleet for SA Pathology"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26055?fromControl=Control1",
+                    "id": 26055
                 },
                 {
                     "values": [
@@ -1859,53 +2047,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR25979"
-                        },
-                        {
-                            "display": "04-Dec-2025",
-                            "value": "2025-12-04T02:34:47.811Z"
-                        },
-                        {
-                            "value": "ReturnToWorkSA"
-                        },
-                        {
-                            "value": "D&IG"
-                        },
-                        {
-                            "value": "procurement@rtwsa.com"
-                        },
-                        {
-                            "value": "Set up of Tableau Cloud "
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "21-May-25",
-                            "value": "2025-05-20T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25979?fromControl=Control1",
-                    "id": 25979
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR25978"
                         },
                         {
@@ -1987,8 +2128,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "01-Mar-26",
-                            "value": "2026-02-28T13:30:00Z"
+                            "display": "01-Feb-26",
+                            "value": "2026-01-31T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -2094,53 +2235,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR25973"
-                        },
-                        {
-                            "display": "04-Dec-2025",
-                            "value": "2025-12-04T00:33:48.425Z"
-                        },
-                        {
-                            "value": "ReturnToWorkSA"
-                        },
-                        {
-                            "value": "D&IG"
-                        },
-                        {
-                            "value": "procurement@rtwsa.com"
-                        },
-                        {
-                            "value": "Ad Hoc Resource Test Lead "
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "20-Nov-24",
-                            "value": "2024-11-19T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25973?fromControl=Control1",
-                    "id": 25973
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR25971"
                         },
                         {
@@ -2184,53 +2278,6 @@
                     ],
                     "href": "records/Activity%20Planning/25971?fromControl=Control1",
                     "id": 25971
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25968"
-                        },
-                        {
-                            "display": "04-Dec-2025",
-                            "value": "2025-12-03T23:30:46.123Z"
-                        },
-                        {
-                            "value": "ReturnToWorkSA"
-                        },
-                        {
-                            "value": "D&IG"
-                        },
-                        {
-                            "value": "procurement@rtwsa.com"
-                        },
-                        {
-                            "value": "Technology Delivery Lead resource"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "16-Sep-24",
-                            "value": "2024-09-15T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25968?fromControl=Control1",
-                    "id": 25968
                 },
                 {
                     "values": [
@@ -3453,6 +3500,53 @@
                     ],
                     "href": "records/Activity%20Planning/25917?fromControl=Control1",
                     "id": 25917
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR25916"
+                        },
+                        {
+                            "display": "28-Nov-2025",
+                            "value": "2025-11-28T01:09:05.76Z"
+                        },
+                        {
+                            "value": "SAFECOM"
+                        },
+                        {
+                            "value": "SES Operations Support"
+                        },
+                        {
+                            "value": "SAFECOM.Procurement@eso.sa.gov.au"
+                        },
+                        {
+                            "value": "Defencell flood barrier "
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "20-Dec-25",
+                            "value": "2025-12-19T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/25916?fromControl=Control1",
+                    "id": 25916
                 },
                 {
                     "values": [
@@ -9295,7 +9389,7 @@
                             "value": "Office of the Chief Information Officer"
                         },
                         {
-                            "value": "Internal Operations and Governance"
+                            "value": "Across Government Infrastructure and Service Delivery"
                         },
                         {
                             "value": "OCIOProcurementContracts@sa.gov.au"
@@ -10780,7 +10874,7 @@
                             "value": "2026-01-11T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/25581?fromControl=Control1",
@@ -12515,8 +12609,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "08-Feb-26",
-                            "value": "2026-02-07T13:30:00Z"
+                            "display": "30-Jun-26",
+                            "value": "2026-06-29T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -13925,8 +14019,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "",
-                            "value": null
+                            "display": "01-Dec-25",
+                            "value": "2025-11-30T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -18305,53 +18399,6 @@
                     ],
                     "href": "records/Activity%20Planning/25232?fromControl=Control1",
                     "id": 25232
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25225"
-                        },
-                        {
-                            "display": "11-Sep-2025",
-                            "value": "2025-09-11T06:37:14.024Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "South Australian Public Transport Authority"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Heavy Rail Bowtie Support"
-                        },
-                        {
-                            "value": "Public Administration and Safety"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "11-Dec-25",
-                            "value": "2025-12-10T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25225?fromControl=Control1",
-                    "id": 25225
                 },
                 {
                     "values": [
@@ -23522,53 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/24929?fromControl=Control1",
                     "id": 24929
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR24927"
-                        },
-                        {
-                            "display": "13-Aug-2025",
-                            "value": "2025-08-13T00:47:49.66Z"
-                        },
-                        {
-                            "value": "Primary Industries and Regions"
-                        },
-                        {
-                            "value": "Biosecurity"
-                        },
-                        {
-                            "value": "pirsa.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Coastal Clean - Algal Bloom"
-                        },
-                        {
-                            "value": "Public Administration and Safety"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "20-Aug-25",
-                            "value": "2025-08-19T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/24927?fromControl=Control1",
-                    "id": 24927
                 }
             ],
             "aggregates": []
