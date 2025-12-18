@@ -67,9 +67,150 @@
                 "filter": true
             }
         ],
-        "totalRows": 2633,
+        "totalRows": 2632,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR26125"
+                        },
+                        {
+                            "display": "18-Dec-2025",
+                            "value": "2025-12-18T04:05:31.948Z"
+                        },
+                        {
+                            "value": "History Trust of South Australia"
+                        },
+                        {
+                            "value": "National Motor Museum & SA Maritime Museum"
+                        },
+                        {
+                            "value": "cdonahey@history.sa.gov.au"
+                        },
+                        {
+                            "value": "Cleaning Contract"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "31-Mar-26",
+                            "value": "2026-03-30T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26125?fromControl=Control1",
+                    "id": 26125
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26118"
+                        },
+                        {
+                            "display": "18-Dec-2025",
+                            "value": "2025-12-18T01:20:05.136Z"
+                        },
+                        {
+                            "value": "Office for Recreation, Sport and Racing"
+                        },
+                        {
+                            "value": "Infrastructure and Planning"
+                        },
+                        {
+                            "value": "madeleine.macmillan@sa.gov.au"
+                        },
+                        {
+                            "value": "Climate Ready Government Implementation"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "20-Mar-26",
+                            "value": "2026-03-19T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26118?fromControl=Control1",
+                    "id": 26118
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26116"
+                        },
+                        {
+                            "display": "18-Dec-2025",
+                            "value": "2025-12-17T22:43:22.127Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Office for Early Childhood Development"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Evaluation of CHDC Programs\t\t\t\t"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "22-May-26",
+                            "value": "2026-05-21T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26116?fromControl=Control1",
+                    "id": 26116
+                },
                 {
                     "values": [
                         {
@@ -210,6 +351,53 @@
                     ],
                     "href": "records/Activity%20Planning/26111?fromControl=Control1",
                     "id": 26111
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26110"
+                        },
+                        {
+                            "display": "17-Dec-2025",
+                            "value": "2025-12-17T01:27:29.184Z"
+                        },
+                        {
+                            "value": "Human Services"
+                        },
+                        {
+                            "value": "Remote and Regional Service Development (DHS > CAP > RRSD)"
+                        },
+                        {
+                            "value": "dhsprocurementcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Summer Fest"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jan-26",
+                            "value": "2025-12-31T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26110?fromControl=Control1",
+                    "id": 26110
                 },
                 {
                     "values": [
@@ -8524,7 +8712,7 @@
                             "value": "2027-06-22T14:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Initiating"
                         }
                     ],
                     "href": "records/Activity%20Planning/25725?fromControl=Control1",
@@ -15010,7 +15198,7 @@
                             "value": "2026-01-11T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/25403?fromControl=Control1",
@@ -15053,11 +15241,11 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "12-Jan-26",
-                            "value": "2026-01-11T13:30:00Z"
+                            "display": "27-Jan-26",
+                            "value": "2026-01-26T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/25402?fromControl=Control1",
@@ -15151,7 +15339,7 @@
                             "value": "2026-02-08T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/25399?fromControl=Control1",
@@ -18023,53 +18211,6 @@
                     ],
                     "href": "records/Activity%20Planning/25264?fromControl=Control1",
                     "id": 25264
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25260"
-                        },
-                        {
-                            "display": "16-Sep-2025",
-                            "value": "2025-09-16T00:05:43.268Z"
-                        },
-                        {
-                            "value": "South Australian Tourism Commission"
-                        },
-                        {
-                            "value": "Events South Australia"
-                        },
-                        {
-                            "value": "procurement2@sa.gov.au"
-                        },
-                        {
-                            "value": "2026 TA Catering Services"
-                        },
-                        {
-                            "value": "Tourism and Entertainment"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "04-Jan-26",
-                            "value": "2026-01-03T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25260?fromControl=Control1",
-                    "id": 25260
                 },
                 {
                     "values": [
@@ -23428,147 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/24955?fromControl=Control1",
                     "id": 24955
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR24954"
-                        },
-                        {
-                            "display": "15-Aug-2025",
-                            "value": "2025-08-15T01:17:39.829Z"
-                        },
-                        {
-                            "value": "Primary Industries and Regions"
-                        },
-                        {
-                            "value": "Biosecurity"
-                        },
-                        {
-                            "value": "pirsa.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Supply and delivery of Sticky Traps"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/24954?fromControl=Control1",
-                    "id": 24954
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR24953"
-                        },
-                        {
-                            "display": "15-Aug-2025",
-                            "value": "2025-08-15T01:15:19.675Z"
-                        },
-                        {
-                            "value": "Primary Industries and Regions"
-                        },
-                        {
-                            "value": "Biosecurity"
-                        },
-                        {
-                            "value": "pirsa.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Supply and delivery of Vermiculite"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/24953?fromControl=Control1",
-                    "id": 24953
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR24952"
-                        },
-                        {
-                            "display": "15-Aug-2025",
-                            "value": "2025-08-15T00:38:53.68Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Office for Early Childhood Development"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Further development of Early Years SA app "
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "15-Nov-25",
-                            "value": "2025-11-14T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/24952?fromControl=Control1",
-                    "id": 24952
                 }
             ],
             "aggregates": []
