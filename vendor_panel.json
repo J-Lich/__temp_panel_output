@@ -67,9 +67,150 @@
                 "filter": true
             }
         ],
-        "totalRows": 2632,
+        "totalRows": 2633,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR26130"
+                        },
+                        {
+                            "display": "19-Dec-2025",
+                            "value": "2025-12-19T01:55:01.847Z"
+                        },
+                        {
+                            "value": "Human Services"
+                        },
+                        {
+                            "value": "Community and Partnerships - Grants SA (DHS > ESI > CP > GSA)"
+                        },
+                        {
+                            "value": "dhsprocurementcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Grants SA Holistic Acquisition Plan"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "29-Jan-26",
+                            "value": "2026-01-28T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26130?fromControl=Control1",
+                    "id": 26130
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26129"
+                        },
+                        {
+                            "display": "19-Dec-2025",
+                            "value": "2025-12-19T01:39:00.467Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Transport Policy and Regulation"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Fitness to Drive Community Education Program"
+                        },
+                        {
+                            "value": "Public Administration and Safety"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "19-Mar-26",
+                            "value": "2026-03-18T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26129?fromControl=Control1",
+                    "id": 26129
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26127"
+                        },
+                        {
+                            "display": "19-Dec-2025",
+                            "value": "2025-12-18T23:58:10.933Z"
+                        },
+                        {
+                            "value": "Human Services"
+                        },
+                        {
+                            "value": "Office for Ageing Well (DHS > ADPS > OAW)"
+                        },
+                        {
+                            "value": "dhsprocurementcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Positive Ageing Fellowship Grants 2025-2026 Fellowship and Mentoring Program"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "09-Jan-26",
+                            "value": "2026-01-08T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26127?fromControl=Control1",
+                    "id": 26127
+                },
                 {
                     "values": [
                         {
@@ -252,7 +393,7 @@
                             "value": "2025-12-16T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26115?fromControl=Control1",
@@ -633,6 +774,53 @@
                     ],
                     "href": "records/Activity%20Planning/26101?fromControl=Control1",
                     "id": 26101
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26093"
+                        },
+                        {
+                            "display": "16-Dec-2025",
+                            "value": "2025-12-15T23:26:48.422Z"
+                        },
+                        {
+                            "value": "Renewal SA"
+                        },
+                        {
+                            "value": "Residential Project Delivery and Assets"
+                        },
+                        {
+                            "value": "brenton.hillary2@sa.gov.au"
+                        },
+                        {
+                            "value": "Playford North \u2013 Project Surveyor.  "
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26093?fromControl=Control1",
+                    "id": 26093
                 },
                 {
                     "values": [
@@ -1076,7 +1264,7 @@
                             "value": "DEW.Procurement@sa.gov.au"
                         },
                         {
-                            "value": "Construction of new staircase at Pondalowie Bay"
+                            "value": "Pondalowie Beach Stairs and Platform Replacement"
                         },
                         {
                             "value": "Environmental"
@@ -2513,53 +2701,6 @@
                     ],
                     "href": "records/Activity%20Planning/26000?fromControl=Control1",
                     "id": 26000
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25995"
-                        },
-                        {
-                            "display": "05-Dec-2025",
-                            "value": "2025-12-05T01:00:03.982Z"
-                        },
-                        {
-                            "value": "Central Adelaide Local Health Network"
-                        },
-                        {
-                            "value": "CALHN Expert ABF and Casemix Analysis Services"
-                        },
-                        {
-                            "value": "anoop.mammen@sa.gov.au"
-                        },
-                        {
-                            "value": "CALHN Expert ABF and Casemix Analysis Services"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "14-Dec-25",
-                            "value": "2025-12-13T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25995?fromControl=Control1",
-                    "id": 25995
                 },
                 {
                     "values": [
@@ -5375,7 +5516,7 @@
                             "value": "2025-12-07T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/25863?fromControl=Control1",
@@ -13005,7 +13146,7 @@
                             "value": "2025-10-20T02:07:36.328Z"
                         },
                         {
-                            "value": "[Procurement Services SA]"
+                            "value": "Procurement Services SA"
                         },
                         {
                             "value": "Procurement Solutions"
@@ -13437,7 +13578,7 @@
                             "value": "DIT.sstenders@sa.gov.au"
                         },
                         {
-                            "value": "Hackney Rd - PAC near Cambridge St, Hackney"
+                            "value": "Hackney Rd Jcn Plane Tree Drive (exit) Hackney, Traffic Signals \u2013 Detailed Design"
                         },
                         {
                             "value": "Construction"
@@ -13452,11 +13593,11 @@
                             "value": "Email"
                         },
                         {
-                            "value": "Probable"
+                            "value": "Possible"
                         },
                         {
-                            "display": "14-Nov-25",
-                            "value": "2025-11-13T13:30:00Z"
+                            "display": "29-Jan-26",
+                            "value": "2026-01-28T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -23428,147 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/24959?fromControl=Control1",
                     "id": 24959
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR24957"
-                        },
-                        {
-                            "display": "15-Aug-2025",
-                            "value": "2025-08-15T01:23:07.776Z"
-                        },
-                        {
-                            "value": "Primary Industries and Regions"
-                        },
-                        {
-                            "value": "Biosecurity"
-                        },
-                        {
-                            "value": "pirsa.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Replacement First Aid Items - Port Augusta"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/24957?fromControl=Control1",
-                    "id": 24957
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR24956"
-                        },
-                        {
-                            "display": "15-Aug-2025",
-                            "value": "2025-08-15T01:22:04.078Z"
-                        },
-                        {
-                            "value": "Primary Industries and Regions"
-                        },
-                        {
-                            "value": "Biosecurity"
-                        },
-                        {
-                            "value": "pirsa.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Supply and Delivery of Mesh and Spline"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/24956?fromControl=Control1",
-                    "id": 24956
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR24955"
-                        },
-                        {
-                            "display": "15-Aug-2025",
-                            "value": "2025-08-15T01:20:01.502Z"
-                        },
-                        {
-                            "value": "Primary Industries and Regions"
-                        },
-                        {
-                            "value": "Biosecurity"
-                        },
-                        {
-                            "value": "pirsa.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "PPE Items - Fruit Fly Response Port Augusta"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/24955?fromControl=Control1",
-                    "id": 24955
                 }
             ],
             "aggregates": []
