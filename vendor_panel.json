@@ -67,7 +67,7 @@
                 "filter": true
             }
         ],
-        "totalRows": 2626,
+        "totalRows": 2621,
         "data": {
             "rows": [
                 {
@@ -120,6 +120,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR26147"
+                        },
+                        {
+                            "display": "23-Dec-2025",
+                            "value": "2025-12-23T01:38:19.512Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Student Pathways and Careers"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Venue hire for 2026 Career Education Conference\t\t\t\t"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "30-Jan-26",
+                            "value": "2026-01-29T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26147?fromControl=Control1",
+                    "id": 26147
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR26146"
                         },
                         {
@@ -154,11 +201,11 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "24-Dec-25",
-                            "value": "2025-12-23T13:30:00Z"
+                            "display": "12-Jan-26",
+                            "value": "2026-01-11T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26146?fromControl=Control1",
@@ -5559,8 +5606,8 @@
                             "value": ""
                         },
                         {
-                            "display": "07-Dec-25",
-                            "value": "2025-12-06T13:30:00Z"
+                            "display": "12-Jan-26",
+                            "value": "2026-01-11T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -11579,7 +11626,7 @@
                             "value": "2025-12-06T13:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/25617?fromControl=Control1",
@@ -23522,53 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/24985?fromControl=Control1",
                     "id": 24985
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR24984"
-                        },
-                        {
-                            "display": "18-Aug-2025",
-                            "value": "2025-08-18T05:25:55.081Z"
-                        },
-                        {
-                            "value": "Treasury and Finance"
-                        },
-                        {
-                            "value": "Shared Services SA"
-                        },
-                        {
-                            "value": "dtfprocurementservices@sa.gov.au"
-                        },
-                        {
-                            "value": "FBT Software"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "18-Nov-25",
-                            "value": "2025-11-17T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/24984?fromControl=Control1",
-                    "id": 24984
                 }
             ],
             "aggregates": []
