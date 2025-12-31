@@ -67,9 +67,56 @@
                 "filter": true
             }
         ],
-        "totalRows": 2620,
+        "totalRows": 2621,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR26154"
+                        },
+                        {
+                            "display": "31-Dec-2025",
+                            "value": "2025-12-31T05:10:06.022Z"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "Health.SAASProcurementandContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Provision of Electrical Repair & installation of equipment services - Metropolitan Adelaide"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26154?fromControl=Control1",
+                    "id": 26154
+                },
                 {
                     "values": [
                         {
@@ -23522,53 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/24986?fromControl=Control1",
                     "id": 24986
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR24985"
-                        },
-                        {
-                            "display": "18-Aug-2025",
-                            "value": "2025-08-18T05:32:03.697Z"
-                        },
-                        {
-                            "value": "Primary Industries and Regions"
-                        },
-                        {
-                            "value": "Biosecurity"
-                        },
-                        {
-                            "value": "pirsa.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Engagement Coastal Clean up Resources - Algal Bloom"
-                        },
-                        {
-                            "value": "Human Resources and Staffing"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/24985?fromControl=Control1",
-                    "id": 24985
                 }
             ],
             "aggregates": []
