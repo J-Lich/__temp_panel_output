@@ -67,9 +67,150 @@
                 "filter": true
             }
         ],
-        "totalRows": 2619,
+        "totalRows": 2615,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR26172"
+                        },
+                        {
+                            "display": "06-Jan-2026",
+                            "value": "2026-01-06T03:52:42.047Z"
+                        },
+                        {
+                            "value": "Human Services"
+                        },
+                        {
+                            "value": "Office for the Prevention of Domestic, Family and Sexual Violence (DHS > WE > OPDFS)"
+                        },
+                        {
+                            "value": "dhsprocurementcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Domestic, Family and Sexual Violence Linked Data Dashboard"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jun-26",
+                            "value": "2026-05-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26172?fromControl=Control1",
+                    "id": 26172
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26171"
+                        },
+                        {
+                            "display": "06-Jan-2026",
+                            "value": "2026-01-06T03:43:40.684Z"
+                        },
+                        {
+                            "value": "Primary Industries and Regions"
+                        },
+                        {
+                            "value": "Biosecurity"
+                        },
+                        {
+                            "value": "pirsa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "National feral deer awareness campaign 2027"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "11-Jan-27",
+                            "value": "2027-01-10T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26171?fromControl=Control1",
+                    "id": 26171
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26169"
+                        },
+                        {
+                            "display": "06-Jan-2026",
+                            "value": "2026-01-06T00:30:50.064Z"
+                        },
+                        {
+                            "value": "Primary Industries and Regions"
+                        },
+                        {
+                            "value": "SARDI"
+                        },
+                        {
+                            "value": "pirsa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "X-ray Irradiator for SIT blowfly facility - KI"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "13-Apr-26",
+                            "value": "2026-04-12T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26169?fromControl=Control1",
+                    "id": 26169
+                },
                 {
                     "values": [
                         {
@@ -5450,7 +5591,7 @@
                             "value": "Class 2 Apartment (Market) Architectural Pattern Book\n"
                         },
                         {
-                            "value": ""
+                            "value": "Construction"
                         },
                         {
                             "value": "New requirement"
@@ -5462,7 +5603,7 @@
                             "value": ""
                         },
                         {
-                            "value": "Almost Certain"
+                            "value": "Certain"
                         },
                         {
                             "display": "16-Feb-26",
@@ -17087,53 +17228,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR25333"
-                        },
-                        {
-                            "display": "23-Sep-2025",
-                            "value": "2025-09-23T01:02:05.007Z"
-                        },
-                        {
-                            "value": "Courts Administration"
-                        },
-                        {
-                            "value": "Corporate Services"
-                        },
-                        {
-                            "value": "contract_.procurement@courts.sa.gov.au"
-                        },
-                        {
-                            "value": "Youth Court - Service and Operating Model and Strategic Business Case"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "17-Nov-25",
-                            "value": "2025-11-16T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25333?fromControl=Control1",
-                    "id": 25333
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR25332"
                         },
                         {
@@ -22915,53 +23009,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR25050"
-                        },
-                        {
-                            "display": "27-Aug-2025",
-                            "value": "2025-08-27T00:16:10.135Z"
-                        },
-                        {
-                            "value": "SAFECOM"
-                        },
-                        {
-                            "value": "CFS"
-                        },
-                        {
-                            "value": "SAFECOM.Procurement@eso.sa.gov.au"
-                        },
-                        {
-                            "value": "PFAS Joint Agency Project- Environment Consultant and Site Contamination Auditor Panel of Providers"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "08-Dec-25",
-                            "value": "2025-12-07T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25050?fromControl=Control1",
-                    "id": 25050
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR25044"
                         },
                         {
@@ -23522,53 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/25005?fromControl=Control1",
                     "id": 25005
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25002"
-                        },
-                        {
-                            "display": "20-Aug-2025",
-                            "value": "2025-08-20T04:20:11.866Z"
-                        },
-                        {
-                            "value": "Housing and Urban Development"
-                        },
-                        {
-                            "value": "Planning and Building"
-                        },
-                        {
-                            "value": "DHUD.Procurement@sa.gov.au "
-                        },
-                        {
-                            "value": "Investigations for Northern Suburbs Strategy"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "27-Feb-26",
-                            "value": "2026-02-26T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25002?fromControl=Control1",
-                    "id": 25002
                 }
             ],
             "aggregates": []
