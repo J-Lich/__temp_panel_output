@@ -67,9 +67,56 @@
                 "filter": true
             }
         ],
-        "totalRows": 2628,
+        "totalRows": 2626,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR26270"
+                        },
+                        {
+                            "display": "15-Jan-2026",
+                            "value": "2026-01-14T23:47:16.113Z"
+                        },
+                        {
+                            "value": "Child Protection"
+                        },
+                        {
+                            "value": "Infrastructure and Support"
+                        },
+                        {
+                            "value": "DCPprocurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Personal Computer and Server Equipment (PCSE)"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "17-Mar-26",
+                            "value": "2026-03-16T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26270?fromControl=Control1",
+                    "id": 26270
+                },
                 {
                     "values": [
                         {
@@ -5196,6 +5243,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR26016"
+                        },
+                        {
+                            "display": "08-Dec-2025",
+                            "value": "2025-12-08T05:08:31.118Z"
+                        },
+                        {
+                            "value": "Renewal SA"
+                        },
+                        {
+                            "value": "Asset Management"
+                        },
+                        {
+                            "value": "sarah.wuttke@sa.gov.au"
+                        },
+                        {
+                            "value": "Harts Mill Playground Softfall Replacement"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "28-Jan-26",
+                            "value": "2026-01-27T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26016?fromControl=Control1",
+                    "id": 26016
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR26015"
                         },
                         {
@@ -5371,8 +5465,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "26-Jan-26",
-                            "value": "2026-01-25T13:30:00Z"
+                            "display": "08-Jun-26",
+                            "value": "2026-06-07T14:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -11588,53 +11682,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR25731"
-                        },
-                        {
-                            "display": "10-Nov-2025",
-                            "value": "2025-11-10T03:57:02.288Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Uniforms and Accessories - Seaview High School"
-                        },
-                        {
-                            "value": "Uniforms and Accessories"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "30-May-27",
-                            "value": "2027-05-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25731?fromControl=Control1",
-                    "id": 25731
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR25730"
                         },
                         {
@@ -11786,32 +11833,32 @@
                             "value": "Education"
                         },
                         {
-                            "value": "Schools and Preschools"
+                            "value": "Chief Operating Officer"
                         },
                         {
                             "value": "Education.ProcurementUnit@sa.gov.au"
                         },
                         {
-                            "value": "Uniforms and Accessories - Woodville Primary School"
+                            "value": "Uniform Service - Generic 20"
                         },
                         {
-                            "value": "Uniforms and Accessories"
+                            "value": ""
                         },
                         {
-                            "value": "Secondary procurement process"
+                            "value": "New requirement"
                         },
                         {
-                            "value": "Limited"
+                            "value": ""
                         },
                         {
-                            "value": "SA Tenders and Contracts"
+                            "value": ""
                         },
                         {
-                            "value": "Possible"
+                            "value": "Cancelled"
                         },
                         {
-                            "display": "23-Jun-27",
-                            "value": "2027-06-22T14:30:00Z"
+                            "display": "01-Jun-25",
+                            "value": "2025-05-31T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -14151,7 +14198,7 @@
                             "value": "Secondary procurement process"
                         },
                         {
-                            "value": "Limited"
+                            "value": "Open"
                         },
                         {
                             "value": "SA Tenders and Contracts"
@@ -15990,11 +16037,11 @@
                             "value": "Email"
                         },
                         {
-                            "value": "Almost Certain"
+                            "value": "Probable"
                         },
                         {
-                            "display": "15-Feb-26",
-                            "value": "2026-02-14T13:30:00Z"
+                            "display": "31-Mar-26",
+                            "value": "2026-03-30T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -18911,7 +18958,7 @@
                             "value": "2026-01-18T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/25369?fromControl=Control1",
@@ -21449,7 +21496,7 @@
                             "value": "2025-10-05T13:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/25242?fromControl=Control1",
@@ -22394,6 +22441,53 @@
                     ],
                     "href": "records/Activity%20Planning/25200?fromControl=Control1",
                     "id": 25200
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR25198"
+                        },
+                        {
+                            "display": "09-Sep-2025",
+                            "value": "2025-09-08T23:09:46.754Z"
+                        },
+                        {
+                            "value": "Energy and Mining"
+                        },
+                        {
+                            "value": "Regulation and Compliance"
+                        },
+                        {
+                            "value": "john.fitzgerald3@sa.gov.au"
+                        },
+                        {
+                            "value": "Sampson Sand Pit (PM131 Sandy Creek)"
+                        },
+                        {
+                            "value": "Energy and Fuels"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "27-Feb-26",
+                            "value": "2026-02-26T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/25198?fromControl=Control1",
+                    "id": 25198
                 },
                 {
                     "values": [
@@ -23475,100 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/25153?fromControl=Control1",
                     "id": 25153
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25141"
-                        },
-                        {
-                            "display": "03-Sep-2025",
-                            "value": "2025-09-03T04:04:17.639Z"
-                        },
-                        {
-                            "value": "Premier and Cabinet"
-                        },
-                        {
-                            "value": "Major Projects"
-                        },
-                        {
-                            "value": "dpcprocurementandcontracts@sa.gov.au"
-                        },
-                        {
-                            "value": "Forklifts for Large Objects Store - Cultural Institutions Storage Facility (CISF)"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "08-Sep-25",
-                            "value": "2025-09-07T14:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25141?fromControl=Control1",
-                    "id": 25141
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25135"
-                        },
-                        {
-                            "display": "03-Sep-2025",
-                            "value": "2025-09-03T02:58:39.634Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Bituminous works"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25135?fromControl=Control1",
-                    "id": 25135
                 }
             ],
             "aggregates": []
