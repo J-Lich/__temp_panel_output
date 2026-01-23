@@ -73,6 +73,335 @@
                 {
                     "values": [
                         {
+                            "value": "PAR26386"
+                        },
+                        {
+                            "display": "23-Jan-2026",
+                            "value": "2026-01-23T03:35:09.628Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "DIT.ConstructionProcurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Project Management/Contract Management resource (PSAPMCM)"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "29-Sep-26",
+                            "value": "2026-09-28T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26386?fromControl=Control1",
+                    "id": 26386
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26385"
+                        },
+                        {
+                            "display": "23-Jan-2026",
+                            "value": "2026-01-23T03:33:17.836Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "DIT.ConstructionProcurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Project Management/Contract Management resource (PSAPMCM)"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "25-Aug-26",
+                            "value": "2026-08-24T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26385?fromControl=Control1",
+                    "id": 26385
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26384"
+                        },
+                        {
+                            "display": "23-Jan-2026",
+                            "value": "2026-01-23T03:31:59.952Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "DIT.ConstructionProcurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Project Management/Contract Management resource (PSAPMCM)"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "24-Jun-26",
+                            "value": "2026-06-23T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26384?fromControl=Control1",
+                    "id": 26384
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26383"
+                        },
+                        {
+                            "display": "23-Jan-2026",
+                            "value": "2026-01-23T03:30:05.05Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "DIT.ConstructionProcurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Project Management/Contract Management resource (PSAPMCM)"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "24-Jun-26",
+                            "value": "2026-06-23T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26383?fromControl=Control1",
+                    "id": 26383
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26380"
+                        },
+                        {
+                            "display": "23-Jan-2026",
+                            "value": "2026-01-23T02:01:23.715Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "Water and River Murray"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Healthy Coorong, Healthy Basin Business Case Development"
+                        },
+                        {
+                            "value": "Environmental"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "30-Jan-26",
+                            "value": "2026-01-29T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26380?fromControl=Control1",
+                    "id": 26380
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26379"
+                        },
+                        {
+                            "display": "23-Jan-2026",
+                            "value": "2026-01-23T01:38:08.991Z"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": " South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "Health.SAASProcurementandContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Across Government - Temporary Staff Services - FY2025-2026"
+                        },
+                        {
+                            "value": "Human Resources and Staffing"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-25",
+                            "value": "2025-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26379?fromControl=Control1",
+                    "id": 26379
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26372"
+                        },
+                        {
+                            "display": "23-Jan-2026",
+                            "value": "2026-01-22T22:41:09.036Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Operations - Corporate Governance and Assurance"
+                        },
+                        {
+                            "value": "jamie.loprete@tafesa.edu.au"
+                        },
+                        {
+                            "value": "Carbon Management Plan "
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "31-May-26",
+                            "value": "2026-05-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26372?fromControl=Control1",
+                    "id": 26372
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR26362"
                         },
                         {
@@ -2363,8 +2692,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "02-Mar-26",
-                            "value": "2026-03-01T13:30:00Z"
+                            "display": "13-Apr-26",
+                            "value": "2026-04-12T14:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -2386,7 +2715,7 @@
                             "value": "Southern Adelaide Local Health Network"
                         },
                         {
-                            "value": "MCCC"
+                            "value": "Corproate Nursing"
                         },
                         {
                             "value": "kally.southern@sa.gov.au"
@@ -2580,10 +2909,10 @@
                             "value": "anoop.mammen@sa.gov.au"
                         },
                         {
-                            "value": "AU Scribe - AI Engineering"
+                            "value": "Specialist professional services for AI engineering and model development to support the implementation of AUScribe"
                         },
                         {
-                            "value": "ICT Software and Technology"
+                            "value": "Advisory and Consultancy Services"
                         },
                         {
                             "value": "New requirement"
@@ -3683,11 +4012,58 @@
                             "value": "2026-01-18T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26164?fromControl=Control1",
                     "id": 26164
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26163"
+                        },
+                        {
+                            "display": "05-Jan-2026",
+                            "value": "2026-01-05T02:44:57.356Z"
+                        },
+                        {
+                            "value": "Renewal SA"
+                        },
+                        {
+                            "value": "Sales and Marketing"
+                        },
+                        {
+                            "value": "Ryan.Dienhoff@sa.gov.au"
+                        },
+                        {
+                            "value": "Residential Conveyancing Services"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "22-Jan-26",
+                            "value": "2026-01-21T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26163?fromControl=Control1",
+                    "id": 26163
                 },
                 {
                     "values": [
@@ -3864,7 +4240,7 @@
                             "value": "SA Tenders and Contracts"
                         },
                         {
-                            "value": "Certain"
+                            "value": "Almost Certain"
                         },
                         {
                             "display": "01-Jul-26",
@@ -4162,6 +4538,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR26140"
+                        },
+                        {
+                            "display": "22-Dec-2025",
+                            "value": "2025-12-22T03:40:59.517Z"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "Health.SAASProcurementandContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Provision of Emergency Dispatch Candidate Assessment Tool"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "23-Mar-26",
+                            "value": "2026-03-22T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26140?fromControl=Control1",
+                    "id": 26140
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR26139"
                         },
                         {
@@ -4187,7 +4610,7 @@
                             "value": "New requirement"
                         },
                         {
-                            "value": "Direct Approach"
+                            "value": "Limited"
                         },
                         {
                             "value": "Email"
@@ -9182,7 +9605,7 @@
                             "value": "2026-02-28T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/25903?fromControl=Control1",
@@ -9204,7 +9627,7 @@
                             "value": "Infrastructure & Safety Systems"
                         },
                         {
-                            "value": "keith.timmins@sa.gov.au"
+                            "value": "rachel.bell@sa.gov.au"
                         },
                         {
                             "value": "Full Body X-ray equipment"
@@ -9225,8 +9648,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "02-Mar-26",
-                            "value": "2026-03-01T13:30:00Z"
+                            "display": "08-Feb-26",
+                            "value": "2026-02-07T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -9818,7 +10241,7 @@
                             "value": "DEW.Procurement@sa.gov.au"
                         },
                         {
-                            "value": "Replacement Shed for Paney Station Gawler Ranges National Park"
+                            "value": "Shed Replacement for Paney Station Gawler Ranges National Park"
                         },
                         {
                             "value": "Construction"
@@ -9845,6 +10268,53 @@
                     ],
                     "href": "records/Activity%20Planning/25863?fromControl=Control1",
                     "id": 25863
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR25857"
+                        },
+                        {
+                            "display": "24-Nov-2025",
+                            "value": "2025-11-23T23:42:41.935Z"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "Health.SAASProcurementandContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Provision of SAAS Website"
+                        },
+                        {
+                            "value": "Communications and Marketing"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "12-Jul-26",
+                            "value": "2026-07-11T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/25857?fromControl=Control1",
+                    "id": 25857
                 },
                 {
                     "values": [
@@ -9943,53 +10413,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR25853"
-                        },
-                        {
-                            "display": "24-Nov-2025",
-                            "value": "2025-11-23T22:05:17.624Z"
-                        },
-                        {
-                            "value": "South Australian Ambulance Service"
-                        },
-                        {
-                            "value": "South Australian Ambulance Service"
-                        },
-                        {
-                            "value": "Health.SAASProcurementandContracts@sa.gov.au"
-                        },
-                        {
-                            "value": "Provision of C2 AED Devices"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "27-Nov-25",
-                            "value": "2025-11-26T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25853?fromControl=Control1",
-                    "id": 25853
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR25849"
                         },
                         {
@@ -10080,53 +10503,6 @@
                     ],
                     "href": "records/Activity%20Planning/25847?fromControl=Control1",
                     "id": 25847
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25844"
-                        },
-                        {
-                            "display": "21-Nov-2025",
-                            "value": "2025-11-21T03:12:29.804Z"
-                        },
-                        {
-                            "value": "South Australian Ambulance Service"
-                        },
-                        {
-                            "value": "South Australian Ambulance Service"
-                        },
-                        {
-                            "value": "Health.SAASProcurementandContracts@sa.gov.au"
-                        },
-                        {
-                            "value": "Provision of Corpuls 3 from BME Panel"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "02-Dec-25",
-                            "value": "2025-12-01T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25844?fromControl=Control1",
-                    "id": 25844
                 },
                 {
                     "values": [
@@ -11114,53 +11490,6 @@
                     ],
                     "href": "records/Activity%20Planning/25787?fromControl=Control1",
                     "id": 25787
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25783"
-                        },
-                        {
-                            "display": "17-Nov-2025",
-                            "value": "2025-11-17T00:29:33.175Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Industrial and Defence"
-                        },
-                        {
-                            "value": "ryan.dienhoff@sa.gov.au"
-                        },
-                        {
-                            "value": "DMMF Paint Shop, Design Manager"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "24-Nov-25",
-                            "value": "2025-11-23T13:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25783?fromControl=Control1",
-                    "id": 25783
                 },
                 {
                     "values": [
@@ -23240,335 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/25208?fromControl=Control1",
                     "id": 25208
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25207"
-                        },
-                        {
-                            "display": "10-Sep-2025",
-                            "value": "2025-09-10T02:22:48.521Z"
-                        },
-                        {
-                            "value": "Human Services"
-                        },
-                        {
-                            "value": "Quality and Clinical Services (DHS > DSS > QCS)"
-                        },
-                        {
-                            "value": "Justine.Maddern@sa.gov.au"
-                        },
-                        {
-                            "value": "Aged Care Management System \u2013 Northgate Aged Care"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "21-Sep-25",
-                            "value": "2025-09-20T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25207?fromControl=Control1",
-                    "id": 25207
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25204"
-                        },
-                        {
-                            "display": "10-Sep-2025",
-                            "value": "2025-09-10T01:12:23.458Z"
-                        },
-                        {
-                            "value": "Housing Trust"
-                        },
-                        {
-                            "value": "People and Strategy"
-                        },
-                        {
-                            "value": "housingprocurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Lone Worker Duress Technology "
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "15-Dec-25",
-                            "value": "2025-12-14T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25204?fromControl=Control1",
-                    "id": 25204
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25200"
-                        },
-                        {
-                            "display": "09-Sep-2025",
-                            "value": "2025-09-09T01:46:23.945Z"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "constantine.tsoukalas800@schools.sa.edu.au"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25200?fromControl=Control1",
-                    "id": 25200
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25198"
-                        },
-                        {
-                            "display": "09-Sep-2025",
-                            "value": "2025-09-08T23:09:46.754Z"
-                        },
-                        {
-                            "value": "Energy and Mining"
-                        },
-                        {
-                            "value": "Regulation and Compliance"
-                        },
-                        {
-                            "value": "john.fitzgerald3@sa.gov.au"
-                        },
-                        {
-                            "value": "Sampson Sand Pit (PM131 Sandy Creek)"
-                        },
-                        {
-                            "value": "Energy and Fuels"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "27-Feb-26",
-                            "value": "2026-02-26T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25198?fromControl=Control1",
-                    "id": 25198
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25194"
-                        },
-                        {
-                            "display": "08-Sep-2025",
-                            "value": "2025-09-08T05:37:22.095Z"
-                        },
-                        {
-                            "value": "Human Services"
-                        },
-                        {
-                            "value": "Digital, Data and Technology (DHS > FDCS > DDT)"
-                        },
-                        {
-                            "value": "dhsprocurementcontracts@sa.gov.au"
-                        },
-                        {
-                            "value": "NHSM Device Maintenance"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "13-Oct-25",
-                            "value": "2025-10-12T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25194?fromControl=Control1",
-                    "id": 25194
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25191"
-                        },
-                        {
-                            "display": "05-Sep-2025",
-                            "value": "2025-09-05T07:52:36.063Z"
-                        },
-                        {
-                            "value": "Environment and Water"
-                        },
-                        {
-                            "value": "National Parks and Public Lands"
-                        },
-                        {
-                            "value": "DEW.Procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Smithfield-Munno Para_site clean up of illegal dumping"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Feb-26",
-                            "value": "2026-01-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25191?fromControl=Control1",
-                    "id": 25191
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25190"
-                        },
-                        {
-                            "display": "05-Sep-2025",
-                            "value": "2025-09-05T06:31:50.568Z"
-                        },
-                        {
-                            "value": "South Australian Tourism Commission"
-                        },
-                        {
-                            "value": "Marketing"
-                        },
-                        {
-                            "value": "procurement2@sa.gov.au"
-                        },
-                        {
-                            "value": "2027 - 30 Central Europe Public Relations"
-                        },
-                        {
-                            "value": "Communications and Marketing"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "29-Jan-26",
-                            "value": "2026-01-28T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25190?fromControl=Control1",
-                    "id": 25190
                 }
             ],
             "aggregates": []
