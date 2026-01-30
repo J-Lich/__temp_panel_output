@@ -67,9 +67,56 @@
                 "filter": true
             }
         ],
-        "totalRows": 2658,
+        "totalRows": 2654,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR26451"
+                        },
+                        {
+                            "display": "30-Jan-2026",
+                            "value": "2026-01-30T00:13:35.818Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Public Lands"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Accommodation Upgrade Nilpena Ediacara National Park"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Jan-26",
+                            "value": "2026-01-29T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26451?fromControl=Control1",
+                    "id": 26451
+                },
                 {
                     "values": [
                         {
@@ -509,7 +556,7 @@
                             "value": "South Australian Sports Institute"
                         },
                         {
-                            "value": "madeleine.macmillan@sa.gov.au"
+                            "value": "Sejal.susenadan2@sa.gov.au"
                         },
                         {
                             "value": "SASI Sports Psychology"
@@ -3316,6 +3363,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR26299"
+                        },
+                        {
+                            "display": "19-Jan-2026",
+                            "value": "2026-01-19T04:05:37.419Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Transport Strategy and Planning"
+                        },
+                        {
+                            "value": "DIT.sstenders@sa.gov.au"
+                        },
+                        {
+                            "value": "Roseworthy Transport Study and Horrocks Highway (Roseworthy to Gawler) 17C811"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "02-Feb-26",
+                            "value": "2026-02-01T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26299?fromControl=Control1",
+                    "id": 26299
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR26296"
                         },
                         {
@@ -3735,53 +3829,6 @@
                     ],
                     "href": "records/Activity%20Planning/26285?fromControl=Control1",
                     "id": 26285
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26284"
-                        },
-                        {
-                            "display": "16-Jan-2026",
-                            "value": "2026-01-16T02:02:42.964Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Uniform and Accessories - Aldinga Payinthi College - Official Order"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26284?fromControl=Control1",
-                    "id": 26284
                 },
                 {
                     "values": [
@@ -6305,7 +6352,7 @@
                             "value": "Direct Approach"
                         },
                         {
-                            "value": ""
+                            "value": "Email"
                         },
                         {
                             "value": "Probable"
@@ -7161,7 +7208,7 @@
                             "value": "2026-03-31T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26138?fromControl=Control1",
@@ -10476,7 +10523,7 @@
                             "value": "Immacolata.Bollella@sa.gov.au"
                         },
                         {
-                            "value": "2026 Local Government Periodic Elections - Media Management media campaign"
+                            "value": "Media Placement"
                         },
                         {
                             "value": "Communications and Marketing"
@@ -10491,14 +10538,14 @@
                             "value": "SA Tenders and Contracts"
                         },
                         {
-                            "value": "Possible"
+                            "value": "Certain"
                         },
                         {
-                            "display": "01-Apr-26",
-                            "value": "2026-03-31T13:30:00Z"
+                            "display": "20-Feb-26",
+                            "value": "2026-02-19T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/25964?fromControl=Control1",
@@ -15677,53 +15724,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR25733"
-                        },
-                        {
-                            "display": "10-Nov-2025",
-                            "value": "2025-11-10T04:06:03.945Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Uniform Service - Aldinga Payinthi College"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "14-Mar-27",
-                            "value": "2027-03-13T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25733?fromControl=Control1",
-                    "id": 25733
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR25732"
                         },
                         {
@@ -16689,20 +16689,20 @@
                             "value": "New requirement"
                         },
                         {
-                            "value": "Limited"
+                            "value": "Direct Approach"
                         },
                         {
-                            "value": ""
+                            "value": "Email"
                         },
                         {
                             "value": "Certain"
                         },
                         {
-                            "display": "01-Dec-25",
-                            "value": "2025-11-30T13:30:00Z"
+                            "display": "13-Jan-26",
+                            "value": "2026-01-12T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/25698?fromControl=Control1",
@@ -17976,6 +17976,53 @@
                     ],
                     "href": "records/Activity%20Planning/25617?fromControl=Control1",
                     "id": 25617
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR25613"
+                        },
+                        {
+                            "display": "27-Oct-2025",
+                            "value": "2025-10-27T04:56:40.144Z"
+                        },
+                        {
+                            "value": "SAFECOM"
+                        },
+                        {
+                            "value": "SECTOR"
+                        },
+                        {
+                            "value": "SAFECOM.Procurement@eso.sa.gov.au"
+                        },
+                        {
+                            "value": "Wellbeing and Intervention Program"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "02-Mar-26",
+                            "value": "2026-03-01T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/25613?fromControl=Control1",
+                    "id": 25613
                 },
                 {
                     "values": [
@@ -23522,53 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/25316?fromControl=Control1",
                     "id": 25316
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25315"
-                        },
-                        {
-                            "display": "22-Sep-2025",
-                            "value": "2025-09-22T01:00:58.511Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Out of School Hours Care - Klemzig Primary School 2026"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "03-Aug-26",
-                            "value": "2026-08-02T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25315?fromControl=Control1",
-                    "id": 25315
                 }
             ],
             "aggregates": []
