@@ -67,9 +67,197 @@
                 "filter": true
             }
         ],
-        "totalRows": 2640,
+        "totalRows": 2630,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR26493"
+                        },
+                        {
+                            "display": "04-Feb-2026",
+                            "value": "2026-02-04T03:39:22.965Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "Biodiversity and Nature Economy"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Coasts - Hydrographic Services"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "02-Mar-26",
+                            "value": "2026-03-01T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26493?fromControl=Control1",
+                    "id": 26493
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26484"
+                        },
+                        {
+                            "display": "04-Feb-2026",
+                            "value": "2026-02-03T23:53:36.325Z"
+                        },
+                        {
+                            "value": "Legal Services Commission of South Australia"
+                        },
+                        {
+                            "value": "Corporate Services"
+                        },
+                        {
+                            "value": "procurement@lsc.sa.gov.au"
+                        },
+                        {
+                            "value": "Timewise Software"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "25-Feb-26",
+                            "value": "2026-02-24T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26484?fromControl=Control1",
+                    "id": 26484
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26483"
+                        },
+                        {
+                            "display": "04-Feb-2026",
+                            "value": "2026-02-03T22:59:02.169Z"
+                        },
+                        {
+                            "value": "Primary Industries and Regions"
+                        },
+                        {
+                            "value": "Industry, Strategy & Partnerships"
+                        },
+                        {
+                            "value": "pirsa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Compilation of regular Crop and Pasture reports"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "04-May-26",
+                            "value": "2026-05-03T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26483?fromControl=Control1",
+                    "id": 26483
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26480"
+                        },
+                        {
+                            "display": "03-Feb-2026",
+                            "value": "2026-02-03T05:33:57.555Z"
+                        },
+                        {
+                            "value": "Legal Services Commission of South Australia"
+                        },
+                        {
+                            "value": "Information Communication Technology (ICT)"
+                        },
+                        {
+                            "value": "procurement@lsc.sa.gov.au"
+                        },
+                        {
+                            "value": "VMware Licencing for VXrail"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "06-Feb-26",
+                            "value": "2026-02-05T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26480?fromControl=Control1",
+                    "id": 26480
+                },
                 {
                     "values": [
                         {
@@ -402,241 +590,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR26442"
-                        },
-                        {
-                            "display": "29-Jan-2026",
-                            "value": "2026-01-29T02:06:26.019Z"
-                        },
-                        {
-                            "value": "ReturnToWorkSA"
-                        },
-                        {
-                            "value": "D&IG "
-                        },
-                        {
-                            "value": "procurement@rtwsa.com"
-                        },
-                        {
-                            "value": "SmartIQ Cloud Solution and Services"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "21-Jun-24",
-                            "value": "2024-06-20T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26442?fromControl=Control1",
-                    "id": 26442
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26439"
-                        },
-                        {
-                            "display": "29-Jan-2026",
-                            "value": "2026-01-29T01:38:20.023Z"
-                        },
-                        {
-                            "value": "ReturnToWorkSA"
-                        },
-                        {
-                            "value": "D&IG"
-                        },
-                        {
-                            "value": "procurement@rtwsa.com"
-                        },
-                        {
-                            "value": "Set up of Tableau Cloud "
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "21-May-25",
-                            "value": "2025-05-20T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26439?fromControl=Control1",
-                    "id": 26439
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26438"
-                        },
-                        {
-                            "display": "29-Jan-2026",
-                            "value": "2026-01-29T01:33:22.078Z"
-                        },
-                        {
-                            "value": "ReturnToWorkSA"
-                        },
-                        {
-                            "value": "D&IG"
-                        },
-                        {
-                            "value": "procurement@rtwsa.com"
-                        },
-                        {
-                            "value": "System Engineer "
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "29-Apr-25",
-                            "value": "2025-04-28T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26438?fromControl=Control1",
-                    "id": 26438
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26437"
-                        },
-                        {
-                            "display": "29-Jan-2026",
-                            "value": "2026-01-29T01:23:29.849Z"
-                        },
-                        {
-                            "value": "ReturnToWorkSA"
-                        },
-                        {
-                            "value": "D&IG"
-                        },
-                        {
-                            "value": "procurement@rtwsa.com"
-                        },
-                        {
-                            "value": "Ad Hoc Resource Test Lead"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "05-May-25",
-                            "value": "2025-05-04T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26437?fromControl=Control1",
-                    "id": 26437
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26435"
-                        },
-                        {
-                            "display": "29-Jan-2026",
-                            "value": "2026-01-29T01:05:32.571Z"
-                        },
-                        {
-                            "value": "ReturnToWorkSA"
-                        },
-                        {
-                            "value": "D&IG"
-                        },
-                        {
-                            "value": "procurement@rtwsa.com"
-                        },
-                        {
-                            "value": "Business Analysist "
-                        },
-                        {
-                            "value": "Human Resources and Staffing"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Jul-23",
-                            "value": "2023-06-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26435?fromControl=Control1",
-                    "id": 26435
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR26434"
                         },
                         {
@@ -680,100 +633,6 @@
                     ],
                     "href": "records/Activity%20Planning/26434?fromControl=Control1",
                     "id": 26434
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26432"
-                        },
-                        {
-                            "display": "29-Jan-2026",
-                            "value": "2026-01-29T00:33:40.504Z"
-                        },
-                        {
-                            "value": "ReturnToWorkSA"
-                        },
-                        {
-                            "value": "Claims Services "
-                        },
-                        {
-                            "value": "procurement@rtwsa.com"
-                        },
-                        {
-                            "value": "SDO Ways of Working "
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Feb-25",
-                            "value": "2025-01-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26432?fromControl=Control1",
-                    "id": 26432
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26430"
-                        },
-                        {
-                            "display": "29-Jan-2026",
-                            "value": "2026-01-29T00:15:12.321Z"
-                        },
-                        {
-                            "value": "ReturnToWorkSA"
-                        },
-                        {
-                            "value": "Claims Services "
-                        },
-                        {
-                            "value": "procurement@rtwsa.com"
-                        },
-                        {
-                            "value": "Voice of Customer Research Project "
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Feb-24",
-                            "value": "2024-01-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26430?fromControl=Control1",
-                    "id": 26430
                 },
                 {
                     "values": [
@@ -5371,8 +5230,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "01-Jun-26",
-                            "value": "2026-05-31T14:30:00Z"
+                            "display": "04-May-26",
+                            "value": "2026-05-03T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -6743,53 +6602,6 @@
                     ],
                     "href": "records/Activity%20Planning/26169?fromControl=Control1",
                     "id": 26169
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26166"
-                        },
-                        {
-                            "display": "05-Jan-2026",
-                            "value": "2026-01-05T05:03:14.509Z"
-                        },
-                        {
-                            "value": "Adelaide Venue Management Corporation"
-                        },
-                        {
-                            "value": "ACC Business Optimisation"
-                        },
-                        {
-                            "value": "tenders@avmc.com.au"
-                        },
-                        {
-                            "value": "ACC Online Parking Booking System "
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "12-Jan-26",
-                            "value": "2026-01-11T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26166?fromControl=Control1",
-                    "id": 26166
                 },
                 {
                     "values": [
@@ -8943,8 +8755,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "02-Feb-26",
-                            "value": "2026-02-01T13:30:00Z"
+                            "display": "04-Mar-26",
+                            "value": "2026-03-03T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -11255,53 +11067,6 @@
                     ],
                     "href": "records/Activity%20Planning/25947?fromControl=Control1",
                     "id": 25947
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25945"
-                        },
-                        {
-                            "display": "02-Dec-2025",
-                            "value": "2025-12-02T03:54:13.441Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "People and Transformation"
-                        },
-                        {
-                            "value": "tony.truong@sa.gov.au"
-                        },
-                        {
-                            "value": "Executive Team, Directors and Organisational Development Activities"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "05-Dec-25",
-                            "value": "2025-12-04T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25945?fromControl=Control1",
-                    "id": 25945
                 },
                 {
                     "values": [
@@ -15429,8 +15194,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "10-Jun-26",
-                            "value": "2026-06-09T14:30:00Z"
+                            "display": "10-Jun-27",
+                            "value": "2027-06-09T14:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -16049,53 +15814,6 @@
                     ],
                     "href": "records/Activity%20Planning/25730?fromControl=Control1",
                     "id": 25730
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25729"
-                        },
-                        {
-                            "display": "10-Nov-2025",
-                            "value": "2025-11-10T03:46:20.545Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Uniform Service - Murray Bridge High School"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "20-Mar-27",
-                            "value": "2027-03-19T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25729?fromControl=Control1",
-                    "id": 25729
                 },
                 {
                     "values": [
@@ -16895,53 +16613,6 @@
                     ],
                     "href": "records/Activity%20Planning/25699?fromControl=Control1",
                     "id": 25699
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25698"
-                        },
-                        {
-                            "display": "07-Nov-2025",
-                            "value": "2025-11-06T23:22:30.226Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Education Standards Board"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Independant Review of the Education and Early Childhood Services (Registration and Standards) Act 2011\t\t\t\t"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "13-Jan-26",
-                            "value": "2026-01-12T13:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25698?fromControl=Control1",
-                    "id": 25698
                 },
                 {
                     "values": [
@@ -23569,6 +23240,335 @@
                     ],
                     "href": "records/Activity%20Planning/25318?fromControl=Control1",
                     "id": 25318
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR25317"
+                        },
+                        {
+                            "display": "22-Sep-2025",
+                            "value": "2025-09-22T01:13:19.26Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - John Hartley B-6 School 2026"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "15-Sep-26",
+                            "value": "2026-09-14T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/25317?fromControl=Control1",
+                    "id": 25317
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR25316"
+                        },
+                        {
+                            "display": "22-Sep-2025",
+                            "value": "2025-09-22T01:09:30.88Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Angle Vale Primary School 2026"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "15-Sep-26",
+                            "value": "2026-09-14T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/25316?fromControl=Control1",
+                    "id": 25316
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR25315"
+                        },
+                        {
+                            "display": "22-Sep-2025",
+                            "value": "2025-09-22T01:00:58.511Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Klemzig Primary School 2026"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "03-Aug-26",
+                            "value": "2026-08-02T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/25315?fromControl=Control1",
+                    "id": 25315
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR25314"
+                        },
+                        {
+                            "display": "22-Sep-2025",
+                            "value": "2025-09-22T00:54:46.624Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Ocean View College 2026"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "03-Aug-26",
+                            "value": "2026-08-02T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/25314?fromControl=Control1",
+                    "id": 25314
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR25313"
+                        },
+                        {
+                            "display": "22-Sep-2025",
+                            "value": "2025-09-22T00:47:23.624Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Brooklyn Park Primary School 2026"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "10-Jul-26",
+                            "value": "2026-07-09T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/25313?fromControl=Control1",
+                    "id": 25313
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR25312"
+                        },
+                        {
+                            "display": "22-Sep-2025",
+                            "value": "2025-09-22T00:36:14.875Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Glenelg Primary School 2026"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "10-Jul-26",
+                            "value": "2026-07-09T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/25312?fromControl=Control1",
+                    "id": 25312
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR25311"
+                        },
+                        {
+                            "display": "22-Sep-2025",
+                            "value": "2025-09-22T00:27:32.817Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Elizabeth North Primary School 2026"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "29-Jun-26",
+                            "value": "2026-06-28T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/25311?fromControl=Control1",
+                    "id": 25311
                 }
             ],
             "aggregates": []
