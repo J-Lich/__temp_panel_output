@@ -67,9 +67,103 @@
                 "filter": true
             }
         ],
-        "totalRows": 2635,
+        "totalRows": 2632,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR26533"
+                        },
+                        {
+                            "display": "06-Feb-2026",
+                            "value": "2026-02-06T03:11:05.683Z"
+                        },
+                        {
+                            "value": "Central Adelaide Local Health Network"
+                        },
+                        {
+                            "value": " Medical Services and Clinical Governance"
+                        },
+                        {
+                            "value": "anoop.mammen@sa.gov.au"
+                        },
+                        {
+                            "value": "CALHN Hospital Accreditation Services"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "04-May-26",
+                            "value": "2026-05-03T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26533?fromControl=Control1",
+                    "id": 26533
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26526"
+                        },
+                        {
+                            "display": "06-Feb-2026",
+                            "value": "2026-02-05T23:31:30.4Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Public Lands"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Seal Bay Visitors Site Roof Restoration"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "16-Feb-26",
+                            "value": "2026-02-15T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26526?fromControl=Control1",
+                    "id": 26526
+                },
                 {
                     "values": [
                         {
@@ -4726,53 +4820,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR26263"
-                        },
-                        {
-                            "display": "14-Jan-2026",
-                            "value": "2026-01-14T05:24:19.915Z"
-                        },
-                        {
-                            "value": "Housing Trust"
-                        },
-                        {
-                            "value": "Property Services"
-                        },
-                        {
-                            "value": "housingprocurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Waterflow Meter Reading Service Contractor"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26263?fromControl=Control1",
-                    "id": 26263
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR26262"
                         },
                         {
@@ -5935,8 +5982,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "30-Jan-26",
-                            "value": "2026-01-29T13:30:00Z"
+                            "display": "15-Feb-26",
+                            "value": "2026-02-14T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -10127,53 +10174,6 @@
                     ],
                     "href": "records/Activity%20Planning/26009?fromControl=Control1",
                     "id": 26009
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26006"
-                        },
-                        {
-                            "display": "08-Dec-2025",
-                            "value": "2025-12-07T22:40:02.512Z"
-                        },
-                        {
-                            "value": "Premier and Cabinet"
-                        },
-                        {
-                            "value": "Finance and Procurement"
-                        },
-                        {
-                            "value": "vicki.zanker@sa.gov.au"
-                        },
-                        {
-                            "value": "Procurement Specialist"
-                        },
-                        {
-                            "value": "Human Resources and Staffing"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "08-Jun-26",
-                            "value": "2026-06-07T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26006?fromControl=Control1",
-                    "id": 26006
                 },
                 {
                     "values": [
