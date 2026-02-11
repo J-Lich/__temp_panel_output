@@ -67,9 +67,620 @@
                 "filter": true
             }
         ],
-        "totalRows": 2637,
+        "totalRows": 2643,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR26590"
+                        },
+                        {
+                            "display": "11-Feb-2026",
+                            "value": "2026-02-11T05:56:28.548Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Commercial and Contract Management"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Fibre Installation PREXY"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "27-Feb-26",
+                            "value": "2026-02-26T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26590?fromControl=Control1",
+                    "id": 26590
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26589"
+                        },
+                        {
+                            "display": "11-Feb-2026",
+                            "value": "2026-02-11T05:55:58.502Z"
+                        },
+                        {
+                            "value": "Office of the Chief Information Officer"
+                        },
+                        {
+                            "value": "Cloud Services"
+                        },
+                        {
+                            "value": "OCIOProcurementContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Active Directory Support and Management"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "03-May-26",
+                            "value": "2026-05-02T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26589?fromControl=Control1",
+                    "id": 26589
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26588"
+                        },
+                        {
+                            "display": "11-Feb-2026",
+                            "value": "2026-02-11T05:47:59.07Z"
+                        },
+                        {
+                            "value": "Office of the Chief Information Officer"
+                        },
+                        {
+                            "value": "Cloud Services"
+                        },
+                        {
+                            "value": "OCIOProcurementContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "AWS Maturity Uplift Services"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "07-Jun-26",
+                            "value": "2026-06-06T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26588?fromControl=Control1",
+                    "id": 26588
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26586"
+                        },
+                        {
+                            "display": "11-Feb-2026",
+                            "value": "2026-02-11T05:13:14.951Z"
+                        },
+                        {
+                            "value": "Primary Industries and Regions"
+                        },
+                        {
+                            "value": "Corporate Services"
+                        },
+                        {
+                            "value": "pirsa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Digital Signature Solution"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "11-May-26",
+                            "value": "2026-05-10T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26586?fromControl=Control1",
+                    "id": 26586
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26584"
+                        },
+                        {
+                            "display": "11-Feb-2026",
+                            "value": "2026-02-11T04:00:04.583Z"
+                        },
+                        {
+                            "value": "Defence SA"
+                        },
+                        {
+                            "value": "DSA"
+                        },
+                        {
+                            "value": "michelle.ward@sa.gov.au"
+                        },
+                        {
+                            "value": "South Australian Defence Industry Cyber Capability Uplift Program "
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "11-May-26",
+                            "value": "2026-05-10T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26584?fromControl=Control1",
+                    "id": 26584
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26579"
+                        },
+                        {
+                            "display": "11-Feb-2026",
+                            "value": "2026-02-11T00:51:40.501Z"
+                        },
+                        {
+                            "value": "Attorney General's"
+                        },
+                        {
+                            "value": "Electoral Commission SA"
+                        },
+                        {
+                            "value": "Jessica.Heatlie@sa.gov.au"
+                        },
+                        {
+                            "value": "2026 LGPE \u2013 Logistics and Transport "
+                        },
+                        {
+                            "value": "Transportation, logistics, mail services and warehousing"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "11-May-26",
+                            "value": "2026-05-10T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26579?fromControl=Control1",
+                    "id": 26579
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26577"
+                        },
+                        {
+                            "display": "11-Feb-2026",
+                            "value": "2026-02-11T00:23:16.362Z"
+                        },
+                        {
+                            "value": "Renewal SA"
+                        },
+                        {
+                            "value": "Transformation and Change"
+                        },
+                        {
+                            "value": "tariq.azam@sa.gov.au"
+                        },
+                        {
+                            "value": "Temporary staff services -User Acceptance Testing for the ERP, Finance and Data Warehouse project"
+                        },
+                        {
+                            "value": "Human Resources and Staffing"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "11-Feb-26",
+                            "value": "2026-02-10T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26577?fromControl=Control1",
+                    "id": 26577
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26576"
+                        },
+                        {
+                            "display": "11-Feb-2026",
+                            "value": "2026-02-11T00:03:01.237Z"
+                        },
+                        {
+                            "value": "Attorney General's"
+                        },
+                        {
+                            "value": "Electoral Commission SA"
+                        },
+                        {
+                            "value": "Immacolata.Bollella2@sa.gov.au"
+                        },
+                        {
+                            "value": "2026 LGPE \u2013 Public Relations & Crisis Management "
+                        },
+                        {
+                            "value": "Communications and Marketing"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "12-May-26",
+                            "value": "2026-05-11T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26576?fromControl=Control1",
+                    "id": 26576
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26575"
+                        },
+                        {
+                            "display": "11-Feb-2026",
+                            "value": "2026-02-10T23:55:16.094Z"
+                        },
+                        {
+                            "value": "Attorney General's"
+                        },
+                        {
+                            "value": "Electoral Commission SA"
+                        },
+                        {
+                            "value": "Mike.Raphael@sa.gov.au"
+                        },
+                        {
+                            "value": "2026 LGPE \u2013 Election Specific Envelopes "
+                        },
+                        {
+                            "value": "Transportation, logistics, mail services and warehousing"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "11-May-26",
+                            "value": "2026-05-10T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26575?fromControl=Control1",
+                    "id": 26575
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26574"
+                        },
+                        {
+                            "display": "11-Feb-2026",
+                            "value": "2026-02-10T23:27:29.365Z"
+                        },
+                        {
+                            "value": "Attorney General's"
+                        },
+                        {
+                            "value": "Electoral Commission SA"
+                        },
+                        {
+                            "value": "Immacolata.Bollella2@sa.gov.au"
+                        },
+                        {
+                            "value": "2026 LGPE \u2013 Postal Voting Guides (Instruction Pamphlets) "
+                        },
+                        {
+                            "value": "Communications and Marketing"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "12-May-26",
+                            "value": "2026-05-11T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26574?fromControl=Control1",
+                    "id": 26574
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26573"
+                        },
+                        {
+                            "display": "11-Feb-2026",
+                            "value": "2026-02-10T22:32:58.989Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Commercial and Contract Management"
+                        },
+                        {
+                            "value": "DIT.ConstructionProcurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Project Management/Contract Management resource (PSAPMCM)"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "23-Jun-26",
+                            "value": "2026-06-22T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26573?fromControl=Control1",
+                    "id": 26573
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26572"
+                        },
+                        {
+                            "display": "11-Feb-2026",
+                            "value": "2026-02-10T22:19:11.443Z"
+                        },
+                        {
+                            "value": "Human Services"
+                        },
+                        {
+                            "value": "Office for Women (DHS > WE > OFW)"
+                        },
+                        {
+                            "value": "dhsprocurementcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Aboriginal Men\u2019s Cultural Healing Camps Evaluation & Growing our Spirit, Strength in Culture Evaluation"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "11-Mar-26",
+                            "value": "2026-03-10T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26572?fromControl=Control1",
+                    "id": 26572
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26571"
+                        },
+                        {
+                            "display": "11-Feb-2026",
+                            "value": "2026-02-10T21:39:50.14Z"
+                        },
+                        {
+                            "value": "Human Services"
+                        },
+                        {
+                            "value": "Communications and Engagement (DHS > OCEG > CAE)"
+                        },
+                        {
+                            "value": "dhsprocurementcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Print Management Services"
+                        },
+                        {
+                            "value": "Office Equipment and Accessories and Supplies"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "11-Mar-26",
+                            "value": "2026-03-10T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26571?fromControl=Control1",
+                    "id": 26571
+                },
                 {
                     "values": [
                         {
@@ -774,6 +1385,53 @@
                     ],
                     "href": "records/Activity%20Planning/26530?fromControl=Control1",
                     "id": 26530
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26529"
+                        },
+                        {
+                            "display": "06-Feb-2026",
+                            "value": "2026-02-06T01:23:09.1Z"
+                        },
+                        {
+                            "value": "ForestrySA"
+                        },
+                        {
+                            "value": "Commercial"
+                        },
+                        {
+                            "value": "Contracts@forestrysa.com.au"
+                        },
+                        {
+                            "value": "Non-Conventional Harvesting Services"
+                        },
+                        {
+                            "value": "Environmental"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "02-Mar-26",
+                            "value": "2026-03-01T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26529?fromControl=Control1",
+                    "id": 26529
                 },
                 {
                     "values": [
@@ -11024,53 +11682,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR26000"
-                        },
-                        {
-                            "display": "05-Dec-2025",
-                            "value": "2025-12-05T03:04:36.41Z"
-                        },
-                        {
-                            "value": "Environment and Water"
-                        },
-                        {
-                            "value": "Water and River Murray"
-                        },
-                        {
-                            "value": "DEW.Procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Gate and Fish Screen design, fabrication and installation"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "01-Feb-26",
-                            "value": "2026-01-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26000?fromControl=Control1",
-                    "id": 26000
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR25999"
                         },
                         {
@@ -11340,8 +11951,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "",
-                            "value": null
+                            "display": "03-Sep-26",
+                            "value": "2026-09-02T14:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -15147,8 +15758,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "",
-                            "value": null
+                            "display": "03-Sep-26",
+                            "value": "2026-09-02T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -15194,8 +15805,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "",
-                            "value": null
+                            "display": "03-Sep-26",
+                            "value": "2026-09-02T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -15711,11 +16322,11 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "09-Feb-26",
-                            "value": "2026-02-08T13:30:00Z"
+                            "display": "13-Feb-26",
+                            "value": "2026-02-12T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/25766?fromControl=Control1",
@@ -20693,8 +21304,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "12-Nov-25",
-                            "value": "2025-11-11T13:30:00Z"
+                            "display": "03-Sep-26",
+                            "value": "2026-09-02T14:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -22958,617 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/25391?fromControl=Control1",
                     "id": 25391
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25389"
-                        },
-                        {
-                            "display": "29-Sep-2025",
-                            "value": "2025-09-29T06:35:55.344Z"
-                        },
-                        {
-                            "value": "Murraylands and Riverland Landscape Board"
-                        },
-                        {
-                            "value": "Wetlands"
-                        },
-                        {
-                            "value": "aleisha.casson@sa.gov.au"
-                        },
-                        {
-                            "value": "Enhancing habitat and hydrology in the Grey Creek channel network on Kumarangk, Hindmarsh Island - Removal/disposal or improvement of 5 culvert crossings"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "05-Jan-26",
-                            "value": "2026-01-04T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25389?fromControl=Control1",
-                    "id": 25389
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25388"
-                        },
-                        {
-                            "display": "29-Sep-2025",
-                            "value": "2025-09-29T06:28:51.475Z"
-                        },
-                        {
-                            "value": "Murraylands and Riverland Landscape Board"
-                        },
-                        {
-                            "value": "Wetlands"
-                        },
-                        {
-                            "value": "aleisha.casson@sa.gov.au"
-                        },
-                        {
-                            "value": "Enhancing habitat and hydrology in the Grey Creek channel network on Kumarangk, Hindmarsh Island"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "05-Jan-26",
-                            "value": "2026-01-04T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25388?fromControl=Control1",
-                    "id": 25388
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25387"
-                        },
-                        {
-                            "display": "29-Sep-2025",
-                            "value": "2025-09-29T06:23:10.944Z"
-                        },
-                        {
-                            "value": "Murraylands and Riverland Landscape Board"
-                        },
-                        {
-                            "value": "Wetlands"
-                        },
-                        {
-                            "value": "aleisha.casson@sa.gov.au"
-                        },
-                        {
-                            "value": "Murangong Wetland Restoration"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "05-Jan-26",
-                            "value": "2026-01-04T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25387?fromControl=Control1",
-                    "id": 25387
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25386"
-                        },
-                        {
-                            "display": "29-Sep-2025",
-                            "value": "2025-09-29T06:19:42.433Z"
-                        },
-                        {
-                            "value": "Murraylands and Riverland Landscape Board"
-                        },
-                        {
-                            "value": "Wetlands"
-                        },
-                        {
-                            "value": "aleisha.casson@sa.gov.au"
-                        },
-                        {
-                            "value": "Teringie Wetland Complex -Expanding the inundation footprint of environmental watering for shorebirds"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "05-Jan-26",
-                            "value": "2026-01-04T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25386?fromControl=Control1",
-                    "id": 25386
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25385"
-                        },
-                        {
-                            "display": "29-Sep-2025",
-                            "value": "2025-09-29T06:15:02.402Z"
-                        },
-                        {
-                            "value": "Murraylands and Riverland Landscape Board"
-                        },
-                        {
-                            "value": "Wetlands"
-                        },
-                        {
-                            "value": "aleisha.casson@sa.gov.au"
-                        },
-                        {
-                            "value": "Teringie Wetland Complex \u2013 Improving the inundation and hydrological management potential of the East Basin "
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "05-Jan-26",
-                            "value": "2026-01-04T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25385?fromControl=Control1",
-                    "id": 25385
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25382"
-                        },
-                        {
-                            "display": "29-Sep-2025",
-                            "value": "2025-09-29T06:08:47.053Z"
-                        },
-                        {
-                            "value": "Murraylands and Riverland Landscape Board"
-                        },
-                        {
-                            "value": "Wetlands"
-                        },
-                        {
-                            "value": "aleisha.casson@sa.gov.au"
-                        },
-                        {
-                            "value": "Yaiwaiparrung Wetland-OGW to improve wetland habitat and facilitate ewatering for shorebird outcomes"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "05-Jan-26",
-                            "value": "2026-01-04T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25382?fromControl=Control1",
-                    "id": 25382
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25381"
-                        },
-                        {
-                            "display": "29-Sep-2025",
-                            "value": "2025-09-29T05:58:49.994Z"
-                        },
-                        {
-                            "value": "Murraylands and Riverland Landscape Board"
-                        },
-                        {
-                            "value": "Wetlands"
-                        },
-                        {
-                            "value": "aleisha.casson@sa.gov.au"
-                        },
-                        {
-                            "value": "Waltowa groundwater bore remediation project"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "05-Jan-26",
-                            "value": "2026-01-04T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25381?fromControl=Control1",
-                    "id": 25381
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25379"
-                        },
-                        {
-                            "display": "29-Sep-2025",
-                            "value": "2025-09-29T05:48:00.52Z"
-                        },
-                        {
-                            "value": "Murraylands and Riverland Landscape Board"
-                        },
-                        {
-                            "value": "Wetlands"
-                        },
-                        {
-                            "value": "aleisha.casson@sa.gov.au"
-                        },
-                        {
-                            "value": "Tauwitchere Salt Lagoon OGW to facilitate Ewatering for shorebird outcomes"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "05-Jan-26",
-                            "value": "2026-01-04T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25379?fromControl=Control1",
-                    "id": 25379
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25369"
-                        },
-                        {
-                            "display": "26-Sep-2025",
-                            "value": "2025-09-26T05:57:40.409Z"
-                        },
-                        {
-                            "value": "Green Industries SA"
-                        },
-                        {
-                            "value": "Policy and Evaluation"
-                        },
-                        {
-                            "value": "DEW.Procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Precinct Resource Recovery Program"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "19-Jan-26",
-                            "value": "2026-01-18T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25369?fromControl=Control1",
-                    "id": 25369
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25356"
-                        },
-                        {
-                            "display": "25-Sep-2025",
-                            "value": "2025-09-24T23:36:29.318Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Out of School Hours Care - Elizabeth Downs Primary School 2026"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "02-Feb-26",
-                            "value": "2026-02-01T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25356?fromControl=Control1",
-                    "id": 25356
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25355"
-                        },
-                        {
-                            "display": "24-Sep-2025",
-                            "value": "2025-09-24T06:06:31.938Z"
-                        },
-                        {
-                            "value": "Attorney General's"
-                        },
-                        {
-                            "value": "Justice Technology Services "
-                        },
-                        {
-                            "value": "jodie.ernst@sa.gov.au"
-                        },
-                        {
-                            "value": "VMWare Licensing Renewal 2026"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "01-Apr-26",
-                            "value": "2026-03-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25355?fromControl=Control1",
-                    "id": 25355
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25354"
-                        },
-                        {
-                            "display": "24-Sep-2025",
-                            "value": "2025-09-24T05:54:14.192Z"
-                        },
-                        {
-                            "value": "Attorney General's"
-                        },
-                        {
-                            "value": "Justice Technology Services "
-                        },
-                        {
-                            "value": "jodie.ernst@sa.gov.au"
-                        },
-                        {
-                            "value": "Server and Storage Hardware Support Renewal 2026"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "01-Mar-26",
-                            "value": "2026-02-28T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25354?fromControl=Control1",
-                    "id": 25354
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25353"
-                        },
-                        {
-                            "display": "24-Sep-2025",
-                            "value": "2025-09-24T05:35:18.499Z"
-                        },
-                        {
-                            "value": "Attorney General's"
-                        },
-                        {
-                            "value": "Justice Technology Services "
-                        },
-                        {
-                            "value": "jodie.ernst@sa.gov.au"
-                        },
-                        {
-                            "value": "Annual Oracle Software Maintenance Renewal 2026"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "01-Apr-26",
-                            "value": "2026-03-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25353?fromControl=Control1",
-                    "id": 25353
                 }
             ],
             "aggregates": []
