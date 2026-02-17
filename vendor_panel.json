@@ -67,9 +67,1419 @@
                 "filter": true
             }
         ],
-        "totalRows": 2681,
+        "totalRows": 2706,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR26701"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T04:45:02.137Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Kitchen"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "Kitchen Equipment - 10 Tear Trolleys  (x 12)"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26701?fromControl=Control1",
+                    "id": 26701
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26700"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T04:43:08.19Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Building"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "Building Works - EWIS Speaker System (Replacement)"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26700?fromControl=Control1",
+                    "id": 26700
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26699"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T04:41:20.252Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Building"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "Building Works - Skyway Window Leak Repairs"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26699?fromControl=Control1",
+                    "id": 26699
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26697"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T04:38:22.797Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Guest Services"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "Kitchen Equipment - Rational  ICP 61 Electric Ovens (x 2)  (AEC Arena Backstage) "
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26697?fromControl=Control1",
+                    "id": 26697
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26695"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T04:27:59.021Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Guest Services"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "Hospitality Equipment - Chafing Dishes"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26695?fromControl=Control1",
+                    "id": 26695
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26694"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T04:25:17.824Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Floor Ops"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "Venue Equipment - S20 Tennant Ride On Sweeper to replace the old 6100"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26694?fromControl=Control1",
+                    "id": 26694
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26693"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T04:23:02.911Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Floor Ops"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "Interior Furnishings - New Carpet (Panorama Ballroom)"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26693?fromControl=Control1",
+                    "id": 26693
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26692"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T04:20:20.594Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Corporate Services"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "Corporate Suite - Major Overhaul Cont. (Various objectives to be prioritised inc carpet, furniture, painting, cupholders)"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26692?fromControl=Control1",
+                    "id": 26692
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26691"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T04:16:46.199Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Event Operations"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "Venue Equipment - Chain Motor Upgrade  (AEC)"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26691?fromControl=Control1",
+                    "id": 26691
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26690"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T04:14:48.525Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Event Operations"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "Interior Furnishings - Theartre Floor Carpet Tiles x 2000m2"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26690?fromControl=Control1",
+                    "id": 26690
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26689"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T04:12:32.069Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Event Operations"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "Interior Furnishings - Arena Floor Carpet Tiles x 2700m2"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26689?fromControl=Control1",
+                    "id": 26689
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26687"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T04:08:14.455Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Event Operations"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "Building Works - Upgrade to LED (House) Lighting System Upgrade (Arena) "
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26687?fromControl=Control1",
+                    "id": 26687
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26686"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T04:05:37.666Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Commercial and Contract Management"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Design and Construct Heaslip Road"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26686?fromControl=Control1",
+                    "id": 26686
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26681"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T03:19:18.73Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Strategy and Performance"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Evaluation of 3-year-old preschool implementation "
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "01-Apr-26",
+                            "value": "2026-03-31T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26681?fromControl=Control1",
+                    "id": 26681
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26680"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T03:08:16.396Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Information Technology & Communications (ICT)"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "ICT Equipment - Digital LED Signage (Hall K)"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26680?fromControl=Control1",
+                    "id": 26680
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26679"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T02:16:17.284Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Commercial and Contract Management"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Upgrade of Active Advance Warning Signs"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "17-May-26",
+                            "value": "2026-05-16T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26679?fromControl=Control1",
+                    "id": 26679
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26678"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T02:13:11.25Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Commercial and Contract Management"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Port Augusta Wharf Remediation"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "20-Jul-26",
+                            "value": "2026-07-19T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26678?fromControl=Control1",
+                    "id": 26678
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26677"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T02:04:51.948Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Commercial and Contract Management"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Tumby Bay Jetty - Holding Works and Inspections"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "17-May-26",
+                            "value": "2026-05-16T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26677?fromControl=Control1",
+                    "id": 26677
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26676"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T01:51:26.807Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Commercial and Contract Management"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "New Women's and Children's Hospital - Out of Gate works "
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "17-May-26",
+                            "value": "2026-05-16T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26676?fromControl=Control1",
+                    "id": 26676
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26675"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T01:49:24.871Z"
+                        },
+                        {
+                            "value": "Human Services"
+                        },
+                        {
+                            "value": "Community and Partnerships - Community Programs and Partnerships (DHS > ESI > CP > CPP)"
+                        },
+                        {
+                            "value": "dhsprocurementcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Financial Counselling and Capability Support for Anangu in Adelaide"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "10-Mar-26",
+                            "value": "2026-03-09T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26675?fromControl=Control1",
+                    "id": 26675
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26674"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T01:46:13.076Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Commercial and Contract Management"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Mile End Bus Depot Zero Emissions Conversion"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "01-May-26",
+                            "value": "2026-04-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26674?fromControl=Control1",
+                    "id": 26674
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26673"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T01:38:14.325Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "Water and River Murray"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Lessons learnt assessment for flood projects "
+                        },
+                        {
+                            "value": "Public Administration and Safety"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "18-May-26",
+                            "value": "2026-05-17T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26673?fromControl=Control1",
+                    "id": 26673
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26671"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T00:16:03.59Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Information Technology & Communications (ICT)"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "ICT Equipment - Digital LED Signage (Foyer H Videowall)"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26671?fromControl=Control1",
+                    "id": 26671
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26670"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T00:12:28.444Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Information Technology & Communications (ICT)"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "ICT Equipment - Digital LED Signage (Panorama North + West)"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26670?fromControl=Control1",
+                    "id": 26670
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26669"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T00:08:22.203Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Information Technology & Communications (ICT)"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "ICT Equipment - AVM Smarter Systems Committee - Future Projects"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26669?fromControl=Control1",
+                    "id": 26669
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26668"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-17T00:00:10.803Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Information Technology & Communications (ICT)"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "ICT Equipment - Facial Recognition Technology (FRT) - (ACC Main Entrances) "
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26668?fromControl=Control1",
+                    "id": 26668
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26667"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-16T23:55:14.015Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Information Technology & Communications (ICT)"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "ICT Equipment - CCTV - Recorders (3 or 4 x 160gb) + upgrade to Avigilon Unity"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26667?fromControl=Control1",
+                    "id": 26667
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26666"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-16T23:49:58.228Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Technology Services "
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "AV Equipment - Hearing Augmentation System Upgrade"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26666?fromControl=Control1",
+                    "id": 26666
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26665"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-16T23:45:59.08Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Technology Services "
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "AV Equipment - Cyclorama and Screen Upgrades"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26665?fromControl=Control1",
+                    "id": 26665
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26664"
+                        },
+                        {
+                            "display": "17-Feb-2026",
+                            "value": "2026-02-16T23:26:50.345Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Technology Services "
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "AV Equipment - Matrix Switcher Replacement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26664?fromControl=Control1",
+                    "id": 26664
+                },
                 {
                     "values": [
                         {
@@ -1385,53 +2795,6 @@
                     ],
                     "href": "records/Activity%20Planning/26614?fromControl=Control1",
                     "id": 26614
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26612"
-                        },
-                        {
-                            "display": "13-Feb-2026",
-                            "value": "2026-02-13T00:01:22.264Z"
-                        },
-                        {
-                            "value": "South Australian Tourism Commission"
-                        },
-                        {
-                            "value": "Marketing"
-                        },
-                        {
-                            "value": "procurement2@sa.gov.au"
-                        },
-                        {
-                            "value": "2027 -30 Central Europe Representation Services"
-                        },
-                        {
-                            "value": "Communications and Marketing"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "08-Jun-26",
-                            "value": "2026-06-07T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26612?fromControl=Control1",
-                    "id": 26612
                 },
                 {
                     "values": [
@@ -4346,6 +5709,53 @@
                     ],
                     "href": "records/Activity%20Planning/26455?fromControl=Control1",
                     "id": 26455
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26452"
+                        },
+                        {
+                            "display": "30-Jan-2026",
+                            "value": "2026-01-30T00:44:45.441Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Commercial and Contract Management"
+                        },
+                        {
+                            "value": "DIT.ConstructionProcurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Curtis Road Level Crossing Removal"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "01-Sep-26",
+                            "value": "2026-08-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26452?fromControl=Control1",
+                    "id": 26452
                 },
                 {
                     "values": [
@@ -16758,53 +18168,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR25850"
-                        },
-                        {
-                            "display": "21-Nov-2025",
-                            "value": "2025-11-21T05:27:16.997Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "ryan.dienhoff@sa.gov.au"
-                        },
-                        {
-                            "value": "Industrial Sales Agent (Edinburgh and Edinburgh North Precinct) "
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "26-Jan-26",
-                            "value": "2026-01-25T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25850?fromControl=Control1",
-                    "id": 25850
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR25849"
                         },
                         {
@@ -22206,1369 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/25577?fromControl=Control1",
                     "id": 25577
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25574"
-                        },
-                        {
-                            "display": "23-Oct-2025",
-                            "value": "2025-10-23T04:54:47.924Z"
-                        },
-                        {
-                            "value": "Central Adelaide Local Health Network"
-                        },
-                        {
-                            "value": "Strategy and Digital"
-                        },
-                        {
-                            "value": "lisa.kastelan@sa.gov.au"
-                        },
-                        {
-                            "value": "KLAS Arch Collaborative Membership"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "01-Dec-25",
-                            "value": "2025-11-30T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25574?fromControl=Control1",
-                    "id": 25574
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25571"
-                        },
-                        {
-                            "display": "23-Oct-2025",
-                            "value": "2025-10-23T03:48:02.641Z"
-                        },
-                        {
-                            "value": "Central Adelaide Local Health Network"
-                        },
-                        {
-                            "value": "Finance and Business Services"
-                        },
-                        {
-                            "value": "lisa.kastelan@sa.gov.au"
-                        },
-                        {
-                            "value": "Pest Control at CALHN Sites"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "09-Jun-26",
-                            "value": "2026-06-08T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25571?fromControl=Control1",
-                    "id": 25571
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25566"
-                        },
-                        {
-                            "display": "23-Oct-2025",
-                            "value": "2025-10-22T23:16:51.252Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Road and Marine Services - Marine Services"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "One & All Sewage Treatment Plant"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "02-Feb-26",
-                            "value": "2026-02-01T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25566?fromControl=Control1",
-                    "id": 25566
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25564"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T05:35:08.199Z"
-                        },
-                        {
-                            "value": "Art Gallery of South Australia"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "procurement@artgallery.sa.gov.au"
-                        },
-                        {
-                            "value": "Art Gallery Lighting - Western Wing"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "22-Oct-25",
-                            "value": "2025-10-21T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25564?fromControl=Control1",
-                    "id": 25564
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25563"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T04:22:28.353Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Transport Strategy and Planning"
-                        },
-                        {
-                            "value": "DIT.sstenders@sa.gov.au"
-                        },
-                        {
-                            "value": "South Road (Torrens Road to Port Road)"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "27-Oct-25",
-                            "value": "2025-10-26T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25563?fromControl=Control1",
-                    "id": 25563
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25562"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:33.695Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Megan.Godfrey@SAWater.com.au"
-                        },
-                        {
-                            "value": "Water Main Relay Western Minor Framework"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-Jun-27",
-                            "value": "2027-05-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25562?fromControl=Control1",
-                    "id": 25562
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25561"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:33.671Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Megan.Godfrey@SAWater.com.au"
-                        },
-                        {
-                            "value": "Water Main Relay Northern Minor Framework "
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-Jun-27",
-                            "value": "2027-05-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25561?fromControl=Control1",
-                    "id": 25561
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25560"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:33.65Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Megan.Godfrey@SAWater.com.au"
-                        },
-                        {
-                            "value": "Water Main Relay Central Minor Framework"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-Jun-27",
-                            "value": "2027-05-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25560?fromControl=Control1",
-                    "id": 25560
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25559"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:31.696Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Megan.Godfrey@SAWater.com.au"
-                        },
-                        {
-                            "value": "Wastewater Network Renewal Minor Framework"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-Jun-27",
-                            "value": "2027-05-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25559?fromControl=Control1",
-                    "id": 25559
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25557"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:31.649Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Suman.Roy@SAWater.com.au"
-                        },
-                        {
-                            "value": "Secondary RFQ under Smart Water Meters Panel Unplanned"
-                        },
-                        {
-                            "value": "Industrial and Engineering"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Oct-25",
-                            "value": "2025-10-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25557?fromControl=Control1",
-                    "id": 25557
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25556"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:31.629Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Suman.Roy@SAWater.com.au"
-                        },
-                        {
-                            "value": "Secondary RFQ under Motor Maintenance Panel Unplanned"
-                        },
-                        {
-                            "value": "Industrial and Engineering"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "15-Sep-25",
-                            "value": "2025-09-14T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25556?fromControl=Control1",
-                    "id": 25556
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25555"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:31.607Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Suman.Roy@SAWater.com.au"
-                        },
-                        {
-                            "value": "RFX Unplanned - Gantry Crane Supply and Install"
-                        },
-                        {
-                            "value": "Industrial and Engineering"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "15-Sep-25",
-                            "value": "2025-09-14T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25555?fromControl=Control1",
-                    "id": 25555
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25554"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:31.587Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Celine.Bryan@SAWater.com.au"
-                        },
-                        {
-                            "value": "RFx Public WWTP Lagoon Desludging Services"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-Dec-25",
-                            "value": "2025-11-30T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25554?fromControl=Control1",
-                    "id": 25554
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25553"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:31.566Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Carol.Wilson@SAWater.com.au"
-                        },
-                        {
-                            "value": "RFx Public Permanent Labour Recruitment Services "
-                        },
-                        {
-                            "value": "Human Resources and Staffing"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "24-Jul-25",
-                            "value": "2025-07-23T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25553?fromControl=Control1",
-                    "id": 25553
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25552"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:31.544Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Celine.Bryan@SAWater.com.au"
-                        },
-                        {
-                            "value": "RFx Public MVS -  Overall Scope of Works - Classify, remove and dispose of silt/sedimentation in 200m portion of the Keswick Creek in FY24/25. Services Summary: (1) Sedimentation sampling and Classification"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-Jun-26",
-                            "value": "2026-05-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25552?fromControl=Control1",
-                    "id": 25552
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25551"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:31.521Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Wendy.Smallwood@SAWater.com.au"
-                        },
-                        {
-                            "value": "RFx Public Construction Management Resources"
-                        },
-                        {
-                            "value": "Human Resources and Staffing"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-Feb-25",
-                            "value": "2025-01-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25551?fromControl=Control1",
-                    "id": 25551
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25548"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:29.592Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Suman.Roy@SAWater.com.au"
-                        },
-                        {
-                            "value": "RFQ - Morgan to Whyalla Pump Spare parts Unplanned"
-                        },
-                        {
-                            "value": "Industrial and Engineering"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-Oct-25",
-                            "value": "2025-09-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25548?fromControl=Control1",
-                    "id": 25548
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25547"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:29.571Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Harvey.Hudson@SAWater.com.au"
-                        },
-                        {
-                            "value": "Major Projects - Warren Dam"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-Feb-26",
-                            "value": "2026-01-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25547?fromControl=Control1",
-                    "id": 25547
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25546"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:29.552Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Harvey.Hudson@SAWater.com.au"
-                        },
-                        {
-                            "value": "Major Projects - Hindmarsh Dam"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-Feb-26",
-                            "value": "2026-01-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25546?fromControl=Control1",
-                    "id": 25546
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25545"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:29.53Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Craig.Knott@SAWater.com.au"
-                        },
-                        {
-                            "value": "Major Framework Partners"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-Jul-27",
-                            "value": "2027-06-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25545?fromControl=Control1",
-                    "id": 25545
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25543"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:29.483Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Celine.Bryan@SAWater.com.au"
-                        },
-                        {
-                            "value": "FWD RFx Maintenance of compressors? "
-                        },
-                        {
-                            "value": "Industrial and Engineering"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-Dec-25",
-                            "value": "2025-11-30T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25543?fromControl=Control1",
-                    "id": 25543
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25540"
-                        },
-                        {
-                            "display": "22-Oct-2025",
-                            "value": "2025-10-22T03:09:29.407Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Supply Chain"
-                        },
-                        {
-                            "value": "Harvey.Hudson@SAWater.com.au"
-                        },
-                        {
-                            "value": "Const Services - Automation Panel"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders & Contract"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-Feb-26",
-                            "value": "2026-01-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25540?fromControl=Control1",
-                    "id": 25540
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25538"
-                        },
-                        {
-                            "display": "21-Oct-2025",
-                            "value": "2025-10-21T05:13:10.312Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Curriculum and Learning"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Evaluation of the Aboriginal Education Strategy"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "29-Oct-25",
-                            "value": "2025-10-28T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25538?fromControl=Control1",
-                    "id": 25538
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25537"
-                        },
-                        {
-                            "display": "21-Oct-2025",
-                            "value": "2025-10-21T04:48:35.761Z"
-                        },
-                        {
-                            "value": "Environment and Water"
-                        },
-                        {
-                            "value": "National Parks and Public Lands"
-                        },
-                        {
-                            "value": "DEW.Procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Cleland Wildlife Park - Refurbishment of Toilet Facilities"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "08-Dec-25",
-                            "value": "2025-12-07T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25537?fromControl=Control1",
-                    "id": 25537
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25535"
-                        },
-                        {
-                            "display": "21-Oct-2025",
-                            "value": "2025-10-21T02:53:57.213Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Strategy and Corporate Services"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Personalised Learning System Technical Design Detailed Specification"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Feb-26",
-                            "value": "2026-01-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25535?fromControl=Control1",
-                    "id": 25535
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25533"
-                        },
-                        {
-                            "display": "21-Oct-2025",
-                            "value": "2025-10-21T02:36:40.301Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Strategy and Corporate Services"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "AI Educator Assist \u2013 AI Layer Delivery Services\t\t\t\t"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Feb-26",
-                            "value": "2026-01-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25533?fromControl=Control1",
-                    "id": 25533
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25529"
-                        },
-                        {
-                            "display": "21-Oct-2025",
-                            "value": "2025-10-20T22:38:33.63Z"
-                        },
-                        {
-                            "value": "Housing Trust"
-                        },
-                        {
-                            "value": "Finance and Partnerships"
-                        },
-                        {
-                            "value": "housingprocurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Property Audit \u2013 Community Housing Providers"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "03-Sep-26",
-                            "value": "2026-09-02T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25529?fromControl=Control1",
-                    "id": 25529
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25528"
-                        },
-                        {
-                            "display": "20-Oct-2025",
-                            "value": "2025-10-20T06:03:12.613Z"
-                        },
-                        {
-                            "value": "SAFECOM"
-                        },
-                        {
-                            "value": "CFS"
-                        },
-                        {
-                            "value": "cfs.procurement@eso.sa.gov.au"
-                        },
-                        {
-                            "value": "Dry firefighting equipment across six Regions"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "31-Mar-26",
-                            "value": "2026-03-30T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25528?fromControl=Control1",
-                    "id": 25528
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25525"
-                        },
-                        {
-                            "display": "20-Oct-2025",
-                            "value": "2025-10-20T03:44:08.403Z"
-                        },
-                        {
-                            "value": "SAFECOM"
-                        },
-                        {
-                            "value": "SECTOR"
-                        },
-                        {
-                            "value": "SAFECOM.Procurement@eso.sa.gov.au"
-                        },
-                        {
-                            "value": "ESS Sector Influenza Vaccination Project"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "26-Jan-26",
-                            "value": "2026-01-25T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25525?fromControl=Control1",
-                    "id": 25525
                 }
             ],
             "aggregates": []
