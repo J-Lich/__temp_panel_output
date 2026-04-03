@@ -67,7 +67,7 @@
                 "filter": true
             }
         ],
-        "totalRows": 2096,
+        "totalRows": 2097,
         "data": {
             "rows": [
                 {
@@ -20330,6 +20330,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR26084"
+                        },
+                        {
+                            "display": "15-Dec-2025",
+                            "value": "2025-12-15T04:52:38.697Z"
+                        },
+                        {
+                            "value": "History Trust of South Australia"
+                        },
+                        {
+                            "value": "Audience & Experience"
+                        },
+                        {
+                            "value": "apaterson@history.sa.gov.au"
+                        },
+                        {
+                            "value": "Vessel Slipping"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "17-Mar-26",
+                            "value": "2026-03-16T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26084?fromControl=Control1",
+                    "id": 26084
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR26081"
                         },
                         {
@@ -21069,8 +21116,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "02-Jun-25",
-                            "value": "2025-06-01T14:30:00Z"
+                            "display": "01-Jun-26",
+                            "value": "2026-05-31T14:30:00Z"
                         },
                         {
                             "value": "Released to Market"
@@ -21163,8 +21210,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "02-Jun-25",
-                            "value": "2025-06-01T14:30:00Z"
+                            "display": "01-Jun-26",
+                            "value": "2026-05-31T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -21210,8 +21257,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "02-Jun-25",
-                            "value": "2025-06-01T14:30:00Z"
+                            "display": "01-Jun-26",
+                            "value": "2026-05-31T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -23522,53 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/25878?fromControl=Control1",
                     "id": 25878
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25877"
-                        },
-                        {
-                            "display": "25-Nov-2025",
-                            "value": "2025-11-25T01:19:20.673Z"
-                        },
-                        {
-                            "value": "Primary Industries and Regions"
-                        },
-                        {
-                            "value": "SARDI"
-                        },
-                        {
-                            "value": "pirsa.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "dPCR instrument SARDI MDC"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "25-Feb-26",
-                            "value": "2026-02-24T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25877?fromControl=Control1",
-                    "id": 25877
                 }
             ],
             "aggregates": []
