@@ -67,9 +67,197 @@
                 "filter": true
             }
         ],
-        "totalRows": 2103,
+        "totalRows": 2101,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR27272"
+                        },
+                        {
+                            "display": "09-Apr-2026",
+                            "value": "2026-04-09T06:26:44.526Z"
+                        },
+                        {
+                            "value": "Primary Industries and Regions"
+                        },
+                        {
+                            "value": "Biosecurity"
+                        },
+                        {
+                            "value": "pirsa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Freight for Biosecurity requirements"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27272?fromControl=Control1",
+                    "id": 27272
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27268"
+                        },
+                        {
+                            "display": "09-Apr-2026",
+                            "value": "2026-04-09T05:25:12.499Z"
+                        },
+                        {
+                            "value": "Office of the Chief Information Officer"
+                        },
+                        {
+                            "value": "Office for Cyber Security"
+                        },
+                        {
+                            "value": "OCIOProcurementContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "South Australian Threat Hunting Framework (SATF)"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-May-26",
+                            "value": "2026-04-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27268?fromControl=Control1",
+                    "id": 27268
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27265"
+                        },
+                        {
+                            "display": "09-Apr-2026",
+                            "value": "2026-04-09T00:15:58.182Z"
+                        },
+                        {
+                            "value": "Treasury and Finance"
+                        },
+                        {
+                            "value": "Information & Technology"
+                        },
+                        {
+                            "value": "dtfprocurementservices@sa.gov.au"
+                        },
+                        {
+                            "value": "STAR Modernisation \u2013 Discovery, Design and Build"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "03-Aug-26",
+                            "value": "2026-08-02T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27265?fromControl=Control1",
+                    "id": 27265
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27263"
+                        },
+                        {
+                            "display": "09-Apr-2026",
+                            "value": "2026-04-08T22:23:17.401Z"
+                        },
+                        {
+                            "value": "Health and Wellbeing"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "rachel.sharp@sa.gov.au"
+                        },
+                        {
+                            "value": "New WCH Completion Manager"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "04-May-26",
+                            "value": "2026-05-03T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27263?fromControl=Control1",
+                    "id": 27263
+                },
                 {
                     "values": [
                         {
@@ -183,7 +371,7 @@
                             "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
-                            "value": "Claims Management and Commercial Advisory Services for Grange Road, Holbrooks Road and East Avenue Intersection Upgrade"
+                            "value": "Claims Management and Commercial Advisory Services"
                         },
                         {
                             "value": ""
@@ -252,7 +440,7 @@
                             "value": "2026-05-06T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/27246?fromControl=Control1",
@@ -3354,7 +3542,7 @@
                             "value": "2026-04-20T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/27072?fromControl=Control1",
@@ -3401,7 +3589,7 @@
                             "value": "2026-04-20T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/27071?fromControl=Control1",
@@ -4999,7 +5187,7 @@
                             "value": "2026-03-30T13:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/26967?fromControl=Control1",
@@ -5046,7 +5234,7 @@
                             "value": "2026-03-30T13:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/26966?fromControl=Control1",
@@ -7063,8 +7251,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "14-Apr-26",
-                            "value": "2026-04-13T14:30:00Z"
+                            "display": "",
+                            "value": null
                         },
                         {
                             "value": "Acquisition Planning"
@@ -10968,7 +11156,7 @@
                             "value": "2026-04-20T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26632?fromControl=Control1",
@@ -11015,7 +11203,7 @@
                             "value": "2026-04-20T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26631?fromControl=Control1",
@@ -11156,7 +11344,7 @@
                             "value": "2026-04-20T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26626?fromControl=Control1",
@@ -11203,7 +11391,7 @@
                             "value": "2026-04-20T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26625?fromControl=Control1",
@@ -11250,7 +11438,7 @@
                             "value": "2026-04-20T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26624?fromControl=Control1",
@@ -11297,7 +11485,7 @@
                             "value": "2026-04-20T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26622?fromControl=Control1",
@@ -11344,7 +11532,7 @@
                             "value": "2026-04-20T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26621?fromControl=Control1",
@@ -11438,7 +11626,7 @@
                             "value": "2026-04-20T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26617?fromControl=Control1",
@@ -11485,7 +11673,7 @@
                             "value": "2026-04-20T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26616?fromControl=Control1",
@@ -11613,10 +11801,10 @@
                             "value": "New requirement"
                         },
                         {
-                            "value": ""
+                            "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Possible"
@@ -13327,53 +13515,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR26540"
-                        },
-                        {
-                            "display": "09-Feb-2026",
-                            "value": "2026-02-08T23:23:42.87Z"
-                        },
-                        {
-                            "value": "Adelaide Venue Management Corporation"
-                        },
-                        {
-                            "value": "Building"
-                        },
-                        {
-                            "value": "tenders@avmc.com.au"
-                        },
-                        {
-                            "value": "Construction of Sensory and Prayer Rooms"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "11-Feb-26",
-                            "value": "2026-02-10T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26540?fromControl=Control1",
-                    "id": 26540
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR26538"
                         },
                         {
@@ -14583,8 +14724,8 @@
                             "value": ""
                         },
                         {
-                            "display": "29-Apr-26",
-                            "value": "2026-04-28T14:30:00Z"
+                            "display": "30-Jun-26",
+                            "value": "2026-06-29T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -14659,7 +14800,7 @@
                             "value": "supersaprocurement@sa.gov.au"
                         },
                         {
-                            "value": "Medico-Legal Assessment Services"
+                            "value": "Medical Assessment Services"
                         },
                         {
                             "value": "Healthcare and Community Services"
@@ -22479,8 +22620,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "03-May-26",
-                            "value": "2026-05-02T14:30:00Z"
+                            "display": "01-Jun-26",
+                            "value": "2026-05-31T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -22526,8 +22667,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "30-Mar-26",
-                            "value": "2026-03-29T13:30:00Z"
+                            "display": "01-Jun-26",
+                            "value": "2026-05-31T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -22573,8 +22714,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "21-Apr-26",
-                            "value": "2026-04-20T14:30:00Z"
+                            "display": "01-Jun-26",
+                            "value": "2026-05-31T14:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -23428,147 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/25935?fromControl=Control1",
                     "id": 25935
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25927"
-                        },
-                        {
-                            "display": "01-Dec-2025",
-                            "value": "2025-12-01T03:52:56.933Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
-                        },
-                        {
-                            "value": "Parks Recreation and Sports Centre Renewal Works "
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "12-Oct-26",
-                            "value": "2026-10-11T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25927?fromControl=Control1",
-                    "id": 25927
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25926"
-                        },
-                        {
-                            "display": "01-Dec-2025",
-                            "value": "2025-12-01T03:51:27.175Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
-                        },
-                        {
-                            "value": "Parks Recreation and Sports Centre Renewal Works "
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "16-Mar-26",
-                            "value": "2026-03-15T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25926?fromControl=Control1",
-                    "id": 25926
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR25925"
-                        },
-                        {
-                            "display": "01-Dec-2025",
-                            "value": "2025-12-01T03:47:00.164Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
-                        },
-                        {
-                            "value": "Adelaide SuperDrome Track Upgrade Project "
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "05-Oct-26",
-                            "value": "2026-10-04T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/25925?fromControl=Control1",
-                    "id": 25925
                 }
             ],
             "aggregates": []
