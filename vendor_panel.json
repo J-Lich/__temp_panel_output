@@ -67,9 +67,244 @@
                 "filter": true
             }
         ],
-        "totalRows": 2123,
+        "totalRows": 2124,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR27329"
+                        },
+                        {
+                            "display": "14-Apr-2026",
+                            "value": "2026-04-14T05:22:40.429Z"
+                        },
+                        {
+                            "value": "Primary Industries and Regions"
+                        },
+                        {
+                            "value": "Biosecurity"
+                        },
+                        {
+                            "value": "pirsa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Supply of Droppers and Chicken Netting for flooding"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "28-Apr-26",
+                            "value": "2026-04-27T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27329?fromControl=Control1",
+                    "id": 27329
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27327"
+                        },
+                        {
+                            "display": "14-Apr-2026",
+                            "value": "2026-04-14T05:20:08.093Z"
+                        },
+                        {
+                            "value": "Central Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "Office of CEO"
+                        },
+                        {
+                            "value": "anoop.mammen@sa.gov.au"
+                        },
+                        {
+                            "value": "Leadership Space - Workshops"
+                        },
+                        {
+                            "value": "Human Resources and Staffing"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "20-Apr-26",
+                            "value": "2026-04-19T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27327?fromControl=Control1",
+                    "id": 27327
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27321"
+                        },
+                        {
+                            "display": "14-Apr-2026",
+                            "value": "2026-04-14T05:08:54.597Z"
+                        },
+                        {
+                            "value": "Central Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "Office of CEO"
+                        },
+                        {
+                            "value": "anoop.mammen@sa.gov.au"
+                        },
+                        {
+                            "value": "Transformational Leadership Workshop Program"
+                        },
+                        {
+                            "value": "Human Resources and Staffing"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "20-Apr-26",
+                            "value": "2026-04-19T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27321?fromControl=Control1",
+                    "id": 27321
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27307"
+                        },
+                        {
+                            "display": "14-Apr-2026",
+                            "value": "2026-04-14T03:04:05.131Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "People and Corporate Services - Information Services"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Cyber Security - Application control software"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "15-Jul-26",
+                            "value": "2026-07-14T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27307?fromControl=Control1",
+                    "id": 27307
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27302"
+                        },
+                        {
+                            "display": "14-Apr-2026",
+                            "value": "2026-04-13T23:57:56.164Z"
+                        },
+                        {
+                            "value": "Central Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "Operations and  Performance"
+                        },
+                        {
+                            "value": "joy.chibuoke@sa.gov.au"
+                        },
+                        {
+                            "value": "Digital Platform to Support Endoscopic Services"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "13-Jul-26",
+                            "value": "2026-07-12T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27302?fromControl=Control1",
+                    "id": 27302
+                },
                 {
                     "values": [
                         {
@@ -205,7 +440,7 @@
                             "value": "2026-04-23T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/27292?fromControl=Control1",
@@ -252,7 +487,7 @@
                             "value": "2026-04-16T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/27291?fromControl=Control1",
@@ -299,58 +534,11 @@
                             "value": "2026-04-16T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/27290?fromControl=Control1",
                     "id": 27290
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27283"
-                        },
-                        {
-                            "display": "10-Apr-2026",
-                            "value": "2026-04-10T05:23:54.374Z"
-                        },
-                        {
-                            "value": "Legal Services Commission of South Australia"
-                        },
-                        {
-                            "value": "Information Communication Technology (ICT)"
-                        },
-                        {
-                            "value": "procurement@lsc.sa.gov.au"
-                        },
-                        {
-                            "value": "Microsoft Licences and Support Renewal"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "15-May-26",
-                            "value": "2026-05-14T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27283?fromControl=Control1",
-                    "id": 27283
                 },
                 {
                     "values": [
@@ -1188,8 +1376,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "21-Jul-26",
-                            "value": "2026-07-20T14:30:00Z"
+                            "display": "23-Nov-26",
+                            "value": "2026-11-22T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -1333,7 +1521,7 @@
                             "value": "2026-04-12T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/27233?fromControl=Control1",
@@ -2222,8 +2410,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "30-Jun-26",
-                            "value": "2026-06-29T14:30:00Z"
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -5841,8 +6029,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "30-Apr-26",
-                            "value": "2026-04-29T14:30:00Z"
+                            "display": "30-Sep-26",
+                            "value": "2026-09-29T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -6268,7 +6456,7 @@
                             "value": "2026-03-30T13:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/26956?fromControl=Control1",
@@ -7969,53 +8157,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR26867"
-                        },
-                        {
-                            "display": "02-Mar-2026",
-                            "value": "2026-03-01T22:06:43.57Z"
-                        },
-                        {
-                            "value": "Premier and Cabinet"
-                        },
-                        {
-                            "value": "Coordinator General's Office"
-                        },
-                        {
-                            "value": "dpcprocurementandcontracts@sa.gov.au"
-                        },
-                        {
-                            "value": "Infrastructure and land development Master Program for Northwest Adelaide Economic Region"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "16-Mar-26",
-                            "value": "2026-03-15T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26867?fromControl=Control1",
-                    "id": 26867
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR26866"
                         },
                         {
@@ -8849,8 +8990,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "31-Mar-26",
-                            "value": "2026-03-30T13:30:00Z"
+                            "display": "30-Sep-26",
+                            "value": "2026-09-29T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -10165,11 +10306,11 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "30-Apr-26",
-                            "value": "2026-04-29T14:30:00Z"
+                            "display": "31-Aug-26",
+                            "value": "2026-08-30T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26721?fromControl=Control1",
@@ -13139,53 +13280,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR26595"
-                        },
-                        {
-                            "display": "12-Feb-2026",
-                            "value": "2026-02-12T00:05:54.397Z"
-                        },
-                        {
-                            "value": "Energy and Mining"
-                        },
-                        {
-                            "value": "Corporate and Commercial"
-                        },
-                        {
-                            "value": "dem.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Geodata Feasibility Study"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Apr-26",
-                            "value": "2026-04-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26595?fromControl=Control1",
-                    "id": 26595
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR26593"
                         },
                         {
@@ -14925,6 +15019,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR26497"
+                        },
+                        {
+                            "display": "04-Feb-2026",
+                            "value": "2026-02-04T07:10:41.908Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Curriculum and Learning"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Delivery of Nature-based Play, Teaching and Learning Experiences"
+                        },
+                        {
+                            "value": "Environmental"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "01-Jun-26",
+                            "value": "2026-05-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26497?fromControl=Control1",
+                    "id": 26497
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR26496"
                         },
                         {
@@ -16275,11 +16416,11 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "30-Apr-26",
-                            "value": "2026-04-29T14:30:00Z"
+                            "display": "30-Sep-26",
+                            "value": "2026-09-29T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26413?fromControl=Control1",
@@ -17638,8 +17779,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "30-Mar-26",
-                            "value": "2026-03-29T13:30:00Z"
+                            "display": "03-Aug-26",
+                            "value": "2026-08-02T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -17685,8 +17826,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "29-Mar-26",
-                            "value": "2026-03-28T13:30:00Z"
+                            "display": "03-Aug-26",
+                            "value": "2026-08-02T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -18728,53 +18869,6 @@
                     ],
                     "href": "records/Activity%20Planning/26289?fromControl=Control1",
                     "id": 26289
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26288"
-                        },
-                        {
-                            "display": "16-Jan-2026",
-                            "value": "2026-01-16T04:42:35.212Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Transport Strategy and Planning"
-                        },
-                        {
-                            "value": "DIT.sstenders@sa.gov.au"
-                        },
-                        {
-                            "value": "Tumby Bay Jetty"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "21-Jan-26",
-                            "value": "2026-01-20T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26288?fromControl=Control1",
-                    "id": 26288
                 },
                 {
                     "values": [
@@ -22996,8 +23090,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "06-Apr-26",
-                            "value": "2026-04-05T14:30:00Z"
+                            "display": "04-May-26",
+                            "value": "2026-05-03T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -23099,53 +23193,6 @@
                     ],
                     "href": "records/Activity%20Planning/26047?fromControl=Control1",
                     "id": 26047
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26046"
-                        },
-                        {
-                            "display": "10-Dec-2025",
-                            "value": "2025-12-10T01:44:44.801Z"
-                        },
-                        {
-                            "value": "Housing Trust"
-                        },
-                        {
-                            "value": "Housing Delivery"
-                        },
-                        {
-                            "value": "housingprocurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Construction of 20 dwellings in Metro Adelaide, South Australia"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "02-Feb-26",
-                            "value": "2026-02-01T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26046?fromControl=Control1",
-                    "id": 26046
                 },
                 {
                     "values": [
@@ -23522,53 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/26034?fromControl=Control1",
                     "id": 26034
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26026"
-                        },
-                        {
-                            "display": "09-Dec-2025",
-                            "value": "2025-12-09T03:35:58.796Z"
-                        },
-                        {
-                            "value": "Environment and Water"
-                        },
-                        {
-                            "value": "National Parks and Public Lands"
-                        },
-                        {
-                            "value": "DEW.Procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Gladstone Gaol House 1 Roofing and Flooring Works "
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "02-Feb-26",
-                            "value": "2026-02-01T13:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26026?fromControl=Control1",
-                    "id": 26026
                 }
             ],
             "aggregates": []
