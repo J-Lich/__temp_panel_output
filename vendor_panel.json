@@ -67,9 +67,244 @@
                 "filter": true
             }
         ],
-        "totalRows": 2123,
+        "totalRows": 2132,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR27409"
+                        },
+                        {
+                            "display": "16-Apr-2026",
+                            "value": "2026-04-16T07:44:40.355Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "Biodiversity and Nature Economy"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "2027 Adelaide Beach Management - Dredging"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "14-Jun-26",
+                            "value": "2026-06-13T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27409?fromControl=Control1",
+                    "id": 27409
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27407"
+                        },
+                        {
+                            "display": "16-Apr-2026",
+                            "value": "2026-04-16T07:06:41.671Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "Water and River Murray"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Purchase of a Geophysical downhole density tool"
+                        },
+                        {
+                            "value": "Industrial and Engineering"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "16-Jul-26",
+                            "value": "2026-07-15T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27407?fromControl=Control1",
+                    "id": 27407
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27406"
+                        },
+                        {
+                            "display": "16-Apr-2026",
+                            "value": "2026-04-16T06:38:49.921Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "Water and River Murray"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Regency Park Depot Forklift upgrade"
+                        },
+                        {
+                            "value": "Transportation, logistics, mail services and warehousing"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "16-Jul-26",
+                            "value": "2026-07-15T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27406?fromControl=Control1",
+                    "id": 27406
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27399"
+                        },
+                        {
+                            "display": "16-Apr-2026",
+                            "value": "2026-04-16T03:34:22.785Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Public Lands"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Fire Appliance Replacement Program, Heavy Tanker  "
+                        },
+                        {
+                            "value": "Fleet and vehicles"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "01-Sep-26",
+                            "value": "2026-08-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27399?fromControl=Control1",
+                    "id": 27399
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27391"
+                        },
+                        {
+                            "display": "15-Apr-2026",
+                            "value": "2026-04-15T08:27:39.474Z"
+                        },
+                        {
+                            "value": "West Beach Trust"
+                        },
+                        {
+                            "value": "Operations"
+                        },
+                        {
+                            "value": "natalie.hawkes@westbeachparks.com.au"
+                        },
+                        {
+                            "value": "Beverage Supplkier"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "26-May-26",
+                            "value": "2026-05-25T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27391?fromControl=Control1",
+                    "id": 27391
+                },
                 {
                     "values": [
                         {
@@ -116,6 +351,100 @@
                     ],
                     "href": "records/Activity%20Planning/27390?fromControl=Control1",
                     "id": 27390
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27389"
+                        },
+                        {
+                            "display": "15-Apr-2026",
+                            "value": "2026-04-15T06:16:28.109Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Wildlife Service"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Fencing Construction in support of the Chowilla feral pig eradication program"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "20-Apr-26",
+                            "value": "2026-04-19T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27389?fromControl=Control1",
+                    "id": 27389
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27377"
+                        },
+                        {
+                            "display": "15-Apr-2026",
+                            "value": "2026-04-15T01:54:58.17Z"
+                        },
+                        {
+                            "value": "Office of the Chief Information Officer"
+                        },
+                        {
+                            "value": "Across Government Infrastructure and Service Delivery"
+                        },
+                        {
+                            "value": "OCIOProcurementContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "SolarWinds Licensing Renewal"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "04-May-26",
+                            "value": "2026-05-03T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27377?fromControl=Control1",
+                    "id": 27377
                 },
                 {
                     "values": [
@@ -2705,53 +3034,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR27161"
-                        },
-                        {
-                            "display": "27-Mar-2026",
-                            "value": "2026-03-27T04:26:42.731Z"
-                        },
-                        {
-                            "value": "Lifetime Support Authority"
-                        },
-                        {
-                            "value": "Corporate"
-                        },
-                        {
-                            "value": "paige.pham4@sa.gov.au"
-                        },
-                        {
-                            "value": "Executive Recruitment - Chief Executive"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "18-Mar-26",
-                            "value": "2026-03-17T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27161?fromControl=Control1",
-                    "id": 27161
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR27158"
                         },
                         {
@@ -3256,8 +3538,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "15-Apr-26",
-                            "value": "2026-04-14T14:30:00Z"
+                            "display": "21-Apr-26",
+                            "value": "2026-04-20T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -3500,53 +3782,6 @@
                     ],
                     "href": "records/Activity%20Planning/27117?fromControl=Control1",
                     "id": 27117
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27116"
-                        },
-                        {
-                            "display": "26-Mar-2026",
-                            "value": "2026-03-25T22:43:17.931Z"
-                        },
-                        {
-                            "value": "Environment and Water"
-                        },
-                        {
-                            "value": "Water and River Murray"
-                        },
-                        {
-                            "value": "DEW.Procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Chowilla Floodplain Icon Site - Construction of tempoary banks"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "10-Mar-26",
-                            "value": "2026-03-09T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27116?fromControl=Control1",
-                    "id": 27116
                 },
                 {
                     "values": [
@@ -6123,8 +6358,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "15-Apr-26",
-                            "value": "2026-04-14T14:30:00Z"
+                            "display": "24-Apr-26",
+                            "value": "2026-04-23T14:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -7013,7 +7248,7 @@
                             "value": ""
                         },
                         {
-                            "value": "Almost Certain"
+                            "value": "Probable"
                         },
                         {
                             "display": "01-Mar-27",
@@ -9501,7 +9736,7 @@
                             "value": "Direct Approach"
                         },
                         {
-                            "value": ""
+                            "value": "Email"
                         },
                         {
                             "value": "Probable"
@@ -11710,7 +11945,7 @@
                             "value": "Direct Approach"
                         },
                         {
-                            "value": ""
+                            "value": "Email"
                         },
                         {
                             "value": "Certain"
@@ -19885,13 +20120,13 @@
                             "value": "New requirement"
                         },
                         {
-                            "value": "Open"
+                            "value": "Limited"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
-                            "value": "Probable"
+                            "value": "Certain"
                         },
                         {
                             "display": "02-Mar-26",
@@ -22426,7 +22661,7 @@
                             "value": "Limited"
                         },
                         {
-                            "value": ""
+                            "value": "Email"
                         },
                         {
                             "value": "Probable"
@@ -23334,241 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/26044?fromControl=Control1",
                     "id": 26044
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26043"
-                        },
-                        {
-                            "display": "10-Dec-2025",
-                            "value": "2025-12-10T01:21:56.366Z"
-                        },
-                        {
-                            "value": "History Trust of South Australia"
-                        },
-                        {
-                            "value": "Major Events"
-                        },
-                        {
-                            "value": "dwilden@history.sa.gov.au"
-                        },
-                        {
-                            "value": "RAA Bay to Birdwood 2026 Electrical"
-                        },
-                        {
-                            "value": "Tourism and Entertainment"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Jun-26",
-                            "value": "2026-05-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26043?fromControl=Control1",
-                    "id": 26043
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26042"
-                        },
-                        {
-                            "display": "10-Dec-2025",
-                            "value": "2025-12-10T01:18:08.815Z"
-                        },
-                        {
-                            "value": "History Trust of South Australia"
-                        },
-                        {
-                            "value": "Major Events"
-                        },
-                        {
-                            "value": "dwilden@history.sa.gov.au"
-                        },
-                        {
-                            "value": "RAA Bay to Birdwood Waste Management"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Jun-26",
-                            "value": "2026-05-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26042?fromControl=Control1",
-                    "id": 26042
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26041"
-                        },
-                        {
-                            "display": "10-Dec-2025",
-                            "value": "2025-12-10T01:14:16.084Z"
-                        },
-                        {
-                            "value": "History Trust of South Australia"
-                        },
-                        {
-                            "value": "Major Events"
-                        },
-                        {
-                            "value": "dwilden@history.sa.gov.au"
-                        },
-                        {
-                            "value": "RAA Bay to Birdwood 2026 Audio"
-                        },
-                        {
-                            "value": "Tourism and Entertainment"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Jun-26",
-                            "value": "2026-05-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26041?fromControl=Control1",
-                    "id": 26041
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26040"
-                        },
-                        {
-                            "display": "10-Dec-2025",
-                            "value": "2025-12-10T01:01:02.069Z"
-                        },
-                        {
-                            "value": "History Trust of South Australia"
-                        },
-                        {
-                            "value": "Major Events"
-                        },
-                        {
-                            "value": "dwilden@history.sa.gov.au"
-                        },
-                        {
-                            "value": "RAA Bay to Birdwood 2026 Event"
-                        },
-                        {
-                            "value": "Tourism and Entertainment"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Jun-26",
-                            "value": "2026-05-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26040?fromControl=Control1",
-                    "id": 26040
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26039"
-                        },
-                        {
-                            "display": "10-Dec-2025",
-                            "value": "2025-12-10T00:40:09.503Z"
-                        },
-                        {
-                            "value": "History Trust of South Australia"
-                        },
-                        {
-                            "value": "Major Events"
-                        },
-                        {
-                            "value": "dwilden@history.sa.gov.au"
-                        },
-                        {
-                            "value": "History Festival 2027 Print Program"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "02-Oct-26",
-                            "value": "2026-10-01T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26039?fromControl=Control1",
-                    "id": 26039
                 }
             ],
             "aggregates": []
