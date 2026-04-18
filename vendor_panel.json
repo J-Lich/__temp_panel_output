@@ -67,7 +67,7 @@
                 "filter": true
             }
         ],
-        "totalRows": 2141,
+        "totalRows": 2140,
         "data": {
             "rows": [
                 {
@@ -163,53 +163,6 @@
                     ],
                     "href": "records/Activity%20Planning/27411?fromControl=Control1",
                     "id": 27411
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27410"
-                        },
-                        {
-                            "display": "17-Apr-2026",
-                            "value": "2026-04-16T23:17:32.635Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "DIT.ConstructionProcurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Project Management/Contract Management resource (PSAPMCM)"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "16-Sep-26",
-                            "value": "2026-09-15T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27410?fromControl=Control1",
-                    "id": 27410
                 },
                 {
                     "values": [
@@ -23569,6 +23522,53 @@
                     ],
                     "href": "records/Activity%20Planning/26194?fromControl=Control1",
                     "id": 26194
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26193"
+                        },
+                        {
+                            "display": "08-Jan-2026",
+                            "value": "2026-01-08T03:04:10.915Z"
+                        },
+                        {
+                            "value": "Primary Industries and Regions"
+                        },
+                        {
+                            "value": "Biosecurity"
+                        },
+                        {
+                            "value": "pirsa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Fruit Waste Disposal System"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "08-Apr-26",
+                            "value": "2026-04-07T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26193?fromControl=Control1",
+                    "id": 26193
                 }
             ],
             "aggregates": []
