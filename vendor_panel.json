@@ -67,9 +67,338 @@
                 "filter": true
             }
         ],
-        "totalRows": 2055,
+        "totalRows": 2058,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR27447"
+                        },
+                        {
+                            "display": "21-Apr-2026",
+                            "value": "2026-04-21T07:02:40.873Z"
+                        },
+                        {
+                            "value": "Courts Administration"
+                        },
+                        {
+                            "value": "Court SA"
+                        },
+                        {
+                            "value": "contract_.procurement@courts.sa.gov.au"
+                        },
+                        {
+                            "value": "Objective EDRMS Software Support"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "29-Apr-26",
+                            "value": "2026-04-28T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27447?fromControl=Control1",
+                    "id": 27447
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27443"
+                        },
+                        {
+                            "display": "21-Apr-2026",
+                            "value": "2026-04-21T06:27:58.114Z"
+                        },
+                        {
+                            "value": "Human Services"
+                        },
+                        {
+                            "value": "Community and Partnerships - Community Programs and Partnerships (DHS > ESI > CP > CPP)"
+                        },
+                        {
+                            "value": "dhsprocurementcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Young people with Autism support grant"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27443?fromControl=Control1",
+                    "id": 27443
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27436"
+                        },
+                        {
+                            "display": "21-Apr-2026",
+                            "value": "2026-04-21T02:34:31.023Z"
+                        },
+                        {
+                            "value": "Human Services"
+                        },
+                        {
+                            "value": "Community and Partnerships - Community Connections (DHS > ESI > C&P > CC)"
+                        },
+                        {
+                            "value": "dhsprocurementcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Community Transport SA Program"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "11-May-26",
+                            "value": "2026-05-10T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27436?fromControl=Control1",
+                    "id": 27436
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27435"
+                        },
+                        {
+                            "display": "21-Apr-2026",
+                            "value": "2026-04-21T00:48:26.266Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Gawler Technical College - Cost Manager "
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27435?fromControl=Control1",
+                    "id": 27435
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27434"
+                        },
+                        {
+                            "display": "21-Apr-2026",
+                            "value": "2026-04-21T00:45:42.836Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Murray Bridge Technical College - Cost Manager "
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27434?fromControl=Control1",
+                    "id": 27434
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27433"
+                        },
+                        {
+                            "display": "21-Apr-2026",
+                            "value": "2026-04-20T23:12:34.696Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "People and Corporate Services - LCAS"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Market Sounding \u2013 Roadside Service Centres"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "26-Oct-26",
+                            "value": "2026-10-25T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27433?fromControl=Control1",
+                    "id": 27433
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27431"
+                        },
+                        {
+                            "display": "20-Apr-2026",
+                            "value": "2026-04-20T06:39:54.038Z"
+                        },
+                        {
+                            "value": "Health and Wellbeing"
+                        },
+                        {
+                            "value": "Digital Health SA"
+                        },
+                        {
+                            "value": "umar.khan2@sa.gov.au"
+                        },
+                        {
+                            "value": "Bragg Centre Network Upgrade \u2013 HSNet 2 Network Hardware and Associated Services "
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "27-Apr-26",
+                            "value": "2026-04-26T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27431?fromControl=Control1",
+                    "id": 27431
+                },
                 {
                     "values": [
                         {
@@ -158,11 +487,105 @@
                             "value": "2026-05-11T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/27425?fromControl=Control1",
                     "id": 27425
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27424"
+                        },
+                        {
+                            "display": "20-Apr-2026",
+                            "value": "2026-04-19T23:56:09.975Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "New Schools Delivery  - Cost Manager Consultant Engagement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "30-Jun-26",
+                            "value": "2026-06-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27424?fromControl=Control1",
+                    "id": 27424
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27423"
+                        },
+                        {
+                            "display": "20-Apr-2026",
+                            "value": "2026-04-19T23:53:16.477Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "New Schools Delivery - Lead PSC Consultant Engagement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "23-Jun-26",
+                            "value": "2026-06-22T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27423?fromControl=Control1",
+                    "id": 27423
                 },
                 {
                     "values": [
@@ -1161,13 +1584,13 @@
                             "value": "2026-04-14T06:49:28.394Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "St Leonards Primary School (Gymnasium)"
@@ -1208,13 +1631,13 @@
                             "value": "2026-04-14T06:48:20.508Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "St Leonards Primary School (Gymnasium)"
@@ -1255,13 +1678,13 @@
                             "value": "2026-04-14T06:46:57.01Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "St Leonards Primary School (Gymnasium)"
@@ -1302,13 +1725,13 @@
                             "value": "2026-04-14T06:45:09.977Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Kidman Park Primary School (Gymnasium)"
@@ -1349,13 +1772,13 @@
                             "value": "2026-04-14T06:43:18.602Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Kidman Park Primary School (Gymnasium)"
@@ -1396,13 +1819,13 @@
                             "value": "2026-04-14T06:41:02.111Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Kidman Park Primary School (Gymnasium)"
@@ -1443,13 +1866,13 @@
                             "value": "2026-04-14T06:39:39.235Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Colonel Light Gardens (Gymnasium)"
@@ -1490,13 +1913,13 @@
                             "value": "2026-04-14T06:38:30.835Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Colonel Light Gardens (Gymnasium)"
@@ -1537,13 +1960,13 @@
                             "value": "2026-04-14T06:36:45.886Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Colonel Light Gardens (Gymnasium)"
@@ -1584,13 +2007,13 @@
                             "value": "2026-04-14T06:34:23.421Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Brighton Primary School (Gymnasium)"
@@ -1631,13 +2054,13 @@
                             "value": "2026-04-14T06:32:45.641Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Brighton Primary School (Gymnasium)"
@@ -1678,13 +2101,13 @@
                             "value": "2026-04-14T06:31:08.084Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Brighton Primary School (Gymnasium)"
@@ -1725,13 +2148,13 @@
                             "value": "2026-04-14T06:26:48.305Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Kapunda High School"
@@ -1772,13 +2195,13 @@
                             "value": "2026-04-14T06:25:07.975Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Kapunda High School"
@@ -1819,13 +2242,13 @@
                             "value": "2026-04-14T06:23:34.342Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Kapunda High School"
@@ -1866,13 +2289,13 @@
                             "value": "2026-04-14T06:18:19.76Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Jervois Primary School"
@@ -1913,13 +2336,13 @@
                             "value": "2026-04-14T06:15:20.161Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Jervois Primary School"
@@ -1960,13 +2383,13 @@
                             "value": "2026-04-14T06:13:30.642Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Charles Campbell College"
@@ -2007,13 +2430,13 @@
                             "value": "2026-04-14T06:11:46.315Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Charles Campbell Collage"
@@ -2054,13 +2477,13 @@
                             "value": "2026-04-14T06:09:58.522Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Para Hills High School "
@@ -2101,13 +2524,13 @@
                             "value": "2026-04-14T06:08:13.297Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Para Hills High School "
@@ -2148,13 +2571,13 @@
                             "value": "2026-04-14T06:05:11.12Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Unley Park Primary School"
@@ -2195,13 +2618,13 @@
                             "value": "2026-04-14T06:03:18.044Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Unley Park Primary School"
@@ -2242,13 +2665,13 @@
                             "value": "2026-04-14T06:00:54.347Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Golden Grove High (and Gleeson)"
@@ -2289,13 +2712,13 @@
                             "value": "2026-04-14T05:59:09.478Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Golden Grove High (and Gleeson)"
@@ -2336,13 +2759,13 @@
                             "value": "2026-04-14T05:50:08.121Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Golden Grove High (and Gleeson)"
@@ -2383,13 +2806,13 @@
                             "value": "2026-04-14T05:46:57.671Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Sheidow Park Primary School"
@@ -2430,13 +2853,13 @@
                             "value": "2026-04-14T05:44:54.254Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Sheidow Park Primary School"
@@ -2477,13 +2900,13 @@
                             "value": "2026-04-14T05:40:56.398Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Sheidow Park Primary School"
@@ -2524,13 +2947,13 @@
                             "value": "2026-04-14T05:37:50.149Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Kilkenny Primary School"
@@ -2571,13 +2994,13 @@
                             "value": "2026-04-14T05:35:58.819Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Kilkenny Primary School"
@@ -2618,13 +3041,13 @@
                             "value": "2026-04-14T05:33:19.777Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Kilkenny Primary School "
@@ -2665,13 +3088,13 @@
                             "value": "2026-04-14T05:29:05.14Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Jamestown Capital Works Program"
@@ -2712,13 +3135,13 @@
                             "value": "2026-04-14T05:27:08.16Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Jamestown Capital Works Program"
@@ -2806,13 +3229,13 @@
                             "value": "2026-04-14T05:22:14.188Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Feeling Capital Works Program"
@@ -2900,13 +3323,13 @@
                             "value": "2026-04-14T05:19:11.587Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Feeling Capital Works Program"
@@ -2947,13 +3370,13 @@
                             "value": "2026-04-14T05:17:06.493Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Freeling Capital Works Program"
@@ -2994,13 +3417,13 @@
                             "value": "2026-04-14T05:15:22.135Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Riverton and District High School Capital Works Program"
@@ -3041,13 +3464,13 @@
                             "value": "2026-04-14T05:12:56.324Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Riverton and District High School Capital Works Program"
@@ -3135,13 +3558,13 @@
                             "value": "2026-04-14T05:06:12.251Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Berri Capital Works Program"
@@ -3182,13 +3605,13 @@
                             "value": "2026-04-14T05:04:32.894Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Berri Capital Works Program"
@@ -3276,13 +3699,13 @@
                             "value": "2026-04-14T04:58:53.884Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Berri Capital Works Program"
@@ -3323,13 +3746,13 @@
                             "value": "2026-04-14T04:47:14.993Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Marryatville Capital Works Program"
@@ -3370,13 +3793,13 @@
                             "value": "2026-04-14T04:33:59.449Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Marryatville Capital Works Program"
@@ -3417,13 +3840,13 @@
                             "value": "2026-04-14T04:28:31.391Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Glenburne Capital Works Program"
@@ -3464,13 +3887,13 @@
                             "value": "2026-04-14T04:25:46.432Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Glenburne Capital Works Program"
@@ -3511,13 +3934,13 @@
                             "value": "2026-04-14T04:16:36.539Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Glenburne Capital Works Program"
@@ -3558,13 +3981,13 @@
                             "value": "2026-04-14T04:09:54.222Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Plympton Capital Works Program"
@@ -3605,13 +4028,13 @@
                             "value": "2026-04-14T04:04:13.632Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Plympton Capital Works Program"
@@ -3652,13 +4075,13 @@
                             "value": "2026-04-14T04:00:32.772Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Plympton Capital Works Program"
@@ -3793,63 +4216,16 @@
                             "value": "2026-04-13T06:44:48.232Z"
                         },
                         {
-                            "value": "Education"
+                            "value": "Infrastructure and Transport"
                         },
                         {
                             "value": "Infrastructure"
                         },
                         {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
+                            "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
                             "value": "Murray Bridge Technical College - LPSC"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "23-Jun-26",
-                            "value": "2026-06-22T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27298?fromControl=Control1",
-                    "id": 27298
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27297"
-                        },
-                        {
-                            "display": "13-Apr-2026",
-                            "value": "2026-04-13T06:42:38.631Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Gawler Technical College - LPSC "
                         },
                         {
                             "value": ""
@@ -3874,8 +4250,8 @@
                             "value": "Initiating"
                         }
                     ],
-                    "href": "records/Activity%20Planning/27297?fromControl=Control1",
-                    "id": 27297
+                    "href": "records/Activity%20Planning/27298?fromControl=Control1",
+                    "id": 27298
                 },
                 {
                     "values": [
@@ -4209,49 +4585,49 @@
                 {
                     "values": [
                         {
-                            "value": "PAR27280"
+                            "value": "PAR27281"
                         },
                         {
                             "display": "10-Apr-2026",
-                            "value": "2026-04-10T02:41:44.746Z"
+                            "value": "2026-04-10T03:18:47.988Z"
                         },
                         {
-                            "value": "Housing Trust"
+                            "value": "Limestone Coast Landscape Board"
                         },
                         {
-                            "value": "Finance and Partnerships"
+                            "value": ""
                         },
                         {
-                            "value": "housingprocurement@sa.gov.au"
+                            "value": "le-anne.thomson@sa.gov.au"
                         },
                         {
-                            "value": "Rent to Own Real Estate Services"
+                            "value": "Provision of regulator gates for Karst Springs property"
                         },
                         {
-                            "value": "Other"
+                            "value": "Environmental"
                         },
                         {
                             "value": "New requirement"
                         },
                         {
-                            "value": "Open"
+                            "value": "Direct Approach"
                         },
                         {
-                            "value": "SA Tenders and Contracts"
+                            "value": "Email"
                         },
                         {
-                            "value": "Cancelled"
+                            "value": "Almost Certain"
                         },
                         {
-                            "display": "20-May-26",
-                            "value": "2026-05-19T14:30:00Z"
+                            "display": "24-Apr-26",
+                            "value": "2026-04-23T14:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Initiating"
                         }
                     ],
-                    "href": "records/Activity%20Planning/27280?fromControl=Control1",
-                    "id": 27280
+                    "href": "records/Activity%20Planning/27281?fromControl=Control1",
+                    "id": 27281
                 },
                 {
                     "values": [
@@ -4440,6 +4816,53 @@
                     ],
                     "href": "records/Activity%20Planning/27271?fromControl=Control1",
                     "id": 27271
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27270"
+                        },
+                        {
+                            "display": "09-Apr-2026",
+                            "value": "2026-04-09T06:06:54.464Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Public Transport SA - Asset Management"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Fleet Management and Driver Control Unit Replacement"
+                        },
+                        {
+                            "value": "Transportation, logistics, mail services and warehousing"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Sep-26",
+                            "value": "2026-08-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27270?fromControl=Control1",
+                    "id": 27270
                 },
                 {
                     "values": [
@@ -8138,7 +8561,7 @@
                             "value": "Direct Approach"
                         },
                         {
-                            "value": ""
+                            "value": "Other"
                         },
                         {
                             "value": "Probable"
@@ -9084,8 +9507,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "17-Jun-26",
-                            "value": "2026-06-16T14:30:00Z"
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -10977,32 +11400,32 @@
                 {
                     "values": [
                         {
-                            "value": "PAR26911"
+                            "value": "PAR26910"
                         },
                         {
                             "display": "05-Mar-2026",
-                            "value": "2026-03-04T22:11:19.383Z"
+                            "value": "2026-03-04T20:58:53.736Z"
                         },
                         {
-                            "value": "Health and Wellbeing"
+                            "value": "Housing Trust"
                         },
                         {
-                            "value": "Digital Health SA"
+                            "value": "Housing Delivery"
                         },
                         {
-                            "value": "yvonne.tuong2@sa.gov.au"
+                            "value": "housingprocurement@sa.gov.au"
                         },
                         {
-                            "value": "Enterprise Architecture Management System"
+                            "value": "Construction of 18 new dwellings in Metro Adelaide, South Australia"
                         },
                         {
-                            "value": "ICT Software and Technology"
+                            "value": "Construction"
                         },
                         {
                             "value": "New requirement"
                         },
                         {
-                            "value": "Open"
+                            "value": "Limited"
                         },
                         {
                             "value": "SA Tenders and Contracts"
@@ -11011,15 +11434,15 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "08-Jun-26",
-                            "value": "2026-06-07T14:30:00Z"
+                            "display": "31-Mar-26",
+                            "value": "2026-03-30T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Released to Market"
                         }
                     ],
-                    "href": "records/Activity%20Planning/26911?fromControl=Control1",
-                    "id": 26911
+                    "href": "records/Activity%20Planning/26910?fromControl=Control1",
+                    "id": 26910
                 },
                 {
                     "values": [
@@ -11255,53 +11678,6 @@
                     ],
                     "href": "records/Activity%20Planning/26896?fromControl=Control1",
                     "id": 26896
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26895"
-                        },
-                        {
-                            "display": "03-Mar-2026",
-                            "value": "2026-03-03T06:30:05.969Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Transport Strategy and Planning"
-                        },
-                        {
-                            "value": "DIT.sstenders@sa.gov.au"
-                        },
-                        {
-                            "value": "Northern Schools Andrews Road & Petherton Road, Eyre (17C811)"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "17-Mar-26",
-                            "value": "2026-03-16T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26895?fromControl=Control1",
-                    "id": 26895
                 },
                 {
                     "values": [
@@ -14925,53 +15301,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR26674"
-                        },
-                        {
-                            "display": "17-Feb-2026",
-                            "value": "2026-02-17T01:46:13.076Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Mile End Bus Depot Zero Emissions Conversion"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-May-26",
-                            "value": "2026-04-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26674?fromControl=Control1",
-                    "id": 26674
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR26673"
                         },
                         {
@@ -15480,7 +15809,7 @@
                             "value": "2026-03-16T13:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/26657?fromControl=Control1",
@@ -15959,53 +16288,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR26627"
-                        },
-                        {
-                            "display": "13-Feb-2026",
-                            "value": "2026-02-13T02:24:26.262Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Road and Marine Services - Marine Services"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Lincoln Cove Business Case"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "16-Mar-26",
-                            "value": "2026-03-15T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26627?fromControl=Control1",
-                    "id": 26627
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR26626"
                         },
                         {
@@ -16472,53 +16754,6 @@
                     ],
                     "href": "records/Activity%20Planning/26608?fromControl=Control1",
                     "id": 26608
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26607"
-                        },
-                        {
-                            "display": "13-Feb-2026",
-                            "value": "2026-02-12T22:31:17.611Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Operations - ICT Services"
-                        },
-                        {
-                            "value": "jamie.loprete@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Image library service"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Cancelled"
-                        },
-                        {
-                            "display": "18-May-26",
-                            "value": "2026-05-17T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26607?fromControl=Control1",
-                    "id": 26607
                 },
                 {
                     "values": [
@@ -17360,58 +17595,11 @@
                             "value": "2026-05-11T14:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/26576?fromControl=Control1",
                     "id": 26576
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26575"
-                        },
-                        {
-                            "display": "11-Feb-2026",
-                            "value": "2026-02-10T23:55:16.094Z"
-                        },
-                        {
-                            "value": "Attorney General's"
-                        },
-                        {
-                            "value": "Electoral Commission SA"
-                        },
-                        {
-                            "value": "Mike.Raphael@sa.gov.au"
-                        },
-                        {
-                            "value": "2026 LGPE \u2013 Election Specific Envelopes "
-                        },
-                        {
-                            "value": "Transportation, logistics, mail services and warehousing"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "11-May-26",
-                            "value": "2026-05-10T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26575?fromControl=Control1",
-                    "id": 26575
                 },
                 {
                     "values": [
@@ -19151,53 +19339,6 @@
                     ],
                     "href": "records/Activity%20Planning/26455?fromControl=Control1",
                     "id": 26455
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26453"
-                        },
-                        {
-                            "display": "30-Jan-2026",
-                            "value": "2026-01-30T00:45:23.894Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Transport Strategy and Planning"
-                        },
-                        {
-                            "value": "DIT.sstenders@sa.gov.au"
-                        },
-                        {
-                            "value": "Adelaide Road / Hawthorn Road / Pridmore Terrace, Mount Barker (17C811)"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "05-Feb-26",
-                            "value": "2026-02-04T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26453?fromControl=Control1",
-                    "id": 26453
                 },
                 {
                     "values": [
@@ -21740,32 +21881,32 @@
                 {
                     "values": [
                         {
-                            "value": "PAR26314"
+                            "value": "PAR26316"
                         },
                         {
                             "display": "20-Jan-2026",
-                            "value": "2026-01-20T00:27:09.506Z"
+                            "value": "2026-01-20T02:03:54.108Z"
                         },
                         {
-                            "value": "Limestone Coast Landscape Board"
+                            "value": "Housing Trust"
                         },
                         {
-                            "value": "Limestone Coast Landscape Board"
+                            "value": "Digital and Business Services"
                         },
                         {
-                            "value": "le-anne.thomson@sa.gov.au"
+                            "value": "housingprocurement@sa.gov.au"
                         },
                         {
-                            "value": "Lower Limestone Coast Water Allocation Plan Amendment Process \u2013 Economic Value"
+                            "value": "ICT Advisory Services "
                         },
                         {
-                            "value": "Environmental"
+                            "value": "Advisory and Consultancy Services"
                         },
                         {
-                            "value": "New requirement"
+                            "value": "Recompete expiring contract"
                         },
                         {
-                            "value": "Open"
+                            "value": "Limited"
                         },
                         {
                             "value": "SA Tenders and Contracts"
@@ -21774,15 +21915,15 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "02-Feb-26",
-                            "value": "2026-02-01T13:30:00Z"
+                            "display": "20-Apr-26",
+                            "value": "2026-04-19T14:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
                         }
                     ],
-                    "href": "records/Activity%20Planning/26314?fromControl=Control1",
-                    "id": 26314
+                    "href": "records/Activity%20Planning/26316?fromControl=Control1",
+                    "id": 26316
                 },
                 {
                     "values": [
@@ -23428,147 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/26206?fromControl=Control1",
                     "id": 26206
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26204"
-                        },
-                        {
-                            "display": "08-Jan-2026",
-                            "value": "2026-01-08T03:50:19.569Z"
-                        },
-                        {
-                            "value": "Primary Industries and Regions"
-                        },
-                        {
-                            "value": "Biosecurity"
-                        },
-                        {
-                            "value": "pirsa.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "PPE Wear and Goods, Hygiene and Ground Works Supplies"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "08-Apr-26",
-                            "value": "2026-04-07T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26204?fromControl=Control1",
-                    "id": 26204
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26202"
-                        },
-                        {
-                            "display": "08-Jan-2026",
-                            "value": "2026-01-08T03:42:13.897Z"
-                        },
-                        {
-                            "value": "Primary Industries and Regions"
-                        },
-                        {
-                            "value": "Biosecurity"
-                        },
-                        {
-                            "value": "pirsa.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Field Operator - Fruit Fly Field Management"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "08-Apr-26",
-                            "value": "2026-04-07T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26202?fromControl=Control1",
-                    "id": 26202
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26201"
-                        },
-                        {
-                            "display": "08-Jan-2026",
-                            "value": "2026-01-08T03:37:45.613Z"
-                        },
-                        {
-                            "value": "Primary Industries and Regions"
-                        },
-                        {
-                            "value": "Biosecurity"
-                        },
-                        {
-                            "value": "pirsa.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Purchase of Fyfanon and Miyagi Insecticides"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "08-Apr-26",
-                            "value": "2026-04-07T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26201?fromControl=Control1",
-                    "id": 26201
                 }
             ],
             "aggregates": []
