@@ -67,9 +67,291 @@
                 "filter": true
             }
         ],
-        "totalRows": 2104,
+        "totalRows": 2102,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR27533"
+                        },
+                        {
+                            "display": "27-Apr-2026",
+                            "value": "2026-04-27T06:10:54.201Z"
+                        },
+                        {
+                            "value": "Human Services"
+                        },
+                        {
+                            "value": "Office for Ageing Well (DHS > ADPS > OAW)"
+                        },
+                        {
+                            "value": "dhsprocurementcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "WeekendPlus Content Syndication"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "29-May-26",
+                            "value": "2026-05-28T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27533?fromControl=Control1",
+                    "id": 27533
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27531"
+                        },
+                        {
+                            "display": "27-Apr-2026",
+                            "value": "2026-04-27T05:11:38.805Z"
+                        },
+                        {
+                            "value": "Procurement Services SA"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Cultural Awareness Program"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "29-Jul-26",
+                            "value": "2026-07-28T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27531?fromControl=Control1",
+                    "id": 27531
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27526"
+                        },
+                        {
+                            "display": "27-Apr-2026",
+                            "value": "2026-04-27T02:34:34.354Z"
+                        },
+                        {
+                            "value": "Health and Wellbeing"
+                        },
+                        {
+                            "value": "Procrement and Supply Chain Management (PSCM)"
+                        },
+                        {
+                            "value": "healthpscmspecialistsourcing@sa.gov.au"
+                        },
+                        {
+                            "value": "Interpreter and Translator Services"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "02-Feb-27",
+                            "value": "2027-02-01T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27526?fromControl=Control1",
+                    "id": 27526
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27520"
+                        },
+                        {
+                            "display": "27-Apr-2026",
+                            "value": "2026-04-27T00:27:44.434Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Public Lands"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Demolition of Alligator Lodge in the Mount Remarkable National Park"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "30-Jun-26",
+                            "value": "2026-06-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27520?fromControl=Control1",
+                    "id": 27520
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27519"
+                        },
+                        {
+                            "display": "27-Apr-2026",
+                            "value": "2026-04-27T00:01:52.93Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Public Lands"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Health and Fitness Assessment Services - Fighting Fit Program"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "31-Aug-26",
+                            "value": "2026-08-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27519?fromControl=Control1",
+                    "id": 27519
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27511"
+                        },
+                        {
+                            "display": "24-Apr-2026",
+                            "value": "2026-04-24T04:26:12.588Z"
+                        },
+                        {
+                            "value": "Northern and Yorke Landscape Board"
+                        },
+                        {
+                            "value": "Landscape Operations"
+                        },
+                        {
+                            "value": "michelle.simes@sa.gov.au"
+                        },
+                        {
+                            "value": "Aerial feral deer control - Clare Valley and Limestone Coast"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "01-May-26",
+                            "value": "2026-04-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27511?fromControl=Control1",
+                    "id": 27511
+                },
                 {
                     "values": [
                         {
@@ -769,7 +1051,7 @@
                             "value": "2026-05-31T14:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Initiating"
                         }
                     ],
                     "href": "records/Activity%20Planning/27479?fromControl=Control1",
@@ -2974,8 +3256,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "20-Apr-26",
-                            "value": "2026-04-19T14:30:00Z"
+                            "display": "04-May-26",
+                            "value": "2026-05-03T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -5615,6 +5897,53 @@
                     ],
                     "href": "records/Activity%20Planning/27302?fromControl=Control1",
                     "id": 27302
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27299"
+                        },
+                        {
+                            "display": "13-Apr-2026",
+                            "value": "2026-04-13T06:47:25.776Z"
+                        },
+                        {
+                            "value": "Green Industries SA"
+                        },
+                        {
+                            "value": "Policy and Evaluation"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Commercial & Industrial Waste Audit "
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "03-Aug-26",
+                            "value": "2026-08-02T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27299?fromControl=Control1",
+                    "id": 27299
                 },
                 {
                     "values": [
@@ -9319,8 +9648,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "07-Apr-26",
-                            "value": "2026-04-06T14:30:00Z"
+                            "display": "30-May-26",
+                            "value": "2026-05-29T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -9583,7 +9912,7 @@
                             "value": "dhsprocurementcontracts@sa.gov.au"
                         },
                         {
-                            "value": "Aboriginal Partners - Community Connections Program"
+                            "value": "Aboriginal Partners"
                         },
                         {
                             "value": "Healthcare and Community Services"
@@ -10867,11 +11196,11 @@
                             "value": ""
                         },
                         {
-                            "value": "Probable"
+                            "value": "Certain"
                         },
                         {
-                            "display": "27-Aug-26",
-                            "value": "2026-08-26T14:30:00Z"
+                            "display": "07-May-26",
+                            "value": "2026-05-06T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -10879,53 +11208,6 @@
                     ],
                     "href": "records/Activity%20Planning/27042?fromControl=Control1",
                     "id": 27042
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27041"
-                        },
-                        {
-                            "display": "19-Mar-2026",
-                            "value": "2026-03-18T21:45:41.644Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Out of School Hours Care - Goolwa Primary School 2026"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "17-Aug-26",
-                            "value": "2026-08-16T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27041?fromControl=Control1",
-                    "id": 27041
                 },
                 {
                     "values": [
@@ -11814,7 +12096,7 @@
                             "value": "2026-04-23T14:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/26994?fromControl=Control1",
@@ -20340,13 +20622,13 @@
                             "value": "Primary Industries and Regions"
                         },
                         {
-                            "value": "SARDI"
+                            "value": "Industry, Strategy & Partnerships"
                         },
                         {
                             "value": "pirsa.procurement@sa.gov.au"
                         },
                         {
-                            "value": "SAIMOS Estuarine and Coastal Moorings 2025/26"
+                            "value": "Horticulture Data Collection Report"
                         },
                         {
                             "value": ""
@@ -20364,8 +20646,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "10-Apr-26",
-                            "value": "2026-04-09T14:30:00Z"
+                            "display": "11-May-26",
+                            "value": "2026-05-10T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -22620,11 +22902,11 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "",
-                            "value": null
+                            "display": "01-Apr-26",
+                            "value": "2026-03-31T13:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/26397?fromControl=Control1",
@@ -23275,11 +23557,11 @@
                             "value": "Other"
                         },
                         {
-                            "value": "Probable"
+                            "value": "Possible"
                         },
                         {
-                            "display": "30-Apr-26",
-                            "value": "2026-04-29T14:30:00Z"
+                            "display": "29-Oct-26",
+                            "value": "2026-10-28T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -23287,288 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/26376?fromControl=Control1",
                     "id": 26376
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26375"
-                        },
-                        {
-                            "display": "23-Jan-2026",
-                            "value": "2026-01-22T23:57:40.961Z"
-                        },
-                        {
-                            "value": "Essential Services Commission of South Australia"
-                        },
-                        {
-                            "value": "Consumer Protection and Pricing"
-                        },
-                        {
-                            "value": "Mark.caputo@sa.gov.au"
-                        },
-                        {
-                            "value": "Review of operating expenditure program for SAWRD28"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "31-Oct-26",
-                            "value": "2026-10-30T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26375?fromControl=Control1",
-                    "id": 26375
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26374"
-                        },
-                        {
-                            "display": "23-Jan-2026",
-                            "value": "2026-01-22T23:51:47.412Z"
-                        },
-                        {
-                            "value": "Essential Services Commission of South Australia"
-                        },
-                        {
-                            "value": "Consumer Protection and Pricing"
-                        },
-                        {
-                            "value": "Mark.caputo@sa.gov.au"
-                        },
-                        {
-                            "value": "Review of capital expenditure program for SAWRD28"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "31-Oct-26",
-                            "value": "2026-10-30T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26374?fromControl=Control1",
-                    "id": 26374
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26372"
-                        },
-                        {
-                            "display": "23-Jan-2026",
-                            "value": "2026-01-22T22:41:09.036Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Operations - Corporate Governance and Assurance"
-                        },
-                        {
-                            "value": "jamie.loprete@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Carbon Management Plan "
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "31-May-26",
-                            "value": "2026-05-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26372?fromControl=Control1",
-                    "id": 26372
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26364"
-                        },
-                        {
-                            "display": "22-Jan-2026",
-                            "value": "2026-01-22T03:53:39.025Z"
-                        },
-                        {
-                            "value": "Legal Services Commission of South Australia"
-                        },
-                        {
-                            "value": "Information Communication Technology (ICT)"
-                        },
-                        {
-                            "value": "procurement@lsc.sa.gov.au"
-                        },
-                        {
-                            "value": "Enterprise Architecture Services"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "11-Mar-26",
-                            "value": "2026-03-10T13:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26364?fromControl=Control1",
-                    "id": 26364
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26362"
-                        },
-                        {
-                            "display": "22-Jan-2026",
-                            "value": "2026-01-22T00:52:47.689Z"
-                        },
-                        {
-                            "value": "Human Services"
-                        },
-                        {
-                            "value": "Digital, Data and Technology (DHS > FDCS > DDT)"
-                        },
-                        {
-                            "value": "dhsprocurementcontracts@sa.gov.au"
-                        },
-                        {
-                            "value": "DHS APP Insights Implementation"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "11-Feb-26",
-                            "value": "2026-02-10T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26362?fromControl=Control1",
-                    "id": 26362
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26361"
-                        },
-                        {
-                            "display": "22-Jan-2026",
-                            "value": "2026-01-22T00:39:29.529Z"
-                        },
-                        {
-                            "value": "State Development"
-                        },
-                        {
-                            "value": "Portfolio Delivery"
-                        },
-                        {
-                            "value": "dsd.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "DSD Software licensing"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "25-Jan-27",
-                            "value": "2027-01-24T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26361?fromControl=Control1",
-                    "id": 26361
                 }
             ],
             "aggregates": []
