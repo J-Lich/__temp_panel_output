@@ -67,9 +67,385 @@
                 "filter": true
             }
         ],
-        "totalRows": 2124,
+        "totalRows": 2122,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR27671"
+                        },
+                        {
+                            "display": "06-May-2026",
+                            "value": "2026-05-06T06:11:43.423Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "People"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "Provision of Casual Labour Hire"
+                        },
+                        {
+                            "value": "Tourism and Entertainment"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "06-Jul-26",
+                            "value": "2026-07-05T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27671?fromControl=Control1",
+                    "id": 27671
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27670"
+                        },
+                        {
+                            "display": "06-May-2026",
+                            "value": "2026-05-06T05:45:47.752Z"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "Health.SAASProcurementandContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Supply of Ruggadised Handheld Radios "
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "11-May-26",
+                            "value": "2026-05-10T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27670?fromControl=Control1",
+                    "id": 27670
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27664"
+                        },
+                        {
+                            "display": "06-May-2026",
+                            "value": "2026-05-06T02:34:29.805Z"
+                        },
+                        {
+                            "value": "Housing Trust"
+                        },
+                        {
+                            "value": "Finance and Partnerships"
+                        },
+                        {
+                            "value": "housingprocurement@sa.gov.au"
+                        },
+                        {
+                            "value": "HAFF Remote - Repairs, Maintenance and Improvements - APY Homelands"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "01-Jul-27",
+                            "value": "2027-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27664?fromControl=Control1",
+                    "id": 27664
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27663"
+                        },
+                        {
+                            "display": "06-May-2026",
+                            "value": "2026-05-06T02:29:47.009Z"
+                        },
+                        {
+                            "value": "Housing Trust"
+                        },
+                        {
+                            "value": "Finance and Partnerships"
+                        },
+                        {
+                            "value": "housingprocurement@sa.gov.au"
+                        },
+                        {
+                            "value": "HAFF Remote - Repairs, Maintenance and Improvements - Port Lincoln Homelands"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jan-27",
+                            "value": "2026-12-31T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27663?fromControl=Control1",
+                    "id": 27663
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27661"
+                        },
+                        {
+                            "display": "06-May-2026",
+                            "value": "2026-05-06T02:23:24.391Z"
+                        },
+                        {
+                            "value": "Housing Trust"
+                        },
+                        {
+                            "value": "Finance and Partnerships"
+                        },
+                        {
+                            "value": "housingprocurement@sa.gov.au"
+                        },
+                        {
+                            "value": "HAFF Remote - Repairs, Maintenance and Improvements - APY Lands and Dunjiba - Stage 2"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jan-27",
+                            "value": "2026-12-31T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27661?fromControl=Control1",
+                    "id": 27661
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27660"
+                        },
+                        {
+                            "display": "06-May-2026",
+                            "value": "2026-05-06T02:17:57.748Z"
+                        },
+                        {
+                            "value": "Housing Trust"
+                        },
+                        {
+                            "value": "Finance and Partnerships"
+                        },
+                        {
+                            "value": "housingprocurement@sa.gov.au"
+                        },
+                        {
+                            "value": "HAFF Remote - Repairs, Maintenance and Improvements - Nipapanha and Northern Flinders Homelands"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Sep-26",
+                            "value": "2026-08-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27660?fromControl=Control1",
+                    "id": 27660
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27659"
+                        },
+                        {
+                            "display": "06-May-2026",
+                            "value": "2026-05-06T01:57:05.787Z"
+                        },
+                        {
+                            "value": "Housing Trust"
+                        },
+                        {
+                            "value": "Finance and Partnerships"
+                        },
+                        {
+                            "value": "housingprocurement@sa.gov.au"
+                        },
+                        {
+                            "value": "HAFF Remote - Repairs, Maintenance and Improvements - West Coast Homelands"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Sep-26",
+                            "value": "2026-08-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27659?fromControl=Control1",
+                    "id": 27659
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27658"
+                        },
+                        {
+                            "display": "06-May-2026",
+                            "value": "2026-05-06T01:43:46.085Z"
+                        },
+                        {
+                            "value": "Housing Trust"
+                        },
+                        {
+                            "value": "Finance and Partnerships"
+                        },
+                        {
+                            "value": "housingprocurement@sa.gov.au"
+                        },
+                        {
+                            "value": "HAFF Remote - Repairs, Maintenance and Improvements - Oak Valley"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27658?fromControl=Control1",
+                    "id": 27658
+                },
                 {
                     "values": [
                         {
@@ -163,6 +539,53 @@
                     ],
                     "href": "records/Activity%20Planning/27645?fromControl=Control1",
                     "id": 27645
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27636"
+                        },
+                        {
+                            "display": "04-May-2026",
+                            "value": "2026-05-04T07:49:11.919Z"
+                        },
+                        {
+                            "value": "Attorney General's"
+                        },
+                        {
+                            "value": "Technology Services"
+                        },
+                        {
+                            "value": "nathan.chattaway@sa.gov.au"
+                        },
+                        {
+                            "value": "Corporate Case Management System"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "29-May-26",
+                            "value": "2026-05-28T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27636?fromControl=Control1",
+                    "id": 27636
                 },
                 {
                     "values": [
@@ -8849,8 +9272,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "01-Jan-27",
-                            "value": "2026-12-31T13:30:00Z"
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -11114,53 +11537,6 @@
                     ],
                     "href": "records/Activity%20Planning/27108?fromControl=Control1",
                     "id": 27108
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27107"
-                        },
-                        {
-                            "display": "25-Mar-2026",
-                            "value": "2026-03-25T01:23:02.315Z"
-                        },
-                        {
-                            "value": "Attorney General's"
-                        },
-                        {
-                            "value": "Consumer and Business Services"
-                        },
-                        {
-                            "value": "larissa.chapman2@sa.gov.au"
-                        },
-                        {
-                            "value": "Website Rebuild Project"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "25-Mar-26",
-                            "value": "2026-03-24T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27107?fromControl=Control1",
-                    "id": 27107
                 },
                 {
                     "values": [
@@ -14756,7 +15132,7 @@
                             "value": "Developmnet of an Evaluation Framework of the Aboriginal Childhood Stratergy \t\t\t\t"
                         },
                         {
-                            "value": ""
+                            "value": "Advisory and Consultancy Services"
                         },
                         {
                             "value": "New requirement"
@@ -15297,53 +15673,6 @@
                     ],
                     "href": "records/Activity%20Planning/26896?fromControl=Control1",
                     "id": 26896
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26889"
-                        },
-                        {
-                            "display": "03-Mar-2026",
-                            "value": "2026-03-03T02:13:52.52Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Sales and Corporate Affairs"
-                        },
-                        {
-                            "value": "tariq.azam@sa.gov.au"
-                        },
-                        {
-                            "value": "Seaton Sales Centre"
-                        },
-                        {
-                            "value": "Communications and Marketing"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Apr-26",
-                            "value": "2026-03-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26889?fromControl=Control1",
-                    "id": 26889
                 },
                 {
                     "values": [
@@ -23240,335 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/26466?fromControl=Control1",
                     "id": 26466
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26460"
-                        },
-                        {
-                            "display": "02-Feb-2026",
-                            "value": "2026-02-01T23:36:41.264Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Richmond Road Main Works"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "26-Aug-26",
-                            "value": "2026-08-25T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26460?fromControl=Control1",
-                    "id": 26460
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26459"
-                        },
-                        {
-                            "display": "02-Feb-2026",
-                            "value": "2026-02-01T23:35:07.055Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Bituminous Works"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "30-Sep-26",
-                            "value": "2026-09-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26459?fromControl=Control1",
-                    "id": 26459
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26456"
-                        },
-                        {
-                            "display": "30-Jan-2026",
-                            "value": "2026-01-30T03:12:50.976Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Canteen Services - Christies Beach High School"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "01-Apr-26",
-                            "value": "2026-03-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26456?fromControl=Control1",
-                    "id": 26456
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26455"
-                        },
-                        {
-                            "display": "30-Jan-2026",
-                            "value": "2026-01-30T02:39:07.354Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Canteen Services - Golden Grove High School"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "01-May-26",
-                            "value": "2026-04-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26455?fromControl=Control1",
-                    "id": 26455
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26452"
-                        },
-                        {
-                            "display": "30-Jan-2026",
-                            "value": "2026-01-30T00:44:45.441Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "DIT.ConstructionProcurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Curtis Road Level Crossing Removal"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "01-Sep-26",
-                            "value": "2026-08-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26452?fromControl=Control1",
-                    "id": 26452
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26450"
-                        },
-                        {
-                            "display": "30-Jan-2026",
-                            "value": "2026-01-29T23:22:43.872Z"
-                        },
-                        {
-                            "value": "Treasury and Finance"
-                        },
-                        {
-                            "value": "South Australian Government Financing Authority"
-                        },
-                        {
-                            "value": "dtfprocurementservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Driver Training and Education Services "
-                        },
-                        {
-                            "value": "Fleet and vehicles"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "30-Jun-26",
-                            "value": "2026-06-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26450?fromControl=Control1",
-                    "id": 26450
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26443"
-                        },
-                        {
-                            "display": "29-Jan-2026",
-                            "value": "2026-01-29T04:50:42.533Z"
-                        },
-                        {
-                            "value": "State Development"
-                        },
-                        {
-                            "value": "Portfolio Delivery"
-                        },
-                        {
-                            "value": "dsd.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Professional Services Contractors"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Jun-26",
-                            "value": "2026-06-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26443?fromControl=Control1",
-                    "id": 26443
                 }
             ],
             "aggregates": []
