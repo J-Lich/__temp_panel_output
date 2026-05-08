@@ -67,9 +67,103 @@
                 "filter": true
             }
         ],
-        "totalRows": 2121,
+        "totalRows": 2113,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR27695"
+                        },
+                        {
+                            "display": "08-May-2026",
+                            "value": "2026-05-08T00:41:56.601Z"
+                        },
+                        {
+                            "value": "Primary Industries and Regions"
+                        },
+                        {
+                            "value": "Corporate Services"
+                        },
+                        {
+                            "value": "pirsa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Chemical Management System"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "21-Jul-26",
+                            "value": "2026-07-20T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27695?fromControl=Control1",
+                    "id": 27695
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27694"
+                        },
+                        {
+                            "display": "07-May-2026",
+                            "value": "2026-05-07T09:21:47.267Z"
+                        },
+                        {
+                            "value": "Southern Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "Infrastructure Services"
+                        },
+                        {
+                            "value": "michael.alliston3@sa.gov.au"
+                        },
+                        {
+                            "value": "Mobile Pods"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "24-May-26",
+                            "value": "2026-05-23T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27694?fromControl=Control1",
+                    "id": 27694
+                },
                 {
                     "values": [
                         {
@@ -3645,6 +3739,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR27467"
+                        },
+                        {
+                            "display": "22-Apr-2026",
+                            "value": "2026-04-22T03:17:40.065Z"
+                        },
+                        {
+                            "value": "Premier and Cabinet"
+                        },
+                        {
+                            "value": "SA Motor Sport Board"
+                        },
+                        {
+                            "value": "SAMSBProcurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Ticketing Services"
+                        },
+                        {
+                            "value": "Tourism and Entertainment"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "27-Apr-26",
+                            "value": "2026-04-26T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27467?fromControl=Control1",
+                    "id": 27467
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR27463"
                         },
                         {
@@ -4534,53 +4675,6 @@
                     ],
                     "href": "records/Activity%20Planning/27421?fromControl=Control1",
                     "id": 27421
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27420"
-                        },
-                        {
-                            "display": "20-Apr-2026",
-                            "value": "2026-04-19T22:54:47.925Z"
-                        },
-                        {
-                            "value": "Premier and Cabinet"
-                        },
-                        {
-                            "value": "SA Motor Sport Board"
-                        },
-                        {
-                            "value": "dpcprocurementandcontracts@sa.gov.au"
-                        },
-                        {
-                            "value": "Architectural and Master Planning service"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "10-Apr-26",
-                            "value": "2026-04-09T14:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27420?fromControl=Control1",
-                    "id": 27420
                 },
                 {
                     "values": [
@@ -15617,11 +15711,11 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "08-Jun-26",
-                            "value": "2026-06-07T14:30:00Z"
+                            "display": "14-May-26",
+                            "value": "2026-05-13T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26911?fromControl=Control1",
@@ -17864,10 +17958,10 @@
                             "value": "New requirement"
                         },
                         {
-                            "value": "Open"
+                            "value": "Limited"
                         },
                         {
-                            "value": ""
+                            "value": "Email"
                         },
                         {
                             "value": "Certain"
@@ -23475,100 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/26489?fromControl=Control1",
                     "id": 26489
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26487"
-                        },
-                        {
-                            "display": "04-Feb-2026",
-                            "value": "2026-02-04T02:48:59.953Z"
-                        },
-                        {
-                            "value": "SA Police"
-                        },
-                        {
-                            "value": "Business Service"
-                        },
-                        {
-                            "value": "SAPOL.PCMSB@police.sa.gov.au"
-                        },
-                        {
-                            "value": "PHQ L1 Training Room Refurbishment"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "04-Mar-26",
-                            "value": "2026-03-03T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26487?fromControl=Control1",
-                    "id": 26487
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26483"
-                        },
-                        {
-                            "display": "04-Feb-2026",
-                            "value": "2026-02-03T22:59:02.169Z"
-                        },
-                        {
-                            "value": "Primary Industries and Regions"
-                        },
-                        {
-                            "value": "Industry, Strategy & Partnerships"
-                        },
-                        {
-                            "value": "pirsa.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Compilation of regular Crop and Pasture reports"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "04-May-26",
-                            "value": "2026-05-03T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26483?fromControl=Control1",
-                    "id": 26483
                 }
             ],
             "aggregates": []
