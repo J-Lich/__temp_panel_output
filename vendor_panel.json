@@ -67,9 +67,197 @@
                 "filter": true
             }
         ],
-        "totalRows": 2112,
+        "totalRows": 2110,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR27710"
+                        },
+                        {
+                            "display": "11-May-2026",
+                            "value": "2026-05-11T05:24:26.588Z"
+                        },
+                        {
+                            "value": "Housing and Urban Development"
+                        },
+                        {
+                            "value": "Outback Communities Authority"
+                        },
+                        {
+                            "value": "DHUD.Procurement@sa.gov.au "
+                        },
+                        {
+                            "value": "CAT Compactor wheels purchase "
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "18-May-26",
+                            "value": "2026-05-17T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27710?fromControl=Control1",
+                    "id": 27710
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27707"
+                        },
+                        {
+                            "display": "11-May-2026",
+                            "value": "2026-05-11T01:47:52.666Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Wildlife Service"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Shell Beach Boardwalk and Staircase Construction - Innes National Park"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "30-Jun-26",
+                            "value": "2026-06-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27707?fromControl=Control1",
+                    "id": 27707
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27699"
+                        },
+                        {
+                            "display": "08-May-2026",
+                            "value": "2026-05-08T04:47:37.178Z"
+                        },
+                        {
+                            "value": "Attorney General's"
+                        },
+                        {
+                            "value": "Justice Technology Services "
+                        },
+                        {
+                            "value": "jason.symchoon2@sa.gov.au"
+                        },
+                        {
+                            "value": "Enterprise cyber security tooling solution"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "09-Aug-26",
+                            "value": "2026-08-08T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27699?fromControl=Control1",
+                    "id": 27699
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27698"
+                        },
+                        {
+                            "display": "08-May-2026",
+                            "value": "2026-05-08T04:31:50.506Z"
+                        },
+                        {
+                            "value": "Attorney General's"
+                        },
+                        {
+                            "value": "Justice Technology Services "
+                        },
+                        {
+                            "value": "jason.symchoon2@sa.gov.au"
+                        },
+                        {
+                            "value": "AGD cyber security services panel"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "09-Aug-26",
+                            "value": "2026-08-08T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27698?fromControl=Control1",
+                    "id": 27698
+                },
                 {
                     "values": [
                         {
@@ -402,53 +590,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR27672"
-                        },
-                        {
-                            "display": "06-May-2026",
-                            "value": "2026-05-06T06:50:33.698Z"
-                        },
-                        {
-                            "value": "Housing Trust"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "housingprocurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Project and Program Governance"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "27-May-26",
-                            "value": "2026-05-26T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27672?fromControl=Control1",
-                    "id": 27672
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR27671"
                         },
                         {
@@ -539,6 +680,53 @@
                     ],
                     "href": "records/Activity%20Planning/27670?fromControl=Control1",
                     "id": 27670
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27665"
+                        },
+                        {
+                            "display": "06-May-2026",
+                            "value": "2026-05-06T02:38:30.252Z"
+                        },
+                        {
+                            "value": "Housing Trust"
+                        },
+                        {
+                            "value": "Finance and Partnerships"
+                        },
+                        {
+                            "value": "housingprocurement@sa.gov.au"
+                        },
+                        {
+                            "value": "HAFF Remote - Repairs, Maintenance and Improvements - Yalata, Koonibba and Umoona - Stage 2"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "01-Mar-27",
+                            "value": "2027-02-28T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27665?fromControl=Control1",
+                    "id": 27665
                 },
                 {
                     "values": [
@@ -859,8 +1047,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "",
-                            "value": null
+                            "display": "20-May-26",
+                            "value": "2026-05-19T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -1056,6 +1244,53 @@
                     ],
                     "href": "records/Activity%20Planning/27633?fromControl=Control1",
                     "id": 27633
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27628"
+                        },
+                        {
+                            "display": "04-May-2026",
+                            "value": "2026-05-04T04:22:34.067Z"
+                        },
+                        {
+                            "value": "Renewal SA"
+                        },
+                        {
+                            "value": "Asset Management "
+                        },
+                        {
+                            "value": "christine.sutcliffe@sa.gov.au"
+                        },
+                        {
+                            "value": "Adelaide Railway Station Cleaning Serices "
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "08-May-26",
+                            "value": "2026-05-07T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27628?fromControl=Control1",
+                    "id": 27628
                 },
                 {
                     "values": [
@@ -2137,53 +2372,6 @@
                     ],
                     "href": "records/Activity%20Planning/27546?fromControl=Control1",
                     "id": 27546
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27542"
-                        },
-                        {
-                            "display": "28-Apr-2026",
-                            "value": "2026-04-28T00:02:59.054Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Education Standards Board"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Management of hard copy records"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "23-Apr-26",
-                            "value": "2026-04-22T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27542?fromControl=Control1",
-                    "id": 27542
                 },
                 {
                     "values": [
@@ -15458,7 +15646,7 @@
                             "value": "Education.ProcurementUnit@sa.gov.au"
                         },
                         {
-                            "value": "Developmnet of an Evaluation Framework of the Aboriginal Childhood Stratergy \t\t\t\t"
+                            "value": "Aboriginal Childhood Strategy - Evaluation Framework Development\t\t"
                         },
                         {
                             "value": "Advisory and Consultancy Services"
@@ -15480,7 +15668,7 @@
                             "value": "2026-06-09T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/26931?fromControl=Control1",
@@ -23381,194 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/26496?fromControl=Control1",
                     "id": 26496
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26493"
-                        },
-                        {
-                            "display": "04-Feb-2026",
-                            "value": "2026-02-04T03:39:22.965Z"
-                        },
-                        {
-                            "value": "Environment and Water"
-                        },
-                        {
-                            "value": "Biodiversity and Nature Economy"
-                        },
-                        {
-                            "value": "DEW.Procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Coasts - Hydrographic Services"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "04-May-26",
-                            "value": "2026-05-03T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26493?fromControl=Control1",
-                    "id": 26493
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26492"
-                        },
-                        {
-                            "display": "04-Feb-2026",
-                            "value": "2026-02-04T03:38:35.1Z"
-                        },
-                        {
-                            "value": "SA Police"
-                        },
-                        {
-                            "value": "Business Service"
-                        },
-                        {
-                            "value": "SAPOL.PCMSB@police.sa.gov.au"
-                        },
-                        {
-                            "value": "Ceduna Generator Replacement"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "04-Mar-26",
-                            "value": "2026-03-03T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26492?fromControl=Control1",
-                    "id": 26492
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26490"
-                        },
-                        {
-                            "display": "04-Feb-2026",
-                            "value": "2026-02-04T03:20:46.202Z"
-                        },
-                        {
-                            "value": "SA Police"
-                        },
-                        {
-                            "value": "Business Service"
-                        },
-                        {
-                            "value": "SAPOL.PCMSB@police.sa.gov.au"
-                        },
-                        {
-                            "value": "Berri distribution boards upgrade"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "04-Mar-26",
-                            "value": "2026-03-03T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26490?fromControl=Control1",
-                    "id": 26490
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26489"
-                        },
-                        {
-                            "display": "04-Feb-2026",
-                            "value": "2026-02-04T03:07:26.762Z"
-                        },
-                        {
-                            "value": "SA Police"
-                        },
-                        {
-                            "value": "Business Service"
-                        },
-                        {
-                            "value": "SAPOL.PCMSB@police.sa.gov.au"
-                        },
-                        {
-                            "value": "Henley Beach Generator Replacement"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "04-Mar-26",
-                            "value": "2026-03-03T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26489?fromControl=Control1",
-                    "id": 26489
                 }
             ],
             "aggregates": []
