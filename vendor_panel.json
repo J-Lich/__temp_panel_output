@@ -67,9 +67,56 @@
                 "filter": true
             }
         ],
-        "totalRows": 2079,
+        "totalRows": 2080,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR28043"
+                        },
+                        {
+                            "display": "29-May-2026",
+                            "value": "2026-05-29T06:28:18.976Z"
+                        },
+                        {
+                            "value": "Attorney General's"
+                        },
+                        {
+                            "value": "Public Safety Solutions "
+                        },
+                        {
+                            "value": "joanna.schrader@sa.gov.au"
+                        },
+                        {
+                            "value": "SPARAS Interim Facilities Design"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "01-Jun-26",
+                            "value": "2026-05-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28043?fromControl=Control1",
+                    "id": 28043
+                },
                 {
                     "values": [
                         {
@@ -23522,53 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/26665?fromControl=Control1",
                     "id": 26665
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26664"
-                        },
-                        {
-                            "display": "17-Feb-2026",
-                            "value": "2026-02-16T23:26:50.345Z"
-                        },
-                        {
-                            "value": "Adelaide Venue Management Corporation"
-                        },
-                        {
-                            "value": "Technology Services "
-                        },
-                        {
-                            "value": "tenders@avmc.com.au"
-                        },
-                        {
-                            "value": "AV Equipment - Matrix Switcher Replacement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Jul-26",
-                            "value": "2026-06-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26664?fromControl=Control1",
-                    "id": 26664
                 }
             ],
             "aggregates": []
