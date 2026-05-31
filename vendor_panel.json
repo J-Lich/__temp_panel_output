@@ -67,7 +67,7 @@
                 "filter": true
             }
         ],
-        "totalRows": 2080,
+        "totalRows": 2094,
         "data": {
             "rows": [
                 {
@@ -633,6 +633,53 @@
                     ],
                     "href": "records/Activity%20Planning/27959?fromControl=Control1",
                     "id": 27959
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27954"
+                        },
+                        {
+                            "display": "26-May-2026",
+                            "value": "2026-05-25T23:55:06.791Z"
+                        },
+                        {
+                            "value": "Child Protection"
+                        },
+                        {
+                            "value": "ICT and Information Management"
+                        },
+                        {
+                            "value": "DCPprocurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Extended Hardware Maintenance for Servers"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27954?fromControl=Control1",
+                    "id": 27954
                 },
                 {
                     "values": [
@@ -1714,6 +1761,53 @@
                     ],
                     "href": "records/Activity%20Planning/27857?fromControl=Control1",
                     "id": 27857
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27851"
+                        },
+                        {
+                            "display": "21-May-2026",
+                            "value": "2026-05-21T02:42:48.883Z"
+                        },
+                        {
+                            "value": "Child Protection"
+                        },
+                        {
+                            "value": "ICT and Information Management"
+                        },
+                        {
+                            "value": "DCPprocurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Business Process Management(BPM) Platform"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27851?fromControl=Control1",
+                    "id": 27851
                 },
                 {
                     "values": [
@@ -18168,6 +18262,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR26970"
+                        },
+                        {
+                            "display": "12-Mar-2026",
+                            "value": "2026-03-11T20:50:48.187Z"
+                        },
+                        {
+                            "value": "Child Protection"
+                        },
+                        {
+                            "value": "ICT and Information Management"
+                        },
+                        {
+                            "value": "DCPprocurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Integration Strategy Partner"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26970?fromControl=Control1",
+                    "id": 26970
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR26960"
                         },
                         {
@@ -18728,6 +18869,53 @@
                     ],
                     "href": "records/Activity%20Planning/26939?fromControl=Control1",
                     "id": 26939
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26938"
+                        },
+                        {
+                            "display": "10-Mar-2026",
+                            "value": "2026-03-10T00:10:36.191Z"
+                        },
+                        {
+                            "value": "Child Protection"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "DCPprocurement@sa.gov.au"
+                        },
+                        {
+                            "value": "PCSE - Server and Storage Purchase"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26938?fromControl=Control1",
+                    "id": 26938
                 },
                 {
                     "values": [
@@ -23381,194 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/26669?fromControl=Control1",
                     "id": 26669
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26668"
-                        },
-                        {
-                            "display": "17-Feb-2026",
-                            "value": "2026-02-17T00:00:10.803Z"
-                        },
-                        {
-                            "value": "Adelaide Venue Management Corporation"
-                        },
-                        {
-                            "value": "Information Technology & Communications (ICT)"
-                        },
-                        {
-                            "value": "tenders@avmc.com.au"
-                        },
-                        {
-                            "value": "ICT Equipment - Facial Recognition Technology (FRT) - (ACC Main Entrances) "
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Jul-26",
-                            "value": "2026-06-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26668?fromControl=Control1",
-                    "id": 26668
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26667"
-                        },
-                        {
-                            "display": "17-Feb-2026",
-                            "value": "2026-02-16T23:55:14.015Z"
-                        },
-                        {
-                            "value": "Adelaide Venue Management Corporation"
-                        },
-                        {
-                            "value": "Information Technology & Communications (ICT)"
-                        },
-                        {
-                            "value": "tenders@avmc.com.au"
-                        },
-                        {
-                            "value": "ICT Equipment - CCTV - Recorders (3 or 4 x 160gb) + upgrade to Avigilon Unity"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Jul-26",
-                            "value": "2026-06-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26667?fromControl=Control1",
-                    "id": 26667
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26666"
-                        },
-                        {
-                            "display": "17-Feb-2026",
-                            "value": "2026-02-16T23:49:58.228Z"
-                        },
-                        {
-                            "value": "Adelaide Venue Management Corporation"
-                        },
-                        {
-                            "value": "Technology Services "
-                        },
-                        {
-                            "value": "tenders@avmc.com.au"
-                        },
-                        {
-                            "value": "AV Equipment - Hearing Augmentation System Upgrade"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Jul-26",
-                            "value": "2026-06-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26666?fromControl=Control1",
-                    "id": 26666
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26665"
-                        },
-                        {
-                            "display": "17-Feb-2026",
-                            "value": "2026-02-16T23:45:59.08Z"
-                        },
-                        {
-                            "value": "Adelaide Venue Management Corporation"
-                        },
-                        {
-                            "value": "Technology Services "
-                        },
-                        {
-                            "value": "tenders@avmc.com.au"
-                        },
-                        {
-                            "value": "AV Equipment - Cyclorama and Screen Upgrades"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Jul-26",
-                            "value": "2026-06-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26665?fromControl=Control1",
-                    "id": 26665
                 }
             ],
             "aggregates": []
