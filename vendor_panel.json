@@ -67,9 +67,56 @@
                 "filter": true
             }
         ],
-        "totalRows": 2095,
+        "totalRows": 2087,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR28074"
+                        },
+                        {
+                            "display": "02-Jun-2026",
+                            "value": "2026-06-02T04:51:34.511Z"
+                        },
+                        {
+                            "value": "Legal Services Commission of South Australia"
+                        },
+                        {
+                            "value": "Communications and Engagement"
+                        },
+                        {
+                            "value": "procurement@lsc.sa.gov.au"
+                        },
+                        {
+                            "value": "Public Website Redevelopment"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "02-Sep-26",
+                            "value": "2026-09-01T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28074?fromControl=Control1",
+                    "id": 28074
+                },
                 {
                     "values": [
                         {
@@ -888,7 +935,7 @@
                             "value": "dsd.procurement@sa.gov.au"
                         },
                         {
-                            "value": "Digital platform"
+                            "value": "Digital Platform -Activating SA Resource sector Opportunities"
                         },
                         {
                             "value": "ICT Software and Technology"
@@ -1620,6 +1667,53 @@
                     ],
                     "href": "records/Activity%20Planning/27929?fromControl=Control1",
                     "id": 27929
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27924"
+                        },
+                        {
+                            "display": "22-May-2026",
+                            "value": "2026-05-22T06:07:19.992Z"
+                        },
+                        {
+                            "value": "Human Services"
+                        },
+                        {
+                            "value": "Infrastructure (DHS > FDCS > INF)"
+                        },
+                        {
+                            "value": "dhsprocurementcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Property Valuations"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27924?fromControl=Control1",
+                    "id": 27924
                 },
                 {
                     "values": [
@@ -3077,6 +3171,53 @@
                     ],
                     "href": "records/Activity%20Planning/27772?fromControl=Control1",
                     "id": 27772
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27771"
+                        },
+                        {
+                            "display": "15-May-2026",
+                            "value": "2026-05-15T01:13:14.018Z"
+                        },
+                        {
+                            "value": "Child Protection"
+                        },
+                        {
+                            "value": "Finance and Corporate Services"
+                        },
+                        {
+                            "value": "DCPprocurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Digital Cash Management Solution Pilot"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27771?fromControl=Control1",
+                    "id": 27771
                 },
                 {
                     "values": [
@@ -4670,7 +4811,7 @@
                             "value": "2026-06-01T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/27671?fromControl=Control1",
@@ -13092,53 +13233,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR27269"
-                        },
-                        {
-                            "display": "09-Apr-2026",
-                            "value": "2026-04-09T05:54:41.444Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure Delivery - Building Projects"
-                        },
-                        {
-                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
-                        },
-                        {
-                            "value": "Gawler Technical College New Work - Cost Manager"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "20-Apr-26",
-                            "value": "2026-04-19T14:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27269?fromControl=Control1",
-                    "id": 27269
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR27268"
                         },
                         {
@@ -19061,53 +19155,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR26938"
-                        },
-                        {
-                            "display": "10-Mar-2026",
-                            "value": "2026-03-10T00:10:36.191Z"
-                        },
-                        {
-                            "value": "Child Protection"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "DCPprocurement@sa.gov.au"
-                        },
-                        {
-                            "value": "PCSE - Server and Storage Purchase"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26938?fromControl=Control1",
-                    "id": 26938
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR26937"
                         },
                         {
@@ -22817,53 +22864,6 @@
                     ],
                     "href": "records/Activity%20Planning/26699?fromControl=Control1",
                     "id": 26699
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26697"
-                        },
-                        {
-                            "display": "17-Feb-2026",
-                            "value": "2026-02-17T04:38:22.797Z"
-                        },
-                        {
-                            "value": "Adelaide Venue Management Corporation"
-                        },
-                        {
-                            "value": "Guest Services"
-                        },
-                        {
-                            "value": "tenders@avmc.com.au"
-                        },
-                        {
-                            "value": "Provision of New Ovens in the Backstage Kitchen"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "20-May-26",
-                            "value": "2026-05-19T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26697?fromControl=Control1",
-                    "id": 26697
                 },
                 {
                     "values": [
