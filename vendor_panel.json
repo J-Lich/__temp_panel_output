@@ -67,9 +67,103 @@
                 "filter": true
             }
         ],
-        "totalRows": 2091,
+        "totalRows": 2087,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR28223"
+                        },
+                        {
+                            "display": "05-Jun-2026",
+                            "value": "2026-06-05T05:46:38.661Z"
+                        },
+                        {
+                            "value": "South Australian Tourism Commission"
+                        },
+                        {
+                            "value": "Marketing"
+                        },
+                        {
+                            "value": "procurement2@sa.gov.au"
+                        },
+                        {
+                            "value": "2027 - 31 Social Media Management Tool"
+                        },
+                        {
+                            "value": "Communications and Marketing"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "26-Nov-26",
+                            "value": "2026-11-25T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28223?fromControl=Control1",
+                    "id": 28223
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28120"
+                        },
+                        {
+                            "display": "04-Jun-2026",
+                            "value": "2026-06-04T12:43:18.853Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "Water and River Murray"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Aboriginal Water Interests"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "05-Jun-26",
+                            "value": "2026-06-04T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28120?fromControl=Control1",
+                    "id": 28120
+                },
                 {
                     "values": [
                         {
@@ -111,7 +205,7 @@
                             "value": "2026-09-23T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/28119?fromControl=Control1",
@@ -214,6 +308,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR28083"
+                        },
+                        {
+                            "display": "03-Jun-2026",
+                            "value": "2026-06-03T04:40:25.056Z"
+                        },
+                        {
+                            "value": "South Australian Tourism Commission"
+                        },
+                        {
+                            "value": "Events South Australia"
+                        },
+                        {
+                            "value": "procurement2@sa.gov.au"
+                        },
+                        {
+                            "value": "2027 TDU Theming"
+                        },
+                        {
+                            "value": "Tourism and Entertainment"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "01-Sep-26",
+                            "value": "2026-08-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28083?fromControl=Control1",
+                    "id": 28083
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR28082"
                         },
                         {
@@ -224,7 +365,7 @@
                             "value": "Central Adelaide Local Health Network"
                         },
                         {
-                            "value": ""
+                            "value": "Statewide Clinical Support Services - SA Medical Imaging"
                         },
                         {
                             "value": "tanya.binkowski2@sa.gov.au"
@@ -257,6 +398,100 @@
                     ],
                     "href": "records/Activity%20Planning/28082?fromControl=Control1",
                     "id": 28082
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28080"
+                        },
+                        {
+                            "display": "03-Jun-2026",
+                            "value": "2026-06-03T01:59:14.038Z"
+                        },
+                        {
+                            "value": "Attorney General's"
+                        },
+                        {
+                            "value": "Facilities and Security "
+                        },
+                        {
+                            "value": "courtney.condren@sa.gov.au"
+                        },
+                        {
+                            "value": "FSSA Workstation Intensification Furniture Acquisition"
+                        },
+                        {
+                            "value": "Office Equipment and Accessories and Supplies"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "11-Jun-26",
+                            "value": "2026-06-10T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28080?fromControl=Control1",
+                    "id": 28080
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28079"
+                        },
+                        {
+                            "display": "03-Jun-2026",
+                            "value": "2026-06-03T01:29:24.696Z"
+                        },
+                        {
+                            "value": "South Australian Tourism Commission"
+                        },
+                        {
+                            "value": "Events South Australia"
+                        },
+                        {
+                            "value": "procurement2@sa.gov.au"
+                        },
+                        {
+                            "value": "TDU 2027 Corporate Hospitality"
+                        },
+                        {
+                            "value": "Tourism and Entertainment"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "03-Sep-26",
+                            "value": "2026-09-02T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28079?fromControl=Control1",
+                    "id": 28079
                 },
                 {
                     "values": [
@@ -3363,53 +3598,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR27797"
-                        },
-                        {
-                            "display": "18-May-2026",
-                            "value": "2026-05-18T06:03:46.403Z"
-                        },
-                        {
-                            "value": "Attorney General's"
-                        },
-                        {
-                            "value": "Facilities and Security "
-                        },
-                        {
-                            "value": "courtney.condren@sa.gov.au"
-                        },
-                        {
-                            "value": "Defining BMS requirements for SA Forensic Centre"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "22-May-26",
-                            "value": "2026-05-21T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27797?fromControl=Control1",
-                    "id": 27797
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR27792"
                         },
                         {
@@ -4816,6 +5004,53 @@
                     ],
                     "href": "records/Activity%20Planning/27707?fromControl=Control1",
                     "id": 27707
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27706"
+                        },
+                        {
+                            "display": "11-May-2026",
+                            "value": "2026-05-11T01:34:37.209Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "Biodiversity and Nature Economy"
+                        },
+                        {
+                            "value": "tanya.rosewarne@sa.gov.au"
+                        },
+                        {
+                            "value": "Climate Ready Coasts Data Workstream Stage 3 (Modelling Project)"
+                        },
+                        {
+                            "value": "Research and Scientific"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "30-Jun-26",
+                            "value": "2026-06-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27706?fromControl=Control1",
+                    "id": 27706
                 },
                 {
                     "values": [
@@ -14032,53 +14267,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR27263"
-                        },
-                        {
-                            "display": "09-Apr-2026",
-                            "value": "2026-04-08T22:23:17.401Z"
-                        },
-                        {
-                            "value": "Health and Wellbeing"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "rachel.sharp@sa.gov.au"
-                        },
-                        {
-                            "value": "New WCH Completion Manager"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "04-May-26",
-                            "value": "2026-05-03T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27263?fromControl=Control1",
-                    "id": 27263
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR27249"
                         },
                         {
@@ -15740,7 +15928,7 @@
                             "value": "housingprocurement@sa.gov.au"
                         },
                         {
-                            "value": "Camden Park Apartments - Stage 2 - Construction (D&C)"
+                            "value": "Rent to Own Project - Camden Park and Seaton 3A - Construction (D&C)"
                         },
                         {
                             "value": "Construction"
@@ -15787,7 +15975,7 @@
                             "value": "housingprocurement@sa.gov.au"
                         },
                         {
-                            "value": "Camden Park Apartments - Stage 2 - Structural/Civil Engineering Services"
+                            "value": "Rent to Own Project - Camden Park and Seaton 3A - Structural/Civil Engineering Services"
                         },
                         {
                             "value": "Construction"
@@ -15834,7 +16022,7 @@
                             "value": "housingprocurement@sa.gov.au"
                         },
                         {
-                            "value": "Camden Park Apartments - Stage 2 - Building Engineering Services"
+                            "value": "Rent to Own Project - Camden Park and Seaton 3A - Building Engineering Services"
                         },
                         {
                             "value": "Construction"
@@ -15881,7 +16069,7 @@
                             "value": "housingprocurement@sa.gov.au"
                         },
                         {
-                            "value": "Camden Park Apartments - Stage 2 - Architectural Services"
+                            "value": "Rent to Own Project - Camden Park and Seaton 3A - Architectural Services"
                         },
                         {
                             "value": "Construction"
@@ -15928,7 +16116,7 @@
                             "value": "housingprocurement@sa.gov.au"
                         },
                         {
-                            "value": "Camden Park Apartments - Stage 2 - Project Management Services"
+                            "value": "Rent to Own Project - Camden Park and Seaton 3A - Project Management Services"
                         },
                         {
                             "value": "Construction"
@@ -15975,7 +16163,7 @@
                             "value": "housingprocurement@sa.gov.au"
                         },
                         {
-                            "value": "Seaton Apartment Packages - Construction "
+                            "value": "Seaton Public Housing Apartments Project - Construction "
                         },
                         {
                             "value": "Construction"
@@ -16022,7 +16210,7 @@
                             "value": "housingprocurement@sa.gov.au"
                         },
                         {
-                            "value": "Seaton Apartment Packages - Structural & Civil Engineering Services"
+                            "value": "Seaton Public Housing Apartments Project - Structural & Civil Engineering Services"
                         },
                         {
                             "value": "Construction"
@@ -16069,7 +16257,7 @@
                             "value": "housingprocurement@sa.gov.au"
                         },
                         {
-                            "value": "Seaton Apartment Packages - Building Engineering Services"
+                            "value": "Seaton Public Housing Apartments Project - Building Engineering Services"
                         },
                         {
                             "value": "Construction"
@@ -16116,7 +16304,7 @@
                             "value": "housingprocurement@sa.gov.au"
                         },
                         {
-                            "value": "Seaton Apartment Packages - Project Management Services"
+                            "value": "Seaton Public Housing Apartments Project - Project Management Services"
                         },
                         {
                             "value": "Construction"
@@ -16134,8 +16322,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "28-May-26",
-                            "value": "2026-05-27T14:30:00Z"
+                            "display": "08-Apr-26",
+                            "value": "2026-04-07T14:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -16727,26 +16915,26 @@
                             "value": "dsd.procurement@sa.gov.au"
                         },
                         {
-                            "value": "International Market Activation"
+                            "value": "US Market Activation"
                         },
                         {
-                            "value": ""
+                            "value": "Communications and Marketing"
                         },
                         {
                             "value": "New requirement"
                         },
                         {
-                            "value": ""
+                            "value": "Direct Approach"
                         },
                         {
-                            "value": ""
+                            "value": "Email"
                         },
                         {
-                            "value": "Possible"
+                            "value": "Probable"
                         },
                         {
-                            "display": "08-Dec-26",
-                            "value": "2026-12-07T13:30:00Z"
+                            "display": "28-Oct-26",
+                            "value": "2026-10-27T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -20941,53 +21129,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR26847"
-                        },
-                        {
-                            "display": "27-Feb-2026",
-                            "value": "2026-02-26T22:14:58.619Z"
-                        },
-                        {
-                            "value": "Housing Trust"
-                        },
-                        {
-                            "value": "Housing Delivery"
-                        },
-                        {
-                            "value": "housingprocurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Construction of 24 dwellings in Metro Adelaide, South Australia"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26847?fromControl=Control1",
-                    "id": 26847
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR26843"
                         },
                         {
@@ -22065,53 +22206,6 @@
                     ],
                     "href": "records/Activity%20Planning/26774?fromControl=Control1",
                     "id": 26774
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26765"
-                        },
-                        {
-                            "display": "23-Feb-2026",
-                            "value": "2026-02-23T03:41:04.856Z"
-                        },
-                        {
-                            "value": "SA Police"
-                        },
-                        {
-                            "value": "Security and Emergency Management Service"
-                        },
-                        {
-                            "value": "SAPOL.PCMSB@police.sa.gov.au"
-                        },
-                        {
-                            "value": "STAR Group - Operations Section - Hearing Protection"
-                        },
-                        {
-                            "value": "Office Equipment and Accessories and Supplies"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "23-Mar-26",
-                            "value": "2026-03-22T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26765?fromControl=Control1",
-                    "id": 26765
                 },
                 {
                     "values": [
@@ -23475,100 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/26694?fromControl=Control1",
                     "id": 26694
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26693"
-                        },
-                        {
-                            "display": "17-Feb-2026",
-                            "value": "2026-02-17T04:23:02.911Z"
-                        },
-                        {
-                            "value": "Adelaide Venue Management Corporation"
-                        },
-                        {
-                            "value": "Floor Ops"
-                        },
-                        {
-                            "value": "tenders@avmc.com.au"
-                        },
-                        {
-                            "value": "Interior Furnishings - New Carpet (Panorama Ballroom)"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Jul-26",
-                            "value": "2026-06-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26693?fromControl=Control1",
-                    "id": 26693
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR26692"
-                        },
-                        {
-                            "display": "17-Feb-2026",
-                            "value": "2026-02-17T04:20:20.594Z"
-                        },
-                        {
-                            "value": "Adelaide Venue Management Corporation"
-                        },
-                        {
-                            "value": "Corporate Services"
-                        },
-                        {
-                            "value": "tenders@avmc.com.au"
-                        },
-                        {
-                            "value": "Corporate Suite - Major Overhaul Cont. (Various objectives to be prioritised inc carpet, furniture, painting, cupholders)"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Jul-26",
-                            "value": "2026-06-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26692?fromControl=Control1",
-                    "id": 26692
                 }
             ],
             "aggregates": []
