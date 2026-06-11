@@ -67,9 +67,103 @@
                 "filter": true
             }
         ],
-        "totalRows": 2131,
+        "totalRows": 2122,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR29295"
+                        },
+                        {
+                            "display": "11-Jun-2026",
+                            "value": "2026-06-11T04:45:44.066Z"
+                        },
+                        {
+                            "value": "South Australian Tourism Commission"
+                        },
+                        {
+                            "value": "Marketing"
+                        },
+                        {
+                            "value": "procurement2@sa.gov.au"
+                        },
+                        {
+                            "value": "2028 TDU Creative Services"
+                        },
+                        {
+                            "value": "Communications and Marketing"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "07-Sep-26",
+                            "value": "2026-09-06T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/29295?fromControl=Control1",
+                    "id": 29295
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28787"
+                        },
+                        {
+                            "display": "11-Jun-2026",
+                            "value": "2026-06-11T00:05:19.381Z"
+                        },
+                        {
+                            "value": "Procurement Services SA"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Nimblex Architect/Engineer "
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "14-Sep-26",
+                            "value": "2026-09-13T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28787?fromControl=Control1",
+                    "id": 28787
+                },
                 {
                     "values": [
                         {
@@ -1517,11 +1611,11 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "11-Jun-26",
-                            "value": "2026-06-10T14:30:00Z"
+                            "display": "15-Jun-26",
+                            "value": "2026-06-14T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/28080?fromControl=Control1",
@@ -2081,8 +2175,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "01-Jun-26",
-                            "value": "2026-05-31T14:30:00Z"
+                            "display": "16-Jun-26",
+                            "value": "2026-06-15T14:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -6872,14 +6966,14 @@
                             "value": "Email"
                         },
                         {
-                            "value": "Probable"
+                            "value": "Almost Certain"
                         },
                         {
                             "display": "24-May-26",
                             "value": "2026-05-23T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/27694?fromControl=Control1",
@@ -6931,53 +7025,6 @@
                     ],
                     "href": "records/Activity%20Planning/27683?fromControl=Control1",
                     "id": 27683
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27682"
-                        },
-                        {
-                            "display": "07-May-2026",
-                            "value": "2026-05-07T04:02:44.734Z"
-                        },
-                        {
-                            "value": "Attorney General's"
-                        },
-                        {
-                            "value": "Office of the Director of Public Prosecutions"
-                        },
-                        {
-                            "value": "amanda.simon@sa.gov.au"
-                        },
-                        {
-                            "value": "Electronic Evidence System"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "11-May-26",
-                            "value": "2026-05-10T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27682?fromControl=Control1",
-                    "id": 27682
                 },
                 {
                     "values": [
@@ -7866,7 +7913,7 @@
                             "value": "2026-05-14T14:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/27633?fromControl=Control1",
@@ -8247,53 +8294,6 @@
                     ],
                     "href": "records/Activity%20Planning/27616?fromControl=Control1",
                     "id": 27616
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27615"
-                        },
-                        {
-                            "display": "01-May-2026",
-                            "value": "2026-05-01T01:21:25.212Z"
-                        },
-                        {
-                            "value": "Premier and Cabinet"
-                        },
-                        {
-                            "value": "Office for AUKUS"
-                        },
-                        {
-                            "value": "dpcprocurementandcontracts@sa.gov.au"
-                        },
-                        {
-                            "value": "Security and Safety Needs Assessment"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "08-Jun-26",
-                            "value": "2026-06-07T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27615?fromControl=Control1",
-                    "id": 27615
                 },
                 {
                     "values": [
@@ -8999,100 +8999,6 @@
                     ],
                     "href": "records/Activity%20Planning/27546?fromControl=Control1",
                     "id": 27546
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27541"
-                        },
-                        {
-                            "display": "28-Apr-2026",
-                            "value": "2026-04-27T23:45:50.213Z"
-                        },
-                        {
-                            "value": "Attorney General's"
-                        },
-                        {
-                            "value": "Public Trustee"
-                        },
-                        {
-                            "value": "matthew.hill@sa.gov.au"
-                        },
-                        {
-                            "value": "Public Trustee Meeting Room AV Upgrade"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "28-Apr-26",
-                            "value": "2026-04-27T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27541?fromControl=Control1",
-                    "id": 27541
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27540"
-                        },
-                        {
-                            "display": "28-Apr-2026",
-                            "value": "2026-04-27T23:38:32.157Z"
-                        },
-                        {
-                            "value": "Attorney General's"
-                        },
-                        {
-                            "value": "Justice Technology Services "
-                        },
-                        {
-                            "value": "jason.symchoon2@sa.gov.au"
-                        },
-                        {
-                            "value": "Future justice information sharing (FJIS) software tools - Data Modelling"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "11-May-26",
-                            "value": "2026-05-10T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27540?fromControl=Control1",
-                    "id": 27540
                 },
                 {
                     "values": [
@@ -17544,11 +17450,11 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "28-Apr-26",
-                            "value": "2026-04-27T14:30:00Z"
+                            "display": "18-Jun-26",
+                            "value": "2026-06-17T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/27117?fromControl=Control1",
@@ -17685,11 +17591,11 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "28-Apr-26",
-                            "value": "2026-04-27T14:30:00Z"
+                            "display": "18-Jun-26",
+                            "value": "2026-06-17T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/27112?fromControl=Control1",
@@ -23569,6 +23475,100 @@
                     ],
                     "href": "records/Activity%20Planning/26736?fromControl=Control1",
                     "id": 26736
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26727"
+                        },
+                        {
+                            "display": "19-Feb-2026",
+                            "value": "2026-02-18T23:32:07.884Z"
+                        },
+                        {
+                            "value": "Central Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "Statewide Clinical Support Services - SA Medical Imaging"
+                        },
+                        {
+                            "value": "tanya.binkowski2@sa.gov.au"
+                        },
+                        {
+                            "value": "Magnetic Resonance Imaging (MRI) Scanner Upgrades"
+                        },
+                        {
+                            "value": "Medical Equipment"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "03-Aug-26",
+                            "value": "2026-08-02T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26727?fromControl=Control1",
+                    "id": 26727
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26725"
+                        },
+                        {
+                            "display": "19-Feb-2026",
+                            "value": "2026-02-18T21:59:11.071Z"
+                        },
+                        {
+                            "value": "Housing Trust"
+                        },
+                        {
+                            "value": "Capital Programs"
+                        },
+                        {
+                            "value": "housingprocurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Unley Project Design"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "25-Jun-26",
+                            "value": "2026-06-24T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26725?fromControl=Control1",
+                    "id": 26725
                 }
             ],
             "aggregates": []
