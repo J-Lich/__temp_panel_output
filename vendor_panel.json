@@ -67,9 +67,197 @@
                 "filter": true
             }
         ],
-        "totalRows": 2129,
+        "totalRows": 2121,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR29831"
+                        },
+                        {
+                            "display": "15-Jun-2026",
+                            "value": "2026-06-15T02:35:03.754Z"
+                        },
+                        {
+                            "value": "Central Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "Statewide Clinical Support Services (SCSS) - SA Pathology"
+                        },
+                        {
+                            "value": "leigh.cahill@sa.gov.au"
+                        },
+                        {
+                            "value": "Reagent Recycler for SA Pathology"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Sep-26",
+                            "value": "2026-08-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/29831?fromControl=Control1",
+                    "id": 29831
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR29826"
+                        },
+                        {
+                            "display": "15-Jun-2026",
+                            "value": "2026-06-15T01:28:51.004Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Infrastructure Delivery - Building Projects"
+                        },
+                        {
+                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
+                        },
+                        {
+                            "value": "Mobilong Prison Bakery and Kitchen Upgrade"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "13-Jul-26",
+                            "value": "2026-07-12T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/29826?fromControl=Control1",
+                    "id": 29826
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR29825"
+                        },
+                        {
+                            "display": "15-Jun-2026",
+                            "value": "2026-06-15T01:10:08.65Z"
+                        },
+                        {
+                            "value": "Central Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "Statewide Clinical Support Services (SCSS) - SA Pathology"
+                        },
+                        {
+                            "value": "leigh.cahill@sa.gov.au"
+                        },
+                        {
+                            "value": "Liquid Nitrogen Storage Tank for SA Pathology"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "01-Sep-26",
+                            "value": "2026-08-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/29825?fromControl=Control1",
+                    "id": 29825
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR29824"
+                        },
+                        {
+                            "display": "15-Jun-2026",
+                            "value": "2026-06-15T00:26:56.014Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "Water and River Murray"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Long-term condition monitoring for waterbirds from Lock 1 through to Lock 7 to inform weir pool operations 2026-2028"
+                        },
+                        {
+                            "value": "Environmental"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/29824?fromControl=Control1",
+                    "id": 29824
+                },
                 {
                     "values": [
                         {
@@ -1765,53 +1953,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR28224"
-                        },
-                        {
-                            "display": "08-Jun-2026",
-                            "value": "2026-06-08T13:45:06.887Z"
-                        },
-                        {
-                            "value": "Environment Protection Authority"
-                        },
-                        {
-                            "value": "Air Monitoring"
-                        },
-                        {
-                            "value": "EPA.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "EPA Particulate Monitors Replacement Capital procurement 2026"
-                        },
-                        {
-                            "value": "Research and Scientific"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "10-Jun-26",
-                            "value": "2026-06-09T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28224?fromControl=Control1",
-                    "id": 28224
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR28223"
                         },
                         {
@@ -2466,53 +2607,6 @@
                     ],
                     "href": "records/Activity%20Planning/28061?fromControl=Control1",
                     "id": 28061
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28060"
-                        },
-                        {
-                            "display": "02-Jun-2026",
-                            "value": "2026-06-02T00:07:19.434Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Student Pathways and Careers"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Career Education and Transition Support Model for Students with Disability"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28060?fromControl=Control1",
-                    "id": 28060
                 },
                 {
                     "values": [
@@ -4243,8 +4337,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "",
-                            "value": null
+                            "display": "31-Jul-26",
+                            "value": "2026-07-30T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -5465,8 +5559,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "",
-                            "value": null
+                            "display": "31-Jul-26",
+                            "value": "2026-07-30T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -7656,7 +7750,7 @@
                             "value": "tanya.rosewarne@sa.gov.au"
                         },
                         {
-                            "value": "Climate Ready Coasts Data Workstream Stage 3 (Modelling Project)"
+                            "value": "Climate Ready Coasts Data Workstream Stage 3 (Coastal Metocean Hindcast and Forecast Modelling Project)"
                         },
                         {
                             "value": "Research and Scientific"
@@ -7956,8 +8050,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "22-May-26",
-                            "value": "2026-05-21T14:30:00Z"
+                            "display": "01-Aug-26",
+                            "value": "2026-07-31T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -8153,53 +8247,6 @@
                     ],
                     "href": "records/Activity%20Planning/27680?fromControl=Control1",
                     "id": 27680
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27678"
-                        },
-                        {
-                            "display": "07-May-2026",
-                            "value": "2026-05-07T00:52:34.075Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Curriculum and Learning"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Artist in Residence"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27678?fromControl=Control1",
-                    "id": 27678
                 },
                 {
                     "values": [
@@ -9037,8 +9084,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "08-May-26",
-                            "value": "2026-05-07T14:30:00Z"
+                            "display": "01-Jun-27",
+                            "value": "2027-05-31T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -9328,53 +9375,6 @@
                     ],
                     "href": "records/Activity%20Planning/27617?fromControl=Control1",
                     "id": 27617
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27616"
-                        },
-                        {
-                            "display": "01-May-2026",
-                            "value": "2026-05-01T01:52:09.917Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "nicolette.gittings2@sa.gov.au"
-                        },
-                        {
-                            "value": "Reference Design for Tapangka"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "07-May-26",
-                            "value": "2026-05-06T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27616?fromControl=Control1",
-                    "id": 27616
                 },
                 {
                     "values": [
@@ -12566,7 +12566,7 @@
                             "value": "2026-05-03T14:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/27404?fromControl=Control1",
@@ -16147,53 +16147,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR27275"
-                        },
-                        {
-                            "display": "10-Apr-2026",
-                            "value": "2026-04-10T02:02:08.105Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Sales and Corporate Affairs"
-                        },
-                        {
-                            "value": "ryan.dienhoff@sa.gov.au"
-                        },
-                        {
-                            "value": "Commercial Sales Agent, Tapangka"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "27-Apr-26",
-                            "value": "2026-04-26T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27275?fromControl=Control1",
-                    "id": 27275
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR27274"
                         },
                         {
@@ -18728,53 +18681,6 @@
                     ],
                     "href": "records/Activity%20Planning/27108?fromControl=Control1",
                     "id": 27108
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27106"
-                        },
-                        {
-                            "display": "25-Mar-2026",
-                            "value": "2026-03-25T01:22:52.635Z"
-                        },
-                        {
-                            "value": "Treasury and Finance"
-                        },
-                        {
-                            "value": "Shared Services SA"
-                        },
-                        {
-                            "value": "dtfprocurementservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Automated Reconciliation Software"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "28-Jan-27",
-                            "value": "2027-01-27T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27106?fromControl=Control1",
-                    "id": 27106
                 },
                 {
                     "values": [
@@ -22868,53 +22774,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR26851"
-                        },
-                        {
-                            "display": "27-Feb-2026",
-                            "value": "2026-02-26T23:40:40.182Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Industrial and Defence"
-                        },
-                        {
-                            "value": "ryan.dienhoff@sa.gov.au"
-                        },
-                        {
-                            "value": "PAR26851 Edinburgh Aircraft Paint Facility, Independent Design Verifier (IDV)"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "09-Mar-26",
-                            "value": "2026-03-08T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26851?fromControl=Control1",
-                    "id": 26851
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR26845"
                         },
                         {
@@ -23536,7 +23395,7 @@
                             "value": "Renewal SA"
                         },
                         {
-                            "value": "Residential Growth "
+                            "value": "Residential Project Delivery and Assets - Residential Growth"
                         },
                         {
                             "value": "tariq.azam@sa.gov.au"
@@ -23569,6 +23428,147 @@
                     ],
                     "href": "records/Activity%20Planning/26802?fromControl=Control1",
                     "id": 26802
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26801"
+                        },
+                        {
+                            "display": "25-Feb-2026",
+                            "value": "2026-02-24T23:09:51.877Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Transport Strategy and Planning - Transport Analytics"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Limited Duration Trial of Traffic Analytics Data Services"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "25-May-26",
+                            "value": "2026-05-24T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26801?fromControl=Control1",
+                    "id": 26801
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26796"
+                        },
+                        {
+                            "display": "24-Feb-2026",
+                            "value": "2026-02-24T09:54:06.74Z"
+                        },
+                        {
+                            "value": "ReturnToWorkSA"
+                        },
+                        {
+                            "value": "Finance and Investments"
+                        },
+                        {
+                            "value": "procurement@rtwsa.com"
+                        },
+                        {
+                            "value": "Global Unlisted Core Property Fund Manager"
+                        },
+                        {
+                            "value": "Financial Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "25-May-26",
+                            "value": "2026-05-24T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26796?fromControl=Control1",
+                    "id": 26796
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26794"
+                        },
+                        {
+                            "display": "24-Feb-2026",
+                            "value": "2026-02-24T05:22:43.11Z"
+                        },
+                        {
+                            "value": "SA Water"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Kevin.Sequeira@sawater.com.au"
+                        },
+                        {
+                            "value": "Metro North New Water Sources - Engineering Design Services"
+                        },
+                        {
+                            "value": "Industrial and Engineering"
+                        },
+                        {
+                            "value": "Secondary Procurement Process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "18-Mar-26",
+                            "value": "2026-03-17T13:30:00Z"
+                        },
+                        {
+                            "value": "Released to Market"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26794?fromControl=Control1",
+                    "id": 26794
                 }
             ],
             "aggregates": []
