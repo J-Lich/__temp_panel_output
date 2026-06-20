@@ -67,7 +67,7 @@
                 "filter": true
             }
         ],
-        "totalRows": 2109,
+        "totalRows": 2107,
         "data": {
             "rows": [
                 {
@@ -3723,14 +3723,14 @@
                             "value": "SA Tenders and Contracts"
                         },
                         {
-                            "value": "Certain"
+                            "value": "Possible"
                         },
                         {
                             "display": "15-May-26",
                             "value": "2026-05-14T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/28032?fromControl=Control1",
@@ -12101,53 +12101,6 @@
                     ],
                     "href": "records/Activity%20Planning/27462?fromControl=Control1",
                     "id": 27462
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27461"
-                        },
-                        {
-                            "display": "22-Apr-2026",
-                            "value": "2026-04-22T00:45:35.202Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Anjana.Dissanayake@sawater.com.au"
-                        },
-                        {
-                            "value": "C7260 Laptop Capitalization"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Secondary Procurement Process"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "15-May-26",
-                            "value": "2026-05-14T14:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27461?fromControl=Control1",
-                    "id": 27461
                 },
                 {
                     "values": [
@@ -23569,6 +23522,53 @@
                     ],
                     "href": "records/Activity%20Planning/26825?fromControl=Control1",
                     "id": 26825
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26821"
+                        },
+                        {
+                            "display": "25-Feb-2026",
+                            "value": "2026-02-25T04:06:37.262Z"
+                        },
+                        {
+                            "value": "Southern Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "Corporate Services"
+                        },
+                        {
+                            "value": "Health.SALHNContractsSLAPurchasing@sa.gov.au"
+                        },
+                        {
+                            "value": "Change Leadership Capability Development Program"
+                        },
+                        {
+                            "value": "Human Resources and Staffing"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "15-Apr-26",
+                            "value": "2026-04-14T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26821?fromControl=Control1",
+                    "id": 26821
                 }
             ],
             "aggregates": []
