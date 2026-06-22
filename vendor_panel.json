@@ -67,7 +67,7 @@
                 "filter": true
             }
         ],
-        "totalRows": 2107,
+        "totalRows": 2103,
         "data": {
             "rows": [
                 {
@@ -543,6 +543,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR29837"
+                        },
+                        {
+                            "display": "15-Jun-2026",
+                            "value": "2026-06-15T06:43:43.396Z"
+                        },
+                        {
+                            "value": "Study Adelaide"
+                        },
+                        {
+                            "value": "Communications and Engagement"
+                        },
+                        {
+                            "value": "lisahowlett@studyadelaide.com"
+                        },
+                        {
+                            "value": "Timemakers Consulting Facilitation Services"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/29837?fromControl=Control1",
+                    "id": 29837
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR29831"
                         },
                         {
@@ -659,7 +706,7 @@
                             "value": "Advisory and Consultancy Services"
                         },
                         {
-                            "value": "Secondary procurement process"
+                            "value": "New requirement"
                         },
                         {
                             "value": "Open"
@@ -3175,53 +3222,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR28053"
-                        },
-                        {
-                            "display": "01-Jun-2026",
-                            "value": "2026-06-01T03:36:11.16Z"
-                        },
-                        {
-                            "value": "Treasury and Finance"
-                        },
-                        {
-                            "value": "Business Improvement"
-                        },
-                        {
-                            "value": "dtfprocurementservices@sa.gov.au"
-                        },
-                        {
-                            "value": "IVR Solution \u2013 AI Voice Automation for High\u2011Volume Call Triage and Customer Service (PoV)"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Dec-26",
-                            "value": "2026-11-30T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28053?fromControl=Control1",
-                    "id": 28053
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR28051"
                         },
                         {
@@ -5145,53 +5145,6 @@
                     ],
                     "href": "records/Activity%20Planning/27953?fromControl=Control1",
                     "id": 27953
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27952"
-                        },
-                        {
-                            "display": "26-May-2026",
-                            "value": "2026-05-25T23:31:43.563Z"
-                        },
-                        {
-                            "value": "Housing and Urban Development"
-                        },
-                        {
-                            "value": "Planning and Building"
-                        },
-                        {
-                            "value": "DHUD.Procurement@sa.gov.au "
-                        },
-                        {
-                            "value": "Annual Penetration Testing of PlanSA System"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "27-Aug-26",
-                            "value": "2026-08-26T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27952?fromControl=Control1",
-                    "id": 27952
                 },
                 {
                     "values": [
@@ -21398,8 +21351,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "15-Jun-26",
-                            "value": "2026-06-14T14:30:00Z"
+                            "display": "15-Jul-26",
+                            "value": "2026-07-14T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -23291,53 +23244,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR26843"
-                        },
-                        {
-                            "display": "26-Feb-2026",
-                            "value": "2026-02-26T04:44:33.271Z"
-                        },
-                        {
-                            "value": "Premier and Cabinet"
-                        },
-                        {
-                            "value": "Office for Autism"
-                        },
-                        {
-                            "value": "dpcprocurementandcontracts@sa.gov.au"
-                        },
-                        {
-                            "value": "Autism Assessment and Support Pathways Capability Program"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "25-May-26",
-                            "value": "2026-05-24T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/26843?fromControl=Control1",
-                    "id": 26843
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR26839"
                         },
                         {
@@ -23569,6 +23475,100 @@
                     ],
                     "href": "records/Activity%20Planning/26821?fromControl=Control1",
                     "id": 26821
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26815"
+                        },
+                        {
+                            "display": "25-Feb-2026",
+                            "value": "2026-02-25T02:09:53.599Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "Biodiversity and Nature Economy"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Bounceback Aerial Baiting 2026 - 2027 "
+                        },
+                        {
+                            "value": "Environmental"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "17-Mar-26",
+                            "value": "2026-03-16T13:30:00Z"
+                        },
+                        {
+                            "value": "Released to Market"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26815?fromControl=Control1",
+                    "id": 26815
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR26812"
+                        },
+                        {
+                            "display": "25-Feb-2026",
+                            "value": "2026-02-25T01:22:46.643Z"
+                        },
+                        {
+                            "value": "Energy and Mining"
+                        },
+                        {
+                            "value": "Corporate and Commercial"
+                        },
+                        {
+                            "value": "dem.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Non MS Licensing  SA Gov Licensing Reseller"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "30-Sep-26",
+                            "value": "2026-09-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/26812?fromControl=Control1",
+                    "id": 26812
                 }
             ],
             "aggregates": []
