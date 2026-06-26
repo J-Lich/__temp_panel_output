@@ -67,7 +67,7 @@
                 "filter": true
             }
         ],
-        "totalRows": 2243,
+        "totalRows": 2241,
         "data": {
             "rows": [
                 {
@@ -11152,8 +11152,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "16-Jun-26",
-                            "value": "2026-06-15T14:30:00Z"
+                            "display": "28-Jun-26",
+                            "value": "2026-06-27T14:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -11469,10 +11469,10 @@
                             "value": "ICT Software and Technology"
                         },
                         {
-                            "value": "New requirement"
+                            "value": "Secondary procurement process"
                         },
                         {
-                            "value": "Open"
+                            "value": "Limited"
                         },
                         {
                             "value": "Other"
@@ -11563,13 +11563,13 @@
                             "value": "ICT Software and Technology"
                         },
                         {
-                            "value": "New requirement"
+                            "value": "Secondary procurement process"
                         },
                         {
-                            "value": "Open"
+                            "value": "Limited"
                         },
                         {
-                            "value": "SA Tenders and Contracts"
+                            "value": "Email"
                         },
                         {
                             "value": "Certain"
@@ -11751,13 +11751,13 @@
                             "value": "ICT Software and Technology"
                         },
                         {
-                            "value": "New requirement"
+                            "value": "Secondary procurement process"
                         },
                         {
-                            "value": "Open"
+                            "value": "Limited"
                         },
                         {
-                            "value": "SA Tenders and Contracts"
+                            "value": "Email"
                         },
                         {
                             "value": "Almost Certain"
@@ -13703,53 +13703,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR27878"
-                        },
-                        {
-                            "display": "21-May-2026",
-                            "value": "2026-05-21T06:45:23.132Z"
-                        },
-                        {
-                            "value": "SAFECOM"
-                        },
-                        {
-                            "value": "CFS"
-                        },
-                        {
-                            "value": "cfs.procurement@eso.sa.gov.au"
-                        },
-                        {
-                            "value": "Bushfire Fuels Data"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "16-Jun-26",
-                            "value": "2026-06-15T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27878?fromControl=Control1",
-                    "id": 27878
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR27862"
                         },
                         {
@@ -14874,53 +14827,6 @@
                     ],
                     "href": "records/Activity%20Planning/27785?fromControl=Control1",
                     "id": 27785
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27783"
-                        },
-                        {
-                            "display": "18-May-2026",
-                            "value": "2026-05-18T01:01:52.578Z"
-                        },
-                        {
-                            "value": "Environment and Water"
-                        },
-                        {
-                            "value": "Water and River Murray"
-                        },
-                        {
-                            "value": "DEW.Procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Design of regulator gates and fish screens \u2013 multiple sites"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "02-Jun-26",
-                            "value": "2026-06-01T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27783?fromControl=Control1",
-                    "id": 27783
                 },
                 {
                     "values": [
@@ -18131,7 +18037,7 @@
                             "value": "ReturnToWorkSA"
                         },
                         {
-                            "value": "Office of the CEO"
+                            "value": "Strategy and Planning "
                         },
                         {
                             "value": "procurement@rtwsa.com"
@@ -21022,8 +20928,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "04-May-26",
-                            "value": "2026-05-03T14:30:00Z"
+                            "display": "01-Jul-26",
+                            "value": "2026-06-30T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -23569,6 +23475,100 @@
                     ],
                     "href": "records/Activity%20Planning/27309?fromControl=Control1",
                     "id": 27309
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27308"
+                        },
+                        {
+                            "display": "14-Apr-2026",
+                            "value": "2026-04-14T04:00:32.772Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Infrastructure"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Plympton Capital Works Program"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27308?fromControl=Control1",
+                    "id": 27308
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27307"
+                        },
+                        {
+                            "display": "14-Apr-2026",
+                            "value": "2026-04-14T03:04:05.131Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "People and Corporate Services - Information Services"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Cyber Security - Application control software"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "15-Jul-26",
+                            "value": "2026-07-14T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27307?fromControl=Control1",
+                    "id": 27307
                 }
             ],
             "aggregates": []
