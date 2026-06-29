@@ -67,9 +67,432 @@
                 "filter": true
             }
         ],
-        "totalRows": 2240,
+        "totalRows": 2252,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR30937"
+                        },
+                        {
+                            "display": "29-Jun-2026",
+                            "value": "2026-06-29T05:43:14.431Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Floor Ops"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "2027/2028 Packaged Wine Supply"
+                        },
+                        {
+                            "value": "Office Equipment and Accessories and Supplies"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "08-Feb-27",
+                            "value": "2027-02-07T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30937?fromControl=Control1",
+                    "id": 30937
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30931"
+                        },
+                        {
+                            "display": "29-Jun-2026",
+                            "value": "2026-06-29T04:20:12.917Z"
+                        },
+                        {
+                            "value": "Courts Administration"
+                        },
+                        {
+                            "value": "Corporate Services"
+                        },
+                        {
+                            "value": "contract_.procurement@courts.sa.gov.au"
+                        },
+                        {
+                            "value": "AMC courtroom seating upgrade"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "29-Sep-26",
+                            "value": "2026-09-28T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30931?fromControl=Control1",
+                    "id": 30931
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30929"
+                        },
+                        {
+                            "display": "29-Jun-2026",
+                            "value": "2026-06-29T02:40:07.074Z"
+                        },
+                        {
+                            "value": "Housing and Urban Development"
+                        },
+                        {
+                            "value": "Outback Communities Authority"
+                        },
+                        {
+                            "value": "DHUD.Procurement@sa.gov.au "
+                        },
+                        {
+                            "value": "Debt Collection Services"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "04-Oct-27",
+                            "value": "2027-10-03T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30929?fromControl=Control1",
+                    "id": 30929
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30928"
+                        },
+                        {
+                            "display": "29-Jun-2026",
+                            "value": "2026-06-29T02:36:35.683Z"
+                        },
+                        {
+                            "value": "Housing and Urban Development"
+                        },
+                        {
+                            "value": "Office of Local Government"
+                        },
+                        {
+                            "value": "DHUD.Procurement@sa.gov.au "
+                        },
+                        {
+                            "value": "Waste Collection for Davenport Aboriginal Community "
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30928?fromControl=Control1",
+                    "id": 30928
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30927"
+                        },
+                        {
+                            "display": "29-Jun-2026",
+                            "value": "2026-06-29T02:34:06.732Z"
+                        },
+                        {
+                            "value": "Housing and Urban Development"
+                        },
+                        {
+                            "value": "Office of Local Government"
+                        },
+                        {
+                            "value": "DHUD.Procurement@sa.gov.au "
+                        },
+                        {
+                            "value": "Collection of Domestic Waste for Ceduna Aboriginal Homelands "
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "01-Feb-27",
+                            "value": "2027-01-31T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30927?fromControl=Control1",
+                    "id": 30927
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30926"
+                        },
+                        {
+                            "display": "29-Jun-2026",
+                            "value": "2026-06-29T02:23:54.417Z"
+                        },
+                        {
+                            "value": "Housing and Urban Development"
+                        },
+                        {
+                            "value": "Office of Local Government"
+                        },
+                        {
+                            "value": "DHUD.Procurement@sa.gov.au "
+                        },
+                        {
+                            "value": "MUNICIPAL SERVICES FOR DAVENPORT ABORIGINAL COMMUNITY"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "01-Feb-28",
+                            "value": "2028-01-31T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30926?fromControl=Control1",
+                    "id": 30926
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30925"
+                        },
+                        {
+                            "display": "29-Jun-2026",
+                            "value": "2026-06-29T02:14:58.058Z"
+                        },
+                        {
+                            "value": "Housing and Urban Development"
+                        },
+                        {
+                            "value": "ORG"
+                        },
+                        {
+                            "value": "DHUD.Procurement@sa.gov.au "
+                        },
+                        {
+                            "value": "Service Charge and Royalty Audit"
+                        },
+                        {
+                            "value": "Financial Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "15-Oct-26",
+                            "value": "2026-10-14T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30925?fromControl=Control1",
+                    "id": 30925
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30924"
+                        },
+                        {
+                            "display": "29-Jun-2026",
+                            "value": "2026-06-29T02:09:37.416Z"
+                        },
+                        {
+                            "value": "Housing and Urban Development"
+                        },
+                        {
+                            "value": "ICT"
+                        },
+                        {
+                            "value": "DHUD.Procurement@sa.gov.au "
+                        },
+                        {
+                            "value": "Cyber Security Services"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "15-Jan-27",
+                            "value": "2027-01-14T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30924?fromControl=Control1",
+                    "id": 30924
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30896"
+                        },
+                        {
+                            "display": "26-Jun-2026",
+                            "value": "2026-06-26T02:15:35.294Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "People and Corporate Services - Financial & Procurement Services"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "DIT Voluntary Influenza Vaccination Program  "
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "30-Sep-26",
+                            "value": "2026-09-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30896?fromControl=Control1",
+                    "id": 30896
+                },
                 {
                     "values": [
                         {
@@ -4936,7 +5359,7 @@
                             "value": "ICT Software and Technology"
                         },
                         {
-                            "value": "New requirement"
+                            "value": "Recompete expiring contract"
                         },
                         {
                             "value": "Direct Approach"
@@ -4983,7 +5406,7 @@
                             "value": "Advisory and Consultancy Services"
                         },
                         {
-                            "value": "New requirement"
+                            "value": "Recompete expiring contract"
                         },
                         {
                             "value": "Limited"
@@ -5948,6 +6371,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR30849"
+                        },
+                        {
+                            "display": "23-Jun-2026",
+                            "value": "2026-06-23T05:40:18.794Z"
+                        },
+                        {
+                            "value": "Central Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "Statewide Clinical Support Services (SCSS) - SA Pathology"
+                        },
+                        {
+                            "value": "leigh.cahill@sa.gov.au"
+                        },
+                        {
+                            "value": "Microarray Scanner for SA Pathology"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "01-Oct-26",
+                            "value": "2026-09-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30849?fromControl=Control1",
+                    "id": 30849
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR30848"
                         },
                         {
@@ -6362,7 +6832,7 @@
                             "value": "2026-10-04T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/30836?fromControl=Control1",
@@ -6456,7 +6926,7 @@
                             "value": "2026-09-22T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/30830?fromControl=Control1",
@@ -6700,6 +7170,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR30726"
+                        },
+                        {
+                            "display": "17-Jun-2026",
+                            "value": "2026-06-16T23:04:52.43Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Academic Development - Strategic Industry Partnerships"
+                        },
+                        {
+                            "value": "adminprocurement@tafesa.edu.au"
+                        },
+                        {
+                            "value": "Labour Insights, Data and Analytics"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Jun-27",
+                            "value": "2027-06-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30726?fromControl=Control1",
+                    "id": 30726
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR30725"
                         },
                         {
@@ -6743,6 +7260,382 @@
                     ],
                     "href": "records/Activity%20Planning/30725?fromControl=Control1",
                     "id": 30725
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30365"
+                        },
+                        {
+                            "display": "16-Jun-2026",
+                            "value": "2026-06-16T06:14:58.448Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Academic Development - TAFE Centers of Excellence"
+                        },
+                        {
+                            "value": "eneida.bonotti@tafesa.edu.au"
+                        },
+                        {
+                            "value": "QA, Metrology and NDT"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Sep-27",
+                            "value": "2027-09-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30365?fromControl=Control1",
+                    "id": 30365
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30364"
+                        },
+                        {
+                            "display": "16-Jun-2026",
+                            "value": "2026-06-16T06:13:54.97Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Academic Development - TAFE Centers of Excellence"
+                        },
+                        {
+                            "value": "eneida.bonotti@tafesa.edu.au"
+                        },
+                        {
+                            "value": "Purchase of Robotics and Cobots"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Sep-27",
+                            "value": "2027-09-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30364?fromControl=Control1",
+                    "id": 30364
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30363"
+                        },
+                        {
+                            "display": "16-Jun-2026",
+                            "value": "2026-06-16T06:12:42.651Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Academic Development - TAFE Centers of Excellence"
+                        },
+                        {
+                            "value": "eneida.bonotti@tafesa.edu.au"
+                        },
+                        {
+                            "value": "Automation, PLC and HMI"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Sep-27",
+                            "value": "2027-09-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30363?fromControl=Control1",
+                    "id": 30363
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30362"
+                        },
+                        {
+                            "display": "16-Jun-2026",
+                            "value": "2026-06-16T06:11:38.893Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Academic Development - TAFE Centers of Excellence"
+                        },
+                        {
+                            "value": "eneida.bonotti@tafesa.edu.au"
+                        },
+                        {
+                            "value": " Welding Simulation"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Sep-27",
+                            "value": "2027-09-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30362?fromControl=Control1",
+                    "id": 30362
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30361"
+                        },
+                        {
+                            "display": "16-Jun-2026",
+                            "value": "2026-06-16T06:08:05.414Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Academic Development - TAFE Centers of Excellence"
+                        },
+                        {
+                            "value": "eneida.bonotti@tafesa.edu.au"
+                        },
+                        {
+                            "value": "CNC and Virtual Machining SImulation"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Sep-27",
+                            "value": "2027-09-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30361?fromControl=Control1",
+                    "id": 30361
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30360"
+                        },
+                        {
+                            "display": "16-Jun-2026",
+                            "value": "2026-06-16T06:04:07.686Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Academic Development - TAFE Centers of Excellence"
+                        },
+                        {
+                            "value": "eneida.bonotti@tafesa.edu.au"
+                        },
+                        {
+                            "value": "Additive Manufacturing & Filtaration systems"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Sep-27",
+                            "value": "2027-09-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30360?fromControl=Control1",
+                    "id": 30360
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30359"
+                        },
+                        {
+                            "display": "16-Jun-2026",
+                            "value": "2026-06-16T06:01:38.053Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Academic Development - TAFE Centers of Excellence"
+                        },
+                        {
+                            "value": "eneida.bonotti@tafesa.edu.au"
+                        },
+                        {
+                            "value": "CAD and Digital Design Software"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Sep-27",
+                            "value": "2027-09-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30359?fromControl=Control1",
+                    "id": 30359
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30358"
+                        },
+                        {
+                            "display": "16-Jun-2026",
+                            "value": "2026-06-16T05:59:19.666Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Academic Development - TAFE Centers of Excellence"
+                        },
+                        {
+                            "value": "eneida.bonotti@tafesa.edu.au"
+                        },
+                        {
+                            "value": "Simulated Learning Equipment -  Safety and VR"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Sep-27",
+                            "value": "2027-09-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30358?fromControl=Control1",
+                    "id": 30358
                 },
                 {
                     "values": [
@@ -8267,7 +9160,7 @@
                             "value": "SAMSBProcurement@sa.gov.au"
                         },
                         {
-                            "value": "Event Catering Services"
+                            "value": "Hospitality & Catering Services for the Adelaide Street Circuit Venue"
                         },
                         {
                             "value": "Tourism and Entertainment"
@@ -10836,6 +11729,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR28071"
+                        },
+                        {
+                            "display": "02-Jun-2026",
+                            "value": "2026-06-02T03:43:07.644Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Food and Beverage"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "Exclusive Confectionary Supply Agreement"
+                        },
+                        {
+                            "value": "Office Equipment and Accessories and Supplies"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "15-Feb-27",
+                            "value": "2027-02-14T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28071?fromControl=Control1",
+                    "id": 28071
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR28061"
                         },
                         {
@@ -10879,6 +11819,53 @@
                     ],
                     "href": "records/Activity%20Planning/28061?fromControl=Control1",
                     "id": 28061
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28058"
+                        },
+                        {
+                            "display": "02-Jun-2026",
+                            "value": "2026-06-01T23:07:11.855Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Academic Development - Quality & Compliance"
+                        },
+                        {
+                            "value": "adminprocurement@tafesa.edu.au"
+                        },
+                        {
+                            "value": "Review of academic and corporate governance"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Sep-27",
+                            "value": "2027-09-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28058?fromControl=Control1",
+                    "id": 28058
                 },
                 {
                     "values": [
@@ -12472,7 +13459,7 @@
                             "value": "2026-06-29T14:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/27964?fromControl=Control1",
@@ -12947,53 +13934,6 @@
                     ],
                     "href": "records/Activity%20Planning/27945?fromControl=Control1",
                     "id": 27945
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27941"
-                        },
-                        {
-                            "display": "25-May-2026",
-                            "value": "2026-05-25T04:25:31.29Z"
-                        },
-                        {
-                            "value": "Housing and Urban Development"
-                        },
-                        {
-                            "value": "NPLT"
-                        },
-                        {
-                            "value": "DHUD.Procurement@sa.gov.au "
-                        },
-                        {
-                            "value": "Detailed Design for the NPL S&R Hub"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "08-Jun-26",
-                            "value": "2026-06-07T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27941?fromControl=Control1",
-                    "id": 27941
                 },
                 {
                     "values": [
@@ -14916,7 +15856,7 @@
                             "value": "2026-07-30T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/27779?fromControl=Control1",
@@ -16476,100 +17416,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR27674"
-                        },
-                        {
-                            "display": "07-May-2026",
-                            "value": "2026-05-06T23:52:45.555Z"
-                        },
-                        {
-                            "value": "Housing and Urban Development"
-                        },
-                        {
-                            "value": "Growth & Infrastructure Coordination Unit "
-                        },
-                        {
-                            "value": "DHUD.Procurement@sa.gov.au "
-                        },
-                        {
-                            "value": "Concordia Transport Modelling and Desing"
-                        },
-                        {
-                            "value": "Industrial and Engineering"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "30-Jun-26",
-                            "value": "2026-06-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27674?fromControl=Control1",
-                    "id": 27674
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27671"
-                        },
-                        {
-                            "display": "06-May-2026",
-                            "value": "2026-05-06T06:11:43.423Z"
-                        },
-                        {
-                            "value": "Adelaide Venue Management Corporation"
-                        },
-                        {
-                            "value": "People"
-                        },
-                        {
-                            "value": "tenders@avmc.com.au"
-                        },
-                        {
-                            "value": "Provision of Casual Labour Hire"
-                        },
-                        {
-                            "value": "Tourism and Entertainment"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "02-Jun-26",
-                            "value": "2026-06-01T14:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27671?fromControl=Control1",
-                    "id": 27671
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR27669"
                         },
                         {
@@ -16608,7 +17454,7 @@
                             "value": "2026-06-30T14:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/27669?fromControl=Control1",
@@ -17741,6 +18587,53 @@
                     ],
                     "href": "records/Activity%20Planning/27590?fromControl=Control1",
                     "id": 27590
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27574"
+                        },
+                        {
+                            "display": "29-Apr-2026",
+                            "value": "2026-04-29T03:56:27.405Z"
+                        },
+                        {
+                            "value": "Human Services"
+                        },
+                        {
+                            "value": "Community and Partnerships - Grants SA (DHS > ESI > CP > GSA)"
+                        },
+                        {
+                            "value": "dhsprocurementcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Grants Annual Subscription"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "31-Jan-27",
+                            "value": "2027-01-30T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27574?fromControl=Control1",
+                    "id": 27574
                 },
                 {
                     "values": [
@@ -22676,899 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/27329?fromControl=Control1",
                     "id": 27329
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27328"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T05:22:14.188Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Feeling Capital Works Program"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27328?fromControl=Control1",
-                    "id": 27328
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27327"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T05:20:08.093Z"
-                        },
-                        {
-                            "value": "Central Adelaide Local Health Network"
-                        },
-                        {
-                            "value": "Office of CEO"
-                        },
-                        {
-                            "value": "anoop.mammen@sa.gov.au"
-                        },
-                        {
-                            "value": "Leadership Space - Workshops"
-                        },
-                        {
-                            "value": "Human Resources and Staffing"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "20-Apr-26",
-                            "value": "2026-04-19T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27327?fromControl=Control1",
-                    "id": 27327
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27326"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T05:19:11.587Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Feeling Capital Works Program"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27326?fromControl=Control1",
-                    "id": 27326
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27324"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T05:17:06.493Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Freeling Capital Works Program"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27324?fromControl=Control1",
-                    "id": 27324
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27323"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T05:15:22.135Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Riverton and District High School Capital Works Program"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27323?fromControl=Control1",
-                    "id": 27323
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27322"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T05:12:56.324Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Riverton and District High School Capital Works Program"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27322?fromControl=Control1",
-                    "id": 27322
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27321"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T05:08:54.597Z"
-                        },
-                        {
-                            "value": "Central Adelaide Local Health Network"
-                        },
-                        {
-                            "value": "Office of CEO"
-                        },
-                        {
-                            "value": "anoop.mammen@sa.gov.au"
-                        },
-                        {
-                            "value": "Transformational Leadership Workshop Program"
-                        },
-                        {
-                            "value": "Human Resources and Staffing"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "20-Apr-26",
-                            "value": "2026-04-19T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27321?fromControl=Control1",
-                    "id": 27321
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27320"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T05:06:12.251Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Berri Capital Works Program"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27320?fromControl=Control1",
-                    "id": 27320
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27319"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T05:04:32.894Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Berri Capital Works Program"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27319?fromControl=Control1",
-                    "id": 27319
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27317"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T04:58:53.884Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Berri Capital Works Program"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27317?fromControl=Control1",
-                    "id": 27317
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27316"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T04:47:14.993Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Marryatville Capital Works Program"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27316?fromControl=Control1",
-                    "id": 27316
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27315"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T04:33:59.449Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Marryatville Capital Works Program"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27315?fromControl=Control1",
-                    "id": 27315
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27314"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T04:28:31.391Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Glenburne Capital Works Program"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27314?fromControl=Control1",
-                    "id": 27314
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27313"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T04:25:46.432Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Glenburne Capital Works Program"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27313?fromControl=Control1",
-                    "id": 27313
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27312"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T04:16:36.539Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Glenburne Capital Works Program"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27312?fromControl=Control1",
-                    "id": 27312
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27311"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T04:09:54.222Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Plympton Capital Works Program"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27311?fromControl=Control1",
-                    "id": 27311
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27309"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T04:04:13.632Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Plympton Capital Works Program"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27309?fromControl=Control1",
-                    "id": 27309
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27308"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T04:00:32.772Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Plympton Capital Works Program"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27308?fromControl=Control1",
-                    "id": 27308
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27307"
-                        },
-                        {
-                            "display": "14-Apr-2026",
-                            "value": "2026-04-14T03:04:05.131Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "People and Corporate Services - Information Services"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Cyber Security - Application control software"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "15-Jul-26",
-                            "value": "2026-07-14T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27307?fromControl=Control1",
-                    "id": 27307
                 }
             ],
             "aggregates": []
