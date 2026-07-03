@@ -67,9 +67,56 @@
                 "filter": true
             }
         ],
-        "totalRows": 2456,
+        "totalRows": 2452,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR30999"
+                        },
+                        {
+                            "display": "03-Jul-2026",
+                            "value": "2026-07-03T03:50:13.803Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Public Lands"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Mambray Creek Prefabricated Park Office Supply and Installation"
+                        },
+                        {
+                            "value": "Public Administration and Safety"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "31-Aug-26",
+                            "value": "2026-08-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30999?fromControl=Control1",
+                    "id": 30999
+                },
                 {
                     "values": [
                         {
@@ -8533,53 +8580,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR30839"
-                        },
-                        {
-                            "display": "23-Jun-2026",
-                            "value": "2026-06-23T03:43:01.024Z"
-                        },
-                        {
-                            "value": "Premier and Cabinet"
-                        },
-                        {
-                            "value": "Office for Autism"
-                        },
-                        {
-                            "value": "dpcprocurementandcontracts@sa.gov.au"
-                        },
-                        {
-                            "value": "Training of facilitators and delivery of the Tiny Moments Supported Playgroup program in South Australia "
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "06-Jul-26",
-                            "value": "2026-07-05T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30839?fromControl=Control1",
-                    "id": 30839
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR30836"
                         },
                         {
@@ -11058,8 +11058,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "06-Jul-26",
-                            "value": "2026-07-05T14:30:00Z"
+                            "display": "21-Sep-26",
+                            "value": "2026-09-20T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
