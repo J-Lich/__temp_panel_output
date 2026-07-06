@@ -67,9 +67,197 @@
                 "filter": true
             }
         ],
-        "totalRows": 2452,
+        "totalRows": 2445,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR31017"
+                        },
+                        {
+                            "display": "06-Jul-2026",
+                            "value": "2026-07-06T07:04:43.042Z"
+                        },
+                        {
+                            "value": "Primary Industries and Regions"
+                        },
+                        {
+                            "value": "Fisheries and Aquaculture"
+                        },
+                        {
+                            "value": "pirsa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Saltwater Fish Restocking Project"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "22-Sep-26",
+                            "value": "2026-09-21T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31017?fromControl=Control1",
+                    "id": 31017
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31015"
+                        },
+                        {
+                            "display": "06-Jul-2026",
+                            "value": "2026-07-06T04:01:53.461Z"
+                        },
+                        {
+                            "value": "Energy and Mining"
+                        },
+                        {
+                            "value": "Strategic Policy and Delivery"
+                        },
+                        {
+                            "value": "dem.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Seismic Archive"
+                        },
+                        {
+                            "value": "Energy and Fuels"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "23-Sep-26",
+                            "value": "2026-09-22T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31015?fromControl=Control1",
+                    "id": 31015
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31011"
+                        },
+                        {
+                            "display": "06-Jul-2026",
+                            "value": "2026-07-06T01:22:15.856Z"
+                        },
+                        {
+                            "value": "Premier and Cabinet"
+                        },
+                        {
+                            "value": "SA Motor Sport Board"
+                        },
+                        {
+                            "value": "SAMSBProcurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Event Specialist Labour Crew"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "09-Jul-26",
+                            "value": "2026-07-08T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31011?fromControl=Control1",
+                    "id": 31011
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31009"
+                        },
+                        {
+                            "display": "06-Jul-2026",
+                            "value": "2026-07-06T00:17:38.357Z"
+                        },
+                        {
+                            "value": "Courts Administration"
+                        },
+                        {
+                            "value": "Corporate Services"
+                        },
+                        {
+                            "value": "contract_.procurement@courts.sa.gov.au"
+                        },
+                        {
+                            "value": "Roof replacement - Mount Gambier Magistrates Court"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "07-Oct-26",
+                            "value": "2026-10-06T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31009?fromControl=Control1",
+                    "id": 31009
+                },
                 {
                     "values": [
                         {
@@ -17642,7 +17830,7 @@
                             "value": "2026-08-23T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/28048?fromControl=Control1",
@@ -23381,194 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/27820?fromControl=Control1",
                     "id": 27820
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27818"
-                        },
-                        {
-                            "display": "19-May-2026",
-                            "value": "2026-05-19T02:54:55.248Z"
-                        },
-                        {
-                            "value": "Office of the Chief Information Officer"
-                        },
-                        {
-                            "value": "Cloud Services"
-                        },
-                        {
-                            "value": "OCIOProcurementContracts@sa.gov.au"
-                        },
-                        {
-                            "value": "IDX Managed Service Support and Consulting"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "08-Jul-26",
-                            "value": "2026-07-07T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27818?fromControl=Control1",
-                    "id": 27818
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27815"
-                        },
-                        {
-                            "display": "19-May-2026",
-                            "value": "2026-05-19T02:15:09.068Z"
-                        },
-                        {
-                            "value": "SA Police"
-                        },
-                        {
-                            "value": "Information Systems & Technology"
-                        },
-                        {
-                            "value": "SAPOL.PCMSB@police.sa.gov.au"
-                        },
-                        {
-                            "value": "Software License - CK Editor"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27815?fromControl=Control1",
-                    "id": 27815
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27814"
-                        },
-                        {
-                            "display": "19-May-2026",
-                            "value": "2026-05-19T02:12:15.178Z"
-                        },
-                        {
-                            "value": "Attorney General's"
-                        },
-                        {
-                            "value": "Justice Technology Services "
-                        },
-                        {
-                            "value": "jason.symchoon2@sa.gov.au"
-                        },
-                        {
-                            "value": "Server hardware for Justice Technology Services"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "15-Jun-26",
-                            "value": "2026-06-14T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27814?fromControl=Control1",
-                    "id": 27814
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27813"
-                        },
-                        {
-                            "display": "19-May-2026",
-                            "value": "2026-05-19T02:06:32.963Z"
-                        },
-                        {
-                            "value": "SA Police"
-                        },
-                        {
-                            "value": "Information Systems & Technology"
-                        },
-                        {
-                            "value": "SAPOL.PCMSB@police.sa.gov.au"
-                        },
-                        {
-                            "value": "Software License - ASPOSE"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "16-Jun-26",
-                            "value": "2026-06-15T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27813?fromControl=Control1",
-                    "id": 27813
                 }
             ],
             "aggregates": []
