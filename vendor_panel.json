@@ -67,9 +67,56 @@
                 "filter": true
             }
         ],
-        "totalRows": 2442,
+        "totalRows": 2443,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR31056"
+                        },
+                        {
+                            "display": "08-Jul-2026",
+                            "value": "2026-07-08T00:30:43.466Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Commercial and Contract Management"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Islington Railway Station Southern Access Path "
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "display": "13-Aug-26",
+                            "value": "2026-08-12T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31056?fromControl=Control1",
+                    "id": 31056
+                },
                 {
                     "values": [
                         {
@@ -774,53 +821,6 @@
                     ],
                     "href": "records/Activity%20Planning/30966?fromControl=Control1",
                     "id": 30966
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30962"
-                        },
-                        {
-                            "display": "01-Jul-2026",
-                            "value": "2026-07-01T05:19:22.258Z"
-                        },
-                        {
-                            "value": "Southern Adelaide Local Health Network"
-                        },
-                        {
-                            "value": "Corporate Services"
-                        },
-                        {
-                            "value": "mahshad.yaghmaei@sa.gov.au"
-                        },
-                        {
-                            "value": "Provision of Project Management Services"
-                        },
-                        {
-                            "value": "Human Resources and Staffing"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "07-Sep-26",
-                            "value": "2026-09-06T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30962?fromControl=Control1",
-                    "id": 30962
                 },
                 {
                     "values": [
@@ -14301,8 +14301,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "03-Aug-26",
-                            "value": "2026-08-02T14:30:00Z"
+                            "display": "01-Sep-26",
+                            "value": "2026-08-31T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -18121,53 +18121,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR28043"
-                        },
-                        {
-                            "display": "29-May-2026",
-                            "value": "2026-05-29T06:28:18.976Z"
-                        },
-                        {
-                            "value": "Attorney General's"
-                        },
-                        {
-                            "value": "Public Safety Solutions "
-                        },
-                        {
-                            "value": "joanna.schrader@sa.gov.au"
-                        },
-                        {
-                            "value": "SPARAS Interim Facilities Design"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "28-Jun-26",
-                            "value": "2026-06-27T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28043?fromControl=Control1",
-                    "id": 28043
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR28042"
                         },
                         {
@@ -20029,17 +19982,17 @@
                             "value": "Direct Approach"
                         },
                         {
-                            "value": "Email"
+                            "value": ""
                         },
                         {
-                            "value": "Probable"
+                            "value": "Almost Certain"
                         },
                         {
                             "display": "01-May-27",
                             "value": "2027-04-30T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/27990?fromControl=Control1",
@@ -21195,13 +21148,13 @@
                             "value": "Jamestown Community School \u2013 Lead Professional Services Contractor"
                         },
                         {
-                            "value": ""
+                            "value": "Facilities and Building Management"
                         },
                         {
                             "value": "New requirement"
                         },
                         {
-                            "value": ""
+                            "value": "Open"
                         },
                         {
                             "value": ""
@@ -21214,7 +21167,7 @@
                             "value": "2026-07-30T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/27933?fromControl=Control1",
@@ -21242,7 +21195,7 @@
                             "value": "Marryatville Primary School \u2013 Lead Professional Services Contractor"
                         },
                         {
-                            "value": ""
+                            "value": "Facilities and Building Management"
                         },
                         {
                             "value": "New requirement"
@@ -21261,7 +21214,7 @@
                             "value": "2026-07-25T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/27932?fromControl=Control1",
@@ -23569,6 +23522,53 @@
                     ],
                     "href": "records/Activity%20Planning/27842?fromControl=Control1",
                     "id": 27842
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR27837"
+                        },
+                        {
+                            "display": "20-May-2026",
+                            "value": "2026-05-20T04:40:43.475Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Transport Strategy and Planning"
+                        },
+                        {
+                            "value": "DIT.sstenders@sa.gov.au"
+                        },
+                        {
+                            "value": "McBryde Tce Intersection Arthur Glennie Dr/Norrie Ave, Whyalla Traffic Signal (TS393) & Lighting upgrade (17C811)"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "20-Aug-26",
+                            "value": "2026-08-19T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/27837?fromControl=Control1",
+                    "id": 27837
                 }
             ],
             "aggregates": []
