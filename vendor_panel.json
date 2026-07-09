@@ -67,9 +67,244 @@
                 "filter": true
             }
         ],
-        "totalRows": 2443,
+        "totalRows": 2441,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR31075"
+                        },
+                        {
+                            "display": "09-Jul-2026",
+                            "value": "2026-07-09T05:03:09.65Z"
+                        },
+                        {
+                            "value": "ReturnToWorkSA"
+                        },
+                        {
+                            "value": "Finance and Investments"
+                        },
+                        {
+                            "value": "procurement@rtwsa.com"
+                        },
+                        {
+                            "value": "Implement and embed Data & Insights operating model"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "09-Jul-26",
+                            "value": "2026-07-08T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31075?fromControl=Control1",
+                    "id": 31075
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31070"
+                        },
+                        {
+                            "display": "09-Jul-2026",
+                            "value": "2026-07-09T03:59:30.031Z"
+                        },
+                        {
+                            "value": "ReturnToWorkSA"
+                        },
+                        {
+                            "value": "Regulation"
+                        },
+                        {
+                            "value": "procurement@rtwsa.com"
+                        },
+                        {
+                            "value": "Audiologist services"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "09-Oct-26",
+                            "value": "2026-10-08T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31070?fromControl=Control1",
+                    "id": 31070
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31068"
+                        },
+                        {
+                            "display": "09-Jul-2026",
+                            "value": "2026-07-09T03:05:56.817Z"
+                        },
+                        {
+                            "value": "Energy and Mining"
+                        },
+                        {
+                            "value": "Strategic Policy and Delivery"
+                        },
+                        {
+                            "value": "dem.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Energy Market Economic Modelling Software"
+                        },
+                        {
+                            "value": "Energy and Fuels"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "28-Feb-27",
+                            "value": "2027-02-27T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31068?fromControl=Control1",
+                    "id": 31068
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31067"
+                        },
+                        {
+                            "display": "09-Jul-2026",
+                            "value": "2026-07-09T02:34:26.657Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Wildlife Service"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Cape Willoughby Accommodation precinct wastewater system upgrade"
+                        },
+                        {
+                            "value": "Tourism and Entertainment"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "30-Jul-26",
+                            "value": "2026-07-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31067?fromControl=Control1",
+                    "id": 31067
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31062"
+                        },
+                        {
+                            "display": "09-Jul-2026",
+                            "value": "2026-07-08T15:31:09.441Z"
+                        },
+                        {
+                            "value": "SA Water"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Divya.Sharma@sawater.com.au"
+                        },
+                        {
+                            "value": "Concordia Pipelines A-J"
+                        },
+                        {
+                            "value": "Industrial and Engineering"
+                        },
+                        {
+                            "value": "New Requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Jun-26",
+                            "value": "2026-06-30T00:00:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31062?fromControl=Control1",
+                    "id": 31062
+                },
                 {
                     "values": [
                         {
@@ -894,7 +1129,7 @@
                             "value": "Advisory and Consultancy Services"
                         },
                         {
-                            "value": "New requirement"
+                            "value": "Secondary procurement process"
                         },
                         {
                             "value": "Open"
@@ -15476,8 +15711,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "04-Aug-26",
-                            "value": "2026-08-03T14:30:00Z"
+                            "display": "03-Aug-27",
+                            "value": "2027-08-02T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -17322,53 +17557,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR28080"
-                        },
-                        {
-                            "display": "03-Jun-2026",
-                            "value": "2026-06-03T01:59:14.038Z"
-                        },
-                        {
-                            "value": "Attorney General's"
-                        },
-                        {
-                            "value": "Facilities and Security "
-                        },
-                        {
-                            "value": "courtney.condren@sa.gov.au"
-                        },
-                        {
-                            "value": "FSSA Workstation Intensification Furniture Acquisition"
-                        },
-                        {
-                            "value": "Office Equipment and Accessories and Supplies"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "15-Jun-26",
-                            "value": "2026-06-14T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28080?fromControl=Control1",
-                    "id": 28080
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR28079"
                         },
                         {
@@ -17732,8 +17920,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "30-Jun-26",
-                            "value": "2026-06-29T14:30:00Z"
+                            "display": "31-Jul-26",
+                            "value": "2026-07-30T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -17943,7 +18131,7 @@
                             "value": "Environment and Water"
                         },
                         {
-                            "value": ""
+                            "value": "Water and River Murray"
                         },
                         {
                             "value": "DEW.Procurement@sa.gov.au"
@@ -18391,7 +18579,7 @@
                         },
                         {
                             "display": "15-May-26",
-                            "value": "2026-05-14T14:30:00Z"
+                            "value": "2026-05-15T00:00:00Z"
                         },
                         {
                             "value": "Released to Market"
@@ -22476,7 +22664,7 @@
                             "value": ""
                         },
                         {
-                            "value": "Almost Certain"
+                            "value": "Certain"
                         },
                         {
                             "display": "19-Jun-26",
@@ -23381,194 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/27847?fromControl=Control1",
                     "id": 27847
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27845"
-                        },
-                        {
-                            "display": "21-May-2026",
-                            "value": "2026-05-21T00:15:32.525Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "DIT.ConstructionProcurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Preferred Supply Arrangement - Safety Barrier (PSASB)"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "14-Jul-26",
-                            "value": "2026-07-13T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27845?fromControl=Control1",
-                    "id": 27845
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27843"
-                        },
-                        {
-                            "display": "21-May-2026",
-                            "value": "2026-05-20T23:48:42.318Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "DIT.ConstructionProcurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Reseal Preparation Work on Various Roads"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "20-Aug-26",
-                            "value": "2026-08-19T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27843?fromControl=Control1",
-                    "id": 27843
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27842"
-                        },
-                        {
-                            "display": "20-May-2026",
-                            "value": "2026-05-20T06:33:47.754Z"
-                        },
-                        {
-                            "value": "Central Adelaide Local Health Network"
-                        },
-                        {
-                            "value": "Statewide Clinical Support Services - SA Medical Imaging"
-                        },
-                        {
-                            "value": "tanya.binkowski2@sa.gov.au"
-                        },
-                        {
-                            "value": "Single-Photon Emission Computed Tomography & Computed Tomography Systems (SPECT/CT) "
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "07-Sep-26",
-                            "value": "2026-09-06T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27842?fromControl=Control1",
-                    "id": 27842
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27837"
-                        },
-                        {
-                            "display": "20-May-2026",
-                            "value": "2026-05-20T04:40:43.475Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Transport Strategy and Planning"
-                        },
-                        {
-                            "value": "DIT.sstenders@sa.gov.au"
-                        },
-                        {
-                            "value": "McBryde Tce Intersection Arthur Glennie Dr/Norrie Ave, Whyalla Traffic Signal (TS393) & Lighting upgrade (17C811)"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "20-Aug-26",
-                            "value": "2026-08-19T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27837?fromControl=Control1",
-                    "id": 27837
                 }
             ],
             "aggregates": []
