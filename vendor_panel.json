@@ -67,9 +67,244 @@
                 "filter": true
             }
         ],
-        "totalRows": 2435,
+        "totalRows": 2434,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR31119"
+                        },
+                        {
+                            "display": "14-Jul-2026",
+                            "value": "2026-07-14T05:36:53.65Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Infrastructure Delivery - Building Projects"
+                        },
+                        {
+                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
+                        },
+                        {
+                            "value": "Northern Park Lands Sports and Recreation Hub - General Building Contractor"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "09-Aug-27",
+                            "value": "2027-08-08T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31119?fromControl=Control1",
+                    "id": 31119
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31118"
+                        },
+                        {
+                            "display": "14-Jul-2026",
+                            "value": "2026-07-14T05:06:19.026Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Infrastructure Delivery - Building Projects"
+                        },
+                        {
+                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
+                        },
+                        {
+                            "value": "Northern Park Lands Sports and Recreation Hub - Lead Professional Services Contractor"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "10-Aug-26",
+                            "value": "2026-08-09T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31118?fromControl=Control1",
+                    "id": 31118
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31117"
+                        },
+                        {
+                            "display": "14-Jul-2026",
+                            "value": "2026-07-14T04:33:37.063Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Infrastructure Delivery - Building Projects"
+                        },
+                        {
+                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
+                        },
+                        {
+                            "value": "Northern Park Lands Sports and Recreation Hub - Cost Manager"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "10-Aug-26",
+                            "value": "2026-08-09T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31117?fromControl=Control1",
+                    "id": 31117
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31116"
+                        },
+                        {
+                            "display": "14-Jul-2026",
+                            "value": "2026-07-14T03:51:07.072Z"
+                        },
+                        {
+                            "value": "Premier and Cabinet"
+                        },
+                        {
+                            "value": "SA Motor Sport Board"
+                        },
+                        {
+                            "value": "dpcprocurementandcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "State Dinner Scaffold Platforms"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "21-Jul-26",
+                            "value": "2026-07-20T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31116?fromControl=Control1",
+                    "id": 31116
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31115"
+                        },
+                        {
+                            "display": "14-Jul-2026",
+                            "value": "2026-07-14T03:45:39.29Z"
+                        },
+                        {
+                            "value": "Premier and Cabinet"
+                        },
+                        {
+                            "value": "SA Motor Sport Board"
+                        },
+                        {
+                            "value": "dpcprocurementandcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Principal Owned Multi-Storey Pavilion"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "21-Jul-26",
+                            "value": "2026-07-20T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31115?fromControl=Control1",
+                    "id": 31115
+                },
                 {
                     "values": [
                         {
@@ -210,6 +445,53 @@
                     ],
                     "href": "records/Activity%20Planning/31108?fromControl=Control1",
                     "id": 31108
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31103"
+                        },
+                        {
+                            "display": "13-Jul-2026",
+                            "value": "2026-07-13T01:48:56.308Z"
+                        },
+                        {
+                            "value": "South Australian Tourism Commission"
+                        },
+                        {
+                            "value": "Events South Australia"
+                        },
+                        {
+                            "value": "procurement2@sa.gov.au"
+                        },
+                        {
+                            "value": "2027 - 29 TA Food Vendor Stalls and Bar"
+                        },
+                        {
+                            "value": "Tourism and Entertainment"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Oct-26",
+                            "value": "2026-09-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31103?fromControl=Control1",
+                    "id": 31103
                 },
                 {
                     "values": [
@@ -492,53 +774,6 @@
                     ],
                     "href": "records/Activity%20Planning/31068?fromControl=Control1",
                     "id": 31068
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR31067"
-                        },
-                        {
-                            "display": "09-Jul-2026",
-                            "value": "2026-07-09T02:34:26.657Z"
-                        },
-                        {
-                            "value": "Environment and Water"
-                        },
-                        {
-                            "value": "National Parks and Wildlife Service"
-                        },
-                        {
-                            "value": "DEW.Procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Cape Willoughby Accommodation precinct wastewater system upgrade"
-                        },
-                        {
-                            "value": "Tourism and Entertainment"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "30-Jul-26",
-                            "value": "2026-07-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31067?fromControl=Control1",
-                    "id": 31067
                 },
                 {
                     "values": [
@@ -3030,6 +3265,53 @@
                     ],
                     "href": "records/Activity%20Planning/30908?fromControl=Control1",
                     "id": 30908
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30907"
+                        },
+                        {
+                            "display": "29-Jun-2026",
+                            "value": "2026-06-28T23:03:39.618Z"
+                        },
+                        {
+                            "value": "Child Protection"
+                        },
+                        {
+                            "value": "Human Resources"
+                        },
+                        {
+                            "value": "DCPprocurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Diploma of Leadership and Management"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30907?fromControl=Control1",
+                    "id": 30907
                 },
                 {
                     "values": [
@@ -18766,8 +19048,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "05-Jul-26",
-                            "value": "2026-07-04T14:30:00Z"
+                            "display": "30-Jul-26",
+                            "value": "2026-07-29T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -21198,13 +21480,13 @@
                             "value": "ICT Software and Technology"
                         },
                         {
-                            "value": ""
+                            "value": "New requirement"
                         },
                         {
-                            "value": "Open"
+                            "value": "Direct Approach"
                         },
                         {
-                            "value": ""
+                            "value": "Email"
                         },
                         {
                             "value": "Almost Certain"
@@ -23287,288 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/27887?fromControl=Control1",
                     "id": 27887
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27886"
-                        },
-                        {
-                            "display": "22-May-2026",
-                            "value": "2026-05-21T23:22:15.149Z"
-                        },
-                        {
-                            "value": "Human Services"
-                        },
-                        {
-                            "value": "Remote and Regional Service Development (DHS > CAP > RRSD)"
-                        },
-                        {
-                            "value": "dhsprocurementcontracts@sa.gov.au"
-                        },
-                        {
-                            "value": "Return to Country Port Augusta"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-May-27",
-                            "value": "2027-04-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27886?fromControl=Control1",
-                    "id": 27886
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27885"
-                        },
-                        {
-                            "display": "22-May-2026",
-                            "value": "2026-05-21T23:20:18.499Z"
-                        },
-                        {
-                            "value": "Human Services"
-                        },
-                        {
-                            "value": "Remote and Regional Service Development (DHS > CAP > RRSD)"
-                        },
-                        {
-                            "value": "dhsprocurementcontracts@sa.gov.au"
-                        },
-                        {
-                            "value": "Port Augusta Youth Centre Activities"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-May-27",
-                            "value": "2027-04-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27885?fromControl=Control1",
-                    "id": 27885
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27884"
-                        },
-                        {
-                            "display": "22-May-2026",
-                            "value": "2026-05-21T23:14:05.73Z"
-                        },
-                        {
-                            "value": "Human Services"
-                        },
-                        {
-                            "value": "Remote and Regional Service Development (DHS > CAP > RRSD)"
-                        },
-                        {
-                            "value": "dhsprocurementcontracts@sa.gov.au"
-                        },
-                        {
-                            "value": "Port Augusta Youth Safe Transport Service - Social Vision Program"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-May-27",
-                            "value": "2027-04-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27884?fromControl=Control1",
-                    "id": 27884
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27879"
-                        },
-                        {
-                            "display": "21-May-2026",
-                            "value": "2026-05-21T06:46:08.776Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Property and Major Projects - Industrial and Defence"
-                        },
-                        {
-                            "value": "annette.pogas@sa.gov.au"
-                        },
-                        {
-                            "value": "EDN APF HOTO Consultant"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "13-Oct-26",
-                            "value": "2026-10-12T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27879?fromControl=Control1",
-                    "id": 27879
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27877"
-                        },
-                        {
-                            "display": "21-May-2026",
-                            "value": "2026-05-21T06:34:15.026Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Property and Major Projects - Industrial and Defence"
-                        },
-                        {
-                            "value": "annette.pogas@sa.gov.au"
-                        },
-                        {
-                            "value": "EDN APF Contract Administrator"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "18-Jan-27",
-                            "value": "2027-01-17T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27877?fromControl=Control1",
-                    "id": 27877
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27867"
-                        },
-                        {
-                            "display": "21-May-2026",
-                            "value": "2026-05-21T05:17:30.853Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Commercial & Business Services - ICT & Records Management"
-                        },
-                        {
-                            "value": "sarah.partridge@sa.gov.au"
-                        },
-                        {
-                            "value": "Website Maintenance "
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Nov-26",
-                            "value": "2026-10-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27867?fromControl=Control1",
-                    "id": 27867
                 }
             ],
             "aggregates": []
