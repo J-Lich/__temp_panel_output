@@ -67,9 +67,244 @@
                 "filter": true
             }
         ],
-        "totalRows": 2447,
+        "totalRows": 2455,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR31479"
+                        },
+                        {
+                            "display": "20-Jul-2026",
+                            "value": "2026-07-20T01:36:22.397Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Chief Operating Officer"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Strategic Procurement Project Support 2026"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "20-Jul-26",
+                            "value": "2026-07-19T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31479?fromControl=Control1",
+                    "id": 31479
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31475"
+                        },
+                        {
+                            "display": "20-Jul-2026",
+                            "value": "2026-07-19T23:49:50.957Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Northern Suburbs Preschool and Primary School - Cost Manager "
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31475?fromControl=Control1",
+                    "id": 31475
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31474"
+                        },
+                        {
+                            "display": "20-Jul-2026",
+                            "value": "2026-07-19T23:47:43.229Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Northern Suburbs Preschool and Primary School - LPSC "
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31474?fromControl=Control1",
+                    "id": 31474
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31473"
+                        },
+                        {
+                            "display": "20-Jul-2026",
+                            "value": "2026-07-19T23:45:38.589Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Mount Barker Preschool and Primary School - Cost Manager "
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "30-Oct-26",
+                            "value": "2026-10-29T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31473?fromControl=Control1",
+                    "id": 31473
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31472"
+                        },
+                        {
+                            "display": "20-Jul-2026",
+                            "value": "2026-07-19T23:41:22.886Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Mount Barker Preschool and Primary School - LPSC"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "27-Oct-26",
+                            "value": "2026-10-26T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31472?fromControl=Control1",
+                    "id": 31472
+                },
                 {
                     "values": [
                         {
@@ -1385,6 +1620,147 @@
                     ],
                     "href": "records/Activity%20Planning/31088?fromControl=Control1",
                     "id": 31088
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31087"
+                        },
+                        {
+                            "display": "10-Jul-2026",
+                            "value": "2026-07-10T02:25:54.41Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Infrastructure Delivery - Building Projects"
+                        },
+                        {
+                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
+                        },
+                        {
+                            "value": "Lyell McEwin Hospital Mental Health Ward 1H - General Building Contractor"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "02-May-27",
+                            "value": "2027-05-01T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31087?fromControl=Control1",
+                    "id": 31087
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31083"
+                        },
+                        {
+                            "display": "10-Jul-2026",
+                            "value": "2026-07-10T00:42:03.901Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Infrastructure Delivery - Building Projects"
+                        },
+                        {
+                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
+                        },
+                        {
+                            "value": "Lyell McEwin Hospital Mental Health Ward 1H Refurbishment - CM"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "24-Aug-26",
+                            "value": "2026-08-23T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31083?fromControl=Control1",
+                    "id": 31083
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31082"
+                        },
+                        {
+                            "display": "10-Jul-2026",
+                            "value": "2026-07-09T23:57:06.954Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Infrastructure Delivery - Building Projects"
+                        },
+                        {
+                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
+                        },
+                        {
+                            "value": "Lyell McEwin Hospital Mental Health Ward 1H Refurbishment - PSC"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "24-Aug-26",
+                            "value": "2026-08-23T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31082?fromControl=Control1",
+                    "id": 31082
                 },
                 {
                     "values": [
@@ -2868,7 +3244,7 @@
                             "value": "Advisory and Consultancy Services"
                         },
                         {
-                            "value": "New requirement"
+                            "value": "Secondary procurement process"
                         },
                         {
                             "value": "Open"
@@ -3009,7 +3385,7 @@
                             "value": "ICT Software and Technology"
                         },
                         {
-                            "value": "New requirement"
+                            "value": "Secondary procurement process"
                         },
                         {
                             "value": "Limited"
@@ -3749,7 +4125,7 @@
                             "value": "Housing and Urban Development"
                         },
                         {
-                            "value": "ORG"
+                            "value": "Office of the Registra-General"
                         },
                         {
                             "value": "DHUD.Procurement@sa.gov.au "
@@ -3773,8 +4149,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "15-Oct-26",
-                            "value": "2026-10-14T13:30:00Z"
+                            "display": "25-Nov-26",
+                            "value": "2026-11-24T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -9765,7 +10141,7 @@
                             "value": "Infrastructure and Transport"
                         },
                         {
-                            "value": ""
+                            "value": "Commercial and Contract Management"
                         },
                         {
                             "value": "DIT.ConstructionProcurement@sa.gov.au"
@@ -11349,6 +11725,53 @@
                     ],
                     "href": "records/Activity%20Planning/30803?fromControl=Control1",
                     "id": 30803
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30802"
+                        },
+                        {
+                            "display": "18-Jun-2026",
+                            "value": "2026-06-18T05:14:07.792Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Canteen Services - Springbank Secondary College"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "03-Aug-26",
+                            "value": "2026-08-02T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30802?fromControl=Control1",
+                    "id": 30802
                 },
                 {
                     "values": [
@@ -23146,429 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/27937?fromControl=Control1",
                     "id": 27937
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27936"
-                        },
-                        {
-                            "display": "25-May-2026",
-                            "value": "2026-05-25T01:32:49.511Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Residential Project Delivery and Assets - Residential Growth"
-                        },
-                        {
-                            "value": "tariq.azam@sa.gov.au"
-                        },
-                        {
-                            "value": "Seaton - verge landscaping and footpath works for stage 1"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "07-Jul-26",
-                            "value": "2026-07-06T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27936?fromControl=Control1",
-                    "id": 27936
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27935"
-                        },
-                        {
-                            "display": "25-May-2026",
-                            "value": "2026-05-25T01:25:02.663Z"
-                        },
-                        {
-                            "value": "Treasury and Finance"
-                        },
-                        {
-                            "value": "RevenueSA"
-                        },
-                        {
-                            "value": "dtfprocurementservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Returned Unclaimed Mail Processing"
-                        },
-                        {
-                            "value": "Transportation, logistics, mail services and warehousing"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Oct-26",
-                            "value": "2026-09-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27935?fromControl=Control1",
-                    "id": 27935
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27934"
-                        },
-                        {
-                            "display": "25-May-2026",
-                            "value": "2026-05-25T01:24:55.169Z"
-                        },
-                        {
-                            "value": "Treasury and Finance"
-                        },
-                        {
-                            "value": "RevenueSA"
-                        },
-                        {
-                            "value": "dtfprocurementservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Low Value Debt Recovery"
-                        },
-                        {
-                            "value": "Financial Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Sep-26",
-                            "value": "2026-08-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27934?fromControl=Control1",
-                    "id": 27934
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27933"
-                        },
-                        {
-                            "display": "25-May-2026",
-                            "value": "2026-05-25T01:11:29.644Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Jamestown Community School \u2013 Lead Professional Services Contractor"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "31-Jul-26",
-                            "value": "2026-07-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27933?fromControl=Control1",
-                    "id": 27933
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27932"
-                        },
-                        {
-                            "display": "25-May-2026",
-                            "value": "2026-05-25T01:08:28.923Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Marryatville Primary School \u2013 Lead Professional Services Contractor"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "26-Jul-26",
-                            "value": "2026-07-25T14:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27932?fromControl=Control1",
-                    "id": 27932
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27931"
-                        },
-                        {
-                            "display": "25-May-2026",
-                            "value": "2026-05-24T23:52:40.979Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Thebarton Senior College General Building Contractor "
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "31-Aug-26",
-                            "value": "2026-08-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27931?fromControl=Control1",
-                    "id": 27931
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27930"
-                        },
-                        {
-                            "display": "25-May-2026",
-                            "value": "2026-05-24T23:50:47.357Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Thebarton Senior College Quantity Surveyor "
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "31-Aug-26",
-                            "value": "2026-08-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27930?fromControl=Control1",
-                    "id": 27930
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27929"
-                        },
-                        {
-                            "display": "25-May-2026",
-                            "value": "2026-05-24T23:47:42.022Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Thebarton Senior College Lead Professional Services Contractor "
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "31-Aug-26",
-                            "value": "2026-08-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27929?fromControl=Control1",
-                    "id": 27929
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27927"
-                        },
-                        {
-                            "display": "22-May-2026",
-                            "value": "2026-05-22T06:22:51.613Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Sales and Corporate Affairs - Sales & Marketing"
-                        },
-                        {
-                            "value": "rebecca.short@sa.gov.au"
-                        },
-                        {
-                            "value": "Research services"
-                        },
-                        {
-                            "value": "Research and Scientific"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "02-Nov-26",
-                            "value": "2026-11-01T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27927?fromControl=Control1",
-                    "id": 27927
                 }
             ],
             "aggregates": []
