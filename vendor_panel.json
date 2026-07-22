@@ -67,9 +67,150 @@
                 "filter": true
             }
         ],
-        "totalRows": 2445,
+        "totalRows": 2440,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR31524"
+                        },
+                        {
+                            "display": "22-Jul-2026",
+                            "value": "2026-07-22T05:48:50.343Z"
+                        },
+                        {
+                            "value": "Procurement Services SA"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Design and Build Procurement Activity and Reporting System Solution"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "10-May-27",
+                            "value": "2027-05-09T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31524?fromControl=Control1",
+                    "id": 31524
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31523"
+                        },
+                        {
+                            "display": "22-Jul-2026",
+                            "value": "2026-07-22T05:35:01.931Z"
+                        },
+                        {
+                            "value": "Procurement Services SA"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Supplementary Procurement Resourcing"
+                        },
+                        {
+                            "value": "Human Resources and Staffing"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "05-Oct-26",
+                            "value": "2026-10-04T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31523?fromControl=Control1",
+                    "id": 31523
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31522"
+                        },
+                        {
+                            "display": "22-Jul-2026",
+                            "value": "2026-07-22T05:06:40.43Z"
+                        },
+                        {
+                            "value": "Procurement Services SA"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "OIA CRM and IPP form"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "08-Mar-27",
+                            "value": "2027-03-07T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31522?fromControl=Control1",
+                    "id": 31522
+                },
                 {
                     "values": [
                         {
@@ -586,53 +727,6 @@
                     ],
                     "href": "records/Activity%20Planning/31500?fromControl=Control1",
                     "id": 31500
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR31498"
-                        },
-                        {
-                            "display": "21-Jul-2026",
-                            "value": "2026-07-21T03:54:13.715Z"
-                        },
-                        {
-                            "value": "Health and Wellbeing"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Tessa.Jones@sa.gov.au"
-                        },
-                        {
-                            "value": "A review to enhance system performance and collaboration"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Dec-26",
-                            "value": "2026-11-30T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31498?fromControl=Control1",
-                    "id": 31498
                 },
                 {
                     "values": [
@@ -3829,53 +3923,6 @@
                     ],
                     "href": "records/Activity%20Planning/30967?fromControl=Control1",
                     "id": 30967
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30966"
-                        },
-                        {
-                            "display": "02-Jul-2026",
-                            "value": "2026-07-02T00:40:22.42Z"
-                        },
-                        {
-                            "value": "Lifetime Support Authority"
-                        },
-                        {
-                            "value": "Corporate"
-                        },
-                        {
-                            "value": "paige.pham4@sa.gov.au"
-                        },
-                        {
-                            "value": "Project Management Office Design and Support"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "12-Jul-26",
-                            "value": "2026-07-11T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30966?fromControl=Control1",
-                    "id": 30966
                 },
                 {
                     "values": [
@@ -20514,53 +20561,6 @@
                     ],
                     "href": "records/Activity%20Planning/28091?fromControl=Control1",
                     "id": 28091
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28084"
-                        },
-                        {
-                            "display": "03-Jun-2026",
-                            "value": "2026-06-03T05:12:01.064Z"
-                        },
-                        {
-                            "value": "Health and Wellbeing"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "ishari.jagoda@sa.gov.au"
-                        },
-                        {
-                            "value": "Supply, Installation and Maintenance of a Tissue Processor"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "03-Jun-26",
-                            "value": "2026-06-02T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28084?fromControl=Control1",
-                    "id": 28084
                 },
                 {
                     "values": [
