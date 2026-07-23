@@ -67,9 +67,291 @@
                 "filter": true
             }
         ],
-        "totalRows": 2440,
+        "totalRows": 2443,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR31562"
+                        },
+                        {
+                            "display": "23-Jul-2026",
+                            "value": "2026-07-23T05:04:18.427Z"
+                        },
+                        {
+                            "value": "Office of the Chief Information Officer"
+                        },
+                        {
+                            "value": "Office for Cyber Security"
+                        },
+                        {
+                            "value": "OCIOProcurementContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Review and Development of Incident Response and Digital Forensics  platforms and tools"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "11-Jan-27",
+                            "value": "2027-01-10T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31562?fromControl=Control1",
+                    "id": 31562
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31561"
+                        },
+                        {
+                            "display": "23-Jul-2026",
+                            "value": "2026-07-23T05:00:28.424Z"
+                        },
+                        {
+                            "value": "Office of the Chief Information Officer"
+                        },
+                        {
+                            "value": "Office for Cyber Security"
+                        },
+                        {
+                            "value": "OCIOProcurementContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Review and Development of Incident Response and Digital Forensics  platforms and tools"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "01-Dec-26",
+                            "value": "2026-11-30T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31561?fromControl=Control1",
+                    "id": 31561
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31559"
+                        },
+                        {
+                            "display": "23-Jul-2026",
+                            "value": "2026-07-23T04:28:17.736Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Building"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "Hoisting System Control Logic Upgrade"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "31-Jul-26",
+                            "value": "2026-07-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31559?fromControl=Control1",
+                    "id": 31559
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31558"
+                        },
+                        {
+                            "display": "23-Jul-2026",
+                            "value": "2026-07-23T02:54:00.359Z"
+                        },
+                        {
+                            "value": "Lifetime Support Authority"
+                        },
+                        {
+                            "value": "Corporate"
+                        },
+                        {
+                            "value": "paige.pham4@sa.gov.au"
+                        },
+                        {
+                            "value": "Salesforce Licences"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "01-Feb-27",
+                            "value": "2027-01-31T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31558?fromControl=Control1",
+                    "id": 31558
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31545"
+                        },
+                        {
+                            "display": "23-Jul-2026",
+                            "value": "2026-07-23T01:23:52.975Z"
+                        },
+                        {
+                            "value": "Lifetime Support Authority"
+                        },
+                        {
+                            "value": "Services"
+                        },
+                        {
+                            "value": "paige.pham4@sa.gov.au"
+                        },
+                        {
+                            "value": "Specialist Disability Accommodation "
+                        },
+                        {
+                            "value": "Travel and accommodation"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "02-Nov-26",
+                            "value": "2026-11-01T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31545?fromControl=Control1",
+                    "id": 31545
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31541"
+                        },
+                        {
+                            "display": "23-Jul-2026",
+                            "value": "2026-07-23T00:39:41.12Z"
+                        },
+                        {
+                            "value": "South Australian Tourism Commission"
+                        },
+                        {
+                            "value": "Events South Australia"
+                        },
+                        {
+                            "value": "procurement2@sa.gov.au"
+                        },
+                        {
+                            "value": "2027 Fan Festival"
+                        },
+                        {
+                            "value": "Tourism and Entertainment"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "28-Sep-26",
+                            "value": "2026-09-27T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31541?fromControl=Control1",
+                    "id": 31541
+                },
                 {
                     "values": [
                         {
@@ -1197,53 +1479,6 @@
                     ],
                     "href": "records/Activity%20Planning/31456?fromControl=Control1",
                     "id": 31456
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR31452"
-                        },
-                        {
-                            "display": "17-Jul-2026",
-                            "value": "2026-07-17T01:57:36.771Z"
-                        },
-                        {
-                            "value": "Human Services"
-                        },
-                        {
-                            "value": "Disability Services - Disability Services (DHS > DSS > DS > DS)"
-                        },
-                        {
-                            "value": "dhsprocurementcontracts@sa.gov.au"
-                        },
-                        {
-                            "value": "Foot Balance Technology"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "26-Jul-26",
-                            "value": "2026-07-25T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31452?fromControl=Control1",
-                    "id": 31452
                 },
                 {
                     "values": [
@@ -4222,7 +4457,7 @@
                             "value": "Operations"
                         },
                         {
-                            "value": "jamie.loprete@tafesa.edu.au"
+                            "value": "oksana.perminova@tafesa.edu.au"
                         },
                         {
                             "value": "Cyber Security Certification"
@@ -17244,10 +17479,10 @@
                             "value": "SAMSBProcurement@sa.gov.au"
                         },
                         {
-                            "value": "Grandstands"
+                            "value": "Supply of Temporary Grandstands"
                         },
                         {
-                            "value": "Industrial and Engineering"
+                            "value": "Other"
                         },
                         {
                             "value": "Recompete expiring contract"
@@ -17266,7 +17501,7 @@
                             "value": "2026-08-02T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/29292?fromControl=Control1",
@@ -23334,241 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/27983?fromControl=Control1",
                     "id": 27983
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27979"
-                        },
-                        {
-                            "display": "27-May-2026",
-                            "value": "2026-05-27T04:27:28.979Z"
-                        },
-                        {
-                            "value": "Premier and Cabinet"
-                        },
-                        {
-                            "value": "Multicultural Affairs"
-                        },
-                        {
-                            "value": "dpcprocurementandcontracts@sa.gov.au"
-                        },
-                        {
-                            "value": "2027 Multicultural Festival - Event infrastructure and furniture"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Apr-27",
-                            "value": "2027-03-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27979?fromControl=Control1",
-                    "id": 27979
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27976"
-                        },
-                        {
-                            "display": "27-May-2026",
-                            "value": "2026-05-27T04:02:50.519Z"
-                        },
-                        {
-                            "value": "SA Police"
-                        },
-                        {
-                            "value": "Information Systems & Technology"
-                        },
-                        {
-                            "value": "SAPOL.PCMSB@police.sa.gov.au"
-                        },
-                        {
-                            "value": "Policing Systems Uplift Program - Cross sector review of architecture"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27976?fromControl=Control1",
-                    "id": 27976
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27970"
-                        },
-                        {
-                            "display": "27-May-2026",
-                            "value": "2026-05-27T01:30:14.129Z"
-                        },
-                        {
-                            "value": "Health and Wellbeing"
-                        },
-                        {
-                            "value": "Digital Health SA"
-                        },
-                        {
-                            "value": "jay.pan@sa.gov.au"
-                        },
-                        {
-                            "value": "Integrated Statewide Mental Health and Drug and Alcohol Services Record"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "27-Aug-26",
-                            "value": "2026-08-26T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27970?fromControl=Control1",
-                    "id": 27970
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27969"
-                        },
-                        {
-                            "display": "27-May-2026",
-                            "value": "2026-05-27T01:16:49.798Z"
-                        },
-                        {
-                            "value": "Attorney General's"
-                        },
-                        {
-                            "value": "SA Employment Tribunal"
-                        },
-                        {
-                            "value": "marisa.longstaff@sa.gov.au"
-                        },
-                        {
-                            "value": "Court Reporting Services - Monitoring and Transcription"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "03-Aug-26",
-                            "value": "2026-08-02T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27969?fromControl=Control1",
-                    "id": 27969
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR27965"
-                        },
-                        {
-                            "display": "27-May-2026",
-                            "value": "2026-05-27T00:32:48.553Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Residential Project Delivery and Assets - Asset Management"
-                        },
-                        {
-                            "value": "simon.burgoyne@sa.gov.au"
-                        },
-                        {
-                            "value": "FY-2026 Tonsley - MAB - Low Load Chiller Compressor Replacement"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "27-Jul-26",
-                            "value": "2026-07-26T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/27965?fromControl=Control1",
-                    "id": 27965
                 }
             ],
             "aggregates": []
