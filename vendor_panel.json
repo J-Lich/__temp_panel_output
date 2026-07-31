@@ -67,9 +67,150 @@
                 "filter": true
             }
         ],
-        "totalRows": 2436,
+        "totalRows": 2435,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR31674"
+                        },
+                        {
+                            "display": "31-Jul-2026",
+                            "value": "2026-07-31T06:06:57.816Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Office for Early Childhood Development"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Development of a Flying Start Impact Evaluation Framework and Implementation "
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "08-Feb-27",
+                            "value": "2027-02-07T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31674?fromControl=Control1",
+                    "id": 31674
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31668"
+                        },
+                        {
+                            "display": "31-Jul-2026",
+                            "value": "2026-07-30T23:26:02.526Z"
+                        },
+                        {
+                            "value": "Housing and Urban Development"
+                        },
+                        {
+                            "value": "Growth Infrastructure Coordination Unit (GICU)"
+                        },
+                        {
+                            "value": "DHUD.Procurement@sa.gov.au "
+                        },
+                        {
+                            "value": "Concordia Sewer Review"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Sep-26",
+                            "value": "2026-08-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31668?fromControl=Control1",
+                    "id": 31668
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31665"
+                        },
+                        {
+                            "display": "30-Jul-2026",
+                            "value": "2026-07-30T06:01:26.867Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Office for Early Childhood Development"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "OECD Grants Administration "
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "30-Oct-26",
+                            "value": "2026-10-29T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31665?fromControl=Control1",
+                    "id": 31665
+                },
                 {
                     "values": [
                         {
@@ -261,53 +402,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR31627"
-                        },
-                        {
-                            "display": "29-Jul-2026",
-                            "value": "2026-07-29T01:55:13.409Z"
-                        },
-                        {
-                            "value": "Central Adelaide Local Health Network"
-                        },
-                        {
-                            "value": "Integrated Care and Partnerships"
-                        },
-                        {
-                            "value": "anoop.mammen@sa.gov.au"
-                        },
-                        {
-                            "value": "Talent Acquisition Support "
-                        },
-                        {
-                            "value": "Human Resources and Staffing"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31627?fromControl=Control1",
-                    "id": 31627
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR31626"
                         },
                         {
@@ -402,6 +496,100 @@
                 {
                     "values": [
                         {
+                            "value": "PAR31622"
+                        },
+                        {
+                            "display": "28-Jul-2026",
+                            "value": "2026-07-28T07:36:58.987Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Office for Early Childhood Development"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Development of a Monitoring Framework "
+                        },
+                        {
+                            "value": "Research and Scientific"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Dec-26",
+                            "value": "2026-11-30T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31622?fromControl=Control1",
+                    "id": 31622
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31621"
+                        },
+                        {
+                            "display": "28-Jul-2026",
+                            "value": "2026-07-28T07:34:16.991Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Office for Early Childhood Development"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Evaluation of the Aboriginal Early Childhood Strategy Initiatives "
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "31-Mar-27",
+                            "value": "2027-03-30T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31621?fromControl=Control1",
+                    "id": 31621
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR31617"
                         },
                         {
@@ -445,6 +633,53 @@
                     ],
                     "href": "records/Activity%20Planning/31617?fromControl=Control1",
                     "id": 31617
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31616"
+                        },
+                        {
+                            "display": "28-Jul-2026",
+                            "value": "2026-07-28T05:32:13.842Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Office for Early Childhood Development"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Evaluation of the Aboriginal Early Childhood Strategy Initiatives "
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Aug-27",
+                            "value": "2027-07-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31616?fromControl=Control1",
+                    "id": 31616
                 },
                 {
                     "values": [
@@ -1658,8 +1893,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "26-Jul-26",
-                            "value": "2026-07-25T14:30:00Z"
+                            "display": "10-Aug-26",
+                            "value": "2026-08-09T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -3495,7 +3730,7 @@
                             "value": "2026-07-26T14:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/31131?fromControl=Control1",
@@ -4017,53 +4252,6 @@
                     ],
                     "href": "records/Activity%20Planning/31103?fromControl=Control1",
                     "id": 31103
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR31101"
-                        },
-                        {
-                            "display": "13-Jul-2026",
-                            "value": "2026-07-13T01:04:11.913Z"
-                        },
-                        {
-                            "value": "SA Arid Lands Landscape Board"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "kimberly.cooper@sa.gov.au"
-                        },
-                        {
-                            "value": "FN Drought Resilience Plan"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "13-Jul-26",
-                            "value": "2026-07-12T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31101?fromControl=Control1",
-                    "id": 31101
                 },
                 {
                     "values": [
@@ -14079,53 +14267,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR30830"
-                        },
-                        {
-                            "display": "22-Jun-2026",
-                            "value": "2026-06-22T04:24:01.748Z"
-                        },
-                        {
-                            "value": "Housing and Urban Development"
-                        },
-                        {
-                            "value": "Planning and Building"
-                        },
-                        {
-                            "value": "DHUD.Procurement@sa.gov.au "
-                        },
-                        {
-                            "value": "Inner South-West Structure Plan "
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "23-Sep-26",
-                            "value": "2026-09-22T14:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30830?fromControl=Control1",
-                    "id": 30830
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR30809"
                         },
                         {
@@ -23428,147 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/28051?fromControl=Control1",
                     "id": 28051
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28048"
-                        },
-                        {
-                            "display": "01-Jun-2026",
-                            "value": "2026-06-01T01:43:17.512Z"
-                        },
-                        {
-                            "value": "Environment and Water"
-                        },
-                        {
-                            "value": "Water and River Murray"
-                        },
-                        {
-                            "value": "DEW.Procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Cost Estimates for SA Constraints Measure Future Funding Proposal"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "24-Aug-26",
-                            "value": "2026-08-23T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28048?fromControl=Control1",
-                    "id": 28048
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28046"
-                        },
-                        {
-                            "display": "01-Jun-2026",
-                            "value": "2026-06-01T00:15:43.912Z"
-                        },
-                        {
-                            "value": "Alinytjara Wilurara Landscape Board"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "dalin.song@sa.gov.au"
-                        },
-                        {
-                            "value": "Yalata Sheep Farm Feasibility Study"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Sep-26",
-                            "value": "2026-08-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28046?fromControl=Control1",
-                    "id": 28046
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28044"
-                        },
-                        {
-                            "display": "29-May-2026",
-                            "value": "2026-05-29T07:14:06.623Z"
-                        },
-                        {
-                            "value": "Central Adelaide Local Health Network"
-                        },
-                        {
-                            "value": "Statewide Clinical Support Services - SA Medical Imaging"
-                        },
-                        {
-                            "value": "tanya.binkowski2@sa.gov.au"
-                        },
-                        {
-                            "value": "Advanced Visulisation Workspace"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "22-Jun-26",
-                            "value": "2026-06-21T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28044?fromControl=Control1",
-                    "id": 28044
                 }
             ],
             "aggregates": []
