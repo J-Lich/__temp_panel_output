@@ -67,9 +67,56 @@
                 "filter": true
             }
         ],
-        "totalRows": 2422,
+        "totalRows": 2417,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR31689"
+                        },
+                        {
+                            "display": "04-Aug-2026",
+                            "value": "2026-08-03T23:59:07.088Z"
+                        },
+                        {
+                            "value": "Housing Trust"
+                        },
+                        {
+                            "value": "Housing Delivery"
+                        },
+                        {
+                            "value": "housingprocurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Demolition Works at Norman Street Adaptive Re-Use Project "
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "24-Aug-26",
+                            "value": "2026-08-23T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31689?fromControl=Control1",
+                    "id": 31689
+                },
                 {
                     "values": [
                         {
@@ -257,6 +304,53 @@
                     ],
                     "href": "records/Activity%20Planning/31673?fromControl=Control1",
                     "id": 31673
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31672"
+                        },
+                        {
+                            "display": "31-Jul-2026",
+                            "value": "2026-07-31T04:22:33.449Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Wildlife Service"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Cultural Heritage Survey \u2013 Innamincka Flood Recovery Works "
+                        },
+                        {
+                            "value": "Environmental"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "14-Aug-26",
+                            "value": "2026-08-13T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31672?fromControl=Control1",
+                    "id": 31672
                 },
                 {
                     "values": [
@@ -753,7 +847,7 @@
                             "value": "Human Resources and Staffing"
                         },
                         {
-                            "value": "New requirement"
+                            "value": "Secondary procurement process"
                         },
                         {
                             "value": "Limited"
@@ -769,7 +863,7 @@
                             "value": "2026-08-31T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/31617?fromControl=Control1",
@@ -3175,53 +3269,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR31470"
-                        },
-                        {
-                            "display": "19-Jul-2026",
-                            "value": "2026-07-19T11:09:20.502Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Office of the Chief Executive - Office of the Chief Executive"
-                        },
-                        {
-                            "value": "sarah.partridge@sa.gov.au"
-                        },
-                        {
-                            "value": "Diligent Board Services"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "02-Aug-26",
-                            "value": "2026-08-01T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31470?fromControl=Control1",
-                    "id": 31470
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR31469"
                         },
                         {
@@ -3260,7 +3307,7 @@
                             "value": "2026-07-31T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/31469?fromControl=Control1",
@@ -3805,7 +3852,7 @@
                             "value": "Uniform and Accessories - Marryatville High School"
                         },
                         {
-                            "value": "Community and School Services"
+                            "value": "Healthcare and Community Services"
                         },
                         {
                             "value": "Recompete expiring contract"
@@ -5093,7 +5140,7 @@
                             "value": "2026-07-30T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/31059?fromControl=Control1",
@@ -5234,7 +5281,7 @@
                             "value": "2026-07-30T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/31034?fromControl=Control1",
@@ -5422,7 +5469,7 @@
                             "value": "2026-10-11T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/31016?fromControl=Control1",
@@ -5615,6 +5662,100 @@
                     ],
                     "href": "records/Activity%20Planning/31009?fromControl=Control1",
                     "id": 31009
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31008"
+                        },
+                        {
+                            "display": "06-Jul-2026",
+                            "value": "2026-07-05T22:49:04.794Z"
+                        },
+                        {
+                            "value": "Renewal SA"
+                        },
+                        {
+                            "value": "Residential Project Delivery and Assets - Residential Growth"
+                        },
+                        {
+                            "value": "tariq.azam@sa.gov.au"
+                        },
+                        {
+                            "value": "Prospect Corner: Streetscape Package 2"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "07-Aug-26",
+                            "value": "2026-08-06T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31008?fromControl=Control1",
+                    "id": 31008
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31002"
+                        },
+                        {
+                            "display": "03-Jul-2026",
+                            "value": "2026-07-03T05:20:29.973Z"
+                        },
+                        {
+                            "value": "Renewal SA"
+                        },
+                        {
+                            "value": "Residential Project Delivery and Assets - Residential Growth"
+                        },
+                        {
+                            "value": "tariq.azam@sa.gov.au"
+                        },
+                        {
+                            "value": "Islington Shared Use Path Upgrade (ISUP) and the Northern (Regency Rd boundary) Shared Use Path (NSUP) Upgrade project funding"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "04-Aug-26",
+                            "value": "2026-08-03T14:30:00Z"
+                        },
+                        {
+                            "value": "Released to Market"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31002?fromControl=Control1",
+                    "id": 31002
                 },
                 {
                     "values": [
@@ -10353,8 +10494,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "01-Jul-26",
-                            "value": "2026-06-30T14:30:00Z"
+                            "display": "31-Jan-27",
+                            "value": "2027-01-30T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -10639,7 +10780,7 @@
                             "value": "2026-08-31T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/15545?fromControl=Control1",
@@ -12763,6 +12904,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR30892"
+                        },
+                        {
+                            "display": "25-Jun-2026",
+                            "value": "2026-06-25T03:54:31.63Z"
+                        },
+                        {
+                            "value": "Renewal SA"
+                        },
+                        {
+                            "value": "Sales and Corporate Affairs - Sales & Marketing"
+                        },
+                        {
+                            "value": "ryan.dienhoff@sa.gov.au"
+                        },
+                        {
+                            "value": "Industrial Sales Agent, Tonsley"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "18-Aug-26",
+                            "value": "2026-08-17T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30892?fromControl=Control1",
+                    "id": 30892
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR30890"
                         },
                         {
@@ -14728,7 +14916,7 @@
                             "value": "2026-08-10T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/30798?fromControl=Control1",
@@ -16319,7 +16507,7 @@
                             "value": "SA Tenders and Contracts"
                         },
                         {
-                            "value": "Almost Certain"
+                            "value": "Possible"
                         },
                         {
                             "display": "17-Sep-26",
@@ -18253,7 +18441,7 @@
                             "value": "2026-08-31T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/30344?fromControl=Control1",
@@ -18587,53 +18775,6 @@
                     ],
                     "href": "records/Activity%20Planning/29824?fromControl=Control1",
                     "id": 29824
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR29820"
-                        },
-                        {
-                            "display": "15-Jun-2026",
-                            "value": "2026-06-14T23:09:56.235Z"
-                        },
-                        {
-                            "value": "Legal Services Commission of South Australia"
-                        },
-                        {
-                            "value": "Information Communication Technology (ICT)"
-                        },
-                        {
-                            "value": "procurement@lsc.sa.gov.au"
-                        },
-                        {
-                            "value": "AvePoint M365 Backup and Data Governance"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "19-Jun-26",
-                            "value": "2026-06-18T14:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/29820?fromControl=Control1",
-                    "id": 29820
                 },
                 {
                     "values": [
@@ -23428,147 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/28066?fromControl=Control1",
                     "id": 28066
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28064"
-                        },
-                        {
-                            "display": "02-Jun-2026",
-                            "value": "2026-06-02T00:51:28.619Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Academic Development - Teaching & Learning"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Analyitics consultant"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "30-Nov-27",
-                            "value": "2027-11-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28064?fromControl=Control1",
-                    "id": 28064
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28063"
-                        },
-                        {
-                            "display": "02-Jun-2026",
-                            "value": "2026-06-02T00:50:12.276Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Operations - Finance Office"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Valuation of land and buliding assets"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Jun-27",
-                            "value": "2027-06-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28063?fromControl=Control1",
-                    "id": 28063
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28061"
-                        },
-                        {
-                            "display": "02-Jun-2026",
-                            "value": "2026-06-02T00:17:16.113Z"
-                        },
-                        {
-                            "value": "Attorney General's"
-                        },
-                        {
-                            "value": "Technology Services"
-                        },
-                        {
-                            "value": "nathan.chattaway@sa.gov.au"
-                        },
-                        {
-                            "value": "Virtualisation Migration"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "31-Jul-26",
-                            "value": "2026-07-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28061?fromControl=Control1",
-                    "id": 28061
                 }
             ],
             "aggregates": []
