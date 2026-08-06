@@ -67,9 +67,291 @@
                 "filter": true
             }
         ],
-        "totalRows": 2415,
+        "totalRows": 2417,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR31744"
+                        },
+                        {
+                            "display": "06-Aug-2026",
+                            "value": "2026-08-06T05:45:17.732Z"
+                        },
+                        {
+                            "value": "Primary Industries and Regions"
+                        },
+                        {
+                            "value": "Biosecurity"
+                        },
+                        {
+                            "value": "pirsa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Oyster Sample Collecting"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "21-Sep-26",
+                            "value": "2026-09-20T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31744?fromControl=Control1",
+                    "id": 31744
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31742"
+                        },
+                        {
+                            "display": "06-Aug-2026",
+                            "value": "2026-08-06T04:50:45.559Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Commercial and Contract Management"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Construction of two new rest area on Barrier Highway located at Black Springs and Wiawera"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Nov-26",
+                            "value": "2026-11-29T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31742?fromControl=Control1",
+                    "id": 31742
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31739"
+                        },
+                        {
+                            "display": "06-Aug-2026",
+                            "value": "2026-08-06T01:54:43.749Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Road and Marine Services - Marine Services"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "The Cleaning and Protective Treatment of River Murray Ferries and Associated Components  "
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "16-Nov-26",
+                            "value": "2026-11-15T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31739?fromControl=Control1",
+                    "id": 31739
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31738"
+                        },
+                        {
+                            "display": "06-Aug-2026",
+                            "value": "2026-08-06T01:33:12.67Z"
+                        },
+                        {
+                            "value": "Defence SA"
+                        },
+                        {
+                            "value": "Veterans SA "
+                        },
+                        {
+                            "value": "michelle.ward@sa.gov.au"
+                        },
+                        {
+                            "value": "Veterans Industry Integration Community of Practice Program"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "17-Aug-26",
+                            "value": "2026-08-16T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31738?fromControl=Control1",
+                    "id": 31738
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31734"
+                        },
+                        {
+                            "display": "06-Aug-2026",
+                            "value": "2026-08-05T23:35:01.075Z"
+                        },
+                        {
+                            "value": "Attorney General's"
+                        },
+                        {
+                            "value": "Forensic Science SA  "
+                        },
+                        {
+                            "value": "tina.close2@sa.gov.au"
+                        },
+                        {
+                            "value": "DNA IQ consumables 2026-2027"
+                        },
+                        {
+                            "value": "Research and Scientific"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "31-Dec-26",
+                            "value": "2026-12-30T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31734?fromControl=Control1",
+                    "id": 31734
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31713"
+                        },
+                        {
+                            "display": "05-Aug-2026",
+                            "value": "2026-08-05T06:52:57.887Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Public Affairs"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "THINK! Road Safety Bike"
+                        },
+                        {
+                            "value": "Communications and Marketing"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "17-Aug-26",
+                            "value": "2026-08-16T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31713?fromControl=Control1",
+                    "id": 31713
+                },
                 {
                     "values": [
                         {
@@ -163,6 +445,53 @@
                     ],
                     "href": "records/Activity%20Planning/31711?fromControl=Control1",
                     "id": 31711
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31709"
+                        },
+                        {
+                            "display": "05-Aug-2026",
+                            "value": "2026-08-05T04:16:46.379Z"
+                        },
+                        {
+                            "value": "West Beach Trust"
+                        },
+                        {
+                            "value": "Operations"
+                        },
+                        {
+                            "value": "natalie.hawkes@westbeachparks.com.au"
+                        },
+                        {
+                            "value": "Coffee Supplier"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "09-Nov-26",
+                            "value": "2026-11-08T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31709?fromControl=Control1",
+                    "id": 31709
                 },
                 {
                     "values": [
@@ -398,6 +727,100 @@
                     ],
                     "href": "records/Activity%20Planning/31689?fromControl=Control1",
                     "id": 31689
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31687"
+                        },
+                        {
+                            "display": "03-Aug-2026",
+                            "value": "2026-08-03T07:20:51.616Z"
+                        },
+                        {
+                            "value": "Attorney General's"
+                        },
+                        {
+                            "value": "Forensic Science SA  "
+                        },
+                        {
+                            "value": "tina.close2@sa.gov.au"
+                        },
+                        {
+                            "value": "Quantifiler Trio kits"
+                        },
+                        {
+                            "value": "Research and Scientific"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "01-Dec-26",
+                            "value": "2026-11-30T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31687?fromControl=Control1",
+                    "id": 31687
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31685"
+                        },
+                        {
+                            "display": "03-Aug-2026",
+                            "value": "2026-08-03T06:13:17.525Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Transport Strategy and Planning"
+                        },
+                        {
+                            "value": "DIT.sstenders@sa.gov.au"
+                        },
+                        {
+                            "value": "Design of Variable Message Signs (VMS) for the South Eastern Freeway Upgrade "
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "03-Nov-26",
+                            "value": "2026-11-02T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31685?fromControl=Control1",
+                    "id": 31685
                 },
                 {
                     "values": [
@@ -769,7 +1192,7 @@
                             "value": "2026-08-02T14:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/31662?fromControl=Control1",
@@ -3974,53 +4397,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR31139"
-                        },
-                        {
-                            "display": "15-Jul-2026",
-                            "value": "2026-07-15T04:19:35.671Z"
-                        },
-                        {
-                            "value": "Central Adelaide Local Health Network"
-                        },
-                        {
-                            "value": "Statewide Clinical Support Services - SA Medical Imaging"
-                        },
-                        {
-                            "value": "tanya.binkowski2@sa.gov.au"
-                        },
-                        {
-                            "value": "Gallium-68 Generators"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "28-Aug-26",
-                            "value": "2026-08-27T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31139?fromControl=Control1",
-                    "id": 31139
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR31138"
                         },
                         {
@@ -4487,6 +4863,53 @@
                     ],
                     "href": "records/Activity%20Planning/31115?fromControl=Control1",
                     "id": 31115
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31114"
+                        },
+                        {
+                            "display": "14-Jul-2026",
+                            "value": "2026-07-14T02:38:27.471Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Transport Strategy and Planning"
+                        },
+                        {
+                            "value": "DIT.sstenders@sa.gov.au"
+                        },
+                        {
+                            "value": "AUKUS Projects"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "14-Oct-26",
+                            "value": "2026-10-13T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31114?fromControl=Control1",
+                    "id": 31114
                 },
                 {
                     "values": [
@@ -6508,100 +6931,6 @@
                     ],
                     "href": "records/Activity%20Planning/30967?fromControl=Control1",
                     "id": 30967
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30960"
-                        },
-                        {
-                            "display": "01-Jul-2026",
-                            "value": "2026-07-01T04:04:55.872Z"
-                        },
-                        {
-                            "value": "ReturnToWorkSA"
-                        },
-                        {
-                            "value": "Actuarial and Analytics"
-                        },
-                        {
-                            "value": "procurement@rtwsa.com"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "31-Oct-26",
-                            "value": "2026-10-30T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30960?fromControl=Control1",
-                    "id": 30960
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30959"
-                        },
-                        {
-                            "display": "01-Jul-2026",
-                            "value": "2026-07-01T03:54:20.444Z"
-                        },
-                        {
-                            "value": "ReturnToWorkSA"
-                        },
-                        {
-                            "value": "Finance and Investments"
-                        },
-                        {
-                            "value": "procurement@rtwsa.com"
-                        },
-                        {
-                            "value": "RTWSA Internal Audit Services "
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30959?fromControl=Control1",
-                    "id": 30959
                 },
                 {
                     "values": [
@@ -23240,335 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/28102?fromControl=Control1",
                     "id": 28102
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28101"
-                        },
-                        {
-                            "display": "04-Jun-2026",
-                            "value": "2026-06-04T03:09:11.751Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Operations - Facilities & Projects"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Specialist automotive equipment"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Sep-27",
-                            "value": "2027-09-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28101?fromControl=Control1",
-                    "id": 28101
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28100"
-                        },
-                        {
-                            "display": "04-Jun-2026",
-                            "value": "2026-06-04T03:06:01.083Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Operations - Facilities & Projects"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Campus Data"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Nov-27",
-                            "value": "2027-10-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28100?fromControl=Control1",
-                    "id": 28100
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28098"
-                        },
-                        {
-                            "display": "04-Jun-2026",
-                            "value": "2026-06-04T03:01:12.318Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Operations - Facilities & Projects"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Building condition assessments"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-Jan-27",
-                            "value": "2026-12-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28098?fromControl=Control1",
-                    "id": 28098
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28097"
-                        },
-                        {
-                            "display": "04-Jun-2026",
-                            "value": "2026-06-04T02:59:47.125Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Operations - Facilities & Projects"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "EAMS Data Dictionary Development"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "04-Jul-27",
-                            "value": "2027-07-03T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28097?fromControl=Control1",
-                    "id": 28097
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28095"
-                        },
-                        {
-                            "display": "04-Jun-2026",
-                            "value": "2026-06-04T02:57:22.562Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Operations - Facilities & Projects"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Maintenance and service of bespoke equipment"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "17-Nov-27",
-                            "value": "2027-11-16T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28095?fromControl=Control1",
-                    "id": 28095
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28094"
-                        },
-                        {
-                            "display": "04-Jun-2026",
-                            "value": "2026-06-04T02:56:14.518Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Operations - Facilities & Projects"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Pest Contol Servicing"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "31-May-27",
-                            "value": "2027-05-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28094?fromControl=Control1",
-                    "id": 28094
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28092"
-                        },
-                        {
-                            "display": "04-Jun-2026",
-                            "value": "2026-06-04T02:34:35.073Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Operations - Facilities & Projects"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "AED Defibrillator Servicing"
-                        },
-                        {
-                            "value": "Office Equipment and Accessories and Supplies"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "30-Nov-27",
-                            "value": "2027-11-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28092?fromControl=Control1",
-                    "id": 28092
                 }
             ],
             "aggregates": []
