@@ -67,9 +67,150 @@
                 "filter": true
             }
         ],
-        "totalRows": 2417,
+        "totalRows": 2415,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR33657"
+                        },
+                        {
+                            "display": "07-Aug-2026",
+                            "value": "2026-08-07T03:12:32.794Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Infrastructure Delivery - Building Projects"
+                        },
+                        {
+                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
+                        },
+                        {
+                            "value": "260 Currie Street Refugee Health Service and Osp Fitout - GBC"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "16-Aug-26",
+                            "value": "2026-08-15T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33657?fromControl=Control1",
+                    "id": 33657
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33656"
+                        },
+                        {
+                            "display": "07-Aug-2026",
+                            "value": "2026-08-07T01:48:08.633Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Infrastructure Delivery - Building Projects"
+                        },
+                        {
+                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
+                        },
+                        {
+                            "value": "260 Currie Street Refugee Health Service and Osp Fitout - LPSC"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "16-Aug-26",
+                            "value": "2026-08-15T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33656?fromControl=Control1",
+                    "id": 33656
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33655"
+                        },
+                        {
+                            "display": "07-Aug-2026",
+                            "value": "2026-08-07T01:45:13.634Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Commercial and Contract Management"
+                        },
+                        {
+                            "value": "DIT.ConstructionProcurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Project Management and Contract Management (PSAPMCM)"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "22-Dec-26",
+                            "value": "2026-12-21T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33655?fromControl=Control1",
+                    "id": 33655
+                },
                 {
                     "values": [
                         {
@@ -4397,6 +4538,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR31139"
+                        },
+                        {
+                            "display": "15-Jul-2026",
+                            "value": "2026-07-15T04:19:35.671Z"
+                        },
+                        {
+                            "value": "Central Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "Statewide Clinical Support Services - SA Medical Imaging"
+                        },
+                        {
+                            "value": "tanya.binkowski2@sa.gov.au"
+                        },
+                        {
+                            "value": "Gallium-68 Generators"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "28-Aug-26",
+                            "value": "2026-08-27T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31139?fromControl=Control1",
+                    "id": 31139
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR31138"
                         },
                         {
@@ -4901,8 +5089,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "14-Oct-26",
-                            "value": "2026-10-13T13:30:00Z"
+                            "display": "11-Sep-26",
+                            "value": "2026-09-10T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -5286,53 +5474,6 @@
                     ],
                     "href": "records/Activity%20Planning/31083?fromControl=Control1",
                     "id": 31083
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR31082"
-                        },
-                        {
-                            "display": "10-Jul-2026",
-                            "value": "2026-07-09T23:57:06.954Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure Delivery - Building Projects"
-                        },
-                        {
-                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
-                        },
-                        {
-                            "value": "Lyell McEwin Hospital Mental Health Ward 1H Refurbishment - PSC"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "24-Aug-26",
-                            "value": "2026-08-23T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31082?fromControl=Control1",
-                    "id": 31082
                 },
                 {
                     "values": [
@@ -6931,6 +7072,100 @@
                     ],
                     "href": "records/Activity%20Planning/30967?fromControl=Control1",
                     "id": 30967
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30960"
+                        },
+                        {
+                            "display": "01-Jul-2026",
+                            "value": "2026-07-01T04:04:55.872Z"
+                        },
+                        {
+                            "value": "ReturnToWorkSA"
+                        },
+                        {
+                            "value": "Actuarial and Analytics"
+                        },
+                        {
+                            "value": "procurement@rtwsa.com"
+                        },
+                        {
+                            "value": "Procurement of Actuarial Services"
+                        },
+                        {
+                            "value": "Financial Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "30-Nov-26",
+                            "value": "2026-11-29T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30960?fromControl=Control1",
+                    "id": 30960
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30959"
+                        },
+                        {
+                            "display": "01-Jul-2026",
+                            "value": "2026-07-01T03:54:20.444Z"
+                        },
+                        {
+                            "value": "ReturnToWorkSA"
+                        },
+                        {
+                            "value": "Finance and Investments"
+                        },
+                        {
+                            "value": "procurement@rtwsa.com"
+                        },
+                        {
+                            "value": "Internal Audit Services "
+                        },
+                        {
+                            "value": "Financial Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Nov-26",
+                            "value": "2026-11-29T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30959?fromControl=Control1",
+                    "id": 30959
                 },
                 {
                     "values": [
@@ -11165,53 +11400,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR15550"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:13.163Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Information and Communication Technology Services"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "PC Refresh Computer Device Purchase 2028"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "01-Jan-28",
-                            "value": "2027-12-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15550?fromControl=Control1",
-                    "id": 15550
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR15549"
                         },
                         {
@@ -12007,53 +12195,6 @@
                     ],
                     "href": "records/Activity%20Planning/15533?fromControl=Control1",
                     "id": 15533
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15532"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:12.334Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Outcome Cleaning Contract - Westbourne Park Primary School"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Mar-28",
-                            "value": "2028-02-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15532?fromControl=Control1",
-                    "id": 15532
                 },
                 {
                     "values": [
@@ -23428,147 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/28105?fromControl=Control1",
                     "id": 28105
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28104"
-                        },
-                        {
-                            "display": "04-Jun-2026",
-                            "value": "2026-06-04T03:12:34.311Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Students, Strategic Planning and Policy - Student Experience"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Tertiary Learning support program"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Dec-27",
-                            "value": "2027-11-30T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28104?fromControl=Control1",
-                    "id": 28104
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28103"
-                        },
-                        {
-                            "display": "04-Jun-2026",
-                            "value": "2026-06-04T03:11:21.581Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Students, Strategic Planning and Policy - Student Experience"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Feedback Management Solution "
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "04-May-27",
-                            "value": "2027-05-03T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28103?fromControl=Control1",
-                    "id": 28103
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28102"
-                        },
-                        {
-                            "display": "04-Jun-2026",
-                            "value": "2026-06-04T03:10:21.795Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Operations - Facilities & Projects"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Specialist gas and refrigeration equipment"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-May-27",
-                            "value": "2027-04-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28102?fromControl=Control1",
-                    "id": 28102
                 }
             ],
             "aggregates": []
