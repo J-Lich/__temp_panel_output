@@ -67,7 +67,7 @@
                 "filter": true
             }
         ],
-        "totalRows": 2419,
+        "totalRows": 2113,
         "data": {
             "rows": [
                 {
@@ -398,6 +398,53 @@
                     ],
                     "href": "records/Activity%20Planning/33723?fromControl=Control1",
                     "id": 33723
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33714"
+                        },
+                        {
+                            "display": "13-Aug-2026",
+                            "value": "2026-08-13T05:30:41.767Z"
+                        },
+                        {
+                            "value": "Treasury and Finance"
+                        },
+                        {
+                            "value": "South Australian Government Financing Authority"
+                        },
+                        {
+                            "value": "dtfprocurementservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Current Process Mapping"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "12-Nov-26",
+                            "value": "2026-11-11T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33714?fromControl=Control1",
+                    "id": 33714
                 },
                 {
                     "values": [
@@ -1342,53 +1389,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR31746"
-                        },
-                        {
-                            "display": "06-Aug-2026",
-                            "value": "2026-08-06T06:15:08.563Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Anangu Lands Employee Housing Inspections"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31746?fromControl=Control1",
-                    "id": 31746
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR31744"
                         },
                         {
@@ -1846,8 +1846,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "23-Aug-26",
-                            "value": "2026-08-22T14:30:00Z"
+                            "display": "31-Aug-26",
+                            "value": "2026-08-30T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -3867,8 +3867,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "26-Oct-26",
-                            "value": "2026-10-25T13:30:00Z"
+                            "display": "23-Nov-26",
+                            "value": "2026-11-22T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -5243,53 +5243,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR31497"
-                        },
-                        {
-                            "display": "21-Jul-2026",
-                            "value": "2026-07-21T03:18:51.559Z"
-                        },
-                        {
-                            "value": "Courts Administration"
-                        },
-                        {
-                            "value": "Corporate Services"
-                        },
-                        {
-                            "value": "contract_.procurement@courts.sa.gov.au"
-                        },
-                        {
-                            "value": "Justice Agencies Specialised Uniforms Service Agreement - CAA - Sheriff's Office"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31497?fromControl=Control1",
-                    "id": 31497
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR31495"
                         },
                         {
@@ -5756,53 +5709,6 @@
                     ],
                     "href": "records/Activity%20Planning/31456?fromControl=Control1",
                     "id": 31456
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR31448"
-                        },
-                        {
-                            "display": "17-Jul-2026",
-                            "value": "2026-07-16T23:20:31.818Z"
-                        },
-                        {
-                            "value": "Primary Industries and Regions"
-                        },
-                        {
-                            "value": "Biosecurity"
-                        },
-                        {
-                            "value": "pirsa.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Lab Testing for Oyster Samples "
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31448?fromControl=Control1",
-                    "id": 31448
                 },
                 {
                     "values": [
@@ -8580,53 +8486,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR30958"
-                        },
-                        {
-                            "display": "01-Jul-2026",
-                            "value": "2026-07-01T03:46:50.862Z"
-                        },
-                        {
-                            "value": "ReturnToWorkSA"
-                        },
-                        {
-                            "value": "D&IG"
-                        },
-                        {
-                            "value": "procurement@rtwsa.com"
-                        },
-                        {
-                            "value": "Provision of end to end Lower environments"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30958?fromControl=Control1",
-                    "id": 30958
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR30957"
                         },
                         {
@@ -8952,53 +8811,6 @@
                     ],
                     "href": "records/Activity%20Planning/30947?fromControl=Control1",
                     "id": 30947
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30943"
-                        },
-                        {
-                            "display": "30-Jun-2026",
-                            "value": "2026-06-30T00:39:55.96Z"
-                        },
-                        {
-                            "value": "Primary Industries and Regions"
-                        },
-                        {
-                            "value": "SARDI"
-                        },
-                        {
-                            "value": "pirsa.procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Algal Bloom Marine Stocking"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30943?fromControl=Control1",
-                    "id": 30943
                 },
                 {
                     "values": [
@@ -15241,8 +15053,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "30-Sep-26",
-                            "value": "2026-09-29T14:30:00Z"
+                            "display": "29-Oct-26",
+                            "value": "2026-10-28T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -15344,194 +15156,6 @@
                     ],
                     "href": "records/Activity%20Planning/30870?fromControl=Control1",
                     "id": 30870
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30869"
-                        },
-                        {
-                            "display": "24-Jun-2026",
-                            "value": "2026-06-24T02:09:41.064Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Bituminous Works"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30869?fromControl=Control1",
-                    "id": 30869
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30868"
-                        },
-                        {
-                            "display": "24-Jun-2026",
-                            "value": "2026-06-24T02:08:33.321Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Bituminous Works"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30868?fromControl=Control1",
-                    "id": 30868
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30867"
-                        },
-                        {
-                            "display": "24-Jun-2026",
-                            "value": "2026-06-24T02:07:47.841Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Bituminous Works"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30867?fromControl=Control1",
-                    "id": 30867
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30866"
-                        },
-                        {
-                            "display": "24-Jun-2026",
-                            "value": "2026-06-24T02:07:18.088Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Bituminous Works"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30866?fromControl=Control1",
-                    "id": 30866
                 },
                 {
                     "values": [
@@ -16613,53 +16237,6 @@
                     ],
                     "href": "records/Activity%20Planning/30836?fromControl=Control1",
                     "id": 30836
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30832"
-                        },
-                        {
-                            "display": "22-Jun-2026",
-                            "value": "2026-06-22T06:02:56.618Z"
-                        },
-                        {
-                            "value": "Central Adelaide Local Health Network"
-                        },
-                        {
-                            "value": "Strategy and Digital Services"
-                        },
-                        {
-                            "value": "joy.chibuoke@sa.gov.au"
-                        },
-                        {
-                            "value": "Health Roundtable Subscription"
-                        },
-                        {
-                            "value": "Research and Scientific"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30832?fromControl=Control1",
-                    "id": 30832
                 },
                 {
                     "values": [
@@ -19139,11 +18716,11 @@
                             "value": "SA Tenders and Contracts"
                         },
                         {
-                            "value": "Certain"
+                            "value": "Possible"
                         },
                         {
-                            "display": "21-Sep-26",
-                            "value": "2026-09-20T14:30:00Z"
+                            "display": "29-Oct-26",
+                            "value": "2026-10-28T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -21834,53 +21411,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR28784"
-                        },
-                        {
-                            "display": "10-Jun-2026",
-                            "value": "2026-06-10T08:21:01.181Z"
-                        },
-                        {
-                            "value": "SA Police"
-                        },
-                        {
-                            "value": "Business Service"
-                        },
-                        {
-                            "value": "SAPOL.PCMSB@police.sa.gov.au"
-                        },
-                        {
-                            "value": "PHQ Indoor plants"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28784?fromControl=Control1",
-                    "id": 28784
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR28781"
                         },
                         {
@@ -23569,6 +23099,476 @@
                     ],
                     "href": "records/Activity%20Planning/28238?fromControl=Control1",
                     "id": 28238
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28237"
+                        },
+                        {
+                            "display": "09-Jun-2026",
+                            "value": "2026-06-09T00:42:35.504Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Eastern Fleurieu School 2025"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jun-27",
+                            "value": "2027-05-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28237?fromControl=Control1",
+                    "id": 28237
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28236"
+                        },
+                        {
+                            "display": "09-Jun-2026",
+                            "value": "2026-06-09T00:38:59.049Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Tanunda Primary School 2027"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "03-Aug-27",
+                            "value": "2027-08-02T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28236?fromControl=Control1",
+                    "id": 28236
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28235"
+                        },
+                        {
+                            "display": "09-Jun-2026",
+                            "value": "2026-06-09T00:34:18.762Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Williamstown Primary School 2027"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "display": "01-Jul-27",
+                            "value": "2027-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28235?fromControl=Control1",
+                    "id": 28235
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28234"
+                        },
+                        {
+                            "display": "09-Jun-2026",
+                            "value": "2026-06-09T00:31:19.766Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Nuriootpa Primary School 2027"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "01-Jul-27",
+                            "value": "2027-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28234?fromControl=Control1",
+                    "id": 28234
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28233"
+                        },
+                        {
+                            "display": "09-Jun-2026",
+                            "value": "2026-06-09T00:24:41.359Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Ceduna Primary School 2027"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "01-Jun-27",
+                            "value": "2027-05-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28233?fromControl=Control1",
+                    "id": 28233
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28232"
+                        },
+                        {
+                            "display": "09-Jun-2026",
+                            "value": "2026-06-09T00:19:17.987Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Norwood Primary School 2027"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "01-Jun-27",
+                            "value": "2027-05-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28232?fromControl=Control1",
+                    "id": 28232
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28230"
+                        },
+                        {
+                            "display": "09-Jun-2026",
+                            "value": "2026-06-09T00:12:58.299Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Kidman Park Primary School 2027"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "04-May-27",
+                            "value": "2027-05-03T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28230?fromControl=Control1",
+                    "id": 28230
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28229"
+                        },
+                        {
+                            "display": "09-Jun-2026",
+                            "value": "2026-06-09T00:09:50.967Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Christies Beach Primary School 2027"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "04-May-27",
+                            "value": "2027-05-03T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28229?fromControl=Control1",
+                    "id": 28229
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28228"
+                        },
+                        {
+                            "display": "09-Jun-2026",
+                            "value": "2026-06-09T00:06:42.57Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - One Tree Hill Primary School 2027"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "04-May-27",
+                            "value": "2027-05-03T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28228?fromControl=Control1",
+                    "id": 28228
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28227"
+                        },
+                        {
+                            "display": "09-Jun-2026",
+                            "value": "2026-06-09T00:02:53Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Modbury South Primary School 2027"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Apr-27",
+                            "value": "2027-03-31T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28227?fromControl=Control1",
+                    "id": 28227
                 }
             ],
             "aggregates": []
