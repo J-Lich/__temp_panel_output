@@ -67,7 +67,7 @@
                 "filter": true
             }
         ],
-        "totalRows": 2113,
+        "totalRows": 2110,
         "data": {
             "rows": [
                 {
@@ -1573,6 +1573,53 @@
                     ],
                     "href": "records/Activity%20Planning/31738?fromControl=Control1",
                     "id": 31738
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31737"
+                        },
+                        {
+                            "display": "06-Aug-2026",
+                            "value": "2026-08-06T01:06:44.031Z"
+                        },
+                        {
+                            "value": "Courts Administration"
+                        },
+                        {
+                            "value": "Court Services"
+                        },
+                        {
+                            "value": "contract_.procurement@courts.sa.gov.au"
+                        },
+                        {
+                            "value": "Domestic Violence Prevention Program Pilot"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Sep-26",
+                            "value": "2026-09-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31737?fromControl=Control1",
+                    "id": 31737
                 },
                 {
                     "values": [
@@ -8905,53 +8952,6 @@
                     ],
                     "href": "records/Activity%20Planning/30937?fromControl=Control1",
                     "id": 30937
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30935"
-                        },
-                        {
-                            "display": "29-Jun-2026",
-                            "value": "2026-06-29T05:31:58.331Z"
-                        },
-                        {
-                            "value": "Child Protection"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "DCPprocurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Temporary Staff for 2026-2028"
-                        },
-                        {
-                            "value": "Human Resources and Staffing"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Oct-26",
-                            "value": "2026-09-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30935?fromControl=Control1",
-                    "id": 30935
                 },
                 {
                     "values": [
