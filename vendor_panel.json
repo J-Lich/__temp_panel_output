@@ -67,9 +67,56 @@
                 "filter": true
             }
         ],
-        "totalRows": 2110,
+        "totalRows": 2103,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR33786"
+                        },
+                        {
+                            "display": "20-Aug-2026",
+                            "value": "2026-08-20T02:27:11.173Z"
+                        },
+                        {
+                            "value": "Housing and Urban Development"
+                        },
+                        {
+                            "value": "NPLT"
+                        },
+                        {
+                            "value": "DHUD.Procurement@sa.gov.au "
+                        },
+                        {
+                            "value": "Northern Park Lands Master Plan \u2013 Detailed Design"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "31-Aug-26",
+                            "value": "2026-08-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33786?fromControl=Control1",
+                    "id": 33786
+                },
                 {
                     "values": [
                         {
@@ -445,6 +492,53 @@
                     ],
                     "href": "records/Activity%20Planning/33714?fromControl=Control1",
                     "id": 33714
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33711"
+                        },
+                        {
+                            "display": "13-Aug-2026",
+                            "value": "2026-08-13T04:35:20.385Z"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "Health.SAASProcurementandContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Provision of HVAC Maintnence Services - Mile End South"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "31-Aug-26",
+                            "value": "2026-08-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33711?fromControl=Control1",
+                    "id": 33711
                 },
                 {
                     "values": [
@@ -8464,7 +8558,7 @@
                             "value": "Recompete expiring contract"
                         },
                         {
-                            "value": "Limited"
+                            "value": "Open"
                         },
                         {
                             "value": "SA Tenders and Contracts"
@@ -8549,7 +8643,7 @@
                             "value": "procurement@rtwsa.com"
                         },
                         {
-                            "value": "Server Hardware Procurement"
+                            "value": "Server and Storage Hardware Refresh"
                         },
                         {
                             "value": "ICT Software and Technology"
@@ -8567,8 +8661,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "01-Jan-27",
-                            "value": "2026-12-31T13:30:00Z"
+                            "display": "02-Nov-26",
+                            "value": "2026-11-01T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -19782,7 +19876,7 @@
                             "value": "eneida.bonotti@tafesa.edu.au"
                         },
                         {
-                            "value": "Initiatives for closing the gap objecitves"
+                            "value": "Initiatives for closing the gap objectives"
                         },
                         {
                             "value": "Advisory and Consultancy Services"
@@ -23475,100 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/28229?fromControl=Control1",
                     "id": 28229
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28228"
-                        },
-                        {
-                            "display": "09-Jun-2026",
-                            "value": "2026-06-09T00:06:42.57Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Out of School Hours Care - One Tree Hill Primary School 2027"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "04-May-27",
-                            "value": "2027-05-03T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28228?fromControl=Control1",
-                    "id": 28228
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28227"
-                        },
-                        {
-                            "display": "09-Jun-2026",
-                            "value": "2026-06-09T00:02:53Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Out of School Hours Care - Modbury South Primary School 2027"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Apr-27",
-                            "value": "2027-03-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28227?fromControl=Control1",
-                    "id": 28227
                 }
             ],
             "aggregates": []
