@@ -67,9 +67,56 @@
                 "filter": true
             }
         ],
-        "totalRows": 2098,
+        "totalRows": 2089,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR33838"
+                        },
+                        {
+                            "display": "26-Aug-2026",
+                            "value": "2026-08-26T06:14:56.102Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Transport Strategy and Planning"
+                        },
+                        {
+                            "value": "DIT.sstenders@sa.gov.au"
+                        },
+                        {
+                            "value": "Design Services for AUKUS Intersection Capacity Enhancements "
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "22-Sep-26",
+                            "value": "2026-09-21T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33838?fromControl=Control1",
+                    "id": 33838
+                },
                 {
                     "values": [
                         {
@@ -183,7 +230,7 @@
                             "value": "tenders@avmc.com.au"
                         },
                         {
-                            "value": "Event Impact Project"
+                            "value": "Event Impact Measurement and Forecasting Project"
                         },
                         {
                             "value": "Financial Services"
@@ -257,53 +304,6 @@
                     ],
                     "href": "records/Activity%20Planning/33817?fromControl=Control1",
                     "id": 33817
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR33816"
-                        },
-                        {
-                            "display": "25-Aug-2026",
-                            "value": "2026-08-24T22:48:51.31Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Public Transport SA"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "AGFMA REFORM PROGRAM 2026 FACILITIES MANAGEMENT SPECIALISTS ENGAGEMENT  "
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "08-Dec-26",
-                            "value": "2026-12-07T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/33816?fromControl=Control1",
-                    "id": 33816
                 },
                 {
                     "values": [
@@ -553,7 +553,7 @@
                             "value": "Housing and Urban Development"
                         },
                         {
-                            "value": "NPLT"
+                            "value": "Northern Park Lands Trust"
                         },
                         {
                             "value": "DHUD.Procurement@sa.gov.au "
@@ -769,7 +769,7 @@
                             "value": "2026-10-19T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/33732?fromControl=Control1",
@@ -5901,53 +5901,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR31488"
-                        },
-                        {
-                            "display": "21-Jul-2026",
-                            "value": "2026-07-20T15:32:16.33Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "hollie.bird@sawater.com.au"
-                        },
-                        {
-                            "value": "PRV Chambers Rehabilitation"
-                        },
-                        {
-                            "value": "Industrial and Engineering"
-                        },
-                        {
-                            "value": "New Requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "20-Jul-26",
-                            "value": "2026-07-20T00:00:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31488?fromControl=Control1",
-                    "id": 31488
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR31486"
                         },
                         {
@@ -9225,8 +9178,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "31-Aug-26",
-                            "value": "2026-08-30T14:30:00Z"
+                            "display": "30-Oct-26",
+                            "value": "2026-10-29T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -13186,53 +13139,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR15545"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:12.934Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Information and Communication Technology Services"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "School NAS and miscellaneous ICT hardware."
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "01-Sep-26",
-                            "value": "2026-08-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15545?fromControl=Control1",
-                    "id": 15545
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR15544"
                         },
                         {
@@ -16777,7 +16683,7 @@
                             "value": "Growth Prioritisation - Future Urban Growth Infrastructure Model"
                         },
                         {
-                            "value": "Advisory and Consultancy Services"
+                            "value": "Other"
                         },
                         {
                             "value": "New requirement"
@@ -19330,8 +19236,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "31-Aug-26",
-                            "value": "2026-08-30T14:30:00Z"
+                            "display": "30-Sep-27",
+                            "value": "2027-09-29T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -23569,6 +23475,100 @@
                     ],
                     "href": "records/Activity%20Planning/28240?fromControl=Control1",
                     "id": 28240
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28239"
+                        },
+                        {
+                            "display": "09-Jun-2026",
+                            "value": "2026-06-09T01:48:24.094Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Reidy Park Primary School 2027"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "03-Aug-27",
+                            "value": "2027-08-02T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28239?fromControl=Control1",
+                    "id": 28239
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR28238"
+                        },
+                        {
+                            "display": "09-Jun-2026",
+                            "value": "2026-06-09T00:45:56.387Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Out of School Hours Care - Flaxmill School 2027"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jun-27",
+                            "value": "2027-05-31T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/28238?fromControl=Control1",
+                    "id": 28238
                 }
             ],
             "aggregates": []
