@@ -67,9 +67,103 @@
                 "filter": true
             }
         ],
-        "totalRows": 2104,
+        "totalRows": 2106,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR33871"
+                        },
+                        {
+                            "display": "31-Aug-2026",
+                            "value": "2026-08-31T03:15:12.477Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Wildlife Service"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Admirals Arch Boardwalk Replacement Stage 2  "
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Feb-27",
+                            "value": "2027-01-31T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33871?fromControl=Control1",
+                    "id": 33871
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33870"
+                        },
+                        {
+                            "display": "31-Aug-2026",
+                            "value": "2026-08-31T00:52:27.599Z"
+                        },
+                        {
+                            "value": "South Australian Tourism Commission"
+                        },
+                        {
+                            "value": "Events South Australia"
+                        },
+                        {
+                            "value": "procurement2@sa.gov.au"
+                        },
+                        {
+                            "value": "2027 TDU Corporate Hospitality - Willunga"
+                        },
+                        {
+                            "value": "Tourism and Entertainment"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "14-Sep-26",
+                            "value": "2026-09-13T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33870?fromControl=Control1",
+                    "id": 33870
+                },
                 {
                     "values": [
                         {
@@ -1060,6 +1154,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR33805"
+                        },
+                        {
+                            "display": "24-Aug-2026",
+                            "value": "2026-08-23T22:19:32.68Z"
+                        },
+                        {
+                            "value": "Southern Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "SAPOM"
+                        },
+                        {
+                            "value": "mahshad.yaghmaei@sa.gov.au"
+                        },
+                        {
+                            "value": "Surgical Otolaryngology (Ear) implants Trial "
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "15-Oct-26",
+                            "value": "2026-10-14T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33805?fromControl=Control1",
+                    "id": 33805
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR33803"
                         },
                         {
@@ -1358,7 +1499,7 @@
                             "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
-                            "value": "Upgrade/Migrate of IndigoVision Control Centre (IVCC) - Video Management System (VMS)  "
+                            "value": "Upgrade of Public Transport IndigoVision Control Centre - Video Management System (VMS)  "
                         },
                         {
                             "value": "ICT Software and Technology"
@@ -1470,8 +1611,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "31-Aug-26",
-                            "value": "2026-08-30T14:30:00Z"
+                            "display": "11-Sep-26",
+                            "value": "2026-09-10T14:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -3532,7 +3673,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Almost Certain"
@@ -7659,7 +7800,7 @@
                             "value": "Uniform and Accessories - Marryatville High School"
                         },
                         {
-                            "value": "Healthcare and Community Services"
+                            "value": "Community and School Services"
                         },
                         {
                             "value": "Recompete expiring contract"
@@ -21834,53 +21975,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR29812"
-                        },
-                        {
-                            "display": "12-Jun-2026",
-                            "value": "2026-06-12T01:57:43.545Z"
-                        },
-                        {
-                            "value": "Attorney General's"
-                        },
-                        {
-                            "value": "Public Safety Solutions "
-                        },
-                        {
-                            "value": "joanna.schrader@sa.gov.au"
-                        },
-                        {
-                            "value": "SPARAS Interim Base Cleaning Services"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "03-Aug-26",
-                            "value": "2026-08-02T14:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/29812?fromControl=Control1",
-                    "id": 29812
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR29311"
                         },
                         {
@@ -23475,100 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/28460?fromControl=Control1",
                     "id": 28460
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28459"
-                        },
-                        {
-                            "display": "09-Jun-2026",
-                            "value": "2026-06-09T02:57:19.461Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Out of School Hours Care - Charles Campbell College 2028"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "05-Sep-28",
-                            "value": "2028-09-04T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28459?fromControl=Control1",
-                    "id": 28459
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28458"
-                        },
-                        {
-                            "display": "09-Jun-2026",
-                            "value": "2026-06-09T02:54:21.955Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Out of School Hours Care - Para Hills West School 2028"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "05-Sep-28",
-                            "value": "2028-09-04T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28458?fromControl=Control1",
-                    "id": 28458
                 }
             ],
             "aggregates": []
