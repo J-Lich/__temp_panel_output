@@ -67,9 +67,150 @@
                 "filter": true
             }
         ],
-        "totalRows": 2088,
+        "totalRows": 2082,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR33942"
+                        },
+                        {
+                            "display": "04-Sep-2026",
+                            "value": "2026-09-04T02:10:52.686Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Commercial and Contract Management"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Estimating services"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33942?fromControl=Control1",
+                    "id": 33942
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33941"
+                        },
+                        {
+                            "display": "04-Sep-2026",
+                            "value": "2026-09-04T02:10:07.663Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Commercial and Contract Management"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Estimating services"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33941?fromControl=Control1",
+                    "id": 33941
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33940"
+                        },
+                        {
+                            "display": "04-Sep-2026",
+                            "value": "2026-09-04T02:07:42.593Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Commercial and Contract Management"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Estimating Services"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33940?fromControl=Control1",
+                    "id": 33940
+                },
                 {
                     "values": [
                         {
@@ -2329,53 +2470,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR33685"
-                        },
-                        {
-                            "display": "11-Aug-2026",
-                            "value": "2026-08-11T03:36:22.558Z"
-                        },
-                        {
-                            "value": "Human Services"
-                        },
-                        {
-                            "value": "Community and Partnerships - Community Programs and Partnerships (DHS > ESI > CP > CPP)"
-                        },
-                        {
-                            "value": "dhsprocurementcontracts@sa.gov.au"
-                        },
-                        {
-                            "value": "Contract Management System - Product Owner Support"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "02-Aug-26",
-                            "value": "2026-08-01T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/33685?fromControl=Control1",
-                    "id": 33685
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR33683"
                         },
                         {
@@ -4384,8 +4478,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "01-Sep-26",
-                            "value": "2026-08-31T14:30:00Z"
+                            "display": "15-Sep-26",
+                            "value": "2026-09-14T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -17591,8 +17685,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "14-Aug-26",
-                            "value": "2026-08-13T14:30:00Z"
+                            "display": "15-Sep-26",
+                            "value": "2026-09-14T14:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -23475,100 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/28457?fromControl=Control1",
                     "id": 28457
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28456"
-                        },
-                        {
-                            "display": "09-Jun-2026",
-                            "value": "2026-06-09T02:49:12.34Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Out of School Hours Care - Keller Road Primary School 2028"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "05-Sep-28",
-                            "value": "2028-09-04T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28456?fromControl=Control1",
-                    "id": 28456
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28455"
-                        },
-                        {
-                            "display": "09-Jun-2026",
-                            "value": "2026-06-09T02:46:25.307Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Out of School Hours Care - Gawler and District College 2028"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "05-Sep-28",
-                            "value": "2028-09-04T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28455?fromControl=Control1",
-                    "id": 28455
                 }
             ],
             "aggregates": []
