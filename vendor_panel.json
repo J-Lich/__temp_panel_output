@@ -67,9 +67,150 @@
                 "filter": true
             }
         ],
-        "totalRows": 2082,
+        "totalRows": 2079,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR33951"
+                        },
+                        {
+                            "display": "07-Sep-2026",
+                            "value": "2026-09-07T01:20:32.741Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Wildlife Service"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Restoration Plan \u2013 Mundoo Island Station"
+                        },
+                        {
+                            "value": "Environmental"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "30-Sep-26",
+                            "value": "2026-09-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33951?fromControl=Control1",
+                    "id": 33951
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33948"
+                        },
+                        {
+                            "display": "04-Sep-2026",
+                            "value": "2026-09-04T07:26:26.651Z"
+                        },
+                        {
+                            "value": "Limestone Coast Landscape Board"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Southern Bent-wing Bat GPS Tracking"
+                        },
+                        {
+                            "value": "Environmental"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "11-Sep-26",
+                            "value": "2026-09-10T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33948?fromControl=Control1",
+                    "id": 33948
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33946"
+                        },
+                        {
+                            "display": "04-Sep-2026",
+                            "value": "2026-09-04T06:09:22.573Z"
+                        },
+                        {
+                            "value": "Limestone Coast Landscape Board"
+                        },
+                        {
+                            "value": "Limestone Coast Landscape Board"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Timewise software for landscape boards"
+                        },
+                        {
+                            "value": "Human Resources and Staffing"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "11-Sep-26",
+                            "value": "2026-09-10T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33946?fromControl=Control1",
+                    "id": 33946
+                },
                 {
                     "values": [
                         {
@@ -210,6 +351,53 @@
                     ],
                     "href": "records/Activity%20Planning/33940?fromControl=Control1",
                     "id": 33940
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33927"
+                        },
+                        {
+                            "display": "03-Sep-2026",
+                            "value": "2026-09-03T05:21:24.6Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Public Lands"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Preparation of Asset Management Funding Strategy "
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "15-Jan-27",
+                            "value": "2027-01-14T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33927?fromControl=Control1",
+                    "id": 33927
                 },
                 {
                     "values": [
@@ -4914,53 +5102,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR31617"
-                        },
-                        {
-                            "display": "28-Jul-2026",
-                            "value": "2026-07-28T06:09:28.18Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Commercial & Business Services - ICT & Records Management"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Temporary Staff - Technical BA/Project Manager"
-                        },
-                        {
-                            "value": "Human Resources and Staffing"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Sep-26",
-                            "value": "2026-08-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31617?fromControl=Control1",
-                    "id": 31617
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR31616"
                         },
                         {
@@ -5042,8 +5183,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "31-Aug-26",
-                            "value": "2026-08-30T14:30:00Z"
+                            "display": "14-Sep-26",
+                            "value": "2026-09-13T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -7311,53 +7452,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR31469"
-                        },
-                        {
-                            "display": "19-Jul-2026",
-                            "value": "2026-07-19T10:59:29.472Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Property and Major Projects - Project Services"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Soil Bank Site Hut / Weighbridge / Site Services 2026-27"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Aug-26",
-                            "value": "2026-07-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31469?fromControl=Control1",
-                    "id": 31469
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR31458"
                         },
                         {
@@ -8956,53 +9050,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR31059"
-                        },
-                        {
-                            "display": "08-Jul-2026",
-                            "value": "2026-07-08T02:28:29.151Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Property and Major Projects - Thebarton"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Southwark Grounds Watermain Headworks South"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "31-Jul-26",
-                            "value": "2026-07-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31059?fromControl=Control1",
-                    "id": 31059
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR31057"
                         },
                         {
@@ -10353,8 +10400,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "04-Sep-26",
-                            "value": "2026-09-03T14:30:00Z"
+                            "display": "05-Oct-26",
+                            "value": "2026-10-04T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -18008,7 +18055,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Possible"
@@ -18478,7 +18525,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Probable"
@@ -18525,7 +18572,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Probable"
@@ -18666,7 +18713,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Probable"
@@ -18713,7 +18760,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Probable"
@@ -18760,7 +18807,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Probable"
@@ -18854,7 +18901,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Probable"
@@ -18901,7 +18948,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Probable"
@@ -18995,7 +19042,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Probable"
@@ -19042,7 +19089,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Probable"
@@ -19136,7 +19183,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Probable"
@@ -19227,10 +19274,10 @@
                             "value": "Recompete expiring contract"
                         },
                         {
-                            "value": "Open"
+                            "value": "Limited"
                         },
                         {
-                            "value": ""
+                            "value": "Other"
                         },
                         {
                             "value": "Probable"
@@ -19277,7 +19324,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Probable"
@@ -19324,7 +19371,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Probable"
@@ -19371,7 +19418,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Probable"
@@ -19418,7 +19465,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Probable"
@@ -19606,7 +19653,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Possible"
@@ -20067,7 +20114,7 @@
                             "value": "Labour Insights, Data and Analytics"
                         },
                         {
-                            "value": ""
+                            "value": "Advisory and Consultancy Services"
                         },
                         {
                             "value": "New requirement"
@@ -20076,7 +20123,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Possible"
@@ -23522,53 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/28458?fromControl=Control1",
                     "id": 28458
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28457"
-                        },
-                        {
-                            "display": "09-Jun-2026",
-                            "value": "2026-06-09T02:51:58.105Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Out of School Hours Care - Para Hills Primary School 2028"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "05-Sep-28",
-                            "value": "2028-09-04T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28457?fromControl=Control1",
-                    "id": 28457
                 }
             ],
             "aggregates": []
