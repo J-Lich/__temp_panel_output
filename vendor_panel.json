@@ -67,9 +67,56 @@
                 "filter": true
             }
         ],
-        "totalRows": 2079,
+        "totalRows": 2078,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR33965"
+                        },
+                        {
+                            "display": "08-Sep-2026",
+                            "value": "2026-09-08T04:10:25.425Z"
+                        },
+                        {
+                            "value": "Human Services"
+                        },
+                        {
+                            "value": "Remote and Regional Service Development (DHS > CAP > RRSD)"
+                        },
+                        {
+                            "value": "dhsprocurementcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Supporting Victims of Crime"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "15-Nov-26",
+                            "value": "2026-11-14T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33965?fromControl=Control1",
+                    "id": 33965
+                },
                 {
                     "values": [
                         {
@@ -496,6 +543,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR33895"
+                        },
+                        {
+                            "display": "02-Sep-2026",
+                            "value": "2026-09-01T23:05:41.874Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Curriculum and Learning"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Catering Services for Curriculum and Learning workshops and training"
+                        },
+                        {
+                            "value": "Tourism and Entertainment"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "02-Dec-26",
+                            "value": "2026-12-01T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33895?fromControl=Control1",
+                    "id": 33895
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR33891"
                         },
                         {
@@ -727,6 +821,53 @@
                     ],
                     "href": "records/Activity%20Planning/33860?fromControl=Control1",
                     "id": 33860
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33855"
+                        },
+                        {
+                            "display": "27-Aug-2026",
+                            "value": "2026-08-27T05:34:08.597Z"
+                        },
+                        {
+                            "value": "Child Protection"
+                        },
+                        {
+                            "value": "ICT and Information Management"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Intranet Modernisation Project"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "30-Sep-26",
+                            "value": "2026-09-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33855?fromControl=Control1",
+                    "id": 33855
                 },
                 {
                     "values": [
@@ -3312,6 +3453,53 @@
                     ],
                     "href": "records/Activity%20Planning/33647?fromControl=Control1",
                     "id": 33647
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR31746"
+                        },
+                        {
+                            "display": "06-Aug-2026",
+                            "value": "2026-08-06T06:15:08.563Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Chief Operating Officer"
+                        },
+                        {
+                            "value": "education.procurementunit@sa.gov.au"
+                        },
+                        {
+                            "value": "Anangu Lands Employee Housing Inspections"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "07-Sep-26",
+                            "value": "2026-09-06T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31746?fromControl=Control1",
+                    "id": 31746
                 },
                 {
                     "values": [
@@ -7110,8 +7298,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "24-Aug-26",
-                            "value": "2026-08-23T14:30:00Z"
+                            "display": "09-Sep-26",
+                            "value": "2026-09-08T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -23381,194 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/28463?fromControl=Control1",
                     "id": 28463
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28461"
-                        },
-                        {
-                            "display": "09-Jun-2026",
-                            "value": "2026-06-09T04:33:11.741Z"
-                        },
-                        {
-                            "value": "Health and Wellbeing"
-                        },
-                        {
-                            "value": "Digital Health SA"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Bragg Centre Level 5 Network Hardware \u2013 HSNet 2 Compliant Infrastructure"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "15-Jun-26",
-                            "value": "2026-06-14T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28461?fromControl=Control1",
-                    "id": 28461
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28460"
-                        },
-                        {
-                            "display": "09-Jun-2026",
-                            "value": "2026-06-09T02:59:54.127Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Out of School Hours Care - Fulham Gardens Primary School 2028"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "05-Sep-28",
-                            "value": "2028-09-04T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28460?fromControl=Control1",
-                    "id": 28460
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28459"
-                        },
-                        {
-                            "display": "09-Jun-2026",
-                            "value": "2026-06-09T02:57:19.461Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Out of School Hours Care - Charles Campbell College 2028"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "05-Sep-28",
-                            "value": "2028-09-04T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28459?fromControl=Control1",
-                    "id": 28459
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28458"
-                        },
-                        {
-                            "display": "09-Jun-2026",
-                            "value": "2026-06-09T02:54:21.955Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Out of School Hours Care - Para Hills West School 2028"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "05-Sep-28",
-                            "value": "2028-09-04T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28458?fromControl=Control1",
-                    "id": 28458
                 }
             ],
             "aggregates": []
