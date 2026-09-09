@@ -67,9 +67,197 @@
                 "filter": true
             }
         ],
-        "totalRows": 2078,
+        "totalRows": 2074,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR33989"
+                        },
+                        {
+                            "display": "09-Sep-2026",
+                            "value": "2026-09-09T02:00:40.875Z"
+                        },
+                        {
+                            "value": "Primary Industries and Regions"
+                        },
+                        {
+                            "value": "Corporate Services"
+                        },
+                        {
+                            "value": "pirsa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Cyber Security Program FY 2026 / 2027 - Vulnerability Management Platform"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "25-Jan-27",
+                            "value": "2027-01-24T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33989?fromControl=Control1",
+                    "id": 33989
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33987"
+                        },
+                        {
+                            "display": "09-Sep-2026",
+                            "value": "2026-09-08T15:37:41.195Z"
+                        },
+                        {
+                            "value": "SA Water"
+                        },
+                        {
+                            "value": "Supply Chain"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Recycled Water for Port Lincoln WWTP"
+                        },
+                        {
+                            "value": "Industrial and Engineering"
+                        },
+                        {
+                            "value": "New Requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "21-Sep-26",
+                            "value": "2026-09-21T00:00:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33987?fromControl=Control1",
+                    "id": 33987
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33983"
+                        },
+                        {
+                            "display": "09-Sep-2026",
+                            "value": "2026-09-08T15:37:38.635Z"
+                        },
+                        {
+                            "value": "SA Water"
+                        },
+                        {
+                            "value": "Capital"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Design Management Services for New Water Source Investigation Program"
+                        },
+                        {
+                            "value": "Industrial and Engineering"
+                        },
+                        {
+                            "value": "Recompete Expiring Contract"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "02-Sep-26",
+                            "value": "2026-09-02T00:00:00Z"
+                        },
+                        {
+                            "value": "Released to Market"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33983?fromControl=Control1",
+                    "id": 33983
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33978"
+                        },
+                        {
+                            "display": "09-Sep-2026",
+                            "value": "2026-09-08T15:37:34.816Z"
+                        },
+                        {
+                            "value": "SA Water"
+                        },
+                        {
+                            "value": "Supply Chain"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Solar Sites Land Maintenance"
+                        },
+                        {
+                            "value": "Industrial and Engineering"
+                        },
+                        {
+                            "value": "New Requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "19-Jan-26",
+                            "value": "2026-01-18T23:00:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33978?fromControl=Control1",
+                    "id": 33978
+                },
                 {
                     "values": [
                         {
@@ -111,11 +299,58 @@
                             "value": "2026-11-14T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/33965?fromControl=Control1",
                     "id": 33965
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33956"
+                        },
+                        {
+                            "display": "07-Sep-2026",
+                            "value": "2026-09-07T07:06:04.995Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Road and Marine Services - Marine Services"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Supply and Delivery of Boom Gates for the River Murray Ferries"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "04-Jan-27",
+                            "value": "2027-01-03T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33956?fromControl=Control1",
+                    "id": 33956
                 },
                 {
                     "values": [
@@ -163,6 +398,53 @@
                     ],
                     "href": "records/Activity%20Planning/33951?fromControl=Control1",
                     "id": 33951
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33950"
+                        },
+                        {
+                            "display": "07-Sep-2026",
+                            "value": "2026-09-07T00:28:27.712Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "Biodiversity and Nature Economy"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Heritage Agreement Grants Monitoring and Evaluation"
+                        },
+                        {
+                            "value": "Environmental"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "11-Jan-27",
+                            "value": "2027-01-10T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33950?fromControl=Control1",
+                    "id": 33950
                 },
                 {
                     "values": [
@@ -3688,53 +3970,6 @@
                     ],
                     "href": "records/Activity%20Planning/31738?fromControl=Control1",
                     "id": 31738
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR31737"
-                        },
-                        {
-                            "display": "06-Aug-2026",
-                            "value": "2026-08-06T01:06:44.031Z"
-                        },
-                        {
-                            "value": "Courts Administration"
-                        },
-                        {
-                            "value": "Court Services"
-                        },
-                        {
-                            "value": "contract_.procurement@courts.sa.gov.au"
-                        },
-                        {
-                            "value": "Domestic Violence Prevention Program Pilot"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Sep-26",
-                            "value": "2026-09-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31737?fromControl=Control1",
-                    "id": 31737
                 },
                 {
                     "values": [
@@ -22116,53 +22351,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR29308"
-                        },
-                        {
-                            "display": "12-Jun-2026",
-                            "value": "2026-06-12T00:01:49.755Z"
-                        },
-                        {
-                            "value": "South Australian Tourism Commission"
-                        },
-                        {
-                            "value": "Events South Australia"
-                        },
-                        {
-                            "value": "procurement2@sa.gov.au"
-                        },
-                        {
-                            "value": "2027 - 2029 Event Management Services"
-                        },
-                        {
-                            "value": "Tourism and Entertainment"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "15-Sep-26",
-                            "value": "2026-09-14T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/29308?fromControl=Control1",
-                    "id": 29308
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR29307"
                         },
                         {
@@ -23381,194 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/28769?fromControl=Control1",
                     "id": 28769
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28468"
-                        },
-                        {
-                            "display": "10-Jun-2026",
-                            "value": "2026-06-10T00:42:07.276Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Lefevere Peninsula Traffic Modelling "
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "12-Jun-26",
-                            "value": "2026-06-11T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28468?fromControl=Control1",
-                    "id": 28468
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28465"
-                        },
-                        {
-                            "display": "10-Jun-2026",
-                            "value": "2026-06-09T23:02:23.169Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Infrastructure Delivery - Transport Projects"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "RN3500 Augusta Highway Stabilisation Work"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "14-Dec-26",
-                            "value": "2026-12-13T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28465?fromControl=Control1",
-                    "id": 28465
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28464"
-                        },
-                        {
-                            "display": "10-Jun-2026",
-                            "value": "2026-06-09T22:13:59.354Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Strategy and Performance"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Keeping Kids Off Screens - Free Before and After School Activities "
-                        },
-                        {
-                            "value": "Community and School Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Jun-27",
-                            "value": "2027-05-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28464?fromControl=Control1",
-                    "id": 28464
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28463"
-                        },
-                        {
-                            "display": "09-Jun-2026",
-                            "value": "2026-06-09T06:03:51.71Z"
-                        },
-                        {
-                            "value": "Environment and Water"
-                        },
-                        {
-                            "value": "National Parks and Public Lands"
-                        },
-                        {
-                            "value": "DEW.Procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Supply and installation of toilet block on Granite Island "
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Sep-26",
-                            "value": "2026-08-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28463?fromControl=Control1",
-                    "id": 28463
                 }
             ],
             "aggregates": []
