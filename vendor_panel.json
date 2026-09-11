@@ -67,9 +67,103 @@
                 "filter": true
             }
         ],
-        "totalRows": 2097,
+        "totalRows": 2098,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR34007"
+                        },
+                        {
+                            "display": "11-Sep-2026",
+                            "value": "2026-09-11T03:13:50.754Z"
+                        },
+                        {
+                            "value": "Human Services"
+                        },
+                        {
+                            "value": "Office for Women (DHS > WE > OFW)"
+                        },
+                        {
+                            "value": "dhsprocurementcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "500 Workers"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "11-Oct-26",
+                            "value": "2026-10-10T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34007?fromControl=Control1",
+                    "id": 34007
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34006"
+                        },
+                        {
+                            "display": "11-Sep-2026",
+                            "value": "2026-09-11T03:10:29.559Z"
+                        },
+                        {
+                            "value": "State Development"
+                        },
+                        {
+                            "value": "Skills SA"
+                        },
+                        {
+                            "value": "dsd.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Objective Connect"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34006?fromControl=Control1",
+                    "id": 34006
+                },
                 {
                     "values": [
                         {
@@ -210,6 +304,53 @@
                     ],
                     "href": "records/Activity%20Planning/33996?fromControl=Control1",
                     "id": 33996
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33994"
+                        },
+                        {
+                            "display": "09-Sep-2026",
+                            "value": "2026-09-09T06:34:00.792Z"
+                        },
+                        {
+                            "value": "Attorney General's"
+                        },
+                        {
+                            "value": "Public Safety Solutions "
+                        },
+                        {
+                            "value": "reanna.connolly@sa.gov.au"
+                        },
+                        {
+                            "value": "SPARAS Temporary Facilities Design"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "14-Sep-26",
+                            "value": "2026-09-13T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33994?fromControl=Control1",
+                    "id": 33994
                 },
                 {
                     "values": [
@@ -492,6 +633,53 @@
                     ],
                     "href": "records/Activity%20Planning/33956?fromControl=Control1",
                     "id": 33956
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33955"
+                        },
+                        {
+                            "display": "07-Sep-2026",
+                            "value": "2026-09-07T05:43:50.019Z"
+                        },
+                        {
+                            "value": "Office of the Chief Information Officer"
+                        },
+                        {
+                            "value": "Across Government Infrastructure and Service Delivery"
+                        },
+                        {
+                            "value": "OCIOProcurementContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Cloud Video Interoperability (CVI)"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "30-Jun-27",
+                            "value": "2027-06-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33955?fromControl=Control1",
+                    "id": 33955
                 },
                 {
                     "values": [
@@ -23381,194 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/29293?fromControl=Control1",
                     "id": 29293
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR29292"
-                        },
-                        {
-                            "display": "11-Jun-2026",
-                            "value": "2026-06-11T03:19:00.805Z"
-                        },
-                        {
-                            "value": "Premier and Cabinet"
-                        },
-                        {
-                            "value": "SA Motor Sport Board"
-                        },
-                        {
-                            "value": "dpcprocurementandcontracts@sa.gov.au"
-                        },
-                        {
-                            "value": "Supply of Temporary Grandstands"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "03-Aug-26",
-                            "value": "2026-08-02T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/29292?fromControl=Control1",
-                    "id": 29292
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR29291"
-                        },
-                        {
-                            "display": "11-Jun-2026",
-                            "value": "2026-06-11T02:53:48.345Z"
-                        },
-                        {
-                            "value": "Premier and Cabinet"
-                        },
-                        {
-                            "value": "SA Motor Sport Board"
-                        },
-                        {
-                            "value": "dpcprocurementandcontracts@sa.gov.au"
-                        },
-                        {
-                            "value": "Hospitality & Catering Services for the Adelaide Street Circuit Venue"
-                        },
-                        {
-                            "value": "Tourism and Entertainment"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "08-Jul-26",
-                            "value": "2026-07-07T14:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/29291?fromControl=Control1",
-                    "id": 29291
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28789"
-                        },
-                        {
-                            "display": "11-Jun-2026",
-                            "value": "2026-06-11T00:34:10.574Z"
-                        },
-                        {
-                            "value": "ForestrySA"
-                        },
-                        {
-                            "value": "Commercial"
-                        },
-                        {
-                            "value": "Contracts@forestrysa.com.au"
-                        },
-                        {
-                            "value": "Purchase of Hooklift Truck and Trays"
-                        },
-                        {
-                            "value": "Fleet and vehicles"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "01-Oct-26",
-                            "value": "2026-09-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28789?fromControl=Control1",
-                    "id": 28789
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR28787"
-                        },
-                        {
-                            "display": "11-Jun-2026",
-                            "value": "2026-06-11T00:05:19.381Z"
-                        },
-                        {
-                            "value": "Procurement SA"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Nimblex Architect/Engineer "
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "14-Sep-26",
-                            "value": "2026-09-13T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/28787?fromControl=Control1",
-                    "id": 28787
                 }
             ],
             "aggregates": []
