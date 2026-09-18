@@ -67,9 +67,56 @@
                 "filter": true
             }
         ],
-        "totalRows": 2121,
+        "totalRows": 2123,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR34115"
+                        },
+                        {
+                            "display": "18-Sep-2026",
+                            "value": "2026-09-18T05:51:25.41Z"
+                        },
+                        {
+                            "value": "Renewal SA"
+                        },
+                        {
+                            "value": "Property and Major Projects - Thebarton"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Southwark - Sewer Construction Phase Support for Winwood and Walsh St"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34115?fromControl=Control1",
+                    "id": 34115
+                },
                 {
                     "values": [
                         {
@@ -210,6 +257,100 @@
                     ],
                     "href": "records/Activity%20Planning/34097?fromControl=Control1",
                     "id": 34097
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34095"
+                        },
+                        {
+                            "display": "17-Sep-2026",
+                            "value": "2026-09-17T01:34:17.53Z"
+                        },
+                        {
+                            "value": "Central Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "SA Pathology"
+                        },
+                        {
+                            "value": "sophia.grayson@sa.gov.au"
+                        },
+                        {
+                            "value": "Frome Road Autoclaves"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "17-Nov-26",
+                            "value": "2026-11-16T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34095?fromControl=Control1",
+                    "id": 34095
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34094"
+                        },
+                        {
+                            "display": "17-Sep-2026",
+                            "value": "2026-09-17T01:16:06.408Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Chief Operating Officer"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Lucindale Area School, Purchase of a School Owned Bus"
+                        },
+                        {
+                            "value": "Fleet and vehicles"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "27-Sep-26",
+                            "value": "2026-09-26T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34094?fromControl=Control1",
+                    "id": 34094
                 },
                 {
                     "values": [
@@ -1752,8 +1893,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "02-Nov-26",
-                            "value": "2026-11-01T13:30:00Z"
+                            "display": "05-Oct-26",
+                            "value": "2026-10-04T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -3655,7 +3796,7 @@
                             "value": "Infrastructure and Transport"
                         },
                         {
-                            "value": ""
+                            "value": "Public Transport SA \u2013 Service Planning and Customer Experience"
                         },
                         {
                             "value": "dit.goodsandservices@sa.gov.au"
@@ -4628,6 +4769,53 @@
                     ],
                     "href": "records/Activity%20Planning/33745?fromControl=Control1",
                     "id": 33745
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33744"
+                        },
+                        {
+                            "display": "17-Aug-2026",
+                            "value": "2026-08-16T23:50:02.932Z"
+                        },
+                        {
+                            "value": "Premier and Cabinet"
+                        },
+                        {
+                            "value": "Major Projects"
+                        },
+                        {
+                            "value": "dpcprocurementandcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Project and Contract Management Panel"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "12-Oct-26",
+                            "value": "2026-10-11T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33744?fromControl=Control1",
+                    "id": 33744
                 },
                 {
                     "values": [
@@ -8379,8 +8567,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "30-Oct-26",
-                            "value": "2026-10-29T13:30:00Z"
+                            "display": "30-Nov-26",
+                            "value": "2026-11-29T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -12101,53 +12289,6 @@
                     ],
                     "href": "records/Activity%20Planning/31009?fromControl=Control1",
                     "id": 31009
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR31008"
-                        },
-                        {
-                            "display": "06-Jul-2026",
-                            "value": "2026-07-05T22:49:04.794Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Residential Project Delivery and Assets - Residential Growth"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Prospect Corner: Streetscape Package 2"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "07-Aug-26",
-                            "value": "2026-08-06T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31008?fromControl=Control1",
-                    "id": 31008
                 },
                 {
                     "values": [
@@ -23428,147 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/30366?fromControl=Control1",
                     "id": 30366
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30365"
-                        },
-                        {
-                            "display": "16-Jun-2026",
-                            "value": "2026-06-16T06:14:58.448Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Academic Development - TAFE Centers of Excellence"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "QA, Metrology and NDT"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Sep-27",
-                            "value": "2027-09-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30365?fromControl=Control1",
-                    "id": 30365
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30364"
-                        },
-                        {
-                            "display": "16-Jun-2026",
-                            "value": "2026-06-16T06:13:54.97Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Academic Development - TAFE Centers of Excellence"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Purchase of Robotics and Cobots"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Sep-27",
-                            "value": "2027-09-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30364?fromControl=Control1",
-                    "id": 30364
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30363"
-                        },
-                        {
-                            "display": "16-Jun-2026",
-                            "value": "2026-06-16T06:12:42.651Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Academic Development - TAFE Centers of Excellence"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Automation, PLC and HMI"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Sep-27",
-                            "value": "2027-09-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30363?fromControl=Control1",
-                    "id": 30363
                 }
             ],
             "aggregates": []
