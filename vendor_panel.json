@@ -67,9 +67,103 @@
                 "filter": true
             }
         ],
-        "totalRows": 2123,
+        "totalRows": 2125,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR34126"
+                        },
+                        {
+                            "display": "21-Sep-2026",
+                            "value": "2026-09-21T02:06:00.102Z"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "Health.SAASProcurementandContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Main Roof Replacement - Tumby Bay Station"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "18-Jan-27",
+                            "value": "2027-01-17T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34126?fromControl=Control1",
+                    "id": 34126
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34117"
+                        },
+                        {
+                            "display": "18-Sep-2026",
+                            "value": "2026-09-18T06:20:02.369Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Public Lands"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Purchase of Transportable Cabin for Nilpena Ediacara National Park"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "16-Nov-26",
+                            "value": "2026-11-15T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34117?fromControl=Control1",
+                    "id": 34117
+                },
                 {
                     "values": [
                         {
@@ -1107,6 +1201,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR34056"
+                        },
+                        {
+                            "display": "15-Sep-2026",
+                            "value": "2026-09-15T06:06:36.869Z"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "Health.SAASProcurementandContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "GRN Radio procurement "
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "01-Jan-27",
+                            "value": "2026-12-31T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34056?fromControl=Control1",
+                    "id": 34056
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR34054"
                         },
                         {
@@ -1267,7 +1408,7 @@
                             "value": "Port Augusta Secondary School - Purchase of Student Lockers"
                         },
                         {
-                            "value": ""
+                            "value": "Education and Training"
                         },
                         {
                             "value": "New requirement"
@@ -1286,7 +1427,7 @@
                             "value": "2026-09-20T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/34043?fromControl=Control1",
@@ -1775,7 +1916,7 @@
                             "value": "South Australian Ambulance Service"
                         },
                         {
-                            "value": ""
+                            "value": "South Australian Ambulance Service"
                         },
                         {
                             "value": "Health.SAASProcurementandContracts@sa.gov.au"
@@ -2078,11 +2219,11 @@
                             "value": "SA Tenders and Contracts"
                         },
                         {
-                            "value": "Possible"
+                            "value": "Certain"
                         },
                         {
-                            "display": "19-Jan-26",
-                            "value": "2026-01-19T00:00:00Z"
+                            "display": "30-Sep-26",
+                            "value": "2026-09-29T14:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -2701,53 +2842,6 @@
                     ],
                     "href": "records/Activity%20Planning/33938?fromControl=Control1",
                     "id": 33938
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR33929"
-                        },
-                        {
-                            "display": "03-Sep-2026",
-                            "value": "2026-09-03T06:12:43.852Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Outcome Cleaning Contract - Melaleuca Park Primary School"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "Secondary procurement process"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "07-Sep-26",
-                            "value": "2026-09-06T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/33929?fromControl=Control1",
-                    "id": 33929
                 },
                 {
                     "values": [
@@ -5776,7 +5870,7 @@
                             "value": "DIT.FutureBuildingTenders@sa.gov.au\n(Do not use this as the email for the contact persons above)\n"
                         },
                         {
-                            "value": "260 Currie Street Refugee Health Service and Osp Fitout - GBC"
+                            "value": "260 Currie Street Refugee Health Service and OSP Fitout - GBC"
                         },
                         {
                             "value": "Construction"
@@ -23475,100 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/30368?fromControl=Control1",
                     "id": 30368
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30367"
-                        },
-                        {
-                            "display": "16-Jun-2026",
-                            "value": "2026-06-16T06:17:13.766Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Academic Development - TAFE Centers of Excellence"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Professional Editing tool for report publication"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Sep-27",
-                            "value": "2027-09-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30367?fromControl=Control1",
-                    "id": 30367
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30366"
-                        },
-                        {
-                            "display": "16-Jun-2026",
-                            "value": "2026-06-16T06:16:11.263Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Academic Development - TAFE Centers of Excellence"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Furniture and Fitout Solutions"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Sep-27",
-                            "value": "2027-09-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30366?fromControl=Control1",
-                    "id": 30366
                 }
             ],
             "aggregates": []
