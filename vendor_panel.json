@@ -67,9 +67,291 @@
                 "filter": true
             }
         ],
-        "totalRows": 2125,
+        "totalRows": 2126,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR34154"
+                        },
+                        {
+                            "display": "22-Sep-2026",
+                            "value": "2026-09-22T05:47:13.249Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "National Parks and Public Lands"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Admirals Arch Boardwalk Stage 2 & 3 Detailed Design, Engineered Certification and FRP Material Supply"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "20-Nov-26",
+                            "value": "2026-11-19T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34154?fromControl=Control1",
+                    "id": 34154
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34148"
+                        },
+                        {
+                            "display": "22-Sep-2026",
+                            "value": "2026-09-22T03:48:13.465Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Public Transport SA - Asset Management"
+                        },
+                        {
+                            "value": "ralph.alvino@sa.gov.au"
+                        },
+                        {
+                            "value": "Battery Electric Train trial on Belair Line "
+                        },
+                        {
+                            "value": "Fleet and vehicles"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "12-Jan-27",
+                            "value": "2027-01-11T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34148?fromControl=Control1",
+                    "id": 34148
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34143"
+                        },
+                        {
+                            "display": "22-Sep-2026",
+                            "value": "2026-09-22T01:38:58.783Z"
+                        },
+                        {
+                            "value": "Central Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "SA Pathology"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Cryostats for SA Pathology"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Apr-27",
+                            "value": "2027-03-31T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34143?fromControl=Control1",
+                    "id": 34143
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34141"
+                        },
+                        {
+                            "display": "22-Sep-2026",
+                            "value": "2026-09-22T01:14:32.581Z"
+                        },
+                        {
+                            "value": "Central Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "SA Pathology"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Autoclaves for SA Pathology"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "01-Apr-27",
+                            "value": "2027-03-31T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34141?fromControl=Control1",
+                    "id": 34141
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34134"
+                        },
+                        {
+                            "display": "21-Sep-2026",
+                            "value": "2026-09-21T07:11:08.492Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Road and Marine Services - Marine Services"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Provision of Tower Services "
+                        },
+                        {
+                            "value": "Industrial and Engineering"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "10-Jan-27",
+                            "value": "2027-01-09T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34134?fromControl=Control1",
+                    "id": 34134
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34132"
+                        },
+                        {
+                            "display": "21-Sep-2026",
+                            "value": "2026-09-21T06:27:42.261Z"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "Health.SAASProcurementandContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Translating and interpreting services for Emergency Operations Centre (EOC)"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "08-Feb-27",
+                            "value": "2027-02-07T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34132?fromControl=Control1",
+                    "id": 34132
+                },
                 {
                     "values": [
                         {
@@ -1624,53 +1906,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR34009"
-                        },
-                        {
-                            "display": "11-Sep-2026",
-                            "value": "2026-09-11T03:26:34.763Z"
-                        },
-                        {
-                            "value": "Housing Trust"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "housingprocurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Bonus Pack Fencing Playford-Additional Procurement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "30-Sep-26",
-                            "value": "2026-09-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34009?fromControl=Control1",
-                    "id": 34009
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR34007"
                         },
                         {
@@ -1765,53 +2000,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR34001"
-                        },
-                        {
-                            "display": "10-Sep-2026",
-                            "value": "2026-09-10T05:24:43.333Z"
-                        },
-                        {
-                            "value": "Housing Trust"
-                        },
-                        {
-                            "value": "Housing Delivery"
-                        },
-                        {
-                            "value": "housingprocurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Rent to Own Project - Camden Park and Seaton Quantity Surveyor\n"
-                        },
-                        {
-                            "value": "Industrial and Engineering"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "30-Sep-26",
-                            "value": "2026-09-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34001?fromControl=Control1",
-                    "id": 34001
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR33999"
                         },
                         {
@@ -1897,7 +2085,7 @@
                             "value": "2026-10-05T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/33998?fromControl=Control1",
@@ -2038,7 +2226,7 @@
                             "value": "2026-10-04T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/33992?fromControl=Control1",
@@ -2842,6 +3030,53 @@
                     ],
                     "href": "records/Activity%20Planning/33938?fromControl=Control1",
                     "id": 33938
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33929"
+                        },
+                        {
+                            "display": "03-Sep-2026",
+                            "value": "2026-09-03T06:12:43.852Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Chief Operating Officer"
+                        },
+                        {
+                            "value": "Education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Outcome Cleaning Contract - Melaleuca Park Primary School"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "07-Sep-26",
+                            "value": "2026-09-06T14:30:00Z"
+                        },
+                        {
+                            "value": "Released to Market"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33929?fromControl=Control1",
+                    "id": 33929
                 },
                 {
                     "values": [
@@ -5870,7 +6105,7 @@
                             "value": "DIT.FutureBuildingTenders@sa.gov.au\n(Do not use this as the email for the contact persons above)\n"
                         },
                         {
-                            "value": "260 Currie Street Refugee Health Service and OSP Fitout - GBC"
+                            "value": "260 Currie Street Refugee Health Services and OSP Fitout - GBC"
                         },
                         {
                             "value": "Construction"
@@ -5917,7 +6152,7 @@
                             "value": "dit.goodsandservices@sa.gov.au"
                         },
                         {
-                            "value": "260 Currie Street Refugee Health Service and Osp Fitout - LPSC"
+                            "value": "260 Currie Street Refugee Health Services and OSP Fitout - LPSC"
                         },
                         {
                             "value": "Construction"
@@ -6884,53 +7119,6 @@
                     ],
                     "href": "records/Activity%20Planning/31690?fromControl=Control1",
                     "id": 31690
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR31689"
-                        },
-                        {
-                            "display": "04-Aug-2026",
-                            "value": "2026-08-03T23:59:07.088Z"
-                        },
-                        {
-                            "value": "Housing Trust"
-                        },
-                        {
-                            "value": "Housing Delivery"
-                        },
-                        {
-                            "value": "housingprocurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Demolition Works at Norman Street Adaptive Re-Use Project "
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "24-Aug-26",
-                            "value": "2026-08-23T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31689?fromControl=Control1",
-                    "id": 31689
                 },
                 {
                     "values": [
@@ -10366,6 +10554,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR31452"
+                        },
+                        {
+                            "display": "17-Jul-2026",
+                            "value": "2026-07-17T01:57:36.771Z"
+                        },
+                        {
+                            "value": "Human Services"
+                        },
+                        {
+                            "value": "Disability Services - Disability Services (DHS > DSS > DS > DS)"
+                        },
+                        {
+                            "value": "dhsprocurementcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Custom Footwear Devices - FBT"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "26-Jul-26",
+                            "value": "2026-07-25T14:30:00Z"
+                        },
+                        {
+                            "value": "Released to Market"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/31452?fromControl=Control1",
+                    "id": 31452
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR31443"
                         },
                         {
@@ -10400,8 +10635,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "31-Oct-26",
-                            "value": "2026-10-30T13:30:00Z"
+                            "display": "18-Jan-27",
+                            "value": "2027-01-17T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -23334,241 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/30373?fromControl=Control1",
                     "id": 30373
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30372"
-                        },
-                        {
-                            "display": "16-Jun-2026",
-                            "value": "2026-06-16T06:31:41.766Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Academic Development - TAFE Centers of Excellence"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Simulated environments- Sim babies"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Sep-27",
-                            "value": "2027-09-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30372?fromControl=Control1",
-                    "id": 30372
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30371"
-                        },
-                        {
-                            "display": "16-Jun-2026",
-                            "value": "2026-06-16T06:30:30.547Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Academic Development - TAFE Centers of Excellence"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Simulated environments - Remote access equipment"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Sep-27",
-                            "value": "2027-09-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30371?fromControl=Control1",
-                    "id": 30371
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30370"
-                        },
-                        {
-                            "display": "16-Jun-2026",
-                            "value": "2026-06-16T06:29:18.607Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Academic Development - TAFE Centers of Excellence"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Simulated environments- Early Childhood"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Sep-27",
-                            "value": "2027-09-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30370?fromControl=Control1",
-                    "id": 30370
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30369"
-                        },
-                        {
-                            "display": "16-Jun-2026",
-                            "value": "2026-06-16T06:20:19.122Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Academic Development - TAFE Centers of Excellence"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Simulated environments - VR/WHS"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Sep-27",
-                            "value": "2027-09-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30369?fromControl=Control1",
-                    "id": 30369
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30368"
-                        },
-                        {
-                            "display": "16-Jun-2026",
-                            "value": "2026-06-16T06:19:23.436Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Academic Development - TAFE Centers of Excellence"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Simulated environments- Immersive"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Sep-27",
-                            "value": "2027-09-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30368?fromControl=Control1",
-                    "id": 30368
                 }
             ],
             "aggregates": []
