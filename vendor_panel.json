@@ -67,9 +67,150 @@
                 "filter": true
             }
         ],
-        "totalRows": 2126,
+        "totalRows": 2119,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR34193"
+                        },
+                        {
+                            "display": "24-Sep-2026",
+                            "value": "2026-09-24T07:36:11.499Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Operations - Facilities & Projects"
+                        },
+                        {
+                            "value": "adminprocurement@tafesa.edu.au"
+                        },
+                        {
+                            "value": "Commercial Review and Benchmarking of TAFE SA Leasing Activities"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "18-Jan-27",
+                            "value": "2027-01-17T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34193?fromControl=Control1",
+                    "id": 34193
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34191"
+                        },
+                        {
+                            "display": "24-Sep-2026",
+                            "value": "2026-09-24T05:52:24.902Z"
+                        },
+                        {
+                            "value": "Adelaide Venue Management Corporation"
+                        },
+                        {
+                            "value": "Building"
+                        },
+                        {
+                            "value": "tenders@avmc.com.au"
+                        },
+                        {
+                            "value": "Construction of a Visitor Cloakroom and Luggage Storage Facility"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "13-Oct-26",
+                            "value": "2026-10-12T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34191?fromControl=Control1",
+                    "id": 34191
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34180"
+                        },
+                        {
+                            "display": "24-Sep-2026",
+                            "value": "2026-09-23T15:27:27.304Z"
+                        },
+                        {
+                            "value": "SA Water"
+                        },
+                        {
+                            "value": "Supply Chain"
+                        },
+                        {
+                            "value": "anil.mohan@sawater.com.au"
+                        },
+                        {
+                            "value": "Provision of Oracle Fusion FM, Oracle Primavera PPM and associated Licences"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "12-Oct-26",
+                            "value": "2026-10-11T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34180?fromControl=Control1",
+                    "id": 34180
+                },
                 {
                     "values": [
                         {
@@ -1145,7 +1286,7 @@
                             "value": "2026-09-26T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/34094?fromControl=Control1",
@@ -1693,7 +1834,7 @@
                             "value": "ICT Software and Technology"
                         },
                         {
-                            "value": "New requirement"
+                            "value": "Secondary procurement process"
                         },
                         {
                             "value": "Limited"
@@ -1740,7 +1881,7 @@
                             "value": "ICT Software and Technology"
                         },
                         {
-                            "value": "New requirement"
+                            "value": "Secondary procurement process"
                         },
                         {
                             "value": "Limited"
@@ -2222,8 +2363,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "01-Feb-27",
-                            "value": "2027-01-31T13:30:00Z"
+                            "display": "25-Jan-27",
+                            "value": "2027-01-24T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -6734,8 +6875,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "07-Sep-26",
-                            "value": "2026-09-06T14:30:00Z"
+                            "display": "28-Sep-26",
+                            "value": "2026-09-27T14:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -13734,14 +13875,14 @@
                             "value": "SA Tenders and Contracts"
                         },
                         {
-                            "value": "Probable"
+                            "value": "Almost Certain"
                         },
                         {
-                            "display": "30-Oct-26",
-                            "value": "2026-10-29T13:30:00Z"
+                            "display": "08-Nov-26",
+                            "value": "2026-11-07T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/30953?fromControl=Control1",
@@ -17839,53 +17980,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR15541"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:12.734Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Education Standards Board"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Education Standards Board - External Audit Function"
-                        },
-                        {
-                            "value": "Financial Services"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "01-Feb-27",
-                            "value": "2027-01-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15541?fromControl=Control1",
-                    "id": 15541
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR15540"
                         },
                         {
@@ -19377,8 +19471,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "01-Sep-26",
-                            "value": "2026-08-31T14:30:00Z"
+                            "display": "25-Jan-27",
+                            "value": "2027-01-24T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -19471,8 +19565,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "01-Sep-26",
-                            "value": "2026-08-31T14:30:00Z"
+                            "display": "25-Jan-27",
+                            "value": "2027-01-24T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -19518,8 +19612,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "01-Sep-26",
-                            "value": "2026-08-31T14:30:00Z"
+                            "display": "25-Jan-27",
+                            "value": "2027-01-24T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -19527,194 +19621,6 @@
                     ],
                     "href": "records/Activity%20Planning/15506?fromControl=Control1",
                     "id": 15506
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15505"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:11.04Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Bus Service Booleroo"
-                        },
-                        {
-                            "value": "Transportation, logistics, mail services and warehousing"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Sep-26",
-                            "value": "2026-08-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15505?fromControl=Control1",
-                    "id": 15505
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15504"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:10.997Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Bus Service Port Pirie"
-                        },
-                        {
-                            "value": "Transportation, logistics, mail services and warehousing"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Sep-26",
-                            "value": "2026-08-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15504?fromControl=Control1",
-                    "id": 15504
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15503"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:10.955Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Bus Service Port Pirie"
-                        },
-                        {
-                            "value": "Transportation, logistics, mail services and warehousing"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Sep-26",
-                            "value": "2026-08-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15503?fromControl=Control1",
-                    "id": 15503
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15502"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:10.911Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Bus Service Willunga"
-                        },
-                        {
-                            "value": "Transportation, logistics, mail services and warehousing"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Sep-26",
-                            "value": "2026-08-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15502?fromControl=Control1",
-                    "id": 15502
                 },
                 {
                     "values": [
@@ -23569,6 +23475,100 @@
                     ],
                     "href": "records/Activity%20Planning/30729?fromControl=Control1",
                     "id": 30729
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30728"
+                        },
+                        {
+                            "display": "17-Jun-2026",
+                            "value": "2026-06-16T23:08:33.943Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Academic Development - TAFE Centers of Excellence"
+                        },
+                        {
+                            "value": "adminprocurement@tafesa.edu.au"
+                        },
+                        {
+                            "value": "Learning product development"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Jun-27",
+                            "value": "2027-06-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30728?fromControl=Control1",
+                    "id": 30728
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30727"
+                        },
+                        {
+                            "display": "17-Jun-2026",
+                            "value": "2026-06-16T23:05:57.179Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Academic Development - TAFE Centers of Excellence"
+                        },
+                        {
+                            "value": "adminprocurement@tafesa.edu.au"
+                        },
+                        {
+                            "value": "Outdoor Play Equipment"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "28-Feb-27",
+                            "value": "2027-02-27T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30727?fromControl=Control1",
+                    "id": 30727
                 }
             ],
             "aggregates": []
