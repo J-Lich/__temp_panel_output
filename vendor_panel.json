@@ -67,7 +67,7 @@
                 "filter": true
             }
         ],
-        "totalRows": 2119,
+        "totalRows": 2115,
         "data": {
             "rows": [
                 {
@@ -2683,7 +2683,7 @@
                             "value": "New requirement"
                         },
                         {
-                            "value": "Open"
+                            "value": "Limited"
                         },
                         {
                             "value": "Email"
@@ -10780,58 +10780,11 @@
                             "value": "2026-09-08T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/31500?fromControl=Control1",
                     "id": 31500
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR31495"
-                        },
-                        {
-                            "display": "21-Jul-2026",
-                            "value": "2026-07-21T01:27:07.353Z"
-                        },
-                        {
-                            "value": "Environment and Water"
-                        },
-                        {
-                            "value": "Water and River Murray"
-                        },
-                        {
-                            "value": "DEW.Procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "2026/27 Lower Lakes threatened fish and yabby condition monitoring "
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "31-Jul-26",
-                            "value": "2026-07-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31495?fromControl=Control1",
-                    "id": 31495
                 },
                 {
                     "values": [
@@ -11340,8 +11293,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "02-Nov-26",
-                            "value": "2026-11-01T13:30:00Z"
+                            "display": "01-Dec-26",
+                            "value": "2026-11-30T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -23569,6 +23522,53 @@
                     ],
                     "href": "records/Activity%20Planning/30727?fromControl=Control1",
                     "id": 30727
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30726"
+                        },
+                        {
+                            "display": "17-Jun-2026",
+                            "value": "2026-06-16T23:04:52.43Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Academic Development - Strategic Industry Partnerships"
+                        },
+                        {
+                            "value": "adminprocurement@tafesa.edu.au"
+                        },
+                        {
+                            "value": "Labour Insights, Data and Analytics"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "30-Jun-27",
+                            "value": "2027-06-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30726?fromControl=Control1",
+                    "id": 30726
                 }
             ],
             "aggregates": []
