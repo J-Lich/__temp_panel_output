@@ -67,9 +67,103 @@
                 "filter": true
             }
         ],
-        "totalRows": 2115,
+        "totalRows": 2113,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR34218"
+                        },
+                        {
+                            "display": "28-Sep-2026",
+                            "value": "2026-09-28T03:50:31.768Z"
+                        },
+                        {
+                            "value": "Central Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "SA Pathology"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Automated Chemiluminescent Immunoassay Analyser for SA Pathology"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "03-Jan-27",
+                            "value": "2027-01-02T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34218?fromControl=Control1",
+                    "id": 34218
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34215"
+                        },
+                        {
+                            "display": "28-Sep-2026",
+                            "value": "2026-09-28T02:56:00.655Z"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "South Australian Ambulance Service"
+                        },
+                        {
+                            "value": "Health.SAASProcurementandContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Elliston Ambulance Station \u2013 Roof replacement  "
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "25-Jan-27",
+                            "value": "2027-01-24T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34215?fromControl=Control1",
+                    "id": 34215
+                },
                 {
                     "values": [
                         {
@@ -195,68 +289,21 @@
                             "value": "Direct Approach"
                         },
                         {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "12-Oct-26",
-                            "value": "2026-10-11T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34180?fromControl=Control1",
-                    "id": 34180
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR34164"
-                        },
-                        {
-                            "display": "23-Sep-2026",
-                            "value": "2026-09-22T14:38:09.407Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Capital"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Backlog Resourcing"
-                        },
-                        {
-                            "value": "Industrial and Engineering"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
                             "value": "Email"
                         },
                         {
                             "value": "Possible"
                         },
                         {
-                            "display": "18-Sep-26",
-                            "value": "2026-09-18T00:00:00Z"
+                            "display": "12-Oct-26",
+                            "value": "2026-10-12T00:00:00Z"
                         },
                         {
-                            "value": "Released to Market"
+                            "value": "Initiating"
                         }
                     ],
-                    "href": "records/Activity%20Planning/34164?fromControl=Control1",
-                    "id": 34164
+                    "href": "records/Activity%20Planning/34180?fromControl=Control1",
+                    "id": 34180
                 },
                 {
                     "values": [
@@ -2871,7 +2918,7 @@
                             "value": "New requirement"
                         },
                         {
-                            "value": "Open"
+                            "value": "Limited"
                         },
                         {
                             "value": "SA Tenders and Contracts"
@@ -2936,53 +2983,6 @@
                     ],
                     "href": "records/Activity%20Planning/33987?fromControl=Control1",
                     "id": 33987
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR33983"
-                        },
-                        {
-                            "display": "09-Sep-2026",
-                            "value": "2026-09-08T15:37:38.635Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": "Capital"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Design Management Services for New Water Source Investigation Program"
-                        },
-                        {
-                            "value": "Industrial and Engineering"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "02-Sep-26",
-                            "value": "2026-09-02T00:00:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/33983?fromControl=Control1",
-                    "id": 33983
                 },
                 {
                     "values": [
@@ -3970,6 +3970,53 @@
                     ],
                     "href": "records/Activity%20Planning/33891?fromControl=Control1",
                     "id": 33891
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR33890"
+                        },
+                        {
+                            "display": "01-Sep-2026",
+                            "value": "2026-09-01T06:14:38.251Z"
+                        },
+                        {
+                            "value": "Child Protection"
+                        },
+                        {
+                            "value": "Finance, Procurement and Contracts"
+                        },
+                        {
+                            "value": "DCPProcurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Microsoft 365 Copilot Licences"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "28-Sep-26",
+                            "value": "2026-09-27T14:30:00Z"
+                        },
+                        {
+                            "value": "Released to Market"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33890?fromControl=Control1",
+                    "id": 33890
                 },
                 {
                     "values": [
@@ -10021,7 +10068,7 @@
                             "value": "SA Tenders and Contracts"
                         },
                         {
-                            "value": "Certain"
+                            "value": "Almost Certain"
                         },
                         {
                             "display": "31-Aug-26",
@@ -12700,7 +12747,7 @@
                             "value": "SA Tenders and Contracts"
                         },
                         {
-                            "value": "Certain"
+                            "value": "Almost Certain"
                         },
                         {
                             "display": "31-Jul-26",
@@ -23522,53 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/30727?fromControl=Control1",
                     "id": 30727
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30726"
-                        },
-                        {
-                            "display": "17-Jun-2026",
-                            "value": "2026-06-16T23:04:52.43Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Academic Development - Strategic Industry Partnerships"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Labour Insights, Data and Analytics"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Jun-27",
-                            "value": "2027-06-29T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30726?fromControl=Control1",
-                    "id": 30726
                 }
             ],
             "aggregates": []
