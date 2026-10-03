@@ -67,7 +67,7 @@
                 "filter": true
             }
         ],
-        "totalRows": 2136,
+        "totalRows": 2135,
         "data": {
             "rows": [
                 {
@@ -201,8 +201,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "06-Oct-26",
-                            "value": "2026-10-05T13:30:00Z"
+                            "display": "29-Sep-26",
+                            "value": "2026-09-29T00:00:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -1305,7 +1305,7 @@
                             "value": "SA Water"
                         },
                         {
-                            "value": "Supply Chain"
+                            "value": ""
                         },
                         {
                             "value": "anil.mohan@sawater.com.au"
@@ -1314,7 +1314,7 @@
                             "value": "Provision of Oracle Fusion FM, Oracle Primavera PPM and associated Licences"
                         },
                         {
-                            "value": "ICT Software and Technology"
+                            "value": ""
                         },
                         {
                             "value": "New requirement"
@@ -2419,53 +2419,6 @@
                     ],
                     "href": "records/Activity%20Planning/34115?fromControl=Control1",
                     "id": 34115
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR34102"
-                        },
-                        {
-                            "display": "17-Sep-2026",
-                            "value": "2026-09-17T04:38:52.781Z"
-                        },
-                        {
-                            "value": "Housing Trust"
-                        },
-                        {
-                            "value": "Housing Delivery"
-                        },
-                        {
-                            "value": "HousingProcurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Adelaide CBD Major Apartment Development "
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "06-Oct-26",
-                            "value": "2026-10-05T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34102?fromControl=Control1",
-                    "id": 34102
                 },
                 {
                     "values": [
@@ -4266,7 +4219,7 @@
                             "value": "SA Water"
                         },
                         {
-                            "value": "Supply Chain"
+                            "value": ""
                         },
                         {
                             "value": ""
@@ -4275,7 +4228,7 @@
                             "value": "Recycled Water for Port Lincoln WWTP"
                         },
                         {
-                            "value": "Industrial and Engineering"
+                            "value": ""
                         },
                         {
                             "value": "New requirement"
@@ -4313,7 +4266,7 @@
                             "value": "SA Water"
                         },
                         {
-                            "value": "Supply Chain"
+                            "value": ""
                         },
                         {
                             "value": ""
@@ -4322,7 +4275,7 @@
                             "value": "Solar Sites Land Maintenance"
                         },
                         {
-                            "value": "Industrial and Engineering"
+                            "value": ""
                         },
                         {
                             "value": "New requirement"
@@ -6710,7 +6663,7 @@
                             "value": "SA Water"
                         },
                         {
-                            "value": "Supply Chain"
+                            "value": ""
                         },
                         {
                             "value": ""
@@ -6719,7 +6672,7 @@
                             "value": "Port Lincoln Waste Water Treatment Plant Site Bins"
                         },
                         {
-                            "value": "Transportation, logistics, mail services and warehousing"
+                            "value": ""
                         },
                         {
                             "value": "New requirement"
@@ -8919,7 +8872,7 @@
                             "value": "SA Water"
                         },
                         {
-                            "value": "Capital"
+                            "value": ""
                         },
                         {
                             "value": ""
@@ -8928,7 +8881,7 @@
                             "value": "Development of RD28 Business Case and Cost Benefit Analysis for New Water Source Project."
                         },
                         {
-                            "value": "Industrial and Engineering"
+                            "value": ""
                         },
                         {
                             "value": "Secondary procurement process"
@@ -8966,7 +8919,7 @@
                             "value": "SA Water"
                         },
                         {
-                            "value": "Supply Chain"
+                            "value": ""
                         },
                         {
                             "value": ""
@@ -8975,7 +8928,7 @@
                             "value": "In Vehicle Safety System RFT"
                         },
                         {
-                            "value": "ICT Software and Technology"
+                            "value": ""
                         },
                         {
                             "value": "New requirement"
@@ -12679,7 +12632,7 @@
                             "value": "SA Water"
                         },
                         {
-                            "value": "Supply Chain"
+                            "value": ""
                         },
                         {
                             "value": ""
@@ -12688,7 +12641,7 @@
                             "value": "Swan Reach and Murray Bridge WTP Lagoon Capacity"
                         },
                         {
-                            "value": "Industrial and Engineering"
+                            "value": ""
                         },
                         {
                             "value": "New requirement"
@@ -13995,7 +13948,7 @@
                             "value": "SA Water"
                         },
                         {
-                            "value": "Capital"
+                            "value": ""
                         },
                         {
                             "value": ""
@@ -14004,7 +13957,7 @@
                             "value": "Concordia Pipelines A-J"
                         },
                         {
-                            "value": "Industrial and Engineering"
+                            "value": ""
                         },
                         {
                             "value": "New requirement"
@@ -23569,6 +23522,53 @@
                     ],
                     "href": "records/Activity%20Planning/30762?fromControl=Control1",
                     "id": 30762
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30761"
+                        },
+                        {
+                            "display": "17-Jun-2026",
+                            "value": "2026-06-17T02:14:39.133Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Operations - Workforce Alignment"
+                        },
+                        {
+                            "value": "adminprocurement@tafesa.edu.au"
+                        },
+                        {
+                            "value": " Huddle and Survey User Licences"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "30-Apr-28",
+                            "value": "2028-04-29T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30761?fromControl=Control1",
+                    "id": 30761
                 }
             ],
             "aggregates": []
