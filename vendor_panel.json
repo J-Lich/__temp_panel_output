@@ -67,7 +67,7 @@
                 "filter": true
             }
         ],
-        "totalRows": 2098,
+        "totalRows": 2093,
         "data": {
             "rows": [
                 {
@@ -163,6 +163,53 @@
                     ],
                     "href": "records/Activity%20Planning/34312?fromControl=Control1",
                     "id": 34312
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34309"
+                        },
+                        {
+                            "display": "07-Oct-2026",
+                            "value": "2026-10-07T02:41:13.958Z"
+                        },
+                        {
+                            "value": "Renewal SA"
+                        },
+                        {
+                            "value": "Property and Major Projects - Innovation Districts and City"
+                        },
+                        {
+                            "value": "Andy.Nicolson@sa.gov.au"
+                        },
+                        {
+                            "value": "Engagement of a master scheduler to develop program scheduling framework. "
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "16-Oct-26",
+                            "value": "2026-10-15T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34309?fromControl=Control1",
+                    "id": 34309
                 },
                 {
                     "values": [
@@ -633,6 +680,53 @@
                     ],
                     "href": "records/Activity%20Planning/34259?fromControl=Control1",
                     "id": 34259
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34256"
+                        },
+                        {
+                            "display": "30-Sep-2026",
+                            "value": "2026-09-30T05:53:34.059Z"
+                        },
+                        {
+                            "value": "Attorney General's"
+                        },
+                        {
+                            "value": "Office of the Director of Public Prosecutions"
+                        },
+                        {
+                            "value": "reanna.connolly@sa.gov.au"
+                        },
+                        {
+                            "value": "L&D Specialist"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "06-Oct-26",
+                            "value": "2026-10-05T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34256?fromControl=Control1",
+                    "id": 34256
                 },
                 {
                     "values": [
@@ -3688,53 +3782,6 @@
                     ],
                     "href": "records/Activity%20Planning/34046?fromControl=Control1",
                     "id": 34046
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR34043"
-                        },
-                        {
-                            "display": "14-Sep-2026",
-                            "value": "2026-09-14T04:55:29.467Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Schools and Preschools"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Port Augusta Secondary School - Purchase of Student Lockers"
-                        },
-                        {
-                            "value": "Education and Training"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "21-Sep-26",
-                            "value": "2026-09-20T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34043?fromControl=Control1",
-                    "id": 34043
                 },
                 {
                     "values": [
@@ -7875,53 +7922,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR33658"
-                        },
-                        {
-                            "display": "07-Aug-2026",
-                            "value": "2026-08-07T03:52:18.039Z"
-                        },
-                        {
-                            "value": "SA Arid Lands Landscape Board"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Springs in the Flinders Rangers"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "03-Sep-26",
-                            "value": "2026-09-02T14:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/33658?fromControl=Control1",
-                    "id": 33658
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR33657"
                         },
                         {
@@ -8345,53 +8345,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR31712"
-                        },
-                        {
-                            "display": "05-Aug-2026",
-                            "value": "2026-08-05T06:09:13.455Z"
-                        },
-                        {
-                            "value": "Central Adelaide Local Health Network"
-                        },
-                        {
-                            "value": "Statewide Clinical Support Services - SA Medical Imaging"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Laminar Flow Cabinet"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "27-Aug-26",
-                            "value": "2026-08-26T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31712?fromControl=Control1",
-                    "id": 31712
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR31711"
                         },
                         {
@@ -8614,8 +8567,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "12-Oct-26",
-                            "value": "2026-10-11T13:30:00Z"
+                            "display": "11-Jan-27",
+                            "value": "2027-01-10T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -9962,23 +9915,23 @@
                             "value": "Fleet Management System"
                         },
                         {
-                            "value": "Fleet and vehicles"
+                            "value": "ICT Software and Technology"
                         },
                         {
                             "value": "New requirement"
                         },
                         {
-                            "value": ""
+                            "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "01-Sep-26",
-                            "value": "2026-08-31T14:30:00Z"
+                            "display": "19-Oct-26",
+                            "value": "2026-10-18T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -11340,8 +11293,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "05-Oct-26",
-                            "value": "2026-10-04T13:30:00Z"
+                            "display": "01-Mar-27",
+                            "value": "2027-02-28T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -12195,53 +12148,6 @@
                     ],
                     "href": "records/Activity%20Planning/31147?fromControl=Control1",
                     "id": 31147
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR31139"
-                        },
-                        {
-                            "display": "15-Jul-2026",
-                            "value": "2026-07-15T04:19:35.671Z"
-                        },
-                        {
-                            "value": "Central Adelaide Local Health Network"
-                        },
-                        {
-                            "value": "Statewide Clinical Support Services - SA Medical Imaging"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Gallium-68 Generators"
-                        },
-                        {
-                            "value": "Healthcare and Community Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "28-Aug-26",
-                            "value": "2026-08-27T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31139?fromControl=Control1",
-                    "id": 31139
                 },
                 {
                     "values": [
@@ -13318,7 +13224,7 @@
                             "value": "2026-11-19T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/31066?fromControl=Control1",
@@ -14471,7 +14377,7 @@
                             "value": "procurement@rtwsa.com"
                         },
                         {
-                            "value": "Meeting rooms Audio Visual equipments installation"
+                            "value": "Meeting rooms Upgrade - CISCO Audio Visual equipment installation"
                         },
                         {
                             "value": "Office Equipment and Accessories and Supplies"
@@ -17385,7 +17291,7 @@
                             "value": "Education.ProcurementUnit@sa.gov.au"
                         },
                         {
-                            "value": "Meraki Enterprise Agreement"
+                            "value": "Cisco Enterprise Agreement (Schools and Corporate)"
                         },
                         {
                             "value": "ICT Software and Technology"
@@ -18372,7 +18278,7 @@
                             "value": "Education.ProcurementUnit@sa.gov.au"
                         },
                         {
-                            "value": "PC Refresh Computer Device Purchase 2027"
+                            "value": "PC Refresh and BAU purchases"
                         },
                         {
                             "value": "ICT Software and Technology"
@@ -23569,6 +23475,100 @@
                     ],
                     "href": "records/Activity%20Planning/30746?fromControl=Control1",
                     "id": 30746
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30745"
+                        },
+                        {
+                            "display": "17-Jun-2026",
+                            "value": "2026-06-17T01:37:11.907Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Operations - ICT Services"
+                        },
+                        {
+                            "value": "adminprocurement@tafesa.edu.au"
+                        },
+                        {
+                            "value": "Provision of Secure Storage and Destruction Services"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "29-Oct-27",
+                            "value": "2027-10-28T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30745?fromControl=Control1",
+                    "id": 30745
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30744"
+                        },
+                        {
+                            "display": "17-Jun-2026",
+                            "value": "2026-06-17T01:34:37.856Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Operations - Procurement & Contract Management"
+                        },
+                        {
+                            "value": "adminprocurement@tafesa.edu.au"
+                        },
+                        {
+                            "value": "Stationery and Office Supplies"
+                        },
+                        {
+                            "value": "Office Equipment and Accessories and Supplies"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "29-Oct-27",
+                            "value": "2027-10-28T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30744?fromControl=Control1",
+                    "id": 30744
                 }
             ],
             "aggregates": []
