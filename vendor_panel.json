@@ -67,7 +67,7 @@
                 "filter": true
             }
         ],
-        "totalRows": 2093,
+        "totalRows": 2082,
         "data": {
             "rows": [
                 {
@@ -2169,7 +2169,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Certain"
@@ -3495,7 +3495,7 @@
                             "value": "2026-12-15T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/34068?fromControl=Control1",
@@ -3542,7 +3542,7 @@
                             "value": "2026-12-15T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/34067?fromControl=Control1",
@@ -5713,53 +5713,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR33843"
-                        },
-                        {
-                            "display": "27-Aug-2026",
-                            "value": "2026-08-26T22:39:30.305Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Nuriootpa High School - Provision of Workstations"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "11-Jan-27",
-                            "value": "2027-01-10T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/33843?fromControl=Control1",
-                    "id": 33843
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR33840"
                         },
                         {
@@ -7114,7 +7067,7 @@
                             "value": "2026-11-11T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/33714?fromControl=Control1",
@@ -10366,53 +10319,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR31566"
-                        },
-                        {
-                            "display": "24-Jul-2026",
-                            "value": "2026-07-24T00:07:07.32Z"
-                        },
-                        {
-                            "value": "TAFE SA"
-                        },
-                        {
-                            "value": "Operations"
-                        },
-                        {
-                            "value": "adminprocurement@tafesa.edu.au"
-                        },
-                        {
-                            "value": "Cultural Awareness and Engagement"
-                        },
-                        {
-                            "value": "Communications and Marketing"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "30-Nov-26",
-                            "value": "2026-11-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31566?fromControl=Control1",
-                    "id": 31566
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR31562"
                         },
                         {
@@ -10993,7 +10899,7 @@
                             "value": "Dhud.Procurement@sa.gov.au "
                         },
                         {
-                            "value": "Town Planning in Two Outback SA Communities"
+                            "value": "Town Planning for SA Outback Communities "
                         },
                         {
                             "value": "Other"
@@ -11622,11 +11528,11 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "30-Aug-26",
-                            "value": "2026-08-29T14:30:00Z"
+                            "display": "26-Oct-26",
+                            "value": "2026-10-25T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/31486?fromControl=Control1",
@@ -13647,7 +13553,7 @@
                             "value": "2026-10-11T13:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/31016?fromControl=Control1",
@@ -23569,6 +23475,100 @@
                     ],
                     "href": "records/Activity%20Planning/30744?fromControl=Control1",
                     "id": 30744
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30743"
+                        },
+                        {
+                            "display": "17-Jun-2026",
+                            "value": "2026-06-17T01:31:46.652Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Operations - Finance Planning & Analysis"
+                        },
+                        {
+                            "value": "adminprocurement@tafesa.edu.au"
+                        },
+                        {
+                            "value": "System software for automation of financial forecasting and planning"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "29-Oct-27",
+                            "value": "2027-10-28T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30743?fromControl=Control1",
+                    "id": 30743
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR30740"
+                        },
+                        {
+                            "display": "17-Jun-2026",
+                            "value": "2026-06-17T00:58:21.461Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Operations - ICT Services"
+                        },
+                        {
+                            "value": "adminprocurement@tafesa.edu.au"
+                        },
+                        {
+                            "value": "Content Manager Licensing and Maintenance"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "30-Dec-26",
+                            "value": "2026-12-29T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/30740?fromControl=Control1",
+                    "id": 30740
                 }
             ],
             "aggregates": []
