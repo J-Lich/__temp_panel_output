@@ -67,9 +67,197 @@
                 "filter": true
             }
         ],
-        "totalRows": 2024,
+        "totalRows": 2029,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR34545"
+                        },
+                        {
+                            "display": "28-Oct-2026",
+                            "value": "2026-10-28T00:55:11.106Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "Water and River Murray"
+                        },
+                        {
+                            "value": "sarah.watts@sa.gov.au"
+                        },
+                        {
+                            "value": "South East Drainage Board Asset Condition Assessment "
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "15-Nov-26",
+                            "value": "2026-11-14T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34545?fromControl=Control1",
+                    "id": 34545
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34543"
+                        },
+                        {
+                            "display": "28-Oct-2026",
+                            "value": "2026-10-27T22:04:08.939Z"
+                        },
+                        {
+                            "value": "State Development"
+                        },
+                        {
+                            "value": "Portfolio Delivery"
+                        },
+                        {
+                            "value": "dsd.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Postal, Parcel & Courier Services"
+                        },
+                        {
+                            "value": "Transportation, logistics, mail services and warehousing"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "11-Nov-26",
+                            "value": "2026-11-10T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34543?fromControl=Control1",
+                    "id": 34543
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34542"
+                        },
+                        {
+                            "display": "28-Oct-2026",
+                            "value": "2026-10-27T22:00:57.578Z"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Postal, Parcel & Courier Services"
+                        },
+                        {
+                            "value": "Transportation, logistics, mail services and warehousing"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "11-Nov-26",
+                            "value": "2026-11-10T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34542?fromControl=Control1",
+                    "id": 34542
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34541"
+                        },
+                        {
+                            "display": "27-Oct-2026",
+                            "value": "2026-10-27T07:01:56.297Z"
+                        },
+                        {
+                            "value": "Treasury and Finance"
+                        },
+                        {
+                            "value": "South Australian Government Financing Authority"
+                        },
+                        {
+                            "value": "dtfprocurementservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Future State Program Delivery Partner"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "22-Jan-27",
+                            "value": "2027-01-21T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34541?fromControl=Control1",
+                    "id": 34541
+                },
                 {
                     "values": [
                         {
@@ -4804,7 +4992,7 @@
                             "value": "SA Tenders and Contracts"
                         },
                         {
-                            "value": "Certain"
+                            "value": "Cancelled"
                         },
                         {
                             "display": "26-Oct-26",
@@ -8708,8 +8896,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "01-Oct-26",
-                            "value": "2026-09-30T14:30:00Z"
+                            "display": "09-Nov-26",
+                            "value": "2026-11-08T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -16877,7 +17065,7 @@
                             "value": "New requirement"
                         },
                         {
-                            "value": "Limited"
+                            "value": "Open"
                         },
                         {
                             "value": "Other"
@@ -16886,11 +17074,11 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "07-Oct-26",
-                            "value": "2026-10-06T13:30:00Z"
+                            "display": "02-Nov-26",
+                            "value": "2026-11-01T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/31009?fromControl=Control1",
@@ -21430,7 +21618,7 @@
                             "value": "Catering services for EALD and Aboriginal Languages meetings and training"
                         },
                         {
-                            "value": "Facilities and Building Management"
+                            "value": "Tourism and Entertainment"
                         },
                         {
                             "value": "New requirement"
@@ -21439,7 +21627,7 @@
                             "value": "Limited"
                         },
                         {
-                            "value": "Email"
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Almost Certain"
@@ -22702,7 +22890,7 @@
                             "value": "Facilities and Building Management"
                         },
                         {
-                            "value": "Secondary procurement process"
+                            "value": "Recompete expiring contract"
                         },
                         {
                             "value": "Limited"
@@ -23381,194 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/30870?fromControl=Control1",
                     "id": 30870
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30865"
-                        },
-                        {
-                            "display": "24-Jun-2026",
-                            "value": "2026-06-24T02:06:42.275Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Bituminous Works - Barrier HIghway"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "14-Dec-26",
-                            "value": "2026-12-13T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30865?fromControl=Control1",
-                    "id": 30865
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30864"
-                        },
-                        {
-                            "display": "24-Jun-2026",
-                            "value": "2026-06-24T02:05:59.415Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Bituminous Works - Montacute Road"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "14-Dec-26",
-                            "value": "2026-12-13T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30864?fromControl=Control1",
-                    "id": 30864
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30863"
-                        },
-                        {
-                            "display": "24-Jun-2026",
-                            "value": "2026-06-24T02:05:18.71Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Bituminous Works - Penfold Road and St Bernards Road"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "14-Dec-26",
-                            "value": "2026-12-13T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30863?fromControl=Control1",
-                    "id": 30863
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30862"
-                        },
-                        {
-                            "display": "24-Jun-2026",
-                            "value": "2026-06-24T02:04:44.852Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Bituminous Works - Horrocks Highway"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "07-Dec-26",
-                            "value": "2026-12-06T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30862?fromControl=Control1",
-                    "id": 30862
                 }
             ],
             "aggregates": []
