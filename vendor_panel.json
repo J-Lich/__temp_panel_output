@@ -67,9 +67,197 @@
                 "filter": true
             }
         ],
-        "totalRows": 2026,
+        "totalRows": 2022,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR34580"
+                        },
+                        {
+                            "display": "30-Oct-2026",
+                            "value": "2026-10-30T04:38:29.732Z"
+                        },
+                        {
+                            "value": "Alinytjara Wilurara Landscape Board"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Large Feral Herbivore Management in APY Lands 2027-28"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "05-Jul-27",
+                            "value": "2027-07-04T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34580?fromControl=Control1",
+                    "id": 34580
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34569"
+                        },
+                        {
+                            "display": "30-Oct-2026",
+                            "value": "2026-10-30T01:06:55.387Z"
+                        },
+                        {
+                            "value": "Treasury and Finance"
+                        },
+                        {
+                            "value": "Commercial and Procurement"
+                        },
+                        {
+                            "value": "justyna.carlier@sa.gov.au"
+                        },
+                        {
+                            "value": "Banking Subject Matter Expert"
+                        },
+                        {
+                            "value": "Financial Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "11-Nov-26",
+                            "value": "2026-11-10T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34569?fromControl=Control1",
+                    "id": 34569
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34566"
+                        },
+                        {
+                            "display": "30-Oct-2026",
+                            "value": "2026-10-30T00:06:57.819Z"
+                        },
+                        {
+                            "value": "Central Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "People and Culture"
+                        },
+                        {
+                            "value": "Anoop.Mammen@sa.gov.au"
+                        },
+                        {
+                            "value": "CALHN Cultural Respect and Sensitivity Training Services"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "02-Nov-26",
+                            "value": "2026-11-01T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34566?fromControl=Control1",
+                    "id": 34566
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34565"
+                        },
+                        {
+                            "display": "30-Oct-2026",
+                            "value": "2026-10-29T14:50:22.716Z"
+                        },
+                        {
+                            "value": "SA Water"
+                        },
+                        {
+                            "value": "Supply Chain"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Asset Integrity Inspection Services"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "28-Apr-26",
+                            "value": "2026-04-28T00:00:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34565?fromControl=Control1",
+                    "id": 34565
+                },
                 {
                     "values": [
                         {
@@ -308,29 +496,29 @@
                 {
                     "values": [
                         {
-                            "value": "PAR34524"
+                            "value": "PAR34520"
                         },
                         {
                             "display": "26-Oct-2026",
-                            "value": "2026-10-26T05:25:10.784Z"
+                            "value": "2026-10-26T02:05:17.559Z"
                         },
                         {
-                            "value": "Environment and Water"
+                            "value": "Preventive Health SA"
                         },
                         {
-                            "value": "National Parks and Public Lands"
+                            "value": "Population Health"
                         },
                         {
-                            "value": "DEW.Procurement@sa.gov.au"
+                            "value": "PreventiveHealthSA.ProcurementandContracts@sa.gov.au"
                         },
                         {
-                            "value": "Brownhill Creek Embankment Erosion Remediation"
+                            "value": "Incentive to Quit Smoking and Vaping Cessation Program (SALHN) "
                         },
                         {
-                            "value": "Construction"
+                            "value": "Healthcare and Community Services"
                         },
                         {
-                            "value": "New requirement"
+                            "value": "Recompete expiring contract"
                         },
                         {
                             "value": "Direct Approach"
@@ -342,62 +530,15 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "27-Oct-26",
-                            "value": "2026-10-26T13:30:00Z"
+                            "display": "01-Feb-27",
+                            "value": "2027-01-31T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
                         }
                     ],
-                    "href": "records/Activity%20Planning/34524?fromControl=Control1",
-                    "id": 34524
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR34517"
-                        },
-                        {
-                            "display": "26-Oct-2026",
-                            "value": "2026-10-26T00:55:32.99Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Property and Major Projects \u2013 Major Projects"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Keswick Barracks Project Visioning"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "25-Nov-26",
-                            "value": "2026-11-24T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34517?fromControl=Control1",
-                    "id": 34517
+                    "href": "records/Activity%20Planning/34520?fromControl=Control1",
+                    "id": 34520
                 },
                 {
                     "values": [
@@ -5375,7 +5516,7 @@
                             "value": "2027-01-17T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/34193?fromControl=Control1",
@@ -6625,7 +6766,7 @@
                             "value": "Capability Uplift\n\n"
                         },
                         {
-                            "value": ""
+                            "value": "Advisory and Consultancy Services"
                         },
                         {
                             "value": "New requirement"
@@ -6672,7 +6813,7 @@
                             "value": "Establish Change Management"
                         },
                         {
-                            "value": ""
+                            "value": "Advisory and Consultancy Services"
                         },
                         {
                             "value": "New requirement"
@@ -7448,53 +7589,6 @@
                     ],
                     "href": "records/Activity%20Planning/34059?fromControl=Control1",
                     "id": 34059
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR34054"
-                        },
-                        {
-                            "display": "15-Sep-2026",
-                            "value": "2026-09-15T04:40:27.498Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Residential Project Delivery and Assets - Asset Management"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Temp Staff - Tech Park Facilities Manager - Travis Curyer"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34054?fromControl=Control1",
-                    "id": 34054
                 },
                 {
                     "values": [
@@ -8279,7 +8373,7 @@
                             "value": "Direct Approach"
                         },
                         {
-                            "value": "Email"
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Probable"
@@ -8289,7 +8383,7 @@
                             "value": "2026-10-31T13:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/33962?fromControl=Control1",
@@ -13276,53 +13370,6 @@
                     ],
                     "href": "records/Activity%20Planning/31611?fromControl=Control1",
                     "id": 31611
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR31609"
-                        },
-                        {
-                            "display": "28-Jul-2026",
-                            "value": "2026-07-28T03:44:02.675Z"
-                        },
-                        {
-                            "value": "Environment and Water"
-                        },
-                        {
-                            "value": "Water and River Murray"
-                        },
-                        {
-                            "value": "DEW.Procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Noora Pipeline Lyrup Anode Groundbed Replacement "
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "28-Aug-26",
-                            "value": "2026-08-27T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31609?fromControl=Control1",
-                    "id": 31609
                 },
                 {
                     "values": [
@@ -23522,53 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/30871?fromControl=Control1",
                     "id": 30871
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30870"
-                        },
-                        {
-                            "display": "24-Jun-2026",
-                            "value": "2026-06-24T02:27:48.711Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Asphalt Resurfacing PSABW"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "26-Nov-26",
-                            "value": "2026-11-25T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30870?fromControl=Control1",
-                    "id": 30870
                 }
             ],
             "aggregates": []
