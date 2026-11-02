@@ -73,6 +73,147 @@
                 {
                     "values": [
                         {
+                            "value": "PAR34591"
+                        },
+                        {
+                            "display": "02-Nov-2026",
+                            "value": "2026-11-02T05:07:05.441Z"
+                        },
+                        {
+                            "value": "Child Protection"
+                        },
+                        {
+                            "value": "Finance Procurement and Contracts"
+                        },
+                        {
+                            "value": "DCPProcurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Medical Assessment Services"
+                        },
+                        {
+                            "value": "Healthcare and Community Services"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "02-Feb-27",
+                            "value": "2027-02-01T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34591?fromControl=Control1",
+                    "id": 34591
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34590"
+                        },
+                        {
+                            "display": "02-Nov-2026",
+                            "value": "2026-11-02T04:06:50.57Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Transport Strategy and Planning"
+                        },
+                        {
+                            "value": "DIT.SSTenders@sa.gov.au"
+                        },
+                        {
+                            "value": "Adelaide Circuit Redevelopment - Design Services and Design Management"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Letter"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "03-Nov-26",
+                            "value": "2026-11-02T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34590?fromControl=Control1",
+                    "id": 34590
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34585"
+                        },
+                        {
+                            "display": "02-Nov-2026",
+                            "value": "2026-11-02T02:13:24.32Z"
+                        },
+                        {
+                            "value": "Alinytjara Wilurara Landscape Board"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Weed management in AW Region 2026-28"
+                        },
+                        {
+                            "value": "Environmental"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "display": "03-Feb-27",
+                            "value": "2027-02-02T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34585?fromControl=Control1",
+                    "id": 34585
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR34580"
                         },
                         {
@@ -116,6 +257,53 @@
                     ],
                     "href": "records/Activity%20Planning/34580?fromControl=Control1",
                     "id": 34580
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34579"
+                        },
+                        {
+                            "display": "30-Oct-2026",
+                            "value": "2026-10-30T04:37:24.942Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Transport Strategy and Planning"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Rundle Street Dequetteville Terrace to Fullarton Road"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "09-Nov-26",
+                            "value": "2026-11-08T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34579?fromControl=Control1",
+                    "id": 34579
                 },
                 {
                     "values": [
@@ -2104,7 +2292,7 @@
                             "value": "SA Water"
                         },
                         {
-                            "value": ""
+                            "value": "Supply Chain"
                         },
                         {
                             "value": ""
@@ -3829,6 +4017,53 @@
                     ],
                     "href": "records/Activity%20Planning/34321?fromControl=Control1",
                     "id": 34321
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34320"
+                        },
+                        {
+                            "display": "08-Oct-2026",
+                            "value": "2026-10-08T02:21:30.797Z"
+                        },
+                        {
+                            "value": "Legal Services Commission of South Australia"
+                        },
+                        {
+                            "value": "Information Communication Technology (ICT)"
+                        },
+                        {
+                            "value": "procurement@lsc.sa.gov.au"
+                        },
+                        {
+                            "value": "Content Manager EDRMS Licencing and Services"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "12-Jan-27",
+                            "value": "2027-01-11T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34320?fromControl=Control1",
+                    "id": 34320
                 },
                 {
                     "values": [
@@ -5629,7 +5864,7 @@
                             "value": "SA Water"
                         },
                         {
-                            "value": ""
+                            "value": "Supply Chain"
                         },
                         {
                             "value": "anil.mohan@sawater.com.au"
@@ -8167,7 +8402,7 @@
                             "value": "SA Water"
                         },
                         {
-                            "value": ""
+                            "value": "Supply Chain"
                         },
                         {
                             "value": ""
@@ -8285,11 +8520,11 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "17-Dec-26",
-                            "value": "2026-12-16T13:30:00Z"
+                            "display": "03-Nov-26",
+                            "value": "2026-11-02T13:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/33968?fromControl=Control1",
@@ -8379,8 +8614,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "01-Nov-26",
-                            "value": "2026-10-31T13:30:00Z"
+                            "display": "03-Nov-26",
+                            "value": "2026-11-02T13:30:00Z"
                         },
                         {
                             "value": "Released to Market"
@@ -10470,7 +10705,7 @@
                             "value": "SA Water"
                         },
                         {
-                            "value": ""
+                            "value": "Supply Chain"
                         },
                         {
                             "value": ""
@@ -10823,8 +11058,8 @@
                             "value": "Probable"
                         },
                         {
-                            "display": "30-Nov-26",
-                            "value": "2026-11-29T13:30:00Z"
+                            "display": "11-Jan-27",
+                            "value": "2027-01-10T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -12387,53 +12622,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR31695"
-                        },
-                        {
-                            "display": "05-Aug-2026",
-                            "value": "2026-08-04T15:30:59.371Z"
-                        },
-                        {
-                            "value": "SA Water"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "In Vehicle Safety System RFT"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "23-Jul-26",
-                            "value": "2026-07-23T00:00:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31695?fromControl=Control1",
-                    "id": 31695
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR31691"
                         },
                         {
@@ -12806,53 +12994,6 @@
                     ],
                     "href": "records/Activity%20Planning/31674?fromControl=Control1",
                     "id": 31674
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR31668"
-                        },
-                        {
-                            "display": "31-Jul-2026",
-                            "value": "2026-07-30T23:26:02.526Z"
-                        },
-                        {
-                            "value": "Housing and Urban Development"
-                        },
-                        {
-                            "value": "Growth Infrastructure Coordination Unit (GICU)"
-                        },
-                        {
-                            "value": "DTI.Procurement@sa.gov.au "
-                        },
-                        {
-                            "value": "Concordia Sewer Review"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "15-Sep-26",
-                            "value": "2026-09-14T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31668?fromControl=Control1",
-                    "id": 31668
                 },
                 {
                     "values": [
@@ -13784,8 +13925,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "25-Oct-26",
-                            "value": "2026-10-24T13:30:00Z"
+                            "display": "01-Feb-27",
+                            "value": "2027-01-31T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -14536,8 +14677,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "23-Oct-26",
-                            "value": "2026-10-22T13:30:00Z"
+                            "display": "06-Nov-26",
+                            "value": "2026-11-05T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -15546,7 +15687,7 @@
                             "value": "SA Water"
                         },
                         {
-                            "value": ""
+                            "value": "Supply Chain"
                         },
                         {
                             "value": ""
@@ -23428,147 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/30888?fromControl=Control1",
                     "id": 30888
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30887"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T02:16:39.56Z"
-                        },
-                        {
-                            "value": "Housing and Urban Development"
-                        },
-                        {
-                            "value": "Planning and Building"
-                        },
-                        {
-                            "value": "DHUD.Procurement@sa.gov.au "
-                        },
-                        {
-                            "value": "Licensing, Maintenance and Support for the Online Planning and Design Code "
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "16-Aug-27",
-                            "value": "2027-08-15T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30887?fromControl=Control1",
-                    "id": 30887
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30873"
-                        },
-                        {
-                            "display": "24-Jun-2026",
-                            "value": "2026-06-24T05:39:51Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Transport Policy and Regulation - Service SA"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": " eCRM System  "
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "29-Oct-26",
-                            "value": "2026-10-28T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30873?fromControl=Control1",
-                    "id": 30873
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30871"
-                        },
-                        {
-                            "display": "24-Jun-2026",
-                            "value": "2026-06-24T02:55:49.368Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Commercial and Contract Management"
-                        },
-                        {
-                            "value": "dit.goodsandservices@sa.gov.au"
-                        },
-                        {
-                            "value": "KI Ports Fencing Works"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "16-Jun-26",
-                            "value": "2026-06-15T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30871?fromControl=Control1",
-                    "id": 30871
                 }
             ],
             "aggregates": []
