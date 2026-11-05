@@ -67,9 +67,150 @@
                 "filter": true
             }
         ],
-        "totalRows": 2021,
+        "totalRows": 2020,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR34622"
+                        },
+                        {
+                            "display": "05-Nov-2026",
+                            "value": "2026-11-05T05:35:52.852Z"
+                        },
+                        {
+                            "value": "Central Adelaide Local Health Network"
+                        },
+                        {
+                            "value": "Office of CEO"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "CALHN-vial management services"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "06-Nov-26",
+                            "value": "2026-11-05T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34622?fromControl=Control1",
+                    "id": 34622
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34617"
+                        },
+                        {
+                            "display": "05-Nov-2026",
+                            "value": "2026-11-05T04:02:03.629Z"
+                        },
+                        {
+                            "value": "Office of the Chief Information Officer"
+                        },
+                        {
+                            "value": "Across Government Infrastructure and Service Delivery"
+                        },
+                        {
+                            "value": "OCIOProcurementContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Professional Services for EoL Hardware Replacement Project "
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "05-Feb-27",
+                            "value": "2027-02-04T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34617?fromControl=Control1",
+                    "id": 34617
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34609"
+                        },
+                        {
+                            "display": "05-Nov-2026",
+                            "value": "2026-11-04T22:10:37.648Z"
+                        },
+                        {
+                            "value": "Primary Industries and Regions"
+                        },
+                        {
+                            "value": "Fisheries and Aquaculture"
+                        },
+                        {
+                            "value": "pirsa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Economic Analysis of fisheries and aquaculture activities within South Australia 2026-27 to 2030-31"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "Recompete expiring contract"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "11-Feb-27",
+                            "value": "2027-02-10T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34609?fromControl=Control1",
+                    "id": 34609
+                },
                 {
                     "values": [
                         {
@@ -4205,6 +4346,53 @@
                     ],
                     "href": "records/Activity%20Planning/34340?fromControl=Control1",
                     "id": 34340
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34333"
+                        },
+                        {
+                            "display": "09-Oct-2026",
+                            "value": "2026-10-09T01:47:58.448Z"
+                        },
+                        {
+                            "value": "Renewal SA"
+                        },
+                        {
+                            "value": "People and Transformation - People & Culture"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "P&C RAP Deliverables Planning"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34333?fromControl=Control1",
+                    "id": 34333
                 },
                 {
                     "values": [
@@ -9802,6 +9990,53 @@
                 {
                     "values": [
                         {
+                            "value": "PAR33872"
+                        },
+                        {
+                            "display": "31-Aug-2026",
+                            "value": "2026-08-31T03:49:58.413Z"
+                        },
+                        {
+                            "value": "Renewal SA"
+                        },
+                        {
+                            "value": "Residential Project Delivery and Assets - Asset Management"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Facilities Management Advisory"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "04-Sep-26",
+                            "value": "2026-09-03T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/33872?fromControl=Control1",
+                    "id": 33872
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR33871"
                         },
                         {
@@ -14822,7 +15057,7 @@
                             "value": "2026-11-05T13:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/31518?fromControl=Control1",
@@ -17685,8 +17920,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "09-Nov-26",
-                            "value": "2026-11-08T13:30:00Z"
+                            "display": "30-Nov-26",
+                            "value": "2026-11-29T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -23334,241 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/15507?fromControl=Control1",
                     "id": 15507
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15506"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:11.104Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Bus Services Cungena to Karcultaby"
-                        },
-                        {
-                            "value": "Transportation, logistics, mail services and warehousing"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "25-Jan-27",
-                            "value": "2027-01-24T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15506?fromControl=Control1",
-                    "id": 15506
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15501"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:10.866Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Bus Service Hindmarsh Tiers to Mount Compass Area School"
-                        },
-                        {
-                            "value": "Transportation, logistics, mail services and warehousing"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "25-Jan-27",
-                            "value": "2027-01-24T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15501?fromControl=Control1",
-                    "id": 15501
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15500"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T04:25:27.782Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Intensive English Language Program Contracts "
-                        },
-                        {
-                            "value": "Transportation, logistics, mail services and warehousing"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Jun-27",
-                            "value": "2027-05-31T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15500?fromControl=Control1",
-                    "id": 15500
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30892"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T03:54:31.63Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Sales and Corporate Affairs - Sales & Marketing"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Industrial Sales Agent, Tonsley"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "18-Aug-26",
-                            "value": "2026-08-17T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30892?fromControl=Control1",
-                    "id": 30892
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR30890"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T03:00:30.704Z"
-                        },
-                        {
-                            "value": "Housing and Urban Development"
-                        },
-                        {
-                            "value": "Planning and Building"
-                        },
-                        {
-                            "value": "DHUD.Procurement@sa.gov.au "
-                        },
-                        {
-                            "value": "Atlassian Jira Workflow Software Licensing\u00a02027-28"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "18-Jan-27",
-                            "value": "2027-01-17T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/30890?fromControl=Control1",
-                    "id": 30890
                 }
             ],
             "aggregates": []
