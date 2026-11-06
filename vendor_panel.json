@@ -67,7 +67,7 @@
                 "filter": true
             }
         ],
-        "totalRows": 2020,
+        "totalRows": 2014,
         "data": {
             "rows": [
                 {
@@ -116,6 +116,100 @@
                     ],
                     "href": "records/Activity%20Planning/34622?fromControl=Control1",
                     "id": 34622
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34620"
+                        },
+                        {
+                            "display": "05-Nov-2026",
+                            "value": "2026-11-05T04:48:54.79Z"
+                        },
+                        {
+                            "value": "Environment Protection Authority"
+                        },
+                        {
+                            "value": "Air, Noise and Radiation Science"
+                        },
+                        {
+                            "value": "epa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Noise Sound Level Meters (SLM)"
+                        },
+                        {
+                            "value": "Research and Scientific"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "05-Feb-27",
+                            "value": "2027-02-04T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34620?fromControl=Control1",
+                    "id": 34620
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34618"
+                        },
+                        {
+                            "display": "05-Nov-2026",
+                            "value": "2026-11-05T04:44:46.05Z"
+                        },
+                        {
+                            "value": "Environment Protection Authority"
+                        },
+                        {
+                            "value": "Air Monitoring"
+                        },
+                        {
+                            "value": "epa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Air Quality Thermo Analyser and Particle Monitor"
+                        },
+                        {
+                            "value": "Research and Scientific"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "05-Feb-27",
+                            "value": "2027-02-04T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34618?fromControl=Control1",
+                    "id": 34618
                 },
                 {
                     "values": [
@@ -5798,7 +5892,7 @@
                             "value": "2026-10-29T13:30:00Z"
                         },
                         {
-                            "value": "Acquisition Planning"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/34237?fromControl=Control1",
@@ -5897,53 +5991,6 @@
                     ],
                     "href": "records/Activity%20Planning/34234?fromControl=Control1",
                     "id": 34234
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR34221"
-                        },
-                        {
-                            "display": "28-Sep-2026",
-                            "value": "2026-09-28T04:23:07.297Z"
-                        },
-                        {
-                            "value": "Environment and Water"
-                        },
-                        {
-                            "value": "National Parks and Public Lands"
-                        },
-                        {
-                            "value": "DEW.Procurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Landscape Design Services \u2013 Alligator Gorge"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "30-Oct-26",
-                            "value": "2026-10-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34221?fromControl=Control1",
-                    "id": 34221
                 },
                 {
                     "values": [
@@ -10024,8 +10071,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "04-Sep-26",
-                            "value": "2026-09-03T14:30:00Z"
+                            "display": "01-Dec-26",
+                            "value": "2026-11-30T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -11199,8 +11246,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "30-Nov-26",
-                            "value": "2026-11-29T13:30:00Z"
+                            "display": "19-Jan-27",
+                            "value": "2027-01-18T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -11631,53 +11678,6 @@
                     ],
                     "href": "records/Activity%20Planning/33732?fromControl=Control1",
                     "id": 33732
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR33714"
-                        },
-                        {
-                            "display": "13-Aug-2026",
-                            "value": "2026-08-13T05:30:41.767Z"
-                        },
-                        {
-                            "value": "Treasury and Finance"
-                        },
-                        {
-                            "value": "South Australian Government Financing Authority"
-                        },
-                        {
-                            "value": "dtfprocurementservices@sa.gov.au"
-                        },
-                        {
-                            "value": "Current Process Mapping"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "12-Nov-26",
-                            "value": "2026-11-11T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/33714?fromControl=Control1",
-                    "id": 33714
                 },
                 {
                     "values": [
@@ -22009,8 +22009,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "01-Feb-27",
-                            "value": "2027-01-31T13:30:00Z"
+                            "display": "01-Mar-27",
+                            "value": "2027-02-28T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
