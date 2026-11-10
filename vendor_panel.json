@@ -67,9 +67,150 @@
                 "filter": true
             }
         ],
-        "totalRows": 2014,
+        "totalRows": 2013,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR34658"
+                        },
+                        {
+                            "display": "10-Nov-2026",
+                            "value": "2026-11-10T06:54:56.28Z"
+                        },
+                        {
+                            "value": "HomeStart Finance"
+                        },
+                        {
+                            "value": "People & Capability"
+                        },
+                        {
+                            "value": "vanessa.charlesworth@homestart.com.au"
+                        },
+                        {
+                            "value": "Employee Benefits, Recognition and Wellbeing Platform"
+                        },
+                        {
+                            "value": "Human Resources and Staffing"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "16-Nov-26",
+                            "value": "2026-11-15T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34658?fromControl=Control1",
+                    "id": 34658
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34646"
+                        },
+                        {
+                            "display": "10-Nov-2026",
+                            "value": "2026-11-09T23:06:19.738Z"
+                        },
+                        {
+                            "value": "Renewal SA"
+                        },
+                        {
+                            "value": "Residential Project Delivery and Assets - Asset Management"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Traffic and Parking Study and Stormwater Assessment - Coghlan Road"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34646?fromControl=Control1",
+                    "id": 34646
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34640"
+                        },
+                        {
+                            "display": "10-Nov-2026",
+                            "value": "2026-11-09T21:54:45.883Z"
+                        },
+                        {
+                            "value": "Premier and Cabinet"
+                        },
+                        {
+                            "value": "Royal Commission into Artificial Intelligence"
+                        },
+                        {
+                            "value": "DPCProcurementandContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Report Design and Production Services"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "10-Nov-26",
+                            "value": "2026-11-09T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34640?fromControl=Control1",
+                    "id": 34640
+                },
                 {
                     "values": [
                         {
@@ -116,6 +257,53 @@
                     ],
                     "href": "records/Activity%20Planning/34636?fromControl=Control1",
                     "id": 34636
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34635"
+                        },
+                        {
+                            "display": "09-Nov-2026",
+                            "value": "2026-11-08T22:39:35.461Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Infrastructure Delivery - Building Projects"
+                        },
+                        {
+                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
+                        },
+                        {
+                            "value": "South Australia Forensic Center Sustainment Upgrade - GBC"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "31-May-27",
+                            "value": "2027-05-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34635?fromControl=Control1",
+                    "id": 34635
                 },
                 {
                     "values": [
@@ -997,14 +1185,14 @@
                             "value": "Email"
                         },
                         {
-                            "value": "Almost Certain"
+                            "value": "Certain"
                         },
                         {
                             "display": "04-Nov-26",
                             "value": "2026-11-03T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/34577?fromControl=Control1",
@@ -3739,6 +3927,100 @@
                 {
                     "values": [
                         {
+                            "value": "PAR34421"
+                        },
+                        {
+                            "display": "20-Oct-2026",
+                            "value": "2026-10-19T21:43:57.42Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Infrastructure Delivery - Building Projects"
+                        },
+                        {
+                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
+                        },
+                        {
+                            "value": "South Australia Forensic Center Sustainment Upgrade - CM"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Dec-26",
+                            "value": "2026-11-30T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34421?fromControl=Control1",
+                    "id": 34421
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34420"
+                        },
+                        {
+                            "display": "20-Oct-2026",
+                            "value": "2026-10-19T21:26:24.38Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Infrastructure Delivery - Building Projects"
+                        },
+                        {
+                            "value": "DIT.FutureBuildingTenders@sa.gov.au"
+                        },
+                        {
+                            "value": "South Australian Forensic Center Sustainment Upgrade  - LPSC"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Dec-26",
+                            "value": "2026-11-30T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34420?fromControl=Control1",
+                    "id": 34420
+                },
+                {
+                    "values": [
+                        {
                             "value": "PAR34419"
                         },
                         {
@@ -4961,53 +5243,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR34328"
-                        },
-                        {
-                            "display": "08-Oct-2026",
-                            "value": "2026-10-08T05:52:49.133Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Grant High School \u2013 Provision of Desktop Computers"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "12-Oct-26",
-                            "value": "2026-10-11T13:30:00Z"
-                        },
-                        {
-                            "value": "Released to Market"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34328?fromControl=Control1",
-                    "id": 34328
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR34323"
                         },
                         {
@@ -5944,53 +6179,6 @@
                     ],
                     "href": "records/Activity%20Planning/34252?fromControl=Control1",
                     "id": 34252
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR34250"
-                        },
-                        {
-                            "display": "30-Sep-2026",
-                            "value": "2026-09-30T01:10:25.905Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Hamilton Secondary College \u2013 Refurbishment of School LED Digital Sign"
-                        },
-                        {
-                            "value": "Communications and Marketing"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "12-Oct-26",
-                            "value": "2026-10-11T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34250?fromControl=Control1",
-                    "id": 34250
                 },
                 {
                     "values": [
@@ -12938,8 +13126,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "30-Nov-26",
-                            "value": "2026-11-29T13:30:00Z"
+                            "display": "01-Dec-26",
+                            "value": "2026-11-30T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -17886,53 +18074,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR31014"
-                        },
-                        {
-                            "display": "06-Jul-2026",
-                            "value": "2026-07-06T03:41:31.001Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Residential Project Delivery and Assets - Asset Management"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Adelaide Railway Station Christmas Decorations"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "31-Jul-26",
-                            "value": "2026-07-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/31014?fromControl=Control1",
-                    "id": 31014
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR31009"
                         },
                         {
@@ -17996,7 +18137,7 @@
                             "value": ""
                         },
                         {
-                            "value": "Surface Water Monitoring Network Operation and Maintenance 2027 - 2032"
+                            "value": "Hills and Fleurieu Landscape Board Surface Water Monitoring Network Operation and Maintenance 2027 - 2032"
                         },
                         {
                             "value": "Research and Scientific"
@@ -18014,8 +18155,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "30-Nov-26",
-                            "value": "2026-11-29T13:30:00Z"
+                            "display": "23-Nov-26",
+                            "value": "2026-11-22T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -23428,147 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/15517?fromControl=Control1",
                     "id": 15517
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15516"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:11.604Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Outcome Cleaning Contract - Walkerville Primary School"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Nov-27",
-                            "value": "2027-10-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15516?fromControl=Control1",
-                    "id": 15516
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15515"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:11.556Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Outcome Cleaning Contract - Modbury School P-6"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Nov-27",
-                            "value": "2027-10-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15515?fromControl=Control1",
-                    "id": 15515
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15514"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:11.507Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Outcome Cleaning Contract - Kapunda High School"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Nov-27",
-                            "value": "2027-10-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15514?fromControl=Control1",
-                    "id": 15514
                 }
             ],
             "aggregates": []
