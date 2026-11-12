@@ -67,9 +67,291 @@
                 "filter": true
             }
         ],
-        "totalRows": 2016,
+        "totalRows": 2020,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR35131"
+                        },
+                        {
+                            "display": "12-Nov-2026",
+                            "value": "2026-11-12T02:28:26.196Z"
+                        },
+                        {
+                            "value": "Premier and Cabinet"
+                        },
+                        {
+                            "value": "Office of the Commissioner for Public Sector Employment"
+                        },
+                        {
+                            "value": "DPCProcurementandContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "OCPSE - SALA - Aspiring Leaders Program Delivery"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "12-Feb-27",
+                            "value": "2027-02-11T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35131?fromControl=Control1",
+                    "id": 35131
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR35130"
+                        },
+                        {
+                            "display": "12-Nov-2026",
+                            "value": "2026-11-12T02:24:30.369Z"
+                        },
+                        {
+                            "value": "Premier and Cabinet"
+                        },
+                        {
+                            "value": "Office of the Commissioner for Public Sector Employment"
+                        },
+                        {
+                            "value": "DPCProcurementandContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "OCPSE - SALA - Manager Essentials Program Delivery"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "12-Feb-27",
+                            "value": "2027-02-11T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35130?fromControl=Control1",
+                    "id": 35130
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR35128"
+                        },
+                        {
+                            "display": "12-Nov-2026",
+                            "value": "2026-11-12T02:20:16.257Z"
+                        },
+                        {
+                            "value": "Premier and Cabinet"
+                        },
+                        {
+                            "value": "Office of the Commissioner for Public Sector Employment"
+                        },
+                        {
+                            "value": "DPCprocurementandcontracts@sa.gov.au"
+                        },
+                        {
+                            "value": "OCPSE - SALA - Executive Excellence Program Delivery"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "12-Feb-27",
+                            "value": "2027-02-11T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35128?fromControl=Control1",
+                    "id": 35128
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR35123"
+                        },
+                        {
+                            "display": "12-Nov-2026",
+                            "value": "2026-11-12T00:41:46.961Z"
+                        },
+                        {
+                            "value": "Energy and Mining"
+                        },
+                        {
+                            "value": "Regulation and Compliance"
+                        },
+                        {
+                            "value": "John Fitzgerald"
+                        },
+                        {
+                            "value": "Australian and International Specialised standards Access"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "30-Nov-26",
+                            "value": "2026-11-29T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35123?fromControl=Control1",
+                    "id": 35123
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR35122"
+                        },
+                        {
+                            "display": "12-Nov-2026",
+                            "value": "2026-11-12T00:31:58.942Z"
+                        },
+                        {
+                            "value": "Premier and Cabinet"
+                        },
+                        {
+                            "value": "Government Advertising and Insights Hub"
+                        },
+                        {
+                            "value": "DPCProcurementandContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Technical Colleges 2026-27 Creative Services"
+                        },
+                        {
+                            "value": "Communications and Marketing"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "16-Nov-26",
+                            "value": "2026-11-15T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35122?fromControl=Control1",
+                    "id": 35122
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR35121"
+                        },
+                        {
+                            "display": "12-Nov-2026",
+                            "value": "2026-11-11T23:37:48.525Z"
+                        },
+                        {
+                            "value": "Premier and Cabinet"
+                        },
+                        {
+                            "value": "Diplomatic Relations and Protocol"
+                        },
+                        {
+                            "value": "DPCProcurementandContracts@sa.gov.au"
+                        },
+                        {
+                            "value": "Governor-Designate\u2019s Swearing in Ceremony and Welcome Reception \u2013 Marquee and associated hire services \u2013 2026"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "16-Nov-26",
+                            "value": "2026-11-15T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35121?fromControl=Control1",
+                    "id": 35121
+                },
                 {
                     "values": [
                         {
@@ -1103,53 +1385,6 @@
                     ],
                     "href": "records/Activity%20Planning/34591?fromControl=Control1",
                     "id": 34591
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR34590"
-                        },
-                        {
-                            "display": "02-Nov-2026",
-                            "value": "2026-11-02T04:06:50.57Z"
-                        },
-                        {
-                            "value": "Infrastructure and Transport"
-                        },
-                        {
-                            "value": "Transport Strategy and Planning"
-                        },
-                        {
-                            "value": "DIT.SSTenders@sa.gov.au"
-                        },
-                        {
-                            "value": "Adelaide Circuit Redevelopment - Design Services and Design Management"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Letter"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "03-Nov-26",
-                            "value": "2026-11-02T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34590?fromControl=Control1",
-                    "id": 34590
                 },
                 {
                     "values": [
@@ -2222,8 +2457,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "30-Nov-26",
-                            "value": "2026-11-29T13:30:00Z"
+                            "display": "16-Nov-26",
+                            "value": "2026-11-15T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -2580,7 +2815,7 @@
                             "value": ""
                         },
                         {
-                            "value": "Design Framework for MWP projects"
+                            "value": "MWP Engineering Design Work Package Program"
                         },
                         {
                             "value": ""
@@ -5939,7 +6174,7 @@
                             "value": "2026-11-12T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/34301?fromControl=Control1",
@@ -6700,53 +6935,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR34239"
-                        },
-                        {
-                            "display": "29-Sep-2026",
-                            "value": "2026-09-29T05:54:42.527Z"
-                        },
-                        {
-                            "value": "Premier and Cabinet"
-                        },
-                        {
-                            "value": "Office of the Commissioner for Public Sector Employment"
-                        },
-                        {
-                            "value": "DPCProcurementandContracts@sa.gov.au"
-                        },
-                        {
-                            "value": "OCPSE - SALA - Leadership Programs Facilitator Pool"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "11-Jan-27",
-                            "value": "2027-01-10T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34239?fromControl=Control1",
-                    "id": 34239
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR34238"
                         },
                         {
@@ -7195,17 +7383,17 @@
                             "value": "New requirement"
                         },
                         {
-                            "value": ""
+                            "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Probable"
                         },
                         {
-                            "display": "18-Jan-27",
-                            "value": "2027-01-17T13:30:00Z"
+                            "display": "28-Jan-27",
+                            "value": "2027-01-27T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -9887,7 +10075,7 @@
                             "value": "2026-01-19T00:00:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/33978?fromControl=Control1",
@@ -18860,8 +19048,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "08-Nov-26",
-                            "value": "2026-11-07T13:30:00Z"
+                            "display": "30-Nov-26",
+                            "value": "2026-11-29T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -23381,194 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/15526?fromControl=Control1",
                     "id": 15526
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15525"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:12.013Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Outcome Cleaning Contract - Cobdogla Primary School"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Mar-28",
-                            "value": "2028-02-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15525?fromControl=Control1",
-                    "id": 15525
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15524"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:11.968Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Outcome Cleaning Contract - Felixstow Community School & Felixstow Office"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Mar-28",
-                            "value": "2028-02-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15524?fromControl=Control1",
-                    "id": 15524
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15523"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:11.925Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Outcome Cleaning Contract - Sturt Street Community School & Sturt Street Children's Centre"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Mar-28",
-                            "value": "2028-02-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15523?fromControl=Control1",
-                    "id": 15523
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15522"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:11.877Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Outcome Cleaning Contract - Greenwith Primary School & Greenwith & Our Lady of Hope Shared facilities"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Mar-28",
-                            "value": "2028-02-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15522?fromControl=Control1",
-                    "id": 15522
                 }
             ],
             "aggregates": []
