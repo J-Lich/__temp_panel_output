@@ -67,9 +67,150 @@
                 "filter": true
             }
         ],
-        "totalRows": 2020,
+        "totalRows": 2024,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR35584"
+                        },
+                        {
+                            "display": "14-Nov-2026",
+                            "value": "2026-11-13T14:42:40.334Z"
+                        },
+                        {
+                            "value": "SA Water"
+                        },
+                        {
+                            "value": "Supply Chain"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "A0030-0030 Bolivar Stage 2 Constructability Assessment"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Secondary procurement process"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "10-Nov-26",
+                            "value": "2026-11-09T23:00:00Z"
+                        },
+                        {
+                            "value": "Released to Market"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35584?fromControl=Control1",
+                    "id": 35584
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR35581"
+                        },
+                        {
+                            "display": "13-Nov-2026",
+                            "value": "2026-11-13T04:33:04.68Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Commercial and Contract Management"
+                        },
+                        {
+                            "value": "Dit.ConstructionProcurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Adelaide Circuit Redevelopment - Digital Design and Animations"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "13-Nov-26",
+                            "value": "2026-11-12T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35581?fromControl=Control1",
+                    "id": 35581
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR35576"
+                        },
+                        {
+                            "display": "13-Nov-2026",
+                            "value": "2026-11-12T23:44:50.979Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "Water and River Murray"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Lake George floodway construction"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "22-Nov-26",
+                            "value": "2026-11-21T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35576?fromControl=Control1",
+                    "id": 35576
+                },
                 {
                     "values": [
                         {
@@ -586,6 +727,53 @@
                     ],
                     "href": "records/Activity%20Planning/34669?fromControl=Control1",
                     "id": 34669
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34661"
+                        },
+                        {
+                            "display": "11-Nov-2026",
+                            "value": "2026-11-10T23:59:34.879Z"
+                        },
+                        {
+                            "value": "South Australian Tourism Commission"
+                        },
+                        {
+                            "value": "Events South Australia"
+                        },
+                        {
+                            "value": "procurement2@sa.gov.au"
+                        },
+                        {
+                            "value": "2027 TDU Work Health and Safety Management Services"
+                        },
+                        {
+                            "value": "Public Administration and Safety"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "01-Dec-26",
+                            "value": "2026-11-30T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34661?fromControl=Control1",
+                    "id": 34661
                 },
                 {
                     "values": [
@@ -1667,6 +1855,53 @@
                     ],
                     "href": "records/Activity%20Planning/34577?fromControl=Control1",
                     "id": 34577
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34576"
+                        },
+                        {
+                            "display": "30-Oct-2026",
+                            "value": "2026-10-30T04:11:48.878Z"
+                        },
+                        {
+                            "value": "ReturnToWorkSA"
+                        },
+                        {
+                            "value": "Finance and Investments - Data and Insights"
+                        },
+                        {
+                            "value": "procurement@rtwsa.com"
+                        },
+                        {
+                            "value": "Data Architecture and Data Modelling Support"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "",
+                            "value": null
+                        },
+                        {
+                            "value": "Released to Market"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34576?fromControl=Control1",
+                    "id": 34576
                 },
                 {
                     "values": [
@@ -11669,11 +11904,11 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "26-Nov-26",
-                            "value": "2026-11-25T13:30:00Z"
+                            "display": "08-Feb-27",
+                            "value": "2027-02-07T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/33824?fromControl=Control1",
@@ -12920,7 +13155,7 @@
                             "value": "michelle.ward@sa.gov.au"
                         },
                         {
-                            "value": "Customer Relationship Management (CRM) Solution Procurement"
+                            "value": "Relationship, Engagement and Travel Itinerary Management Solution"
                         },
                         {
                             "value": "ICT Software and Technology"
@@ -12938,8 +13173,8 @@
                             "value": "Certain"
                         },
                         {
-                            "display": "01-Sep-26",
-                            "value": "2026-08-31T14:30:00Z"
+                            "display": "16-Nov-26",
+                            "value": "2026-11-15T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -18202,8 +18437,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "09-Oct-26",
-                            "value": "2026-10-08T13:30:00Z"
+                            "display": "08-Feb-27",
+                            "value": "2027-02-07T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -23334,241 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/15531?fromControl=Control1",
                     "id": 15531
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15530"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:12.244Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Outcome Cleaning Contract - Renmark High School"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Mar-28",
-                            "value": "2028-02-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15530?fromControl=Control1",
-                    "id": 15530
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15529"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:12.196Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Outcome Cleaning Contract - Prospect Centre / Disability "
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Mar-28",
-                            "value": "2028-02-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15529?fromControl=Control1",
-                    "id": 15529
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15528"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:12.153Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Outcome Cleaning Contract - One Tree Hill Primary School"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Mar-28",
-                            "value": "2028-02-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15528?fromControl=Control1",
-                    "id": 15528
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15527"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:12.104Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Outcome Cleaning Contract - Largs Bay School"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Mar-28",
-                            "value": "2028-02-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15527?fromControl=Control1",
-                    "id": 15527
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15526"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:12.063Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Chief Operating Officer"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Outcome Cleaning Contract - Daws Road - Old Transition Program"
-                        },
-                        {
-                            "value": "Facilities and Building Management"
-                        },
-                        {
-                            "value": "Recompete expiring contract"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-Mar-28",
-                            "value": "2028-02-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15526?fromControl=Control1",
-                    "id": 15526
                 }
             ],
             "aggregates": []
