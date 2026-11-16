@@ -67,9 +67,56 @@
                 "filter": true
             }
         ],
-        "totalRows": 2026,
+        "totalRows": 2024,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR35596"
+                        },
+                        {
+                            "display": "16-Nov-2026",
+                            "value": "2026-11-16T04:55:00.471Z"
+                        },
+                        {
+                            "value": "Environment and Water"
+                        },
+                        {
+                            "value": "Water and River Murray"
+                        },
+                        {
+                            "value": "DEW.Procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Obswell Imaging Equipment"
+                        },
+                        {
+                            "value": "Environmental"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "22-Feb-27",
+                            "value": "2027-02-21T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35596?fromControl=Control1",
+                    "id": 35596
+                },
                 {
                     "values": [
                         {
@@ -210,6 +257,53 @@
                     ],
                     "href": "records/Activity%20Planning/35576?fromControl=Control1",
                     "id": 35576
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR35575"
+                        },
+                        {
+                            "display": "13-Nov-2026",
+                            "value": "2026-11-12T23:41:10.543Z"
+                        },
+                        {
+                            "value": "TAFE SA"
+                        },
+                        {
+                            "value": "Education and Training - Business Operations"
+                        },
+                        {
+                            "value": "tammie.ball@tafesa.edu.au"
+                        },
+                        {
+                            "value": "Laundry and Supply Services"
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Open"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "14-Feb-27",
+                            "value": "2027-02-13T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35575?fromControl=Control1",
+                    "id": 35575
                 },
                 {
                     "values": [
@@ -462,7 +556,7 @@
                             "value": "Regulation and Compliance"
                         },
                         {
-                            "value": "John Fitzgerald"
+                            "value": "John.Fitzgerald3@sa.gov.au"
                         },
                         {
                             "value": "Australian and International Specialised standards Access"
@@ -6499,8 +6593,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "13-Nov-26",
-                            "value": "2026-11-12T13:30:00Z"
+                            "display": "18-Jan-27",
+                            "value": "2027-01-17T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -9849,53 +9943,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR34037"
-                        },
-                        {
-                            "display": "14-Sep-2026",
-                            "value": "2026-09-14T01:47:19.378Z"
-                        },
-                        {
-                            "value": "South Australian Tourism Commission"
-                        },
-                        {
-                            "value": "Strategy, Transformation & Growth"
-                        },
-                        {
-                            "value": "procurement2@sa.gov.au"
-                        },
-                        {
-                            "value": "2027-29 Bounce Around the Barossa"
-                        },
-                        {
-                            "value": "Transportation, logistics, mail services and warehousing"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "14-Dec-26",
-                            "value": "2026-12-13T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34037?fromControl=Control1",
-                    "id": 34037
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR34036"
                         },
                         {
@@ -12277,7 +12324,7 @@
                             "value": "SA Tenders and Contracts"
                         },
                         {
-                            "value": "Probable"
+                            "value": "Cancelled"
                         },
                         {
                             "display": "05-Jan-27",
@@ -14374,10 +14421,10 @@
                             "value": "Commercial and Contract Management"
                         },
                         {
-                            "value": "dit.goodsandservices@sa.gov.au"
+                            "value": "DIT.ConstructionProcurement@sa.gov.au"
                         },
                         {
-                            "value": "Happy Valley Drive Intersections Improvement Project"
+                            "value": "Happy Valley Drive Intersections Upgrade"
                         },
                         {
                             "value": "Construction"
@@ -14386,7 +14433,7 @@
                             "value": "New requirement"
                         },
                         {
-                            "value": ""
+                            "value": "Limited"
                         },
                         {
                             "value": "SA Tenders and Contracts"
@@ -14399,7 +14446,7 @@
                             "value": "2027-06-15T14:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/31701?fromControl=Control1",
@@ -16160,7 +16207,7 @@
                             "value": "Services"
                         },
                         {
-                            "value": ""
+                            "value": "lsa.procurement@sa.gov.au"
                         },
                         {
                             "value": "Specialist Disability Accommodation "
@@ -18137,7 +18184,7 @@
                             "value": "epa.procurement@sa.gov.au"
                         },
                         {
-                            "value": "Site Contamination NHAAP Exam Development"
+                            "value": "National Harmonised Auditor Accreditation Process 2026 - Technical Exam"
                         },
                         {
                             "value": "ICT Software and Technology"
@@ -23522,53 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/15534?fromControl=Control1",
                     "id": 15534
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15533"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:12.377Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Curriculum and Learning"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "STEM Aboriginal Learner Congress 2027-2029 - venue hire, catering and audiovisual services"
-                        },
-                        {
-                            "value": "Communications and Marketing"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "01-Nov-26",
-                            "value": "2026-10-31T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15533?fromControl=Control1",
-                    "id": 15533
                 }
             ],
             "aggregates": []
