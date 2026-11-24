@@ -67,9 +67,150 @@
                 "filter": true
             }
         ],
-        "totalRows": 2000,
+        "totalRows": 1992,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR35695"
+                        },
+                        {
+                            "display": "24-Nov-2026",
+                            "value": "2026-11-24T03:10:36.648Z"
+                        },
+                        {
+                            "value": "Primary Industries and Regions"
+                        },
+                        {
+                            "value": "SARDI"
+                        },
+                        {
+                            "value": "pirsa.procurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Purchase of Two Automated Nitrous Oxide (N\u2082O) Emissions Monitoring Systems"
+                        },
+                        {
+                            "value": "Research and Scientific"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "24-Feb-27",
+                            "value": "2027-02-23T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35695?fromControl=Control1",
+                    "id": 35695
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR35688"
+                        },
+                        {
+                            "display": "24-Nov-2026",
+                            "value": "2026-11-23T23:58:33.72Z"
+                        },
+                        {
+                            "value": "Housing Trust"
+                        },
+                        {
+                            "value": "Digital and Business Services"
+                        },
+                        {
+                            "value": "phuong.nguyen@sa.gov.au"
+                        },
+                        {
+                            "value": "Appointment Booking System"
+                        },
+                        {
+                            "value": "ICT Software and Technology"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Possible"
+                        },
+                        {
+                            "display": "12-Apr-27",
+                            "value": "2027-04-11T14:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35688?fromControl=Control1",
+                    "id": 35688
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR35686"
+                        },
+                        {
+                            "display": "24-Nov-2026",
+                            "value": "2026-11-23T23:44:34.647Z"
+                        },
+                        {
+                            "value": "Housing Trust"
+                        },
+                        {
+                            "value": "Housing Delivery"
+                        },
+                        {
+                            "value": "HousingProcurement@sa.gov.au"
+                        },
+                        {
+                            "value": "Time-Critical Residential Renovation and Property Preparation Services"
+                        },
+                        {
+                            "value": "Facilities and Building Management"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "26-Jan-27",
+                            "value": "2027-01-25T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35686?fromControl=Control1",
+                    "id": 35686
+                },
                 {
                     "values": [
                         {
@@ -163,6 +304,53 @@
                     ],
                     "href": "records/Activity%20Planning/35667?fromControl=Control1",
                     "id": 35667
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR35654"
+                        },
+                        {
+                            "display": "20-Nov-2026",
+                            "value": "2026-11-19T23:34:27.388Z"
+                        },
+                        {
+                            "value": "Infrastructure and Transport"
+                        },
+                        {
+                            "value": "Public Transport SA - Asset Management"
+                        },
+                        {
+                            "value": "dit.goodsandservices@sa.gov.au"
+                        },
+                        {
+                            "value": "Moveable chargers to support the Battery Electric Bus (BEB) fleet   "
+                        },
+                        {
+                            "value": "Other"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "26-Nov-26",
+                            "value": "2026-11-25T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35654?fromControl=Control1",
+                    "id": 35654
                 },
                 {
                     "values": [
@@ -2686,7 +2874,7 @@
                             "value": "Open"
                         },
                         {
-                            "value": ""
+                            "value": "SA Tenders and Contracts"
                         },
                         {
                             "value": "Certain"
@@ -2696,7 +2884,7 @@
                             "value": "2026-11-30T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Released to Market"
                         }
                     ],
                     "href": "records/Activity%20Planning/34574?fromControl=Control1",
@@ -3829,53 +4017,6 @@
                     ],
                     "href": "records/Activity%20Planning/34481?fromControl=Control1",
                     "id": 34481
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR34479"
-                        },
-                        {
-                            "display": "21-Oct-2026",
-                            "value": "2026-10-21T07:06:29.559Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Strategy and Performance"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Venue and accommodation services for international education programs"
-                        },
-                        {
-                            "value": "Travel and accommodation"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Probable"
-                        },
-                        {
-                            "display": "01-May-27",
-                            "value": "2027-04-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34479?fromControl=Control1",
-                    "id": 34479
                 },
                 {
                     "values": [
@@ -6700,53 +6841,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR34333"
-                        },
-                        {
-                            "display": "09-Oct-2026",
-                            "value": "2026-10-09T01:47:58.448Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "People and Transformation - People & Culture"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "P&C RAP Deliverables Planning"
-                        },
-                        {
-                            "value": "Advisory and Consultancy Services"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "",
-                            "value": null
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34333?fromControl=Control1",
-                    "id": 34333
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR34323"
                         },
                         {
@@ -9050,53 +9144,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR34136"
-                        },
-                        {
-                            "display": "22-Sep-2026",
-                            "value": "2026-09-21T23:57:41.772Z"
-                        },
-                        {
-                            "value": "Housing Trust"
-                        },
-                        {
-                            "value": "Housing Delivery"
-                        },
-                        {
-                            "value": "housingprocurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Construction of 54 dwellings in Southern Metro"
-                        },
-                        {
-                            "value": "Construction"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "20-Oct-26",
-                            "value": "2026-10-19T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34136?fromControl=Control1",
-                    "id": 34136
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR34134"
                         },
                         {
@@ -9187,53 +9234,6 @@
                     ],
                     "href": "records/Activity%20Planning/34132?fromControl=Control1",
                     "id": 34132
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR34130"
-                        },
-                        {
-                            "display": "21-Sep-2026",
-                            "value": "2026-09-21T04:30:52.617Z"
-                        },
-                        {
-                            "value": "Housing Trust"
-                        },
-                        {
-                            "value": "Housing Delivery"
-                        },
-                        {
-                            "value": "housingprocurement@sa.gov.au"
-                        },
-                        {
-                            "value": "Construction of 45 dwellings in Northern Metro"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Open"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "20-Oct-26",
-                            "value": "2026-10-19T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34130?fromControl=Control1",
-                    "id": 34130
                 },
                 {
                     "values": [
@@ -10961,7 +10961,7 @@
                             "value": "SA Tenders and Contracts"
                         },
                         {
-                            "value": "Almost Certain"
+                            "value": "Certain"
                         },
                         {
                             "display": "03-Nov-26",
@@ -14677,8 +14677,8 @@
                             "value": "Possible"
                         },
                         {
-                            "display": "16-Jun-27",
-                            "value": "2027-06-15T14:30:00Z"
+                            "display": "01-Dec-26",
+                            "value": "2026-11-30T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -15664,8 +15664,8 @@
                             "value": "Almost Certain"
                         },
                         {
-                            "display": "19-Oct-26",
-                            "value": "2026-10-18T13:30:00Z"
+                            "display": "25-Nov-26",
+                            "value": "2026-11-24T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
