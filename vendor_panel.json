@@ -67,9 +67,103 @@
                 "filter": true
             }
         ],
-        "totalRows": 1987,
+        "totalRows": 1988,
         "data": {
             "rows": [
+                {
+                    "values": [
+                        {
+                            "value": "PAR35734"
+                        },
+                        {
+                            "display": "27-Nov-2026",
+                            "value": "2026-11-27T05:32:00.104Z"
+                        },
+                        {
+                            "value": "Limestone Coast Landscape Board"
+                        },
+                        {
+                            "value": "Limestone Coast Landscape Board"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Landscape Officer spray units"
+                        },
+                        {
+                            "value": "Environmental"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "01-Feb-27",
+                            "value": "2027-01-31T13:30:00Z"
+                        },
+                        {
+                            "value": "Acquisition Planning"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35734?fromControl=Control1",
+                    "id": 35734
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR35732"
+                        },
+                        {
+                            "display": "27-Nov-2026",
+                            "value": "2026-11-27T04:08:35.68Z"
+                        },
+                        {
+                            "value": "Education"
+                        },
+                        {
+                            "value": "Schools and Preschools"
+                        },
+                        {
+                            "value": "education.ProcurementUnit@sa.gov.au"
+                        },
+                        {
+                            "value": "Education Leaders Day 2028"
+                        },
+                        {
+                            "value": "Tourism and Entertainment"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "01-Jul-27",
+                            "value": "2027-06-30T14:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35732?fromControl=Control1",
+                    "id": 35732
+                },
                 {
                     "values": [
                         {
@@ -351,6 +445,53 @@
                     ],
                     "href": "records/Activity%20Planning/35686?fromControl=Control1",
                     "id": 35686
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR35675"
+                        },
+                        {
+                            "display": "23-Nov-2026",
+                            "value": "2026-11-23T05:34:38.623Z"
+                        },
+                        {
+                            "value": "Renewal SA"
+                        },
+                        {
+                            "value": "Residential Project Delivery and Assets - Residential Growth"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Playford Alive East Cultural Monitoring Services"
+                        },
+                        {
+                            "value": "Advisory and Consultancy Services"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Certain"
+                        },
+                        {
+                            "display": "01-Feb-27",
+                            "value": "2027-01-31T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/35675?fromControl=Control1",
+                    "id": 35675
                 },
                 {
                     "values": [
@@ -1765,53 +1906,6 @@
                 {
                     "values": [
                         {
-                            "value": "PAR34665"
-                        },
-                        {
-                            "display": "11-Nov-2026",
-                            "value": "2026-11-11T01:13:11.128Z"
-                        },
-                        {
-                            "value": "Renewal SA"
-                        },
-                        {
-                            "value": "Residential Project Delivery and Assets - Residential Growth"
-                        },
-                        {
-                            "value": ""
-                        },
-                        {
-                            "value": "Eyre - Stage 16 Swale Pump Hire"
-                        },
-                        {
-                            "value": "Environmental"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Certain"
-                        },
-                        {
-                            "display": "30-Nov-26",
-                            "value": "2026-11-29T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/34665?fromControl=Control1",
-                    "id": 34665
-                },
-                {
-                    "values": [
-                        {
                             "value": "PAR34661"
                         },
                         {
@@ -2501,11 +2595,11 @@
                             "value": "Email"
                         },
                         {
-                            "value": "Almost Certain"
+                            "value": "Probable"
                         },
                         {
-                            "display": "16-Nov-26",
-                            "value": "2026-11-15T13:30:00Z"
+                            "display": "02-Dec-26",
+                            "value": "2026-12-01T13:30:00Z"
                         },
                         {
                             "value": "Initiating"
@@ -2513,6 +2607,53 @@
                     ],
                     "href": "records/Activity%20Planning/34601?fromControl=Control1",
                     "id": 34601
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34600"
+                        },
+                        {
+                            "display": "03-Nov-2026",
+                            "value": "2026-11-03T06:02:23.183Z"
+                        },
+                        {
+                            "value": "Renewal SA"
+                        },
+                        {
+                            "value": "Residential Project Delivery and Assets - Office for Regional Housing"
+                        },
+                        {
+                            "value": "tariq.azam@sa.gov.au"
+                        },
+                        {
+                            "value": "3-Bed Home by Destination Built Relocation to Quorn"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Direct Approach"
+                        },
+                        {
+                            "value": "Email"
+                        },
+                        {
+                            "value": "Probable"
+                        },
+                        {
+                            "display": "02-Dec-26",
+                            "value": "2026-12-01T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34600?fromControl=Control1",
+                    "id": 34600
                 },
                 {
                     "values": [
@@ -2555,7 +2696,7 @@
                             "value": "2026-11-09T13:30:00Z"
                         },
                         {
-                            "value": "Initiating"
+                            "value": "Acquisition Planning"
                         }
                     ],
                     "href": "records/Activity%20Planning/34599?fromControl=Control1",
@@ -3500,6 +3641,53 @@
                     ],
                     "href": "records/Activity%20Planning/34541?fromControl=Control1",
                     "id": 34541
+                },
+                {
+                    "values": [
+                        {
+                            "value": "PAR34540"
+                        },
+                        {
+                            "display": "27-Oct-2026",
+                            "value": "2026-10-27T02:01:08.497Z"
+                        },
+                        {
+                            "value": "Renewal SA"
+                        },
+                        {
+                            "value": "Residential Project Delivery and Assets - Office for Regional Housing"
+                        },
+                        {
+                            "value": "tariq.azam@sa.gov.au"
+                        },
+                        {
+                            "value": "Consolidated Site Works & Civils at Quorn"
+                        },
+                        {
+                            "value": "Construction"
+                        },
+                        {
+                            "value": "New requirement"
+                        },
+                        {
+                            "value": "Limited"
+                        },
+                        {
+                            "value": "SA Tenders and Contracts"
+                        },
+                        {
+                            "value": "Almost Certain"
+                        },
+                        {
+                            "display": "01-Dec-26",
+                            "value": "2026-11-30T13:30:00Z"
+                        },
+                        {
+                            "value": "Initiating"
+                        }
+                    ],
+                    "href": "records/Activity%20Planning/34540?fromControl=Control1",
+                    "id": 34540
                 },
                 {
                     "values": [
@@ -11713,11 +11901,11 @@
                             "value": "SA Tenders and Contracts"
                         },
                         {
-                            "value": "Probable"
+                            "value": "Possible"
                         },
                         {
-                            "display": "16-Nov-26",
-                            "value": "2026-11-15T13:30:00Z"
+                            "display": "31-Jan-27",
+                            "value": "2027-01-30T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -14439,11 +14627,11 @@
                             "value": "SA Tenders and Contracts"
                         },
                         {
-                            "value": "Almost Certain"
+                            "value": "Possible"
                         },
                         {
-                            "display": "02-Nov-26",
-                            "value": "2026-11-01T13:30:00Z"
+                            "display": "31-Jan-27",
+                            "value": "2027-01-30T13:30:00Z"
                         },
                         {
                             "value": "Acquisition Planning"
@@ -19682,7 +19870,7 @@
                             "value": "Adelaide Venue Management Corporation"
                         },
                         {
-                            "value": "Floor Ops"
+                            "value": "Food and Beverage"
                         },
                         {
                             "value": "tenders@avmc.com.au"
@@ -19691,7 +19879,7 @@
                             "value": "2027/2028 Packaged Wine Supply"
                         },
                         {
-                            "value": "Office Equipment and Accessories and Supplies"
+                            "value": "Other"
                         },
                         {
                             "value": "Recompete expiring contract"
@@ -23381,194 +23569,6 @@
                     ],
                     "href": "records/Activity%20Planning/15538?fromControl=Control1",
                     "id": 15538
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15537"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:12.555Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Curriculum and Learning"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Catering services for EALD and Aboriginal Languages meetings and training"
-                        },
-                        {
-                            "value": "Tourism and Entertainment"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Limited"
-                        },
-                        {
-                            "value": "SA Tenders and Contracts"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "09-Oct-26",
-                            "value": "2026-10-08T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15537?fromControl=Control1",
-                    "id": 15537
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15536"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:12.512Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Curriculum and Learning"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Active Citizenship Convention 2027 - venue hire, catering and audiovisual services"
-                        },
-                        {
-                            "value": "Communications and Marketing"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Email"
-                        },
-                        {
-                            "value": "Almost Certain"
-                        },
-                        {
-                            "display": "02-Nov-27",
-                            "value": "2027-11-01T13:30:00Z"
-                        },
-                        {
-                            "value": "Acquisition Planning"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15536?fromControl=Control1",
-                    "id": 15536
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15535"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:12.466Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Curriculum and Learning"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Literacy Guarantee Conferences 2028"
-                        },
-                        {
-                            "value": "Tourism and Entertainment"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "29-Jan-27",
-                            "value": "2027-01-28T13:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15535?fromControl=Control1",
-                    "id": 15535
-                },
-                {
-                    "values": [
-                        {
-                            "value": "PAR15534"
-                        },
-                        {
-                            "display": "25-Jun-2026",
-                            "value": "2026-06-25T05:01:12.422Z"
-                        },
-                        {
-                            "value": "Education"
-                        },
-                        {
-                            "value": "Curriculum and Learning"
-                        },
-                        {
-                            "value": "Education.ProcurementUnit@sa.gov.au"
-                        },
-                        {
-                            "value": "Brightpath Writing Assessment and reporting tool"
-                        },
-                        {
-                            "value": "ICT Software and Technology"
-                        },
-                        {
-                            "value": "New requirement"
-                        },
-                        {
-                            "value": "Direct Approach"
-                        },
-                        {
-                            "value": "Other"
-                        },
-                        {
-                            "value": "Possible"
-                        },
-                        {
-                            "display": "01-Jul-27",
-                            "value": "2027-06-30T14:30:00Z"
-                        },
-                        {
-                            "value": "Initiating"
-                        }
-                    ],
-                    "href": "records/Activity%20Planning/15534?fromControl=Control1",
-                    "id": 15534
                 }
             ],
             "aggregates": []
